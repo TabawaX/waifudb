@@ -148,7 +148,7 @@
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/IMG-20241110-WA0411.jpg"
         ],
         "idwaifu": "waifu_2024_14024220",
---"difficulty": "easy",
+  "difficulty": "easy",
         "rcrystal": 13,
         "source": "Detective Conan",
         "charisma_level": 14,
@@ -210,7 +210,7 @@
 {
         "name": "Hitori Goto",
          "waifuurl": [
-            "-"
+            "https://raw.githubusercontent.com/DevereOuxz/waifudb/refs/heads/master/wdb/Hitori%20Goto.png"
         ],
         "idwaifu": "waifu_2024_10010101011",
         "difficulty": "super_easy",
@@ -223,7 +223,7 @@
 {
         "name": "Yuna",
          "waifuurl": [
-            "-"
+            "https://raw.githubusercontent.com/DevereOuxz/waifudb/refs/heads/master/wdb/Yuna%20(KB).png"
         ],
         "idwaifu": "waifu_2024_1101101001",
         "difficulty": "Extreme",
@@ -236,7 +236,7 @@
 {
         "name": "Makima",
          "waifuurl": [
-            "-"
+            "https://raw.githubusercontent.com/DevereOuxz/waifudb/refs/heads/master/wdb/Makima.jpg"
         ],
         "idwaifu": "waifu_2024_010101011100",
         "difficulty": "extreme",
