@@ -787,7 +787,7 @@
         "idwaifu": "waifu_2024_17",
         "difficulty": "easy",
         "rcrystal": 30,
-        "source": "The Legend ff Zelda",
+        "source": "The Legend of Zelda",
         "charisma_level": 35,
         "tags": [
             "uncategorized"
@@ -849,6 +849,231 @@
         "rcrystal": 21,
         "source": "Kuroinu: Kedakaki Seijo wa Hakudaku ni Somaru",
         "charisma_level": 23,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-."
+    },
+    {
+        "name": "Albedo",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/DevereOuxz/waifudb/refs/heads/master/wdb/Albedo.png"
+        ],
+        "idwaifu": "waifu_2024_02",
+        "difficulty": "Impossible",
+        "rcrystal": 145,
+        "source": "Overlord",
+        "charisma_level": 176,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "Merciful, Pure-White Devil"
+    },
+    {
+        "name": "Arche Eeb Rile Furt",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/DevereOuxz/waifudb/refs/heads/master/wdb/Arche%20Eeb%20Rile%20Furt.png"
+        ],
+        "idwaifu": "waifu_2024_04",
+        "difficulty": "easy",
+        "rcrystal": 21,
+        "source": "Overlord",
+        "charisma_level": 26,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "Arche."
+    },
+    {
+        "name": "Aura Bella Fiora",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/DevereOuxz/waifudb/refs/heads/master/wdb/Aura%20Bella%20Fiora.png"
+        ],
+        "idwaifu": "waifu_2024_",
+        "difficulty": "medium",
+        "rcrystal": 72,
+        "source": "Overlord",
+        "charisma_level": 53,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "Skillful Tamer with High Competitive Spirit."
+    },
+    {
+        "name": "Aureole Omega",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/DevereOuxz/waifudb/refs/heads/master/wdb/Aureole%20Omega.png"
+        ],
+        "idwaifu": "waifu_2024_05",
+        "difficulty": "easy",
+        "rcrystal": 28,
+        "source": "Overlord",
+        "charisma_level": 31,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "Leader of the Pleiades Seven Sisters."
+    },
+    {
+        "name": "Brita",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/DevereOuxz/waifudb/refs/heads/master/wdb/Brita%20Overlord.png"
+        ],
+        "idwaifu": "waifu_2024_07",
+        "difficulty": "easy",
+        "rcrystal": 17,
+        "source": "Overlord",
+        "charisma_level": 19,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-."
+    },
+    {
+        "name": "Calca Bessarez",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/DevereOuxz/waifudb/refs/heads/master/wdb/Calca%20Bessarez.png"
+        ],
+        "idwaifu": "waifu_2024_08",
+        "difficulty": "easy",
+        "rcrystal": 17,
+        "source": "Overlord",
+        "charisma_level": 20,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "Holy Queen of the Roble Holy Kingdom."
+    },
+    {
+        "name": "Cixous",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/DevereOuxz/waifudb/refs/heads/master/wdb/Cixous.png"
+        ],
+        "idwaifu": "waifu_2024_10",
+        "difficulty": "easy",
+        "rcrystal": 20,
+        "source": "Overlord",
+        "charisma_level": 18,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-."
+    },
+    {
+        "name": "Clementine (OL)",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/DevereOuxz/waifudb/refs/heads/master/wdb/Clementine%20(OL).png"
+        ],
+        "idwaifu": "waifu_2024_",
+        "difficulty": "medium",
+        "rcrystal": 39,
+        "source": "Overlord",
+        "charisma_level": 42,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "Windstride."
+    },
+    {
+        "name": "Crusch Lulu",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/DevereOuxz/waifudb/refs/heads/master/wdb/Crusch%20Lulu.png"
+        ],
+        "idwaifu": "waifu_2024_11",
+        "difficulty": "easy",
+        "rcrystal": 20,
+        "source": "Overlord",
+        "charisma_level": 23,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "Beauty with White Scales."
+    },
+    {
+        "name": "CZ2128 Delta",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/DevereOuxz/waifudb/refs/heads/master/wdb/CZ2128%20Delta.png"
+        ],
+        "idwaifu": "waifu_2024_19",
+        "difficulty": "medium",
+        "rcrystal": 38,
+        "source": "Overlord",
+        "charisma_level": 44,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "Sneak & Charge Maid."
+    },
+    {
+        "name": "Edström",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/DevereOuxz/waifudb/refs/heads/master/wdb/Edstr%C3%B6m.png"
+        ],
+        "idwaifu": "waifu_2024_20",
+        "difficulty": "easy",
+        "rcrystal": 21,
+        "source": "Overlord",
+        "charisma_level": 20,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-."
+    },
+    {
+        "name": "Enri Emmot",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/DevereOuxz/waifudb/refs/heads/master/wdb/Enri%20Emmot.png"
+        ],
+        "idwaifu": "waifu_2024_21",
+        "difficulty": "easy",
+        "rcrystal": 22,
+        "source": "Overlord",
+        "charisma_level": 20,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-."
+    },
+    {
+        "name": "Entoma Vasilissa Zeta",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/DevereOuxz/waifudb/refs/heads/master/wdb/Entoma%20Vasilissa%20Zeta.png"
+        ],
+        "idwaifu": "waifu_2024_23",
+        "difficulty": "medium",
+        "rcrystal": 46,
+        "source": "Overlord",
+        "charisma_level": 54,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "Insect Loving Maid."
+    },
+    {
+        "name": "Evileye",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/DevereOuxz/waifudb/refs/heads/master/wdb/Evileye.png"
+        ],
+        "idwaifu": "waifu_2024_24",
+        "difficulty": "medium",
+        "rcrystal": 48,
+        "source": "Overlord",
+        "charisma_level": 58,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "Landfall."
+    },
+    {
+        "name": "Fith",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/DevereOuxz/waifudb/refs/heads/master/wdb/Fith.png"
+        ],
+        "idwaifu": "waifu_2024_25",
+        "difficulty": "easy",
+        "rcrystal": 32,
+        "source": "Overlord",
+        "charisma_level": 24,
         "tags": [
             "uncategorized"
         ],
