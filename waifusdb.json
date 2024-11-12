@@ -1151,13 +1151,65 @@
     {
         "name": "Rimuru Tempest",
          "waifuurl": [
-            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Rimuru%20Tempest.jpg"
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Rimuru%20Tempest.png"
         ],
         "idwaifu": "waifu_2024_42",
         "difficulty": "hard",
         "rcrystal": 97,
         "source": "Tensei shitara Slime Datta Ken",
         "charisma_level": 112,
+        "tags": ["uncategorized"],
+        "description": "-"
+    },
+    {
+        "name": "Iochi Mari",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Iochi%20Mari.png"
+        ],
+        "idwaifu": "waifu_2024_45",
+        "difficulty": "easy",
+        "rcrystal": 29,
+        "source": "Blue Archive",
+        "charisma_level": 37,
+        "tags": ["uncategorized"],
+        "description": "-"
+    },
+    {
+        "name": "Chiaki",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Chiaki.png"
+        ],
+        "idwaifu": "waifu_2024_47",
+        "difficulty": "medium",
+        "rcrystal": 42,
+        "source": "Uchi no Otouto Maji de Dekain Dakedo Mi ni Konai?",
+        "charisma_level": 54,
+        "tags": ["uncategorized"],
+        "description": "-"
+    },
+    {
+        "name": "Atsuko",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Atsuko.png"
+        ],
+        "idwaifu": "waifu_2024_49",
+        "difficulty": "easy",
+        "rcrystal": 22,
+        "source": "Blue Archive",
+        "charisma_level": 31,
+        "tags": ["uncategorized"],
+        "description": "-"
+    },
+    {
+        "name": "Maomao",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Maomao.png "
+        ],
+        "idwaifu": "waifu_2024_51",
+        "difficulty": "hard",
+        "rcrystal": 89,
+        "source": "Kusuriya no Hitorigoto",
+        "charisma_level": 94,
         "tags": ["uncategorized"],
         "description": "-"
     }
