@@ -17,7 +17,7 @@
     {
         "name": "Shorekeeper",
         "waifuurl": [
-            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/raiden%20shogun.jpg"
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/shore%20keeper.jpg"
         ],
         "idwaifu": "waifu_2024_06",
         "difficulty": "impossible",
@@ -1085,7 +1085,7 @@
             "https://raw.githubusercontent.com/DevereOuxz/waifudb/refs/heads/master/wdb/Fern.jpg"
         ],
         "idwaifu": "waifu_2024_31",
-        "difficulty": "impossible",
+        "difficulty": "hard",
         "rcrystal": 118,
         "source": "Sousou no Frieren",
         "charisma_level": 133,
@@ -1108,5 +1108,44 @@
             "uncategorized"
         ],
         "description": "Mahirun."
+    },
+    {
+        "name": "Kurumi",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Kurumi%20Tokisaki.png"
+        ],
+        "idwaifu": "waifu_2024_35",
+        "difficulty": "imposible",
+        "rcrystal": 97,
+        "source": "Date A Live",
+        "charisma_level": 137,
+        "tags": ["uncategorized"],
+        "description": "-"
+    },
+    {
+        "name": "Orihime Inoue",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Orihime%20Inoue.png"
+        ],
+        "idwaifu": "waifu_2024_38",
+        "difficulty": "hard",
+        "rcrystal": 73,
+        "source": "BLEACH",
+        "charisma_level": 98,
+        "tags": ["uncategorized"],
+        "description": "-"
+    },
+    {
+        "name": "Yukino Yukinoshita",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Yukino%20Yukinoshita.png"
+        ],
+        "idwaifu": "waifu_2024_39",
+        "difficulty": "hard",
+        "rcrystal": 83,
+        "source": "Yahari Ore no Seishun Love Comedy",
+        "charisma_level": 96,
+        "tags": ["uncategorized"],
+        "description": "Yukinon"
     }
 ]
