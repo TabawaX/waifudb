@@ -1147,5 +1147,18 @@
         "charisma_level": 96,
         "tags": ["uncategorized"],
         "description": "Yukinon"
+    },
+    {
+        "name": "Rimuru Tempest",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Rimuru%20Tempest.jpg"
+        ],
+        "idwaifu": "waifu_2024_42",
+        "difficulty": "hard",
+        "rcrystal": 97,
+        "source": "Tensei shitara Slime Datta Ken",
+        "charisma_level": 112,
+        "tags": ["uncategorized"],
+        "description": "-"
     }
 ]
