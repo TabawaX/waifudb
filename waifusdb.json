@@ -1212,5 +1212,31 @@
         "charisma_level": 94,
         "tags": ["uncategorized"],
         "description": "-"
+    },
+    {
+        "name": "Chelsea Childe",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Chelsea%20Childe.jpg"
+        ],
+        "idwaifu": "waifu_2024_52",
+        "difficulty": "medium",
+        "rcrystal": 46,
+        "source": "Dr. Stone",
+        "charisma_level": 53,
+        "tags": ["uncategorized"],
+        "description": "-"
+    },
+    {
+        "name": "Yoimiya",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Yoimiya.png"
+        ],
+        "idwaifu": "waifu_2024_61",
+        "difficulty": "hard",
+        "rcrystal": 78,
+        "source": "Genshin Impact",
+        "charisma_level": 83,
+        "tags": ["uncategorized"],
+        "description": "-"
     }
 ]
