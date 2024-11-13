@@ -287,7 +287,7 @@
     {
         "name": "Rem",
         "waifuurl": [
-            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/6d225c928a983f5915b058e3ece26b5d.jpg"
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Rem.jpg"
         ],
         "waifuid": "waifu_2024_65",
         "difficulty": "hard",
@@ -377,7 +377,7 @@
     {
         "name": "Ayaka",
         "waifuurl": [
-            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/44023ac0f2c5dcdbfec8e66772ec1948.jpg"
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Ayaka.jpg"
         ],
         "waifuid": "waifu_2024_22",
         "difficulty": "hard",
@@ -407,7 +407,7 @@
     {
         "name": "Beidou",
         "waifuurl": [
-            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/534415ddbba235067e265d8394365c89.jpg"
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Beidou.jpg"
         ],
         "waifuid": "waifu_2024_53",
         "difficulty": "easy",
@@ -467,7 +467,7 @@
     {
         "name": "Collei",
         "waifuurl": [
-            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/56c053352dc23a0651d1fa4aee36b22c.jpg"
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Collei.jpg"
         ],
         "waifuid": "waifu_2024_54",
         "difficulty": "medium",
@@ -497,7 +497,7 @@
     {
         "name": "Dehya",
         "waifuurl": [
-            "https://raw.githubusercontent.com/TabawaX/waifudb/403671de01aaa2b320f528d41e353d6d4c8358cc/wdb/6ce947bd7e157901ed2fccabca2e2d0f.jpg"
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Dehya.jpg"
         ],
         "waifuid": "waifu_2024_13",
         "difficulty": "easy",
@@ -677,7 +677,7 @@
     {
         "name": "Sakura Airi",
         "waifuurl": [
-            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/4e1099b4dcbec28e71612e6d4b9505a1.jpg"
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Sakura%20Airi.jpg"
         ],
         "waifuid": "waifu_2024_93",
         "difficulty": "hard",
@@ -797,7 +797,7 @@
     {
         "name": "Konata Izumi",
         "waifuurl": [
-            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/54c5435cf31084cbf1694ba67d3b89cc.jpg"
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Konata%20Izumi.jpg"
         ],
         "waifuid": "waifu_2024_79",
         "difficulty": "easy",
@@ -1236,6 +1236,19 @@
         "rcrystal": 78,
         "source": "Genshin Impact",
         "charisma_level": 83,
+        "tags": ["uncategorized"],
+        "description": "-"
+    },
+    {
+        "name": "Miko Yotsuya",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Miko%20Yotsuya.jpg"
+        ],
+        "idwaifu": "waifu_2024_",
+        "difficulty": "hard",
+        "rcrystal": 85,
+        "source": "Mieruko-chan",
+        "charisma_level": 89,
         "tags": ["uncategorized"],
         "description": "-"
     }
