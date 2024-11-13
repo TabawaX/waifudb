@@ -272,7 +272,7 @@
     {
         "name": "Megumin",
         "waifuurl": [
-            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/f4e9f3755562e685de4b64aeb00aa663.jpg"
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Megumin.jpg"
         ],
         "waifuid": "waifu_2024_34",
         "difficulty": "Hard",
@@ -452,7 +452,7 @@
     {
         "name": "Chiori",
         "waifuurl": [
-            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/cfed6dd07a52280ef7daf4bf93fdf0c1.jpg"
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Chiori.jpg"
         ],
         "waifuid": "waifu_2024_63",
         "difficulty": "medium",
@@ -482,7 +482,7 @@
     {
         "name": "Columbina",
         "waifuurl": [
-            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/e51ef5f033e0d72200db188e03c53c2e.jpg"
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Columbina.jpg"
         ],
         "waifuid": "waifu_2024_75",
         "difficulty": "medium",
@@ -512,7 +512,7 @@
     {
         "name": "Eula",
         "waifuurl": [
-            "https://raw.githubusercontent.com/TabawaX/waifudb/8cb938cf8fc763967e28c0a28d42913d9856eea7/wdb/d7d8f1d74efc64f71bcc0c67d63a955b.jpg"
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Eula.jpg"
         ],
         "waifuid": "waifu_2024_69",
         "difficulty": "medium",
@@ -527,7 +527,7 @@
     {
         "name": "Faruzan",
         "waifuurl": [
-            "https://raw.githubusercontent.com/TabawaX/waifudb/c888bbf9b3546a408061fcc1f2b886dcd333adc9/wdb/f5f01b10634c68cc1d815b04d0593d3e.jpg"
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Faruzan.jpg"
         ],
         "waifuid": "waifu_2024_48",
         "difficulty": "medium",
@@ -587,7 +587,7 @@
     {
         "name": "Keqing",
         "waifuurl": [
-            "https://raw.githubusercontent.com/TabawaX/waifudb/46a03b96eba380073fb1bcc6dfefabbfaa2b03ae/wdb/ee9ad017ee34c72ac770a2e416e1411c.jpg"
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Keqing.jpg"
         ],
         "waifuid": "waifu_2024_41",
         "difficulty": "impossible",
@@ -707,7 +707,7 @@
     {
         "name": "Jomae Saori",
         "waifuurl": [
-            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/f1b74fd81b3f472d583e59f4b2c9bc15.jpg"
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Jomae%20Saori.jpg"
         ],
         "waifuid": "waifu_2024_09",
         "difficulty": "medium",
@@ -767,7 +767,7 @@
     {
         "name": "Palutena",
         "waifuurl": [
-            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/d242b2a512fadaafbc404577c42e4469.jpg"
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Palutena.jpg"
         ],
         "waifuid": "waifu_2024_86",
         "difficulty": "easy",
@@ -782,7 +782,7 @@
     {
         "name": "Princess Zelda",
         "waifuurl": [
-            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/e681b55efaa18d4b3f9e38871e93fe5e.jpg"
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Princess%20Zelda.jpg"
         ],
         "waifuid": "waifu_2024_17",
         "difficulty": "easy",
@@ -812,7 +812,7 @@
     {
         "name": "Vania",
         "waifuurl": [
-            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/dbf17a25a6e6273b5266e2d0611eb395bc5346a0214e098c0903b1f47cc273ed_thumb.jpg"
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Vania.jpg"
         ],
         "waifuid": "waifu_2024_73",
         "difficulty": "easy",
@@ -827,7 +827,7 @@
     {
         "name": "Chapayev",
         "waifuurl": [
-            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/e57e8d47b7637b66c46549c60c156cee.jpg"
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Chapayev.jpg"
         ],
         "waifuid": "waifu_2024_90",
         "difficulty": "easy",
@@ -1249,6 +1249,19 @@
         "rcrystal": 85,
         "source": "Mieruko-chan",
         "charisma_level": 89,
+        "tags": ["uncategorized"],
+        "description": "-"
+    },
+    {
+        "name": "Alisa Mikhailovna Kujou",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Alisa%20Mikhailovna%20Kujou.png"
+        ],
+        "idwaifu": "waifu_2024_",
+        "difficulty": "impossible",
+        "rcrystal": 147,
+        "source": "Tokidoki Bosotto Roshia-go de Dereru Tonari no Alya-san",
+        "charisma_level": 162,
         "tags": ["uncategorized"],
         "description": "-"
     }
