@@ -200,10 +200,10 @@
             "https://raw.githubusercontent.com/DevereOuxz/waifudb/refs/heads/master/NakanoNino.png"
         ],
         "waifuid": "waifu_2024_94",
-        "difficulty": "easy",
-        "rcrystal": 25,
+        "difficulty": "hard",
+        "rcrystal": 125,
         "source": "Go-Toubun no Hanayome",
-        "charisma_level": 50,
+        "charisma_level": 150,
         "tags": [
             "uncategorized"
         ],
