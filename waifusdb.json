@@ -1438,5 +1438,18 @@
             "uncategorized"
         ],
         "description": "Kaguya memiliki kepribadian yang sangat kompleks dan cerdas.Ia juga sangat percaya diri dan penuh dengan perasaan.Namun, dibalik sifat yang keras dan seriusnya, Kaguya juga sangat sensitif dan mudah dipengaruhi oleh perasaan."
+    },
+    {
+        "name": "Anko Uguisu",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Anko%20Uguisu.png"
+        ],
+        "idwaifu": "waifu_2024_100",
+        "difficulty": "hard",
+        "rcrystal": 63,
+        "source": "Yofukashi no Uta",
+        "charisma_level": 74,
+        "tags": ["uncategorized"],
+        "description": "-"
     }
 ]
