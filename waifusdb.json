@@ -1444,12 +1444,77 @@
          "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Anko%20Uguisu.png"
         ],
-        "idwaifu": "waifu_2024_100",
+        "waifuid": "waifu_2024_100",
         "difficulty": "hard",
         "rcrystal": 63,
         "source": "Yofukashi no Uta",
         "charisma_level": 74,
         "tags": ["uncategorized"],
         "description": "-"
+    },
+    {
+        "name": "Nijika Ijichi",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Nijika%20Ijichi.png"
+        ],
+        "waifuid": "waifu_2024_101",
+        "difficulty": "hard",
+        "rcrystal": 86,
+        "source": "Bocchi the Rock!",
+        "charisma_level": 92,
+        "tags": ["uncategorized"],
+        "description": "-"
+    },
+    {
+        "name": "Rukia Kuchiki",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Rukia%20Kuchiki.png"
+        ],
+        "waifuid": "waifu_2024_102",
+        "difficulty": "hard",
+        "rcrystal": 87,
+        "source": "BLEACH",
+        "charisma_level": 94,
+        "tags": ["uncategorized"],
+        "description": "-"
+    },
+    {
+        "name": "Rangiku Matsumoto",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Rangiku%20Matsumoto.png"
+        ],
+        "waifuid": "waifu_2024_103",
+        "difficulty": "hard",
+        "rcrystal": 79,
+        "source": "BLEACH",
+        "charisma_level": 84,
+        "tags": ["uncategorized"],
+        "description": "-"
+    },
+    {
+        "name": "Ganyu",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Ganyu.png"
+        ],
+        "waifuid": "waifu_2024_104",
+        "difficulty": "hard",
+        "rcrystal": 93,
+        "source": "Genshin Impact",
+        "charisma_level": 112,
+        "tags": ["uncategorized"],
+        "description": "Plenilune Gaze"
+    },
+    {
+        "name": "Nilou",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Nilou.png"
+        ],
+        "waifuid": "waifu_2024_105",
+        "difficulty": "hard",
+        "rcrystal": 98,
+        "source": "Genshin Impact",
+        "charisma_level": 118,
+        "tags": ["uncategorized"],
+        "description": "Star of Zubayr Theater"
     }
 ]
