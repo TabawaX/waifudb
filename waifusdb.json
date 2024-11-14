@@ -197,10 +197,10 @@
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Elaina1.jpg"
         ],
         "waifuid": "waifu_2024_14",
-        "difficulty": "hard",
-        "rcrystal": 756,
+        "difficulty": "impossible",
+        "rcrystal": 1567,
         "source": "Majo no Tabitabi",
-        "charisma_level": 606,
+        "charisma_level": 1690,
         "tags": [
             "uncategorized"
         ],
@@ -242,7 +242,7 @@
     {
         "name": "Yuna",
         "waifuurl": [
-            "https://raw.githubusercontent.com/DevereOuxz/waifudb/refs/heads/master/wdb/Yuna%20(KB).png"
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Yuna.jpg"
         ],
         "waifuid": "waifu_2024_01",
         "difficulty": "hard",
