@@ -1446,9 +1446,9 @@
         ],
         "waifuid": "waifu_2024_100",
         "difficulty": "hard",
-        "rcrystal": 63,
+        "rcrystal": 463,
         "source": "Yofukashi no Uta",
-        "charisma_level": 74,
+        "charisma_level": 574,
         "tags": ["uncategorized"],
         "description": "-"
     },
@@ -1459,9 +1459,9 @@
         ],
         "waifuid": "waifu_2024_101",
         "difficulty": "hard",
-        "rcrystal": 86,
+        "rcrystal": 686,
         "source": "Bocchi the Rock!",
-        "charisma_level": 92,
+        "charisma_level": 792,
         "tags": ["uncategorized"],
         "description": "-"
     },
@@ -1472,9 +1472,9 @@
         ],
         "waifuid": "waifu_2024_102",
         "difficulty": "hard",
-        "rcrystal": 87,
+        "rcrystal": 587,
         "source": "BLEACH",
-        "charisma_level": 94,
+        "charisma_level": 594,
         "tags": ["uncategorized"],
         "description": "-"
     },
@@ -1485,9 +1485,9 @@
         ],
         "waifuid": "waifu_2024_103",
         "difficulty": "hard",
-        "rcrystal": 79,
+        "rcrystal": 579,
         "source": "BLEACH",
-        "charisma_level": 84,
+        "charisma_level": 584,
         "tags": ["uncategorized"],
         "description": "-"
     },
@@ -1498,9 +1498,9 @@
         ],
         "waifuid": "waifu_2024_104",
         "difficulty": "hard",
-        "rcrystal": 93,
+        "rcrystal": 686,
         "source": "Genshin Impact",
-        "charisma_level": 112,
+        "charisma_level": 713,
         "tags": ["uncategorized"],
         "description": "Plenilune Gaze"
     },
@@ -1511,10 +1511,36 @@
         ],
         "waifuid": "waifu_2024_105",
         "difficulty": "hard",
-        "rcrystal": 98,
+        "rcrystal": 743,
         "source": "Genshin Impact",
-        "charisma_level": 118,
+        "charisma_level": 776,
         "tags": ["uncategorized"],
         "description": "Star of Zubayr Theater"
+    },
+    {
+        "name": "<Beast>",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Date%20A%20Live/%3CBeast%3E.png"
+        ],
+        "waifuid": "waifu_2024_106",
+        "difficulty": "medium",
+        "rcrystal": 197,
+        "source": "Date A Live",
+        "charisma_level": 204,
+        "tags": ["uncategorized"],
+        "description": "Bea-chan"
+    },
+    {
+        "name": "<Nibelcol>",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Date%20A%20Live/Nibelcol.png"
+        ],
+        "waifuid": "waifu_2024_107",
+        "difficulty": "medium",
+        "rcrystal": 212,
+        "source": "Date A Live",
+        "charisma_level": 235,
+        "tags": ["uncategorized"],
+        "description": "The Daughters of the Demon King"
     }
 ]
