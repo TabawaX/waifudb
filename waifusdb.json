@@ -1662,5 +1662,21 @@
         ],
         "description": "The Daughters of the Demon King",
         "filtered": true
+    },
+    {
+        "name": "Hatsune Miku",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Hatsune%20Miku.webp"
+        ],
+        "waifuid": "waifu_2024_-",
+        "difficulty": "Impossible",
+        "rcrystal": 245,
+        "source": "Virtual Japanese pop star",
+        "charisma_level": 1869,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
     }
 ]
