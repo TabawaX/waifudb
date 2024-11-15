@@ -1668,11 +1668,59 @@
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Hatsune%20Miku.webp"
         ],
-        "waifuid": "waifu_2024_-",
+        "waifuid": "waifu_2024_10010",
         "difficulty": "Impossible",
         "rcrystal": 245,
         "source": "Virtual Japanese pop star",
         "charisma_level": 1869,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+{
+        "name": "Klee",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/123755680_p0_master1200.webp"
+        ],
+        "waifuid": "waifu_2024_00101",
+        "difficulty": "hard",
+        "rcrystal": 125,
+        "source": "Genshin Impact",
+        "charisma_level": 745,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+{
+        "name": "Nahida",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/124261828_p0_master1200.webp"
+        ],
+        "waifuid": "waifu_2024_101011",
+        "difficulty": "hard",
+        "rcrystal": 110,
+        "source": "Genshin Impact",
+        "charisma_level": 756,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+{
+        "name": "Izumi Sagiri",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/120127535_p0_master1200.webp"
+        ],
+        "waifuid": "waifu_2024_11010",
+        "difficulty": "hard",
+        "rcrystal": 115,
+        "source": "Eromanga Sensei",
+        "charisma_level": 645,
         "tags": [
             "uncategorized"
         ],
