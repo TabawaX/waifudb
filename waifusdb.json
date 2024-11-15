@@ -1732,95 +1732,95 @@
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Kasumi%20(PC).png"
         ],
-        "waifuid": "",
+        "waifuid": "waifu_2024_646",
         "difficulty": "easy",
-        "rcrystal": 115,
+        "rcrystal": 10,
         "source": "-",
-        "charisma_level": 645,
+        "charisma_level": 40,
         "tags": [
             "uncategorized"
         ],
         "description": ".",
-        "filtered": false
+        "filtered": true
     },
     {
         "name": "Master Asha",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Master%20Arsha.png"
         ],
-        "waifuid": "",
+        "waifuid": "waifu_2024_906",
         "difficulty": "easy",
-        "rcrystal": 115,
+        "rcrystal": 37,
         "source": "-",
-        "charisma_level": 645,
+        "charisma_level": 47,
         "tags": [
             "uncategorized"
         ],
         "description": ".",
-        "filtered": false
+        "filtered": true
     },
     {
         "name": "Nadeshiko Suzakuin",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Nadeshiko%20Suzakuin.png"
         ],
-        "waifuid": "",
+        "waifuid": "waifu_2024_524",
         "difficulty": "easy",
-        "rcrystal": 115,
+        "rcrystal": 29,
         "source": "-",
-        "charisma_level": 645,
+        "charisma_level": 26,
         "tags": [
             "uncategorized"
         ],
         "description": ".",
-        "filtered": false
+        "filtered": true
     },
     {
         "name": "Sylphina Dustiness Ford",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Sylphina%20Dustiness%20Ford.png"
         ],
-        "waifuid": "",
+        "waifuid": "waifu_2024_240",
         "difficulty": "easy",
-        "rcrystal": 115,
+        "rcrystal": 20,
         "source": "-",
-        "charisma_level": 645,
+        "charisma_level": 59,
         "tags": [
             "uncategorized"
         ],
         "description": ".",
-        "filtered": false
+        "filtered": true
     },
     {
         "name": "Woo-Joo So",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Woo-Joo%20So.png"
         ],
-        "waifuid": "",
+        "waifuid": "waifu_2024_483",
         "difficulty": "easy",
-        "rcrystal": 115,
+        "rcrystal": 15,
         "source": "-",
-        "charisma_level": 645,
+        "charisma_level": 43,
         "tags": [
             "uncategorized"
         ],
         "description": ".",
-        "filtered": false
+        "filtered": true
     },
     {
         "name": "Yuina Wakura",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Yuina%20Wakura.png"
         ],
-        "waifuid": "",
+        "waifuid": "waifu_2024_780",
         "difficulty": "easy",
-        "rcrystal": 115,
+        "rcrystal": 10,
         "source": "-",
-        "charisma_level": 645,
+        "charisma_level": 40,
         "tags": [
             "uncategorized"
         ],
         "description": ".",
-        "filtered": false
+        "filtered": true
     }
 ]
