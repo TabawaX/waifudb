@@ -2028,5 +2028,85 @@
         "tags": ["uncategorized"],
         "description": "-",
         "filtered": true
-     } 
+     },
+     {
+        "name": "Firefly",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/hsr%20Firefly.jpg"
+        ],
+        "waifuid": "waifu_2024_57215",
+        "difficulty": "hard",
+        "rcrystal": 198,
+        "source": "Honkai Star Rail",
+        "charisma_level": 713,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+    {
+        "name": "Fu Xuan",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/hsr%20Fu%20xuan.jpg"
+        ],
+        "waifuid": "waifu_2024_57995",
+        "difficulty": "hard",
+        "rcrystal": 175,
+        "source": "Honkai Star Rail",
+        "charisma_level": 645,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+    {
+        "name": "Herta",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/hsr%20Herta.jpg"
+        ],
+        "waifuid": "waifu_2024_54315",
+        "difficulty": "hard",
+        "rcrystal": 210,
+        "source": "Honkai Star Rail",
+        "charisma_level": 769,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+    {
+        "name": "Kafka",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/hsr%20Kafka.png"
+        ],
+        "waifuid": "waifu_2024_58795",
+        "difficulty": "hard",
+        "rcrystal": 200,
+        "source": "Honkai Star Rail",
+        "charisma_level": 698,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+    {
+        "name": "Robin",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/hsr%20Robin.jpg"
+        ],
+        "waifuid": "waifu_2024_57244",
+        "difficulty": "hard",
+        "rcrystal": 235,
+        "source": "Honkai Star Rail",
+        "charisma_level": 798,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    }
 ]
