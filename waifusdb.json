@@ -1822,5 +1822,197 @@
         ],
         "description": ".",
         "filtered": true
+    },
+    {
+        "name": "Anna Yamada",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Anna%20Yamada.jpg"
+        ],
+        "waifuid": "waifu_2024_11100110",
+        "difficulty": "medium",
+        "rcrystal": 45,
+        "source": "Boku no Kokoro no Yabai Yatsu",
+        "charisma_level": 110,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+    {
+        "name": "Hori Kyokou",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Hori%20Kyouko.jpg"
+        ],
+        "waifuid": "waifu_2024_00000111",
+        "difficulty": "medium",
+        "rcrystal": 55,
+        "source": "Horimiya",
+        "charisma_level": 90,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+    {
+        "name": "Azusa Aizawa",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Azusa%20Aizawa.jpg"
+        ],
+        "waifuid": "waifu_2024_000011111",
+        "difficulty": "hard",
+        "rcrystal": 120,
+        "source": "Slime Taoshite 300-nen",
+        "charisma_level": 750,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+    {
+        "name": "Li Shiya",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Li%20Shiya.jpg"
+        ],
+        "waifuid": "waifu_2024_001111000",
+        "difficulty": "easy",
+        "rcrystal": 5,
+        "source": "The Girl Downstairs",
+        "charisma_level": 20,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+    {
+        "name": "Ryo Yamada",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Ryo%20Yamada.jpg"
+        ],
+        "waifuid": "waifu_2024_00110111",
+        "difficulty": "hard",
+        "rcrystal": 100,
+        "source": "Bocchi The Rock!",
+        "charisma_level": 620,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+    {
+        "name": "Yuuka",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Yuuka.jpg"
+        ],
+        "waifuid": "waifu_2024_111001000",
+        "difficulty": "hard",
+        "rcrystal": 98,
+        "source": "Blue Archive",
+        "charisma_level": 575,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+    {
+        "name": "Yuki Suou",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Yuki%20Suou.jpg"
+        ],
+        "waifuid": "waifu_2024_0011010001",
+        "difficulty": "hard",
+        "rcrystal": 135,
+        "source": "Tokidoki Bosotto Roshia-go de Dereru Tonari no Alya-san",
+        "charisma_level": 888,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+    {
+        "name": "Elfaria",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Elfaria.jpg"
+        ],
+        "waifuid": "waifu_2024_001001110",
+        "difficulty": "medium",
+        "rcrystal": 45,
+        "source": "Tsue to Tsurugi no Wistoria",
+        "charisma_level": 86,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+    {
+        "name": "Takina Inoue",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Takina%20Inoue.jpg"
+        ],
+        "waifuid": "waifu_2024_0100110111",
+        "difficulty": "medium",
+        "rcrystal": 47,
+        "source": "Lycoris Recoil",
+        "charisma_level": 90,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+    {
+        "name": "Chisato Nishikigi",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Chisato%20Nishikigi.jpg"
+        ],
+        "waifuid": "waifu_2024_0010110",
+        "difficulty": "hard",
+        "rcrystal": 124,
+        "source": "Lycoris Recoil",
+        "charisma_level": 544,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+    {
+        "name": "Maria Mikhailovna Kujou",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Maria%20Mikhailovna%20Kujou.jpg"
+        ],
+        "waifuid": "waifu_2024_010110",
+        "difficulty": "medium",
+        "rcrystal": 45,
+        "source": "Tokidoki Bosotto Roshia-go de Dereru Tonari no Alya-san",
+        "charisma_level": 76,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+    {
+        "name": "Shiroko",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Shiroko.jpg"
+        ],
+        "waifuid": "waifu_2024_001011",
+        "difficulty": "impossible",
+        "rcrystal": 245,
+        "source": "Blue Archive",
+        "charisma_level": 1998,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
     }
 ]
