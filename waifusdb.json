@@ -2014,5 +2014,17 @@
         ],
         "description": ".",
         "filtered": true
-    }
+    }, 
+    {
+        "name": "Ninym Ralei",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Ninym%20Ralei.jpg"
+        ],
+        "idwaifu": "waifu_2022_",
+        "difficulty": "hard",
+        "rcrystal": 245,
+        "source": "Tensai Ouji no Akaji Kokka Saisei Jutsu ~Sou da, Baikoku Shiyou",
+        "charisma_level": 1991,
+        "tags": ["uncategorized"],
+        "description": "-"
 ]
