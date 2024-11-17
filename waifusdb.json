@@ -2108,5 +2108,85 @@
         ],
         "description": ".",
         "filtered": true
+    },
+    {
+        "name": "Lucy Heartfilia",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/fairy%20tail%20Lucy%20Heartfilia.png"
+        ],
+        "waifuid": "waifu_2024_8766",
+        "difficulty": "hard",
+        "rcrystal": 165,
+        "source": "Fairy Tail",
+        "charisma_level": 450,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+    {
+        "name": "Meldy",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/fairy%20tail%20Meldy.png"
+        ],
+        "waifuid": "waifu_2024_8755",
+        "difficulty": "medium",
+        "rcrystal": 98,
+        "source": "Fairy Tail",
+        "charisma_level": 147,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+    {
+        "name": "Nico Robin",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/one%20piece%20Nico%20Robin.jpg"
+        ],
+        "waifuid": "waifu_2024_46778",
+        "difficulty": "medium",
+        "rcrystal": 84,
+        "source": "One Piece",
+        "charisma_level": 104,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+    {
+        "name": "Uta",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/one%20piece%20Uta.jpg"
+        ],
+        "waifuid": "waifu_2024_86589",
+        "difficulty": "hard",
+        "rcrystal": 167,
+        "source": "One Piece",
+        "charisma_level": 359,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+    {
+        "name": "Yamato",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/one%20piece%20Yamato.jpg"
+        ],
+        "waifuid": "waifu_2024_86349",
+        "difficulty": "medium",
+        "rcrystal": 75,
+        "source": "One Piece",
+        "charisma_level": 98,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
     }
 ]
