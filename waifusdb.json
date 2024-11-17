@@ -2593,4 +2593,84 @@
         "description": ".",
         "filtered": true
     }
+    {
+        "name": "Marin Kitagawa",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Kitagawa%20Marin.jpeg"
+        ],
+        "waifuid": "waifu_2024_827381",
+        "difficulty": "hard",
+        "rcrystal": 108,
+        "source": "My Dress Up Darling",
+        "charisma_level": 521,
+      "tags": [
+            "uncategorized"
+        ],
+        "description": "-"
+        "filtered": true
+    },
+    {
+        "name": "Nezuko Kamado",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Nezuko%20Kamado.jpeg"
+        ],
+        "waifuid": "waifu_2024_82638261",
+        "difficulty": "hard",
+        "rcrystal": 113,
+        "source": "Demon Slayer",
+        "charisma_level": 621,
+       "tags": [
+            "uncategorized"
+        ],
+        "description": "-"
+        "filtered": true
+    },
+    {
+        "name": "Zero Two",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Zero%20Two.jpg"
+        ],
+        "waifuid": "waifu_2024_3653717",
+        "difficulty": "hard",
+        "rcrystal": 112,
+        "source": "DARLING in the FRANXX",
+        "charisma_level": 563,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-"
+        "filtered": true
+    },
+    {
+        "name": "Siesta",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Siesta.jpg"
+        ],
+        "waifuid": "waifu_2024_289277273",
+        "difficulty": "impossible",
+        "rcrystal": 165,
+        "source": "Tantei wa mou shindeiru",
+        "charisma_level": 1200,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-"
+        "filtered": true
+    },
+    {
+        "name": "Nagisa Natsunagi",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Nagisa%20Natsunagi.jpg"
+        ],
+        "waifuid": "waifu_2024_2752781",
+        "difficulty": "hard",
+        "rcrystal": 98,
+        "source": "Tantei wa mou shindeiru",
+        "charisma_level": 756,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-"
+        "filtered": true
+    }
 ]
