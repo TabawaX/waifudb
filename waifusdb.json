@@ -2595,7 +2595,7 @@
     },
     {
         "name": "Marin Kitagawa",
-         "waifuurl": [
+        "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Kitagawa%20Marin.jpeg"
         ],
         "waifuid": "waifu_2024_827381",
@@ -2603,15 +2603,15 @@
         "rcrystal": 108,
         "source": "My Dress Up Darling",
         "charisma_level": 521,
-      "tags": [
+        "tags": [
             "uncategorized"
         ],
-        "description": "-"
+        "description": "-",
         "filtered": true
     },
     {
         "name": "Nezuko Kamado",
-         "waifuurl": [
+        "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Nezuko%20Kamado.jpeg"
         ],
         "waifuid": "waifu_2024_82638261",
@@ -2619,15 +2619,15 @@
         "rcrystal": 113,
         "source": "Demon Slayer",
         "charisma_level": 621,
-       "tags": [
+        "tags": [
             "uncategorized"
         ],
-        "description": "-"
+        "description": "-",
         "filtered": true
     },
     {
         "name": "Zero Two",
-         "waifuurl": [
+        "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Zero%20Two.jpg"
         ],
         "waifuid": "waifu_2024_3653717",
@@ -2638,12 +2638,12 @@
         "tags": [
             "uncategorized"
         ],
-        "description": "-"
+        "description": "-",
         "filtered": true
     },
     {
         "name": "Siesta",
-         "waifuurl": [
+        "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Siesta.jpg"
         ],
         "waifuid": "waifu_2024_289277273",
@@ -2654,12 +2654,12 @@
         "tags": [
             "uncategorized"
         ],
-        "description": "-"
+        "description": "-",
         "filtered": true
     },
     {
         "name": "Nagisa Natsunagi",
-         "waifuurl": [
+        "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Nagisa%20Natsunagi.jpg"
         ],
         "waifuid": "waifu_2024_2752781",
@@ -2670,7 +2670,7 @@
         "tags": [
             "uncategorized"
         ],
-        "description": "-"
+        "description": "-",
         "filtered": true
     }
 ]
