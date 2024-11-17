@@ -2388,7 +2388,7 @@
         "filtered": true
     },
     {
-        "name": "Rina (zzz)",
+        "name": "Rina",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Rina%20(zzz).png"
         ],
@@ -2402,7 +2402,7 @@
         "filtered": true
     },
     {
-        "name": "Roon (AL)",
+        "name": "Roon",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Roon%20(AL).jpg"
         ],
@@ -2430,7 +2430,7 @@
         "filtered": true
     },
     {
-        "name": "Silver Wolf (HSR)",
+        "name": "Silver Wolf",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Silver%20Wolf%20(HSR).jpg"
         ],
@@ -2444,7 +2444,7 @@
         "filtered": true
     },
     {
-        "name": "Taihou (AL)",
+        "name": "Taihou",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Taihou%20(AL).jpg"
         ],
@@ -2458,7 +2458,7 @@
         "filtered": true
     },
     {
-        "name": "Topaz (HSR)",
+        "name": "Topaz",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Topaz%20(HSR).jpg"
         ],
@@ -2500,7 +2500,7 @@
         "filtered": true
     },
     {
-        "name": "Zhu Yuan (ZZZ)",
+        "name": "Zhu Yuan",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Zhu%20Yuan%20(ZZZ).jpg"
         ],
@@ -2511,6 +2511,86 @@
         "charisma_level": 977,
         "tags": [],
         "description": "none",
+        "filtered": true
+    },
+    {
+        "name": "Mizuhara Chizuru",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Mizuhara%20Chizuru%20(Kanojo%20Okarishimasu).png"
+        ],
+        "waifuid": "waifu_2024_857334",
+        "difficulty": "hard",
+        "rcrystal": 115,
+        "source": "Kanojo Okarishimasu",
+        "charisma_level": 671,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+    {
+        "name": "Sarashina Ruka",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Sarashina%20Ruka%20(Kanojo%20Okarishimasu).jpg"
+        ],
+        "waifuid": "waifu_2024_872664",
+        "difficulty": "medium",
+        "rcrystal": 87,
+        "source": "Kanojo Okarishimasu",
+        "charisma_level": 156,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+    {
+        "name": "Übel",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/%C3%9Cbel%20(Sousou%20no%20Frieren).png"
+        ],
+        "waifuid": "waifu_2024_855755",
+        "difficulty": "medium",
+        "rcrystal": 88,
+        "source": "Sousou no Frieren",
+        "charisma_level": 215,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+    {
+        "name": "Frieren",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Frieren%20(Sousou%20no%20Frieren).png"
+        ],
+        "waifuid": "waifu_2024_234335",
+        "difficulty": "Impossible",
+        "rcrystal": 110,
+        "source": "Sousou no Frieren",
+        "charisma_level": 1440,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
+        "filtered": true
+    },
+    {
+        "name": "Kanne",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Kanne%20(Sousou%20no%20Frieren).jpg"
+        ],
+        "waifuid": "waifu_2024_8657513",
+        "difficulty": "medium",
+        "rcrystal": 67,
+        "source": "Sousou no Frieren",
+        "charisma_level": 104,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": ".",
         "filtered": true
     }
 ]
