@@ -2672,5 +2672,21 @@
         ],
         "description": "-",
         "filtered": true
+    },
+    {
+        "name": "Kaela Kovalskia",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Kaela%20Kovalskia%20(Hololive-ID).jpg"
+        ],
+        "waifuid": "waifu_2024_44554",
+        "difficulty": "hard",
+        "rcrystal": 86,
+        "source": "VTuber Hololive-ID",
+        "charisma_level": 456,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "Get some help.",
+        "filtered": true
     }
 ]
