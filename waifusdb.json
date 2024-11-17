@@ -2014,10 +2014,10 @@
         ],
         "description": ".",
         "filtered": true
-    }, 
+    },
     {
         "name": "Ninym Ralei",
-         "waifuurl": [
+        "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Ninym%20Ralei.jpg"
         ],
         "waifuid": "waifu_2022_",
@@ -2025,11 +2025,13 @@
         "rcrystal": 245,
         "source": "Tensai Ouji no Akaji Kokka Saisei Jutsu ~Sou da, Baikoku Shiyou",
         "charisma_level": 1991,
-        "tags": ["uncategorized"],
+        "tags": [
+            "uncategorized"
+        ],
         "description": "-",
         "filtered": true
-     },
-     {
+    },
+    {
         "name": "Firefly",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/hsr%20Firefly.jpg"
@@ -2187,6 +2189,328 @@
             "uncategorized"
         ],
         "description": ".",
+        "filtered": true
+    },
+    {
+        "name": "AA5100",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/AA5100.jpg"
+        ],
+        "waifuid": "waifu_2024_735",
+        "difficulty": "easy",
+        "rcrystal": 35,
+        "source": "-",
+        "charisma_level": 99,
+        "tags": [],
+        "description": "none",
+        "filtered": true
+    },
+    {
+        "name": "Aayla Secura",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Aayla%20Secura.jpg"
+        ],
+        "waifuid": "waifu_2024_714",
+        "difficulty": "easy",
+        "rcrystal": 27,
+        "source": "-",
+        "charisma_level": 86,
+        "tags": [],
+        "description": "none",
+        "filtered": true
+    },
+    {
+        "name": "Abercrombie (AL)",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Abercrombie%20(AL).jpg"
+        ],
+        "waifuid": "waifu_2024_503",
+        "difficulty": "easy",
+        "rcrystal": 27,
+        "source": "Azur Lane",
+        "charisma_level": 89,
+        "tags": [],
+        "description": "none",
+        "filtered": true
+    },
+    {
+        "name": "Abigail Williams",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Abigail%20Williams.jpg"
+        ],
+        "waifuid": "waifu_2024_953",
+        "difficulty": "easy",
+        "rcrystal": 37,
+        "source": "-",
+        "charisma_level": 74,
+        "tags": [],
+        "description": "none",
+        "filtered": true
+    },
+    {
+        "name": "Aburana (FG)",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Aburana%20(FG).png"
+        ],
+        "waifuid": "waifu_2024_669",
+        "difficulty": "easy",
+        "rcrystal": 24,
+        "source": "-",
+        "charisma_level": 70,
+        "tags": [],
+        "description": "none",
+        "filtered": true
+    },
+    {
+        "name": "Akagi (AL)",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Akagi%20(AL).jpg"
+        ],
+        "waifuid": "waifu_2024_387",
+        "difficulty": "medium",
+        "rcrystal": 57,
+        "source": "Azur Lane",
+        "charisma_level": 189,
+        "tags": [],
+        "description": "none",
+        "filtered": true
+    },
+    {
+        "name": "Aloe (Valentine)",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Aloe%20(Valentine).png"
+        ],
+        "waifuid": "waifu_2024_345",
+        "difficulty": "easy",
+        "rcrystal": 27,
+        "source": "-",
+        "charisma_level": 90,
+        "tags": [],
+        "description": "none",
+        "filtered": true
+    },
+    {
+        "name": "Anemone (FNK)",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Anemone%20(FNK).png"
+        ],
+        "waifuid": "waifu_2024_423",
+        "difficulty": "easy",
+        "rcrystal": 21,
+        "source": "-",
+        "charisma_level": 74,
+        "tags": [],
+        "description": "none",
+        "filtered": true
+    },
+    {
+        "name": "Blackberry (Easter)",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Blackberry%20(Easter).png"
+        ],
+        "waifuid": "waifu_2024_901",
+        "difficulty": "easy",
+        "rcrystal": 25,
+        "source": "-",
+        "charisma_level": 82,
+        "tags": [],
+        "description": "none",
+        "filtered": true
+    },
+    {
+        "name": "Cape Jasmine",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Cape%20Jasmine.png"
+        ],
+        "waifuid": "waifu_2024_533",
+        "difficulty": "easy",
+        "rcrystal": 34,
+        "source": "-",
+        "charisma_level": 65,
+        "tags": [],
+        "description": "none",
+        "filtered": true
+    },
+    {
+        "name": "Elegg (GOV)",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Elegg%20(GOV).png"
+        ],
+        "waifuid": "waifu_2024_854",
+        "difficulty": "easy",
+        "rcrystal": 35,
+        "source": "-",
+        "charisma_level": 69,
+        "tags": [],
+        "description": "none",
+        "filtered": true
+    },
+    {
+        "name": "Manhera Chan",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Manhera%20Chan.jpg"
+        ],
+        "waifuid": "waifu_2024_298",
+        "difficulty": "hard",
+        "rcrystal": 124,
+        "source": "-",
+        "charisma_level": 571,
+        "tags": [],
+        "description": "none",
+        "filtered": true
+    },
+    {
+        "name": "Prinz Eugen",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Prinz%20Eugen.jpg"
+        ],
+        "waifuid": "waifu_2024_466",
+        "difficulty": "medium",
+        "rcrystal": 82,
+        "source": "Azur Lane",
+        "charisma_level": 208,
+        "tags": [],
+        "description": "none",
+        "filtered": true
+    },
+    {
+        "name": "Queen Lucy",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Queen%20Lucy.png"
+        ],
+        "waifuid": "waifu_2024_799",
+        "difficulty": "easy",
+        "rcrystal": 34,
+        "source": "-",
+        "charisma_level": 58,
+        "tags": [],
+        "description": "none",
+        "filtered": true
+    },
+    {
+        "name": "Rina (zzz)",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Rina%20(zzz).png"
+        ],
+        "waifuid": "waifu_2024_970",
+        "difficulty": "har",
+        "rcrystal": 0,
+        "source": "Zenless Zone Zero",
+        "charisma_level": 0,
+        "tags": [],
+        "description": "none",
+        "filtered": true
+    },
+    {
+        "name": "Roon (AL)",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Roon%20(AL).jpg"
+        ],
+        "waifuid": "waifu_2024_801",
+        "difficulty": "easy",
+        "rcrystal": 23,
+        "source": "Azur Lane",
+        "charisma_level": 94,
+        "tags": [],
+        "description": "none",
+        "filtered": true
+    },
+    {
+        "name": "Saintpaulia (Costumed Carefree Aristocrat)",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Saintpaulia%20(Costumed%20Carefree%20Aristocrat).png"
+        ],
+        "waifuid": "waifu_2024_541",
+        "difficulty": "easy",
+        "rcrystal": 27,
+        "source": "-",
+        "charisma_level": 91,
+        "tags": [],
+        "description": "none",
+        "filtered": true
+    },
+    {
+        "name": "Silver Wolf (HSR)",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Silver%20Wolf%20(HSR).jpg"
+        ],
+        "waifuid": "waifu_2024_385",
+        "difficulty": "hard",
+        "rcrystal": 93,
+        "source": "Honkai Star rail",
+        "charisma_level": 879,
+        "tags": [],
+        "description": "none",
+        "filtered": true
+    },
+    {
+        "name": "Taihou (AL)",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Taihou%20(AL).jpg"
+        ],
+        "waifuid": "waifu_2024_461",
+        "difficulty": "easy",
+        "rcrystal": 31,
+        "source": "Azur Lane",
+        "charisma_level": 87,
+        "tags": [],
+        "description": "none",
+        "filtered": true
+    },
+    {
+        "name": "Topaz (HSR)",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Topaz%20(HSR).jpg"
+        ],
+        "waifuid": "waifu_2024_622",
+        "difficulty": "hard",
+        "rcrystal": 121,
+        "source": "Honkai Star rail",
+        "charisma_level": 303,
+        "tags": [],
+        "description": "none",
+        "filtered": true
+    },
+    {
+        "name": "Win (FNK)",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Win%20(FNK).png"
+        ],
+        "waifuid": "waifu_2024_930",
+        "difficulty": "easy",
+        "rcrystal": 33,
+        "source": "-",
+        "charisma_level": 69,
+        "tags": [],
+        "description": "none",
+        "filtered": true
+    },
+    {
+        "name": "Yuina (IyaPan)",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Yuina%20(IyaPan).png"
+        ],
+        "waifuid": "waifu_2024_649",
+        "difficulty": "easy",
+        "rcrystal": 33,
+        "source": "-",
+        "charisma_level": 90,
+        "tags": [],
+        "description": "none",
+        "filtered": true
+    },
+    {
+        "name": "Zhu Yuan (ZZZ)",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/master/uplod%20otomatis/Zhu%20Yuan%20(ZZZ).jpg"
+        ],
+        "waifuid": "waifu_2024_276",
+        "difficulty": "hard",
+        "rcrystal": 106,
+        "source": "Zenless Zone Zero",
+        "charisma_level": 977,
+        "tags": [],
+        "description": "none",
         "filtered": true
     }
 ]
