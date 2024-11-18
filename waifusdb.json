@@ -2954,5 +2954,75 @@
         "tags": [],
         "description": "none",
         "filtered": true
+    },
+    {
+        "name": "Hinata Hyuga",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Hinata%20hyuga.jpeg"
+        ],
+        "waifuid": "waifu_2024_186261",
+        "difficulty": "hard",
+        "rcrystal": 115,
+        "source": "Naruto",
+        "charisma_level": 126,
+        "tags": ["uncategorized"],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Esdeath",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Esdeath.jpeg"
+        ],
+        "waifuid": "waifu_2024_716271",
+        "difficulty": "medium",
+        "rcrystal": 78,
+        "source": "Akame Ga Kill!",
+        "charisma_level": 82,
+        "tags": ["uncategorized"],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Ram",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Ram.jpg"
+        ],
+        "waifuid": "waifu_2024_0271771",
+        "difficulty": "Hard",
+        "rcrystal": 126,
+        "source": "Re:ZERO",
+        "charisma_level": 582,
+        "tags": ["uncategorized"],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Elma",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Elma.png"
+        ],
+        "waifuid": "waifu_2024_9263681",
+        "difficulty": "medium",
+        "rcrystal": 47,
+        "source": "Miss Kobayashi's Dragon Maid",
+        "charisma_level": 120,
+        "tags": ["uncategorized"],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Mitsuri Kanjori",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Mitsuri%20Kanjori.jpg"
+        ],
+        "waifuid": "waifu_2024_816281",
+        "difficulty": "Hard",
+        "rcrystal": 134,
+        "source": "Demon Slayer",
+        "charisma_level": 670,
+        "tags": ["uncategorized"],
+        "description": "-",
+        "filtered": true
     }
 ]
