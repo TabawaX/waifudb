@@ -2964,7 +2964,7 @@
         "difficulty": "hard",
         "rcrystal": 115,
         "source": "Naruto",
-        "charisma_level": 126,
+        "charisma_level": 587,
         "tags": ["uncategorized"],
         "description": "-",
         "filtered": true
@@ -2978,7 +2978,7 @@
         "difficulty": "medium",
         "rcrystal": 78,
         "source": "Akame Ga Kill!",
-        "charisma_level": 82,
+        "charisma_level": 150,
         "tags": ["uncategorized"],
         "description": "-",
         "filtered": true
@@ -3006,7 +3006,7 @@
         "difficulty": "medium",
         "rcrystal": 47,
         "source": "Miss Kobayashi's Dragon Maid",
-        "charisma_level": 120,
+        "charisma_level": 125,
         "tags": ["uncategorized"],
         "description": "-",
         "filtered": true
