@@ -3038,5 +3038,19 @@
         "tags": ["uncategorized"],
         "description": "-",
         "filtered": false
+    },
+    {
+        "name": "Ayunda Risu",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Ehehe%20_)))).jpeg"
+        ],
+        "waifuid": "waifu_2024_816282",
+        "difficulty": "Hard",
+        "rcrystal": 134,
+        "source": "Hololive id",
+        "charisma_level": 670,
+        "tags": ["uncategorized"],
+        "description": "-",
+        "filtered": false
     }
 ]
