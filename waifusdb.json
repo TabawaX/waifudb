@@ -1174,9 +1174,9 @@
         ],
         "waifuid": "waifu_2024_33",
         "difficulty": "impossible",
-        "rcrystal": 189,
+        "rcrystal": 244,
         "source": "Otonari no Tenshi-sama",
-        "charisma_level": 1956,
+        "charisma_level": 1989,
         "tags": [
             "uncategorized"
         ],
@@ -3024,5 +3024,19 @@
         "tags": ["uncategorized"],
         "description": "-",
         "filtered": true
+    },
+    {
+        "name": "Camellya",
+         "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Camellya.jpg"
+        ],
+        "waifuid": "waifu_2024_816282",
+        "difficulty": "Hard",
+        "rcrystal": 134,
+        "source": "Demon Slayer",
+        "charisma_level": 670,
+        "tags": ["uncategorized"],
+        "description": "-",
+        "filtered": false
     }
 ]
