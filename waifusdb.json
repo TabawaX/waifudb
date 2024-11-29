@@ -3046,11 +3046,11 @@
         ],
         "waifuid": "waifu_2024_816282",
         "difficulty": "Hard",
-        "rcrystal": 134,
+        "rcrystal": 118,
         "source": "Hololive id",
-        "charisma_level": 670,
+        "charisma_level": 696,
         "tags": ["uncategorized"],
         "description": "-",
-        "filtered": false
+        "filtered": true
     }
 ]
