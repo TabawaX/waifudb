@@ -3052,5 +3052,21 @@
         "tags": ["uncategorized"],
         "description": "-",
         "filtered": true
+    },
+    {
+        "name": "Yokoya Yuki",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Yokoya%20Yuki%20(Kimi.wa.Meido-sama).jpg"
+        ],
+        "waifuid": "waifu_2024_9863356",
+        "difficulty": "impossible",
+        "rcrystal": 250,
+        "source": "Kimi wa Meido-sama",
+        "charisma_level": 2500,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "Seorang pelayan yang dulunya pembunuh bayaran.",
+        "filtered": true
     }
 ]
