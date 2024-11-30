@@ -3084,5 +3084,21 @@
         ],
         "description": "-",
         "filtered": true
+    },
+    {
+        "name": "Ren Yamashiro",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Ren%20yamashiro%20(Mato%20Seihei%20no%20Slave).png"
+        ],
+        "waifuid": "waifu_2024_92345678",
+        "difficulty": "medium",
+        "rcrystal": 72,
+        "source": "Mato Seihei no Slave",
+        "charisma_level": 138,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
     }
 ]
