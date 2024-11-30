@@ -3100,5 +3100,69 @@
         ],
         "description": "-",
         "filtered": true
+    },
+    {
+        "name": "Fubuki Azuma",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Fubuki%20Azuma%20(Mato%20Seihei%20no%20Slave).jpg"
+        ],
+        "waifuid": "waifu_2024_91234567",
+        "difficulty": "medium",
+        "rcrystal": 63,
+        "source": "Mato Seihei no Slave",
+        "charisma_level": 147,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Nei Ookawamura",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Nei%20Ookawamura%20(Mato%20Seihei%20no%20Slave).png"
+        ],
+        "waifuid": "waifu_2024_96784532",
+        "difficulty": "hard",
+        "rcrystal": 139,
+        "source": "Mato Seihei no Slave",
+        "charisma_level": 812,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Aoba Wakura",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Aoba%20Wakura%20(Mato%20Seihei%20no%20Slave).jpg"
+        ],
+        "waifuid": "waifu_2024_97654321",
+        "difficulty": "medium",
+        "rcrystal": 85,
+        "source": "Mato Seihei no Slave",
+        "charisma_level": 155,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Kyouka Uzen",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Kyouka%20uzen%20(Mato%20Seihei%20no%20Slave).png"
+        ],
+        "waifuid": "waifu_2024_98765432",
+        "difficulty": "hard",
+        "rcrystal": 144,
+        "source": "Mato Seihei no Slave",
+        "charisma_level": 926,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
     }
 ]
