@@ -3059,14 +3059,30 @@
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Yokoya%20Yuki%20(Kimi.wa.Meido-sama).jpg"
         ],
         "waifuid": "waifu_2024_9863356",
-        "difficulty": "impossible",
-        "rcrystal": 250,
+        "difficulty": "hard",
+        "rcrystal": 130,
         "source": "Kimi wa Meido-sama",
-        "charisma_level": 2500,
+        "charisma_level": 600,
         "tags": [
             "uncategorized"
         ],
         "description": "Seorang pelayan yang dulunya pembunuh bayaran.",
+        "filtered": true
+    },
+    {
+        "name": "Akeno Himejima",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Akeno%20Himejima%20(High%20School%20DxD).jpg"
+        ],
+        "waifuid": "waifu_2024_8764576",
+        "difficulty": "impossible",
+        "rcrystal": 233,
+        "source": "High School DxD",
+        "charisma_level": 1675,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
         "filtered": true
     }
 ]
