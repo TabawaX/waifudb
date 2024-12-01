@@ -3181,7 +3181,7 @@
         "description": "-",
         "filtered": true
     },
-{
+    {
         "name": "Arima Kana",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/_%20(7).jpeg"
@@ -3197,7 +3197,7 @@
         "description": "-",
         "filtered": true
     },
-{
+    {
         "name": "Kurokawa Akane",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/%F0%9F%A9%B7%F0%9F%A9%B7.jpeg"
@@ -3213,7 +3213,7 @@
         "description": "-",
         "filtered": true
     },
-{
+    {
         "name": "Tsunade",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/_%20(8).jpeg"
@@ -3229,7 +3229,7 @@
         "description": "-",
         "filtered": true
     },
-{
+    {
         "name": "Sakura Haruno",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/wenay_anime.jpeg"
@@ -3245,7 +3245,7 @@
         "description": "-",
         "filtered": true
     },
-{
+    {
         "name": "Eliana Bernstein",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Bibliophile%20Princess_Mushikaburi-hime%20official%20art.jpeg"
@@ -3261,7 +3261,7 @@
         "description": "-",
         "filtered": true
     },
-{
+    {
         "name": "Shion",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/_%20(9).jpeg"
@@ -3277,7 +3277,7 @@
         "description": "-",
         "filtered": true
     },
-{
+    {
         "name": "Luminous Valentine",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Luminous%20Valentine%20%E2%9C%9D%EF%B8%8F.jpeg"
@@ -3293,7 +3293,7 @@
         "description": "-",
         "filtered": true
     },
-{
+    {
         "name": "Milim Nava",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/_%20(10).jpeg"
@@ -3309,7 +3309,7 @@
         "description": "-",
         "filtered": true
     },
-{
+    {
         "name": "Hinata Tachibana",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Hinata%20Tachibana.jpeg"
@@ -3325,7 +3325,7 @@
         "description": "-",
         "filtered": true
     },
-{
+    {
         "name": "Aru",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/_%20(11).jpeg"
@@ -3341,7 +3341,7 @@
         "description": "-",
         "filtered": true
     },
-{
+    {
         "name": "Hiiragi Shinoa",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Shinoa%20Hiiragi.jpeg"
@@ -3357,7 +3357,7 @@
         "description": "-",
         "filtered": true
     },
-{
+    {
         "name": "Sayu Ogiwara",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/_%20(12).jpeg"
@@ -3373,7 +3373,7 @@
         "description": "-",
         "filtered": true
     },
-{
+    {
         "name": "Mutsumi Yozakura",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Mutsumi%20Yozakura.jpeg"
@@ -3389,7 +3389,7 @@
         "description": "-",
         "filtered": true
     },
-{
+    {
         "name": "Echidna",
         "waifuurl": [
             "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/echidna.jpeg"
@@ -3399,6 +3399,166 @@
         "rcrystal": 94,
         "source": "Yuusha Yamemasu",
         "charisma_level": 120,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Paimon",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Paimon%20(Genshin%20Impact).png"
+        ],
+        "waifuid": "waifu_2024_99990001",
+        "difficulty": "hard",
+        "rcrystal": 112,
+        "source": "Genshin Impact",
+        "charisma_level": 753,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Kagari Fuyukawa",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Kagari%20Fuyukawa%20(Hakanai%20Kimi%20wa%20Moukou%20o%20Hajimeru).jpg"
+        ],
+        "waifuid": "waifu_2024_99990002",
+        "difficulty": "hard",
+        "rcrystal": 128,
+        "source": "Hakanai Kimi wa Moukou o Hajimeru",
+        "charisma_level": 841,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Ada Wong",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Ada%20Wong%20(Resident%20Evil).jpg"
+        ],
+        "waifuid": "waifu_2024_99990003",
+        "difficulty": "hard",
+        "rcrystal": 147,
+        "source": "Resident Evil",
+        "charisma_level": 905,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Aurora",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Aurora%20(Kage%20no%20Jitsuryokusha%20ni%20Naritakute!).jpg"
+        ],
+        "waifuid": "waifu_2024_99990004",
+        "difficulty": "hard",
+        "rcrystal": 140,
+        "source": "Kage no Jitsuryokusha ni Naritakute!",
+        "charisma_level": 832,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Sugawara Niina",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Sugawara%20Niina%20(Maidens%20of%20the%20Savage%20Season).jpg"
+        ],
+        "waifuid": "waifu_2024_99990005",
+        "difficulty": "medium",
+        "rcrystal": 87,
+        "source": "Maidens of the Savage Season",
+        "charisma_level": 147,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Sawako Kuronuma",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Suwako%20Kuronuma%20(Kimi%20ni%20Todoke).jpg"
+        ],
+        "waifuid": "waifu_2024_99990006",
+        "difficulty": "hard",
+        "rcrystal": 134,
+        "source": "Kimi ni Todoke",
+        "charisma_level": 796,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Citlali",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Citlali%20(Genshin%20Impact).png"
+        ],
+        "waifuid": "waifu_2024_99990007",
+        "difficulty": "hard",
+        "rcrystal": 103,
+        "source": "Genshin Impact",
+        "charisma_level": 710,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Hitotsuba Kaede",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Hitotsuba%20kaede%20(Ryoushin%20no%20Shakkin%20wo%20Katagawari%20Shite).jpg"
+        ],
+        "waifuid": "waifu_2024_99990008",
+        "difficulty": "medium",
+        "rcrystal": 74,
+        "source": "Ryoushin no Shakkin wo Katagawari Shite",
+        "charisma_level": 180,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Mary Saotome",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Mary%20Saotome%20(Kakegurai).png"
+        ],
+        "waifuid": "waifu_2024_99990009",
+        "difficulty": "hard",
+        "rcrystal": 127,
+        "source": "Kakegurai",
+        "charisma_level": 650,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Rachel Elizabeth Louise",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Rachel%20Elizabeth%20Louise%20(the%20novel%20extra).png"
+        ],
+        "waifuid": "waifu_2024_99990010",
+        "difficulty": "hard",
+        "rcrystal": 145,
+        "source": "The Novel Extra",
+        "charisma_level": 785,
         "tags": [
             "uncategorized"
         ],
