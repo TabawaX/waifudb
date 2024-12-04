@@ -3564,5 +3564,181 @@
         ],
         "description": "-",
         "filtered": true
+    },
+    {
+        "name": "Tamako Kitashirakawa",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Tamako%20Kitashirakawa%20(Tamako%20Market).png"
+        ],
+        "waifuid": "waifu_2024_99990012",
+        "difficulty": "impossible",
+        "rcrystal": 213,
+        "source": "Tamako Market",
+        "charisma_level": 1254,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Midori Tokiwa",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Tokiwa%20Midori%20(Tamako%20%20Market).jpg"
+        ],
+        "waifuid": "waifu_2024_99990013",
+        "difficulty": "hard",
+        "rcrystal": 138,
+        "source": "Tamako Market",
+        "charisma_level": 731,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Shiori Asagiri",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Shiori%20Asagiri%20(Tamako%20Market).jpg"
+        ],
+        "waifuid": "waifu_2024_99990014",
+        "difficulty": "hard",
+        "rcrystal": 143,
+        "source": "Tamako Market",
+        "charisma_level": 821,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Mythia Batford",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Mythia%20Batford%20(VTuber).jpg"
+        ],
+        "waifuid": "waifu_2024_99990015",
+        "difficulty": "impossible",
+        "rcrystal": 249,
+        "source": "VTuber",
+        "charisma_level": 1423,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Kiana Kaslana",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Kiana%20kaslana%20(Honkai%20impact%203).png"
+        ],
+        "waifuid": "waifu_2024_99990019",
+        "difficulty": "hard",
+        "rcrystal": 143,
+        "source": "Honkai Impact 3",
+        "charisma_level": 811,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Raiden Mei",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Raiden%20mei%20(Honkai%20impact%203).jpg"
+        ],
+        "waifuid": "waifu_2024_99990020",
+        "difficulty": "hard",
+        "rcrystal": 118,
+        "source": "Honkai Impact 3",
+        "charisma_level": 742,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Vita",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Vita%20(Honkai%20impact%203).jpg"
+        ],
+        "waifuid": "waifu_2024_99990021",
+        "difficulty": "hard",
+        "rcrystal": 118,
+        "source": "Honkai Impact 3",
+        "charisma_level": 673,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Shirakami Fubuki",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Shirakami%20Fubuki%20(VTuber%20Hololive-Jp).png"
+        ],
+        "waifuid": "waifu_2024_99990022",
+        "difficulty": "impossible",
+        "rcrystal": 215,
+        "source": "VTuber Hololive-Jp",
+        "charisma_level": 1450,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Acheron",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Acheron%20(Honkai%20Star%20Rail).jpg"
+        ],
+        "waifuid": "waifu_2024_99990023",
+        "difficulty": "hard",
+        "rcrystal": 137,
+        "source": "Honkai Star Rail",
+        "charisma_level": 812,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Navia",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Navia%20(Genshin%20Impact).png"
+        ],
+        "waifuid": "waifu_2024_99990024",
+        "difficulty": "hard",
+        "rcrystal": 124,
+        "source": "Genshin Impact",
+        "charisma_level": 756,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Aisia",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Aisia%20(Seirei.Gensouki).jpg"
+        ],
+        "waifuid": "waifu_2024_99990025",
+        "difficulty": "medium",
+        "rcrystal": 81,
+        "source": "Seirei Gonsuki",
+        "charisma_level": 164,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
     }
 ]
