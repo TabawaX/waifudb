@@ -3740,5 +3740,341 @@
         ],
         "description": "-",
         "filtered": true
+    },
+    {
+        "name": "Kotone Shirakawa",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Kotone%20Shirakawa%20(Overflow).jpg"
+        ],
+        "waifuid": "waifu_2024_9990874",
+        "difficulty": "hard",
+        "rcrystal": 91,
+        "source": "overflow",
+        "charisma_level": 816,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Ayane Shirakawa",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Ayane%20Shirakawa%20(Overflow).png"
+        ],
+        "waifuid": "waifu_2024_9990808",
+        "difficulty": "hard",
+        "rcrystal": 91,
+        "source": "overflow",
+        "charisma_level": 817,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Runa Shirakawa",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Runa%20Shirakawa%20(Keiken%20Zumi).jpg"
+        ],
+        "waifuid": "waifu_2024_9990565",
+        "difficulty": "hard",
+        "rcrystal": 113,
+        "source": "keiken zumi",
+        "charisma_level": 818,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Saika Kuozaki",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Saika%20Kuozaki%20(Ousama%20no%20Proposal).jpg"
+        ],
+        "waifuid": "waifu_2024_9990636",
+        "difficulty": "hard",
+        "rcrystal": 139,
+        "source": "ousama no proposal",
+        "charisma_level": 889,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Ryuuge Kisaki",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Ryuuge%20Kisaki%20(Blue%20Archive).jpg"
+        ],
+        "waifuid": "waifu_2024_9990730",
+        "difficulty": "hard",
+        "rcrystal": 95,
+        "source": "blue archive",
+        "charisma_level": 606,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Ayase Momo",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Ayase%20Momo%20(Dandadan).jpg"
+        ],
+        "waifuid": "waifu_2024_9990686",
+        "difficulty": "hard",
+        "rcrystal": 103,
+        "source": "dandadan",
+        "charisma_level": 674,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Shiratori Aira",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Shiratori%20Aira%20(Dandadan).jpg"
+        ],
+        "waifuid": "waifu_2024_9990659",
+        "difficulty": "medium",
+        "rcrystal": 87,
+        "source": "dandadan",
+        "charisma_level": 148,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Amnesia",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Amnesia%20(Majo%20no%20Tabitabi).png"
+        ],
+        "waifuid": "waifu_2024_9990689",
+        "difficulty": "hard",
+        "rcrystal": 122,
+        "source": "majo no tabitabi",
+        "charisma_level": 703,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Saya",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Saya%20(Majo%20no%20Tabitabi).png"
+        ],
+        "waifuid": "waifu_2024_9990643",
+        "difficulty": "hard",
+        "rcrystal": 117,
+        "source": "majo no tabitabi",
+        "charisma_level": 492,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Mina",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Mina%20(Majo%20no%20Tabitabi).png"
+        ],
+        "waifuid": "waifu_2024_9990570",
+        "difficulty": "medium",
+        "rcrystal": 60,
+        "source": "majo no tabitabi",
+        "charisma_level": 144,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Fran",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Fran%20(Majo%20no%20Tabitabi).jpg"
+        ],
+        "waifuid": "waifu_2024_9990769",
+        "difficulty": "hard",
+        "rcrystal": 93,
+        "source": "majo no tabitabi",
+        "charisma_level": 447,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Shelia",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Sheila%20(Majo%20no%20Tabitabi).jpg"
+        ],
+        "waifuid": "waifu_2024_9990806",
+        "difficulty": "medium",
+        "rcrystal": 58,
+        "source": "majo no tabitabi",
+        "charisma_level": 105,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Victoria",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Victorica%20(Majo%20no%20Tabitabi).jpg"
+        ],
+        "waifuid": "waifu_2024_9990648",
+        "difficulty": "hard",
+        "rcrystal": 131,
+        "source": "majo no tabitabi",
+        "charisma_level": 792,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Mary Kim",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Mary%20Kim%20(Lookism).jpg"
+        ],
+        "waifuid": "waifu_2024_9990539",
+        "difficulty": "hard",
+        "rcrystal": 135,
+        "source": "lookism",
+        "charisma_level": 875,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Vermeil",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Vermeil%20(Kinsou%20no%20Vermeil).jpg"
+        ],
+        "waifuid": "waifu_2024_9990764",
+        "difficulty": "impossible",
+        "rcrystal": 200,
+        "source": "kinsou no vermeil",
+        "charisma_level": 1500,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Tsukiyuki Miyako",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Tsukiyuki%20Miyako%20(Blue%20Archive).jpg"
+        ],
+        "waifuid": "waifu_2024_9990632",
+        "difficulty": "hard",
+        "rcrystal": 131,
+        "source": "blue archive",
+        "charisma_level": 990,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Onikata Kayoko",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Onikata%20Kayoko%20(Blue%20Archive).png"
+        ],
+        "waifuid": "waifu_2024_9990608",
+        "difficulty": "hard",
+        "rcrystal": 91,
+        "source": "blue archive",
+        "charisma_level": 750,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Isla",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Isla%20(Plastic%20Memories).jpg"
+        ],
+        "waifuid": "waifu_2024_9990615",
+        "difficulty": "hard",
+        "rcrystal": 95,
+        "source": "plastic memories",
+        "charisma_level": 730,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Urushibara Shizuno",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Urushibara%20Shizuno%20(Seiken%20Tsukai%20no%20World%20Break).png"
+        ],
+        "waifuid": "waifu_2024_9990860",
+        "difficulty": "medium",
+        "rcrystal": 74,
+        "source": "seiken tsukai no world break",
+        "charisma_level": 118,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Naruse Mio",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Naruse%20Mio%20(Shinmai%20Maou%20no%20Testament).jpg"
+        ],
+        "waifuid": "waifu_2024_9990500",
+        "difficulty": "hard",
+        "rcrystal": 114,
+        "source": "shinmai maou no testament",
+        "charisma_level": 823,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Stella Vermilion",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Stella%20Vermillion%20(Rakudai%20Kishi%20no%20Cavalry).jpg"
+        ],
+        "waifuid": "waifu_2024_9990868",
+        "difficulty": "hard",
+        "rcrystal": 96,
+        "source": "rakudai kishi no cavalry",
+        "charisma_level": 383,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
     }
 ]
