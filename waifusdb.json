@@ -4076,5 +4076,21 @@
         ],
         "description": "-",
         "filtered": true
+    },
+    {
+        "name": "Ri ryeong",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/IMG-20241207-WA0277.jpg"
+        ],
+        "waifuid": "waifu_2024_9990868",
+        "difficulty": "hard",
+        "rcrystal": 96,
+        "source": "The Tutorial Tower of the Advanced Player",
+        "charisma_level": 383,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": false
     }
 ]
