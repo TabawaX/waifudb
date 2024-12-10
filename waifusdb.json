@@ -57022,20 +57022,6 @@
         "filtered": true
     },
     {
-        "name": "Maetel",
-        "waifuurl": [
-            "https://s4.anilist.co/file/anilistcdn/character/medium/b6321-zecC2IPZiFxq.jpg"
-        ],
-        "waifuid": "waifu_2024_2223",
-        "difficulty": "medium",
-        "rcrystal": 30,
-        "source": "Ginga Tetsudou 999: Eien no Tabibito Emeraldas",
-        "charisma_level": 99,
-        "tags": [],
-        "description": "none",
-        "filtered": true
-    },
-    {
         "name": "Sanae Ebato",
         "waifuurl": [
             "https://s4.anilist.co/file/anilistcdn/character/medium/120992-hI7Zs9wpOd7r.jpg"
@@ -57465,20 +57451,6 @@
         "rcrystal": 39,
         "source": "Stratos 4 OVA",
         "charisma_level": 76,
-        "tags": [],
-        "description": "none",
-        "filtered": true
-    },
-    {
-        "name": "Maetel",
-        "waifuurl": [
-            "https://s4.anilist.co/file/anilistcdn/character/medium/b6321-zecC2IPZiFxq.jpg"
-        ],
-        "waifuid": "waifu_2024_2061",
-        "difficulty": "medium",
-        "rcrystal": 20,
-        "source": "Ginga Tetsudou 999: Eternal Fantasy",
-        "charisma_level": 92,
         "tags": [],
         "description": "none",
         "filtered": true
@@ -58445,20 +58417,6 @@
         "rcrystal": 30,
         "source": "Galaxy Angel 3 Specials",
         "charisma_level": 98,
-        "tags": [],
-        "description": "none",
-        "filtered": true
-    },
-    {
-        "name": "Maetel",
-        "waifuurl": [
-            "https://s4.anilist.co/file/anilistcdn/character/medium/b6321-zecC2IPZiFxq.jpg"
-        ],
-        "waifuid": "waifu_2024_2113",
-        "difficulty": "medium",
-        "rcrystal": 36,
-        "source": "Young Herlock wo Oe! Cosmo Warrior Zero Gaiden",
-        "charisma_level": 66,
         "tags": [],
         "description": "none",
         "filtered": true
@@ -60181,20 +60139,6 @@
         "rcrystal": 36,
         "source": "Legend of Basara",
         "charisma_level": 97,
-        "tags": [],
-        "description": "none",
-        "filtered": true
-    },
-    {
-        "name": "Maetel",
-        "waifuurl": [
-            "https://s4.anilist.co/file/anilistcdn/character/medium/b6321-zecC2IPZiFxq.jpg"
-        ],
-        "waifuid": "waifu_2024_4684",
-        "difficulty": "medium",
-        "rcrystal": 34,
-        "source": "Ginga Tetsudou 999: Diamond Ring no Kanata e",
-        "charisma_level": 54,
         "tags": [],
         "description": "none",
         "filtered": true
@@ -64059,20 +64003,6 @@
         "rcrystal": 37,
         "source": "AIKa",
         "charisma_level": 78,
-        "tags": [],
-        "description": "none",
-        "filtered": true
-    },
-    {
-        "name": "Maetel",
-        "waifuurl": [
-            "https://s4.anilist.co/file/anilistcdn/character/medium/b6321-zecC2IPZiFxq.jpg"
-        ],
-        "waifuid": "waifu_2024_4467",
-        "difficulty": "medium",
-        "rcrystal": 37,
-        "source": "Maetel Legend",
-        "charisma_level": 93,
         "tags": [],
         "description": "none",
         "filtered": true
@@ -71919,6 +71849,22 @@
         "rcrystal": 96,
         "source": "Spy X Family",
         "charisma_level": 397,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
+    },
+    {
+        "name": "Mayreel",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Mayreel.jpg"
+        ],
+        "waifuid": "waifu_2024_29292",
+        "difficulty": "hard",
+        "rcrystal": 89,
+        "source": "Guardian Tales",
+        "charisma_level": 376,
         "tags": [
             "uncategorized"
         ],
