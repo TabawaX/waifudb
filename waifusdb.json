@@ -72036,5 +72036,21 @@
         ],
         "description": "-",
         "filtered": true
+    },
+        {
+        "name": "gtw",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/DevereOuxz/waifudb/refs/heads/master/wdb/Anya%20SpyxFamily.jpg"
+        ],
+        "waifuid": "waifu_2024_29290",
+        "difficulty": "hard",
+        "rcrystal": 97,
+        "source": "Spy X Family",
+        "charisma_level": 376,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
     }
 ]
