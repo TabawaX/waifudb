@@ -13,38 +13,7 @@
         "description": "none",
         "filtered": true
     },
-    {
-        "name": "Touka Kirishima",
-        "waifuurl": [
-            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Touka%20Kirishima%20_%20Tokyo%20Ghoul%F0%9F%92%99.jpeg"
-        ],
-        "waifuid": "waifu_2024_99990017",
-        "difficulty": "hard",
-        "rcrystal": 129,
-        "source": "Tokyo Ghoul",
-        "charisma_level": 795,
-        "tags": [
-            "uncategorized"
-        ],
-        "description": "-",
-        "filtered": true
-    },
-    {
-        "name": "Itori",
-        "waifuurl": [
-            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/39259cd2-95b4-4a45-8389-98c5a7e72443.jpeg"
-        ],
-        "waifuid": "waifu_2024_99990018",
-        "difficulty": "medium",
-        "rcrystal": 77,
-        "source": "Tokyo Ghoul",
-        "charisma_level": 180,
-        "tags": [
-            "uncategorized"
-        ],
-        "description": "-",
-        "filtered": true
-    },
+    
     {
         "name": "Twinkle Maria Murdock",
         "waifuurl": [
@@ -35887,35 +35856,4 @@
     },
     {
         "name": "Noel Yukino",
-        "waifuurl": [
-            "https://s4.anilist.co/file/anilistcdn/character/medium/14627.jpg"
-        ],
-        "waifuid": "waifu_2024_470",
-        "difficulty": "easy",
-        "rcrystal": 32,
-        "source": "Kirarin☆Revolution",
-        "charisma_level": 84,
-        "tags": [],
-        "description": "none",
-        "filtered": true
-    },
-    {
-        "name": "Chloe von Einzbern",
-        "waifuurl": [
-            "https://s4.anilist.co/file/anilistcdn/character/medium/b40624-dTNIROLQXlkb.png"
-        ],
-        "waifuid": "waifu_2024_1230",
-        "difficulty": "medium",
-        "rcrystal": 31,
-        "source": "Angel Blade",
-        "charisma_level": 74,
-        "tags": [],
-        "description": "none",
-        "filtered": true
-    },
-    {
-        "name": "Maina Ichii",
-        "waifuurl": [
-            "https://s4.anilist.co/file/anilistcdn/character/medium/b149090-vFKJqaRxYL89.png"
-        ],
-        "waifuid": "waifu_2024_1332",
+ 
