@@ -1,0 +1,1394 @@
+[
+	{
+		"soal": "Di episode 20 Jujutsu Kaisen, sebutkan nama jurus yang digunakan Gojo Satoru saat menyelamatkan Yuuji.",
+		"pilihan": {
+			"a": "Black Lightning",
+			"b": "Gold Experience Requiem",
+			"c": "Hollow Purple",
+			"d": "Cursed Energy"
+		},
+		"jawaban_benar": {
+			"c": "Hollow Purple"
+		}
+	},
+	{
+		"soal": "Berapa banyak dinasti di Tiongkok?",
+		"pilihan": {
+			"a": "Dua",
+			"b": "Enam",
+			"c": "Sepuluh",
+			"d": "Lima"
+		},
+		"jawaban_benar": {
+			"b": "Enam"
+		}
+	},
+	{
+		"soal": "Nama lain dari anime 'Classroom of Elite' adalah....",
+		"pilihan": {
+			"a": "Ansatsu Kyōshitsu",
+			"b": "Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e",
+			"c": "Tate no Yuusha no Nariagari",
+			"d": "KonoSuba"
+		},
+		"jawaban_benar": {
+			"b": "Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e"
+		}
+	},
+	{
+		"soal": "Siapa yang dikenal sebagai Bapak Proklamasi di Indonesia?",
+		"pilihan": {
+			"a": "Sukarno",
+			"b": "Mohammad Hatta",
+			"c": "Sudirman",
+			"d": "Tan Malaka"
+		},
+		"jawaban_benar": {
+			"a": "Sukarno"
+		}
+	},
+	{
+		"soal": "Dinasti apa yang terkenal dengan pembangunan Tembok Besar China?",
+		"pilihan": {
+			"a": "Dinasti Han",
+			"b": "Dinasti Ming",
+			"c": "Dinasti Qing",
+			"d": "Dinasti Tang"
+		},
+		"jawaban_benar": {
+			"b": "Dinasti Ming"
+		}
+	},
+	{
+		"soal": "Apa nama kerajaan Hindu-Buddha terbesar yang pernah ada di Indonesia?",
+		"pilihan": {
+			"a": "Majapahit",
+			"b": "Mataram",
+			"c": "Sriwijaya",
+			"d": "Sundapura"
+		},
+		"jawaban_benar": {
+			"a": "Majapahit"
+		}
+	},
+	{
+		"soal": "Siapa yang dikenal sebagai pemimpin Tiongkok pada masa Revolusi Kebudayaan?",
+		"pilihan": {
+			"a": "Mao Zedong",
+			"b": "Deng Xiaoping",
+			"c": "Sun Yat-sen",
+			"d": "Zhou Enlai"
+		},
+		"jawaban_benar": {
+			"a": "Mao Zedong"
+		}
+	},
+	{
+		"soal": "Peristiwa G30S/PKI terjadi pada tahun berapa?",
+		"pilihan": {
+			"a": "1965",
+			"b": "1970",
+			"c": "1950",
+			"d": "1945"
+		},
+		"jawaban_benar": {
+			"a": "1965"
+		}
+	},
+	{
+		"soal": "Apa nama kota yang menjadi ibu kota China sejak 1949?",
+		"pilihan": {
+			"a": "Shanghai",
+			"b": "Beijing",
+			"c": "Xi'an",
+			"d": "Guangzhou"
+		},
+		"jawaban_benar": {
+			"b": "Beijing"
+		}
+	},
+	{
+		"soal": "Siapa yang menciptakan sistem pendidikan di Indonesia setelah kemerdekaan?",
+		"pilihan": {
+			"a": "Ki Hajar Dewantara",
+			"b": "Sukarno",
+			"c": "Suharto",
+			"d": "Mohammad Natsir"
+		},
+		"jawaban_benar": {
+			"a": "Ki Hajar Dewantara"
+		}
+	},
+	{
+		"soal": "Apa nama dinasti yang memerintah China dari 1644 hingga 1912?",
+		"pilihan": {
+			"a": "Dinasti Ming",
+			"b": "Dinasti Qing",
+			"c": "Dinasti Tang",
+			"d": "Dinasti Song"
+		},
+		"jawaban_benar": {
+			"b": "Dinasti Qing"
+		}
+	},
+	{
+		"soal": "Siapa yang menyatukan Tiongkok dan mendirikan Dinasti Qin?",
+		"pilihan": {
+			"a": "Liu Bang",
+			"b": "Qin Shi Huang",
+			"c": "Sun Yat-sen",
+			"d": "Cao Cao"
+		},
+		"jawaban_benar": {
+			"b": "Qin Shi Huang"
+		}
+	},
+	{
+		"soal": "Apa nama sistem pemerintahan yang diterapkan oleh Dinasti Han?",
+		"pilihan": {
+			"a": "Feodalisme",
+			"b": "Monarki absolut",
+			"c": "Sistem meritokrasi",
+			"d": "Oligarki"
+		},
+		"jawaban_benar": {
+			"c": "Sistem meritokrasi"
+		}
+	},
+	{
+		"soal": "Kapan Revolusi Xinhai terjadi yang mengakhiri pemerintahan Dinasti Qing?",
+		"pilihan": {
+			"a": "1911",
+			"b": "1921",
+			"c": "1949",
+			"d": "1905"
+		},
+		"jawaban_benar": {
+			"a": "1911"
+		}
+	},
+	{
+		"soal": "Apa nama filsuf yang terkenal dengan ajaran Konfusianisme?",
+		"pilihan": {
+			"a": "Laozi",
+			"b": "Zhuangzi",
+			"c": "Confucius",
+			"d": "Sun Tzu"
+		},
+		"jawaban_benar": {
+			"c": "Confucius"
+		}
+	},
+	{
+		"soal": "Apa nama jalan perdagangan kuno yang menghubungkan Tiongkok dengan dunia barat?",
+		"pilihan": {
+			"a": "Jalan Sutra",
+			"b": "Jalan Rempah",
+			"c": "Jalan Emas",
+			"d": "Jalan Perak"
+		},
+		"jawaban_benar": {
+			"a": "Jalan Sutra"
+		}
+	},
+	{
+		"soal": "Siapa yang mendirikan Partai Komunis Tiongkok pada tahun 1921?",
+		"pilihan": {
+			"a": "Mao Zedong",
+			"b": "Deng Xiaoping",
+			"c": "Chen Duxiu",
+			"d": "Li Dazhao"
+		},
+		"jawaban_benar": {
+			"c": "Chen Duxiu"
+		}
+	},
+	{
+		"soal": "Apa nama perang yang terjadi antara Tiongkok dan Inggris pada tahun 1839-1842?",
+		"pilihan": {
+			"a": "Perang Dunia I",
+			"b": "Perang Opium",
+			"c": "Perang Saudara Tiongkok",
+			"d": "Perang Sino-Jepang"
+		},
+		"jawaban_benar": {
+			"b": "Perang Opium"
+		}
+	},
+	{
+		"soal": "Siapa yang memimpin Tiongkok dalam Perang Saudara Tiongkok?",
+		"pilihan": {
+			"a": "Mao Zedong",
+			"b": "Chiang Kai-shek",
+			"c": "Sun Yat-sen",
+			"d": "Zhou Enlai"
+		},
+		"jawaban_benar": {
+			"a": "Mao Zedong"
+		}
+	},
+	{
+		"soal": "Apa nama pahlawan nasional Indonesia yang dikenal dengan semboyan 'Merdeka atau Mati'?",
+		"pilihan": {
+			"a": "Sukarno",
+			"b": "Soedirman",
+			"c": "Tan Malaka",
+			"d": "Jenderal Sudirman"
+		},
+		"jawaban_benar": {
+			"c": "Tan Malaka"
+		}
+	},
+	{
+		"soal": "Apa yang menjadi latar belakang terjadinya Reformasi di Indonesia pada tahun 1998?",
+		"pilihan": {
+			"a": "Krisis moneter",
+			"b": "Perang",
+			"c": "Pemberontakan",
+			"d": "Pengkhianatan"
+		},
+		"jawaban_benar": {
+			"a": "Krisis moneter"
+		}
+	},
+	{
+		"soal": "Siapa Waifu Zhuanxi",
+		"pilihan": {
+			"a": "Elaina",
+			"b": "Sparkle",
+			"c": "Nana",
+			"d": "Ruby"
+		},
+		"jawaban_benar": {
+			"b": "Sparkle"
+		}
+	},
+	{
+		"soal": "Siapa Bapak MK di komunitas Nusa Shije?",
+		"pilihan": {
+			"a": "Zhuanxi",
+			"b": "Queens ( Rafi )",
+			"c": "Yannz",
+			"d": "Artahm"
+		},
+		"jawaban_benar": {
+			"b": "Queens ( Rafi )"
+		}
+	},
+	{
+		"soal": "Musuh Terbesar Nusa Shije?",
+		"pilihan": {
+			"a": "Kaum Jmk",
+			"b": "Wibu Nolep",
+			"c": "Tikus Ngaceng",
+			"d": "Kpoper"
+		},
+		"jawaban_benar": {
+			"a": "Kaum Jmk"
+		}
+	},
+	{
+		"soal": "Siapakah waifu Tabawa Yannz?",
+		"pilihan": {
+			"a": "Runa",
+			"b": "Sparkle",
+			"c": "Alya",
+			"d": "Elaina"
+		},
+		"jawaban_benar": {
+			"d": "Elaina"
+		}
+	},
+	{
+		"soal": "Siapakah pacar atmin cwe paling imut (lirya)?",
+		"pilihan": {
+			"a": "ken takakura",
+			"b": "nicolas",
+			"c": "getou suguru",
+			"d": "kaiser michael"
+		},
+		"jawaban_benar": {
+			"a": "ken takakura"
+		}
+	},
+	{
+		"soal": "Di Masa Apa Jepang Mengalami Pertumbuhan Industri Yang Kuat Di Awal Awal Setelah Keluar Dari Isolasi?",
+		"pilihan": {
+			"a": "Restorasi Meiji",
+			"b": "Shogun",
+			"c": "Clan Oda",
+			"d": "Konvensi Kanagawa"
+		},
+		"jawaban_benar": {
+			"a": "Restorasi Meiji"
+		}
+	},
+	{
+		"soal": "Partai Nazi Bernama?",
+		"pilihan": {
+			"a": "Golkar",
+			"b": "CCCP",
+			"c": "Democrat",
+			"d": "NSDP"
+		},
+		"jawaban_benar": {
+			"d": "NSDP"
+		}
+	},
+	{
+		"soal": "Siapa istrinya Skey?",
+		"pilihan": {
+			"a": "Quenss",
+			"b": "Sakura Mai",
+			"c": "Elaina",
+			"d": "Miku"
+		},
+		"jawaban_benar": {
+			"c": "Elaina"
+		}
+	},
+	{
+		"soal": "Istri Kuin?",
+		"pilihan": {
+			"a": "Euphilia Magenta",
+			"b": "Rachel UK",
+			"c": "Mafuyu Asahina",
+			"d": "Violet"
+		},
+		"jawaban_benar": {
+			"c": "Mafuyu Asahina"
+		}
+	},
+	{
+		"soal": "Pengaturan mengenai Hak Asasi Manusia pada UUD 1945 terletak pada bab ....",
+		"pilihan": {
+			"a": "XVI",
+			"b": "XA",
+			"c": "XII",
+			"d": "XVB"
+		},
+		"jawaban_benar": {
+			"b": "XA"
+		}
+	},
+	{
+		"soal": "Pengangkatan Presiden Soekarno menjadi presiden seumur hidup terdapat dalam ketetapan MPR nomor....",
+		"pilihan": {
+			"a": "MPRS RI No. III/MPRS/1963",
+			"b": "MPRS RI No. II/MPRS/1963",
+			"c": "MPRS RI No. IV/MPRS/1963",
+			"d": "MPRS RI No. I/MPRS/1963"
+		},
+		"jawaban_benar": {
+			"a": "MPRS RI No. III/MPRS/1963"
+		}
+	},
+	{
+		"soal": "Berikut ini merupakan salah satu bunyi dari gerakan 3A adalah....",
+		"pilihan": {
+			"a": "Jepang Harapan Asia",
+			"b": "Jepang Penuntun Asia",
+			"c": "Jepang Saudara Asia",
+			"d": "Jepang Pemimpin Asia"
+		},
+		"jawaban_benar": {
+			"d": "Jepang Pemimpin Asia"
+		}
+	},
+	{
+		"soal": "Globalisasi pada dasarnya merupakan penyatuan masyarakat dunia dalam satu jaringan. Kondisi ini menyebabkan seluruh masyarakat di dunia menjadi satu komunitas. Hal ini karena didorong oleh perkembangan...",
+		"pilihan": {
+			"a": "Budaya",
+			"b": "Politik",
+			"c": "Agama",
+			"d": "Teknologi"
+		},
+		"jawaban_benar": {
+			"d": "Teknologi"
+		}
+	},
+	{
+		"soal": "Siapa nama presiden ketiga Indonesia?",
+		"pilihan": {
+			"a": "Soeharto",
+			"b": "Habibie",
+			"c": "SBY",
+			"d": "Soekarno"
+		},
+		"jawaban_benar": {
+			"b": "Habibie"
+		}
+	},
+	{
+		"soal": "Siapa presiden kedua Indonesia?",
+		"pilihan": {
+			"a": "Soeharto",
+			"b": "Habibie",
+			"c": "SBY",
+			"d": "Soekarno"
+		},
+		"jawaban_benar": {
+			"a": "Soeharto"
+		}
+	},
+	{
+		"soal": "Pulau Komodo terletak di provinsi?",
+		"pilihan": {
+			"a": "Bali",
+			"b": "NTT",
+			"c": "NTB",
+			"d": "Jawa Timur"
+		},
+		"jawaban_benar": {
+			"b": "NTT"
+		}
+	},
+	{
+		"soal": "Apa singkatan dari MPR?",
+		"pilihan": {
+			"a": "Majelis Perwakilan Rakyat",
+			"b": "Majelis Permusyawaratan Rakyat",
+			"c": "Majelis Perhimpunan Rakyat",
+			"d": "Majelis Perserikatan Rakyat"
+		},
+		"jawaban_benar": {
+			"b": "Majelis Permusyawaratan Rakyat"
+		}
+	},
+	{
+		"soal": "Pada tanggal berapakah Hari Lahir Pancasila diperingati?",
+		"pilihan": {
+			"a": "17 Agustus",
+			"b": "1 Maret",
+			"c": "1 Juni",
+			"d": "1 Desember"
+		},
+		"jawaban_benar": {
+			"c": "1 Juni"
+		}
+	},
+	{
+		"soal": "Apa julukan terkenal dari negara Korea Selatan?",
+		"pilihan": {
+			"a": "Negeri Tirai Bambu",
+			"b": "Negeri Gingseng",
+			"c": "Zamrud Khatulistiwa",
+			"d": "Negeri Kincir Angin"
+		},
+		"jawaban_benar": {
+			"b": "Negeri Gingseng"
+		}
+	},
+	{
+		"soal": "Tanah yang baik untuk pertanian adalah…",
+		"pilihan": {
+			"a": "Humus",
+			"b": "Pasir",
+			"c": "Liat",
+			"d": "Cadas"
+		},
+		"jawaban_benar": {
+			"a": "Humus"
+		}
+	},
+	{
+		"soal": "Bumi berputar pada porosnya pada kemiringan… derajat",
+		"pilihan": {
+			"a": "23,5",
+			"b": "25,5",
+			"c": "24,5",
+			"d": "26,5"
+		},
+		"jawaban_benar": {
+			"a": "23,5 derajat"
+		}
+	},
+	{
+		"soal": "Apa nama mata uang dari negara Thailand?",
+		"pilihan": {
+			"a": "Won",
+			"b": "Rupiah",
+			"c": "Dollar",
+			"d": "Baht"
+		},
+		"jawaban_benar": {
+			"d": "Baht"
+		}
+	},
+	{
+		"soal": "Danau terbesar di dunia adalah…",
+		"pilihan": {
+			"a": "Danau Toba",
+			"b": "Danau Baikal",
+			"c": "Danau Kaspia",
+			"d": "Danau Victoria"
+		},
+		"jawaban_benar": {
+			"c": "Danau Kaspia"
+		}
+	},
+	{
+		"soal": "Disebut apakah binatang yang dapat hidup di dua alam, yaitu darat dan laut?",
+		"pilihan": {
+			"a": "Amfibi",
+			"b": "Amfibi",
+			"c": "Reptil",
+			"d": "Pisces"
+		},
+		"jawaban_benar": {
+			"a": "Pisces"
+		}
+	},
+	{
+		"soal": "Siapakah penemu bola lampu?",
+		"pilihan": {
+			"a": "A Graham Bell",
+			"b": "Albert Einstein",
+			"c": "Thomas Edison",
+			"d": "Leonardo da Vinci"
+		},
+		"jawaban_benar": {
+			"c": "Thomas Edison."
+		}
+	},
+	{
+		"soal": "Apa nama sungai terpanjang di dunia?",
+		"pilihan": {
+			"a": "Sungai Musi",
+			"b": "Sungai Nil",
+			"c": "Sungai Kapuas",
+			"d": "Sungai Amazon"
+		},
+		"jawaban_benar": {
+			"b": "Sungai Nil."
+		}
+	},
+	{
+		"soal": "Berapa banyak benua di dunia?",
+		"pilihan": {
+			"a": "9",
+			"b": "6",
+			"c": "8",
+			"d": "7"
+		},
+		"jawaban_benar": {
+			"d": "7"
+		}
+	},
+	{
+		"soal": "Apa nama samudera terbesar di dunia?",
+		"pilihan": {
+			"a": "Atlantik",
+			"b": "Pasifik",
+			"c": "Hindia",
+			"d": "Antartika"
+		},
+		"jawaban_benar": {
+			"b": "Pasifik"
+		}
+	},
+	{
+		"soal": "Apa yang merupakan simbol kimia untuk emas?",
+		"pilihan": {
+			"a": "Fe",
+			"b": "Al",
+			"c": "Au",
+			"d": "Ad"
+		},
+		"jawaban_benar": {
+			"c": "Au"
+		}
+	},
+	{
+		"soal": "Apa warna bendera negara Amerika Serikat?",
+		"pilihan": {
+			"a": "Merah, putih, dan biru",
+			"b": "Merah, putih, dan ungu",
+			"c": "Merah, putih, dan kuning",
+			"d": "Merah, putih"
+		},
+		"jawaban_benar": {
+			"a": "Merah, putih, dan biru."
+		}
+	},
+	{
+		"soal": "Apa nama planet ketujuh dari matahari?",
+		"pilihan": {
+			"a": "Venus",
+			"b": "Uranus",
+			"c": "Jupiter",
+			"d": "Pluto"
+		},
+		"jawaban_benar": {
+			"b": "Uranus"
+		}
+	},
+	{
+		"soal": "Negara Maroko terletak pada benua apa?",
+		"pilihan": {
+			"a": "Asia",
+			"b": "Afrika",
+			"c": "Eropa",
+			"d": "Amerika"
+		},
+		"jawaban_benar": {
+			"b": "Afrika"
+		}
+	},
+	{
+		"soal": "Perancis, Inggris dan Jerman adalah negara-negara yang terletak pada benua?",
+		"pilihan": {
+			"a": "Asia",
+			"b": "Afrika",
+			"c": "Eropa",
+			"d": "Amerika"
+		},
+		"jawaban_benar": {
+			"c": "Eropa"
+		}
+	},
+	{
+		"soal": "Mata uang sah yang digunakan di negara Arab Saudi adalah?",
+		"pilihan": {
+			"a": "BRICS",
+			"b": "Rial",
+			"c": "Lira",
+			"d": "Dirham"
+		},
+		"jawaban_benar": {
+			"b": "Rial/Real"
+		}
+	},
+	{
+		"soal": "Ibukota Negara Belanda adalah?",
+		"pilihan": {
+			"a": "Batavia",
+			"b": "Amsterdam",
+			"c": "Rotterdam",
+			"d": "Den Haag"
+		},
+		"jawaban_benar": {
+			"b": "Amsterdam"
+		}
+	},
+	{
+		"soal": "Apa nama bintang yang posisinya paling dekat dengan Bumi?",
+		"pilihan": {
+			"a": "Mars",
+			"b": "Venus",
+			"c": "Bulan",
+			"d": "Matahari"
+		},
+		"jawaban_benar": {
+			"d": "Matahari"
+		}
+	},
+	{
+		"soal": "Berapa jumlah hari dalam satu tahun kabisat?",
+		"pilihan": {
+			"a": "365",
+			"b": "356",
+			"c": "355",
+			"d": "345"
+		},
+		"jawaban_benar": {
+			"a": "365"
+		}
+	},
+	{
+		"soal": "Planet yang terbesar di dalam tata surya kita adalah?",
+		"pilihan": {
+			"a": "Jupiter",
+			"b": "Mars",
+			"c": "Bumi",
+			"d": "Saturnus"
+		},
+		"jawaban_benar": {
+			"a": "Jupiter"
+		}
+	},
+	{
+		"soal": "Siapa penulis novel 'Laskar Pelangi'?",
+		"pilihan": {
+			"a": "Andrea Hirata",
+			"b": "Habiburrahman El Shirazy",
+			"c": "Tere Liye",
+			"d": "Mira W"
+		},
+		"jawaban_benar": {
+			"a": "Andrea Hirata"
+		}
+	},
+	{
+		"soal": "Apa ibukota negara Jepang?",
+		"pilihan": {
+			"a": "Kyoto",
+			"b": "Osaka",
+			"c": "Tokyo",
+			"d": "Hiroshima"
+		},
+		"jawaban_benar": {
+			"c": "Tokyo"
+		}
+	},
+	{
+		"soal": "Siapakah penemu teori relativitas?",
+		"pilihan": {
+			"a": "Isaac Newton",
+			"b": "Albert Einstein",
+			"c": "Niels Bohr",
+			"d": "Stephen Hawking"
+		},
+		"jawaban_benar": {
+			"b": "Albert Einstein"
+		}
+	},
+	{
+		"soal": "Apa nama organ tubuh manusia yang berfungsi untuk bernapas?",
+		"pilihan": {
+			"a": "Hati",
+			"b": "Jantung",
+			"c": "Paru-paru",
+			"d": "Ginjal"
+		},
+		"jawaban_benar": {
+			"c": "Paru-paru"
+		}
+	},
+	{
+		"soal": "Siapa yang dikenal sebagai Bapak Proklamasi Indonesia?",
+		"pilihan": {
+			"a": "Soeharto",
+			"b": "Soekarno",
+			"c": "Habibie",
+			"d": "Sudirman"
+		},
+		"jawaban_benar": {
+			"b": "Soekarno"
+		}
+	},
+	{
+		"soal": "Apa yang menjadi ibukota negara Inggris?",
+		"pilihan": {
+			"a": "Edinburgh",
+			"b": "London",
+			"c": "Manchester",
+			"d": "Birmingham"
+		},
+		"jawaban_benar": {
+			"b": "London"
+		}
+	},
+	{
+		"soal": "Siapa penyanyi terkenal yang dikenal dengan lagu 'Someone Like You'?",
+		"pilihan": {
+			"a": "Taylor Swift",
+			"b": "Adele",
+			"c": "Beyoncé",
+			"d": "Rihanna"
+		},
+		"jawaban_benar": {
+			"b": "Adele"
+		}
+	},
+	{
+		"soal": "Apa nama alat musik yang memiliki 88 tuts?",
+		"pilihan": {
+			"a": "Gitar",
+			"b": "Biola",
+			"c": "Piano",
+			"d": "Seruling"
+		},
+		"jawaban_benar": {
+			"c": "Piano"
+		}
+	},
+	{
+		"soal": "Siapa yang menulis 'Romeo and Juliet'?",
+		"pilihan": {
+			"a": "Charles Dickens",
+			"b": "Mark Twain",
+			"c": "William Shakespeare",
+			"d": "Leo Tolstoy"
+		},
+		"jawaban_benar": {
+			"c": "William Shakespeare"
+		}
+	},
+	{
+		"soal": "Siapa nama presiden ketiga Indonesia?",
+		"pilihan": {
+			"a": "Soeharto",
+			"b": "Habibie",
+			"c": "SBY",
+			"d": "Soekarno"
+		},
+		"jawaban_benar": {
+			"b": "Habibie"
+		}
+	},
+	{
+		"soal": "Siapa presiden kedua Indonesia?",
+		"pilihan": {
+			"a": "Soeharto",
+			"b": "Habibie",
+			"c": "SBY",
+			"d": "Soekarno"
+		},
+		"jawaban_benar": {
+			"a": "Soeharto"
+		}
+	},
+	{
+		"soal": "Pulau Komodo terletak di provinsi?",
+		"pilihan": {
+			"a": "Bali",
+			"b": "NTT",
+			"c": "NTB",
+			"d": "Jawa Timur"
+		},
+		"jawaban_benar": {
+			"b": "NTT"
+		}
+	},
+	{
+		"soal": "Apa singkatan dari MPR?",
+		"pilihan": {
+			"a": "Majelis Perwakilan Rakyat",
+			"b": "Majelis Permusyawaratan Rakyat",
+			"c": "Majelis Perhimpunan Rakyat",
+			"d": "Majelis Perserikatan Rakyat"
+		},
+		"jawaban_benar": {
+			"b": "Majelis Permusyawaratan Rakyat"
+		}
+	},
+	{
+		"soal": "Pada tanggal berapakah Hari Lahir Pancasila diperingati? ",
+		"pilihan": {
+			"a": "17 Agustus",
+			"b": "1 Maret",
+			"c": "1 Juni ",
+			"d": "1 Desember "
+		},
+		"jawaban_benar": {
+			"c": "1 Juni"
+		}
+	},
+	{
+		"soal": "Apa julukan terkenal dari negara Korea Selatan?",
+		"pilihan": {
+			"a": "Negeri Tirai Bambu",
+			"b": "Negeri Gingseng",
+			"c": "Zamrud Khatulistiwa",
+			"d": "Negeri Kincir Angin"
+		},
+		"jawaban_benar": {
+			"b": "Negeri Gingseng"
+		}
+	},
+	{
+		"soal": "Tanah yang baik untuk pertanian adalah… ",
+		"pilihan": {
+			"a": "Humus",
+			"b": "Pasir",
+			"c": "Liat",
+			"d": "Cadas"
+		},
+		"jawaban_benar": {
+			"a": "Humus"
+		}
+	},
+	{
+		"soal": "Bumi berputar pada porosnya pada kemiringan… derajat",
+		"pilihan": {
+			"a": "23,5",
+			"b": "25,5",
+			"c": "24,5",
+			"d": "26,5"
+		},
+		"jawaban_benar": {
+			"a": "23,5 derajat"
+		}
+	},
+	{
+		"soal": "Apa nama mata uang dari negara Thailand? ",
+		"pilihan": {
+			"a": "Won",
+			"b": "Rupiah",
+			"c": "Dollar",
+			"d": "Baht"
+		},
+		"jawaban_benar": {
+			"d": "Baht"
+		}
+	},
+	{
+		"soal": "Danau terbesar di dunia adalah… ",
+		"pilihan": {
+			"a": "Danau Toba",
+			"b": "Danau Baikal",
+			"c": "Danau Kaspia",
+			"d": "Danau Victoria"
+		},
+		"jawaban_benar": {
+			"c": "Danau Kaspia"
+		}
+	},
+	{
+		"soal": "Disebut apakah binatang yang dapat hidup di dua alam, yaitu darat dan laut? ",
+		"pilihan": {
+			"a": "Amfibi",
+			"b": "Amfibi",
+			"c": "Reptil",
+			"d": "Pisces"
+		},
+		"jawaban_benar": {
+			"a": "Pisces"
+		}
+	},
+	{
+		"soal": "Siapakah penemu bola lampu?",
+		"pilihan": {
+			"a": "A Graham Bell",
+			"b": "Albert Einstein",
+			"c": "Thomas Edison",
+			"d": "Leonardo da Vinci"
+		},
+		"jawaban_benar": {
+			"c": "Thomas Edison."
+		}
+	},
+	{
+		"soal": "Apa nama sungai terpanjang di dunia?",
+		"pilihan": {
+			"a": "Sungai Musi",
+			"b": "Sungai Nil",
+			"c": "Sungai Kapuas",
+			"d": "Sungai Amazon"
+		},
+		"jawaban_benar": {
+			"b": "Sungai Nil."
+		}
+	},
+	{
+		"soal": "Berapa banyak benua di dunia?",
+		"pilihan": {
+			"a": "9",
+			"b": "6",
+			"c": "8",
+			"d": "7"
+		},
+		"jawaban_benar": {
+			"d": "7"
+		}
+	},
+	{
+		"soal": "Apa nama samudera terbesar di dunia?",
+		"pilihan": {
+			"a": "Atlantik",
+			"b": "Pasifik",
+			"c": "Hindia",
+			"d": "Antartika"
+		},
+		"jawaban_benar": {
+			"b": "Pasifik"
+		}
+	},
+	{
+		"soal": "Apa yang merupakan simbol kimia untuk emas?",
+		"pilihan": {
+			"a": "Fe",
+			"b": "Al",
+			"c": "Au",
+			"d": "Ad"
+		},
+		"jawaban_benar": {
+			"c": "Au"
+		}
+	},
+	{
+		"soal": "Apa warna bendera negara Amerika Serikat?",
+		"pilihan": {
+			"a": "Merah, putih, dan biru",
+			"b": "Merah, putih, dan ungu",
+			"c": "Merah, putih, dan kuning",
+			"d": "Merah, putih"
+		},
+		"jawaban_benar": {
+			"a": "Merah, putih, dan biru."
+		}
+	},
+	{
+		"soal": "Apa nama planet ketujuh dari matahari? ",
+		"pilihan": {
+			"a": "Venus",
+			"b": "Uranus",
+			"c": "Jupiter",
+			"d": "Pluto"
+		},
+		"jawaban_benar": {
+			"b": "Uranus"
+		}
+	},
+	{
+		"soal": "Negara Maroko terletak pada benua apa? ",
+		"pilihan": {
+			"a": "Asia",
+			"b": "Afrika",
+			"c": "Eropa",
+			"d": "Amerika"
+		},
+		"jawaban_benar": {
+			"b": "Afrika"
+		}
+	},
+	{
+		"soal": "Perancis, Inggris dan Jerman adalah negara-negara yang terletak pada benua? ",
+		"pilihan": {
+			"a": "Asia",
+			"b": "Afrika",
+			"c": "Eropa",
+			"d": "Amerika"
+		},
+		"jawaban_benar": {
+			"c": "Eropa"
+		}
+	},
+	{
+		"soal": "Mata uang sah yang digunakan di negara Arab Saudi adalah?",
+		"pilihan": {
+			"a": "BRICS",
+			"b": "Rial",
+			"c": "Lira",
+			"d": "Dirham"
+		},
+		"jawaban_benar": {
+			"b": "Rial/Real"
+		}
+	},
+	{
+		"soal": "Ibukota Negara Belanda adalah? ",
+		"pilihan": {
+			"a": "Batavia",
+			"b": "Amsterdam",
+			"c": "Rotterdam",
+			"d": "Den Haag"
+		},
+		"jawaban_benar": {
+			"b": "Amsterdam"
+		}
+	},
+	{
+		"soal": "Apa nama bintang yang posisinya paling dekat dengan Bumi?",
+		"pilihan": {
+			"a": "Mars",
+			"b": "Venus",
+			"c": "Bulan",
+			"d": "Matahari"
+		},
+		"jawaban_benar": {
+			"d": "Matahari"
+		}
+	},
+	{
+		"soal": "Berapa jumlah hari dalam satu tahun kabisat?",
+		"pilihan": {
+			"a": "365",
+			"b": "356",
+			"c": "355",
+			"d": "345"
+		},
+		"jawaban_benar": {
+			"a": "365"
+		}
+	},
+	{
+		"soal": "Planet yang terbesar di dalam tata surya kita adalah?",
+		"pilihan": {
+			"a": "Uranus",
+			"b": "Jupiter",
+			"c": "Neptunus",
+			"d": "Venus"
+		},
+		"jawaban_benar": {
+			"b": "Jupiter"
+		}
+	},
+	{
+		"soal": "Mata uang sah yang digunakan di negara Jepang adalah?",
+		"pilihan": {
+			"a": "Won",
+			"b": "Yuan",
+			"c": "Yen",
+			"d": "Kyat"
+		},
+		"jawaban_benar": {
+			"c": "Yen"
+		}
+	},
+	{
+		"soal": "Apa nama alat yang digunakan untuk mengukur suhu tubuh?",
+		"pilihan": {
+			"a": "Barometer",
+			"b": "Higrometer",
+			"c": "Termometer",
+			"d": "Desimeter"
+		},
+		"jawaban_benar": {
+			"c": "Termometer"
+		}
+	},
+	{
+		"soal": "15 menit = … detik?",
+		"pilihan": {
+			"a": "1500",
+			"b": "900",
+			"c": "700",
+			"d": "500"
+		},
+		"jawaban_benar": {
+			"b": "800"
+		}
+	},
+	{
+		"soal": "Di manakah letak Menara Pisa?",
+		"pilihan": {
+			"a": "Perancis",
+			"b": "Austria",
+			"c": "Italia",
+			"d": "Yunani"
+		},
+		"jawaban_benar": {
+			"c": "Italia"
+		}
+	},
+	{
+		"soal": "Apa nama ibukota Australia?",
+		"pilihan": {
+			"a": "Sydney",
+			"b": "Melbourne",
+			"c": "Perth",
+			"d": "Canberra"
+		},
+		"jawaban_benar": {
+			"d": "Canberra"
+		}
+	},
+	{
+		"soal": "Siapa nama presiden ketiga Indonesia?",
+		"pilihan": {
+			"a": "Soeharto",
+			"b": "Soekarno",
+			"c": "SBY",
+			"d": "Habibie"
+		},
+		"jawaban_benar": {
+			"d": "Habibie"
+		}
+	},
+	{
+		"soal": "Siapa presiden kedua Indonesia?",
+		"pilihan": {
+			"a": "SBY",
+			"b": "Habibie",
+			"c": "Soeharto",
+			"d": "Soekarno"
+		},
+		"jawaban_benar": {
+			"c": "Soeharto"
+		}
+	},
+	{
+		"soal": "Pulau Komodo terletak di provinsi?",
+		"pilihan": {
+			"a": "Bali",
+			"b": "NTB",
+			"c": "NTT",
+			"d": "Jawa Timur"
+		},
+		"jawaban_benar": {
+			"c": "NTT"
+		}
+	},
+	{
+		"soal": "Apa singkatan dari MPR?",
+		"pilihan": {
+			"a": "Majelis Perwakilan Rakyat",
+			"b": "Majelis Perhimpunan Rakyat",
+			"c": "Majelis Permusyawaratan Rakyat",
+			"d": "Majelis Perserikatan Rakyat"
+		},
+		"jawaban_benar": {
+			"c": "Majelis Permusyawaratan Rakyat"
+		}
+	},
+	{
+		"soal": "Pada tanggal berapakah Hari Lahir Pancasila diperingati? ",
+		"pilihan": {
+			"a": "17 Agustus",
+			"b": "1 Maret",
+			"c": "1 Desember ",
+			"d": "1 Juni "
+		},
+		"jawaban_benar": {
+			"d": "1 Juni"
+		}
+	},
+	{
+		"soal": "Apa julukan terkenal dari negara Korea Selatan?",
+		"pilihan": {
+			"a": "Negeri Tirai Bambu",
+			"b": "Zamrud Khatulistiwa",
+			"c": "Negeri Gingseng",
+			"d": "Negeri Kincir Angin"
+		},
+		"jawaban_benar": {
+			"c": "Negeri Gingseng"
+		}
+	},
+	{
+		"soal": "Tanah yang baik untuk pertanian adalah… ",
+		"pilihan": {
+			"a": "Cadas",
+			"b": "Pasir",
+			"c": "Liat",
+			"d": "Humus"
+		},
+		"jawaban_benar": {
+			"d": "Humus"
+		}
+	},
+	{
+		"soal": "Bumi berputar pada porosnya pada kemiringan… derajat",
+		"pilihan": {
+			"a": "26,5",
+			"b": "25,5",
+			"c": "24,5",
+			"d": "23,5"
+		},
+		"jawaban_benar": {
+			"d": "23,5 derajat"
+		}
+	},
+	{
+		"soal": "Apa nama mata uang dari negara Thailand? ",
+		"pilihan": {
+			"a": "Won",
+			"b": "Rupiah",
+			"c": "Baht",
+			"d": "Dollar"
+		},
+		"jawaban_benar": {
+			"c": "Baht"
+		}
+	},
+	{
+		"soal": "Danau terbesar di dunia adalah… ",
+		"pilihan": {
+			"a": "Danau Toba",
+			"b": "Danau Kaspia",
+			"c": "Danau Baikal",
+			"d": "Danau Victoria"
+		},
+		"jawaban_benar": {
+			"b": "Danau Kaspia"
+		}
+	},
+	{
+		"soal": "Disebut apakah binatang yang dapat hidup di dua alam, yaitu darat dan laut? ",
+		"pilihan": {
+			"a": "Pisces",
+			"b": "Reptil",
+			"c": "Amfibi",
+			"d": "Gemini"
+		},
+		"jawaban_benar": {
+			"c": "Amfibi"
+		}
+	},
+	{
+		"soal": "Siapakah penemu bola lampu?",
+		"pilihan": {
+			"a": "Leonardo da Vinci",
+			"b": "Albert Einstein",
+			"c": "A Graham Bell",
+			"d": "Thomas Edison"
+		},
+		"jawaban_benar": {
+			"d": "Thomas Edison."
+		}
+	},
+	{
+		"soal": "Apa nama sungai terpanjang di dunia?",
+		"pilihan": {
+			"a": "Sungai Musi",
+			"b": "Sungai Amazon",
+			"c": "Sungai Nil",
+			"d": "Sungai Kapuas"
+		},
+		"jawaban_benar": {
+			"c": "Sungai Nil."
+		}
+	},
+	{
+		"soal": "Berapa banyak benua di dunia?",
+		"pilihan": {
+			"a": "9",
+			"b": "7",
+			"c": "6",
+			"d": "8"
+		},
+		"jawaban_benar": {
+			"b": "7"
+		}
+	},
+	{
+		"soal": "Apa nama samudera terbesar di dunia?",
+		"pilihan": {
+			"a": "Pasifik",
+			"b": "Hindia",
+			"c": "Atlantik",
+			"d": "Antartika"
+		},
+		"jawaban_benar": {
+			"a": "Pasifik"
+		}
+	},
+	{
+		"soal": "Apa yang merupakan simbol kimia untuk emas?",
+		"pilihan": {
+			"a": "Au",
+			"b": "Al",
+			"c": "Ad",
+			"d": "Fe"
+		},
+		"jawaban_benar": {
+			"a": "Au"
+		}
+	},
+	{
+		"soal": "Apa warna bendera negara Amerika Serikat?",
+		"pilihan": {
+			"a": "Merah, putih",
+			"b": "Merah, putih, dan biru",
+			"c": "Merah, putih, dan kuning",
+			"d": "Merah, putih, dan ungu"
+		},
+		"jawaban_benar": {
+			"b": "Merah, putih, dan biru."
+		}
+	},
+	{
+		"soal": "Apa nama planet ketujuh dari matahari? ",
+		"pilihan": {
+			"a": "Pluto",
+			"b": "Uranus",
+			"c": "Venus",
+			"d": "Uranus"
+		},
+		"jawaban_benar": {
+			"d": "Uranus"
+		}
+	}
+]
