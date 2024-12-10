@@ -72020,5 +72020,21 @@
         ],
         "description": "-",
         "filtered": true
+    },
+    {
+        "name": "Anya Forger",
+        "waifuurl": [
+            "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdb/Anya%20SpyxFamily.jpg"
+        ],
+        "waifuid": "waifu_2024_29290",
+        "difficulty": "hard",
+        "rcrystal": 96,
+        "source": "Spy X Family",
+        "charisma_level": 397,
+        "tags": [
+            "uncategorized"
+        ],
+        "description": "-",
+        "filtered": true
     }
 ]
