@@ -1,0 +1,6865 @@
+[
+    {
+        "name": "Sword Art Online",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "category": "Isekai",
+        "release_date": "2012-07-07"
+    },
+    {
+        "name": "Re:Zero",
+        "genres": [
+            "Drama",
+            "Fantasy"
+        ],
+        "category": "Isekai",
+        "release_date": "2016-04-04"
+    },
+    {
+        "name": "Attack on Titan",
+        "genres": [
+            "Action",
+            "Mystery"
+        ],
+        "category": "Shonen",
+        "release_date": "2013-04-07"
+    },
+    {
+        "name": "Your Name",
+        "genres": [
+            "Romance",
+            "Supernatural"
+        ],
+        "category": "Slice of Life",
+        "release_date": "2016-08-26"
+    },
+    {
+        "name": "Yume Tsukai",
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Slice of Life"
+        ],
+        "category": "TV",
+        "release_date": "2006-04-09"
+    },
+    {
+        "name": "Persona 5 the Animation TV Specials",
+        "genres": [
+            "Action",
+            "Supernatural"
+        ],
+        "category": "TV Special",
+        "release_date": "2018-12-31"
+    },
+    {
+        "name": "Saru Kani Gassen (Yokoku)",
+        "genres": [],
+        "category": "ONA",
+        "release_date": "2012-07-31"
+    },
+    {
+        "name": "Yume Hakonda Randoseru",
+        "genres": [
+            "Slice of Life"
+        ],
+        "category": "Music",
+        "release_date": "2017-02-02"
+    },
+    {
+        "name": "Knyacki!",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "category": "TV Special",
+        "release_date": "1995-04-07"
+    },
+    {
+        "name": "Shinkalion: Change the World - Ushinawareta Kioku",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "category": "TV Special",
+        "release_date": "2024-07-07"
+    },
+    {
+        "name": "Mayi He Da Xiang",
+        "genres": [],
+        "category": "Movie",
+        "release_date": "1987-01-01"
+    },
+    {
+        "name": "Wondance",
+        "genres": [
+            "Sports"
+        ],
+        "category": "TV",
+        "release_date": "2025-01-01"
+    },
+    {
+        "name": "Chaonu Wawa",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2006-01-01"
+    },
+    {
+        "name": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo: Maguro no Notta Keikan",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "category": "TV Special",
+        "release_date": "2005-01-02"
+    },
+    {
+        "name": "Saraba Seishun",
+        "genres": [],
+        "category": "Music",
+        "release_date": "1975-06-04"
+    },
+    {
+        "name": "Pop",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "Movie",
+        "release_date": "1974-01-01"
+    },
+    {
+        "name": "Nazo no Kanojo X",
+        "genres": [
+            "Romance"
+        ],
+        "category": "TV",
+        "release_date": "2012-04-08"
+    },
+    {
+        "name": "Love All Play",
+        "genres": [
+            "Sports"
+        ],
+        "category": "TV",
+        "release_date": "2022-04-02"
+    },
+    {
+        "name": "Sore Ike! Anpanman: Kaiketsu Naganegiman to Doremi-hime",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "2003-07-12"
+    },
+    {
+        "name": "Shendao Dizun",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2024-10-22"
+    },
+    {
+        "name": "Dubu Xinghai",
+        "genres": [
+            "Sci-Fi"
+        ],
+        "category": "ONA",
+        "release_date": "2019-01-01"
+    },
+    {
+        "name": "Wu Geng Ji 4th Season Part 2",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Supernatural"
+        ],
+        "category": "ONA",
+        "release_date": "2023-01-03"
+    },
+    {
+        "name": "Shiguang Dailiren II",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Suspense"
+        ],
+        "category": "ONA",
+        "release_date": "2023-07-14"
+    },
+    {
+        "name": "Dirty Pair: The Movie",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "category": "Movie",
+        "release_date": "1987-03-14"
+    },
+    {
+        "name": "Oegyedwaeji Pipi",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2014-01-01"
+    },
+    {
+        "name": "Xia Chong Guo",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2013-01-01"
+    },
+    {
+        "name": "Fukenkou Shakai",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2021-12-19"
+    },
+    {
+        "name": "Jinzou Konchuu Kabutoborg VxV",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2006-10-05"
+    },
+    {
+        "name": "Kamen Rider Fourze x Crayon Shin-chan",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "category": "Special",
+        "release_date": "2012-04-13"
+    },
+    {
+        "name": "Kirakira\u2606Precure A La Mode Movie: Paritto! Omoide no Mille-Feuille!",
+        "genres": [
+            "Action",
+            "Slice of Life"
+        ],
+        "category": "Movie",
+        "release_date": "2017-10-28"
+    },
+    {
+        "name": "Uzaki-chan wa Asobitai!",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "category": "TV",
+        "release_date": "2020-07-10"
+    },
+    {
+        "name": "Midori no Neko",
+        "genres": [
+            "Mystery"
+        ],
+        "category": "OVA",
+        "release_date": "1989-07-01"
+    },
+    {
+        "name": "Xing Mao Lixian Ji: Shenhua Pian",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2009-01-01"
+    },
+    {
+        "name": "Coffee Ikaga deshou",
+        "genres": [
+            "Gourmet",
+            "Slice of Life"
+        ],
+        "category": "ONA",
+        "release_date": "2018-08-24"
+    },
+    {
+        "name": "Kengan Ashura Season 2",
+        "genres": [
+            "Action"
+        ],
+        "category": "ONA",
+        "release_date": "2023-09-21"
+    },
+    {
+        "name": "Shi Er Shengxiao",
+        "genres": [],
+        "category": "TV",
+        "release_date": "1993-01-01"
+    },
+    {
+        "name": "Biaozhun Guige Zhanshi",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2024-11-03"
+    },
+    {
+        "name": "High Score Girl",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "category": "TV",
+        "release_date": "2018-07-14"
+    },
+    {
+        "name": "Cike Nieyinniang Qianchuan",
+        "genres": [
+            "Action"
+        ],
+        "category": "Movie",
+        "release_date": "2015-08-20"
+    },
+    {
+        "name": "Fushigi Dagashiya: Zenitendou",
+        "genres": [
+            "Mystery"
+        ],
+        "category": "TV",
+        "release_date": "2020-09-08"
+    },
+    {
+        "name": "Kinnikuman: Gyakushuu! Uchuu Kakure Choujin",
+        "genres": [
+            "Comedy",
+            "Sports"
+        ],
+        "category": "Movie",
+        "release_date": "1985-07-13"
+    },
+    {
+        "name": "Re: Cutie Honey",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Girls Love",
+            "Sci-Fi",
+            "Ecchi"
+        ],
+        "category": "OVA",
+        "release_date": "2004-07-24"
+    },
+    {
+        "name": "Duel Masters Cross Shock",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2010-04-03"
+    },
+    {
+        "name": "Huyao Xiao Hongniang: Mu Tiancheng",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Supernatural"
+        ],
+        "category": "ONA",
+        "release_date": "2020-12-11"
+    },
+    {
+        "name": "Zoku Oujo & Onna Kishi W Do Gehin Roshutsu: Chijoku no Misemono Dorei",
+        "genres": [
+            "Hentai"
+        ],
+        "category": "OVA",
+        "release_date": "2021-10-15"
+    },
+    {
+        "name": "Di Ling Qu: Loulan Wanjie Pian",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2019-02-25"
+    },
+    {
+        "name": "Wo Jiao MT 6th Season",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2013-01-01"
+    },
+    {
+        "name": "Futari wa Precure: Max Heart",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "2005-02-06"
+    },
+    {
+        "name": "Meta",
+        "genres": [
+            "Sci-Fi"
+        ],
+        "category": "Music",
+        "release_date": "2024-10-16"
+    },
+    {
+        "name": "Tennis no Oujisama: Zenkoku Taikai-hen",
+        "genres": [
+            "Sports"
+        ],
+        "category": "OVA",
+        "release_date": "2006-03-24"
+    },
+    {
+        "name": "Nakazaki Tatsuya Super Gag Theater I",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "Special",
+        "release_date": "1994-01-16"
+    },
+    {
+        "name": "Lupin III: Part III",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "1984-03-03"
+    },
+    {
+        "name": "Shounen Sunday CM: InuYasha-hen",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "category": "CM",
+        "release_date": "1996-11-13"
+    },
+    {
+        "name": "Bubble Bubble Cook",
+        "genres": [
+            "Gourmet"
+        ],
+        "category": "TV",
+        "release_date": "2010-03-01"
+    },
+    {
+        "name": "Just Awake",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "category": "Music",
+        "release_date": "2012-05-07"
+    },
+    {
+        "name": "Nige Jouzu no Wakagimi 2nd Season",
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Qi Qu Da Shijie",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2011-01-01"
+    },
+    {
+        "name": "Yuan Yuan He Ji Qi Ren",
+        "genres": [],
+        "category": "Movie",
+        "release_date": "1980-01-01"
+    },
+    {
+        "name": "Takt Op. Destiny",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2021-10-06"
+    },
+    {
+        "name": "Kirepapa.",
+        "genres": [
+            "Boys Love",
+            "Comedy",
+            "Drama",
+            "Erotica"
+        ],
+        "category": "OVA",
+        "release_date": "2008-01-25"
+    },
+    {
+        "name": "Meitantei Conan Movie 14: Tenkuu no Lost Ship",
+        "genres": [
+            "Action",
+            "Mystery"
+        ],
+        "category": "Movie",
+        "release_date": "2010-04-17"
+    },
+    {
+        "name": "Tele\u25efPotion",
+        "genres": [
+            "Adventure",
+            "Avant Garde"
+        ],
+        "category": "Music",
+        "release_date": "2014-02-14"
+    },
+    {
+        "name": "Gundam UC x Nike SB",
+        "genres": [],
+        "category": "CM",
+        "release_date": "2021-09-21"
+    },
+    {
+        "name": "Ppungppungppangppang Bubumaen",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "2023-02-27"
+    },
+    {
+        "name": "Kimi ni Todoke: Digest Eizou",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "category": "ONA",
+        "release_date": "2023-12-30"
+    },
+    {
+        "name": "Star Wars: Visions Volume 3",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "category": "ONA",
+        "release_date": "2025-01-01"
+    },
+    {
+        "name": "Kono Kaisha... Nanika Okashii!",
+        "genres": [
+            "Hentai"
+        ],
+        "category": "ONA",
+        "release_date": "2021-09-17"
+    },
+    {
+        "name": "Ba Bi Na Zha Cheng de Chuanshuo",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "2024-02-23"
+    },
+    {
+        "name": "Kantai Collection: KanColle",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2015-01-08"
+    },
+    {
+        "name": "Fastening Days 4",
+        "genres": [],
+        "category": "ONA",
+        "release_date": "2019-12-05"
+    },
+    {
+        "name": "Boukyaku Battery (TV) 2nd Season",
+        "genres": [
+            "Comedy",
+            "Sports"
+        ],
+        "category": "TV",
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Manga Nihonshi (NHK Han)",
+        "genres": [],
+        "category": "TV",
+        "release_date": "1992-04-06"
+    },
+    {
+        "name": "Kita e: Pure Session",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2000-05-31"
+    },
+    {
+        "name": "Tarepanda",
+        "genres": [
+            "Award Winning"
+        ],
+        "category": "OVA",
+        "release_date": "2000-07-25"
+    },
+    {
+        "name": "Megami Paradise",
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Ecchi"
+        ],
+        "category": "OVA",
+        "release_date": "1995-06-07"
+    },
+    {
+        "name": "Youyu Bi",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "Movie",
+        "release_date": "2015-03-09"
+    },
+    {
+        "name": "Kujira no Akubi",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2011-02-02"
+    },
+    {
+        "name": "Ranma \u00bd: Tendou-ke no Oyobidenai Yatsura!",
+        "genres": [
+            "Comedy",
+            "Slice of Life"
+        ],
+        "category": "Special",
+        "release_date": "1992-08-30"
+    },
+    {
+        "name": "Sono Mukou no Mukougawa",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2005-03-19"
+    },
+    {
+        "name": "Kii-chan Watashi, Umarete Kite Yokatta!",
+        "genres": [
+            "Drama"
+        ],
+        "category": "OVA",
+        "release_date": "2002-01-01"
+    },
+    {
+        "name": "Ai Jingling Lelia",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2017-10-01"
+    },
+    {
+        "name": "Ame to Cappuccino",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2019-08-01"
+    },
+    {
+        "name": "\u200bItsudemo Hohoemi wo",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2002-01-01"
+    },
+    {
+        "name": "Wanwan Train Doko e Iku?",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "ONA",
+        "release_date": "2024-04-24"
+    },
+    {
+        "name": "Kuiba Zhi Shu Tu",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2021-01-17"
+    },
+    {
+        "name": "Manga de Wakaru! Fate/Grand Order Tankoubon CMs",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "CM",
+        "release_date": "2017-07-29"
+    },
+    {
+        "name": "Mahou Shoujo Madoka\u2605Magica Movie 1: Hajimari no Monogatari",
+        "genres": [
+            "Drama",
+            "Suspense"
+        ],
+        "category": "Movie",
+        "release_date": "2012-10-06"
+    },
+    {
+        "name": "Jjangttung-ine Ttonghwangto",
+        "genres": [],
+        "category": "Movie",
+        "release_date": "2023-01-01"
+    },
+    {
+        "name": "Onna Senshi Efe & Jira: Gude no Monshou",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "1990-06-23"
+    },
+    {
+        "name": "Wu Dong Qian Kun 5th Season",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2025-01-01"
+    },
+    {
+        "name": "Fengkuang Douniu Chang",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "2019-10-03"
+    },
+    {
+        "name": "Neko to Nezumi",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "Movie",
+        "release_date": "1917-07-04"
+    },
+    {
+        "name": "Fate/stay night TV Reproduction",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Romance"
+        ],
+        "category": "OVA",
+        "release_date": "2010-01-17"
+    },
+    {
+        "name": "Tototo no Uta",
+        "genres": [],
+        "category": "Music",
+        "release_date": "1966-02-10"
+    },
+    {
+        "name": "Taidada",
+        "genres": [
+            "Supernatural"
+        ],
+        "category": "Music",
+        "release_date": "2024-12-05"
+    },
+    {
+        "name": "Boku wa Zoukin",
+        "genres": [
+            "Drama"
+        ],
+        "category": "Music",
+        "release_date": "2018-03-10"
+    },
+    {
+        "name": "D4DJ Short Anime",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "ONA",
+        "release_date": "2023-10-25"
+    },
+    {
+        "name": "Rocket Boy & Toro",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2008-01-01"
+    },
+    {
+        "name": "Eomma Katuri the Movie: Dosilo Gan Katuri Gajog",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "2022-09-08"
+    },
+    {
+        "name": "Majo no Furo Life",
+        "genres": [
+            "Slice of Life"
+        ],
+        "category": "PV",
+        "release_date": "2024-07-31"
+    },
+    {
+        "name": "Kaijuu Sekai Seifuku (TV)",
+        "genres": [
+            "Slice of Life"
+        ],
+        "category": "TV",
+        "release_date": "2025-04-01"
+    },
+    {
+        "name": "Zhandou Wang Zhi Jufeng Zhan Hun 2",
+        "genres": [
+            "Action"
+        ],
+        "category": "TV",
+        "release_date": "2013-10-01"
+    },
+    {
+        "name": "Maid of the Dead",
+        "genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "category": "ONA",
+        "release_date": "2013-10-07"
+    },
+    {
+        "name": "Rolling\u2606Girls: Chibi\u2606Rolling\u2606Girls Korokoro Gekijou",
+        "genres": [
+            "Slice of Life"
+        ],
+        "category": "Special",
+        "release_date": "2015-03-18"
+    },
+    {
+        "name": "Bleach: Sennen Kessen-hen",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Supernatural"
+        ],
+        "category": "TV",
+        "release_date": "2022-10-11"
+    },
+    {
+        "name": "Oretachi Majikou Destroy",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2021-04-01"
+    },
+    {
+        "name": "Saiakuma",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2013-12-16"
+    },
+    {
+        "name": "Porong Porong Pororo 6",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2016-03-02"
+    },
+    {
+        "name": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "category": "TV",
+        "release_date": "2023-10-08"
+    },
+    {
+        "name": "Semi wa Magic Cube 2nd Season",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2020-03-30"
+    },
+    {
+        "name": "Kabita Mikan no Santa Claus",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "ONA",
+        "release_date": "2009-12-26"
+    },
+    {
+        "name": "Visual Prison",
+        "genres": [
+            "Supernatural"
+        ],
+        "category": "TV",
+        "release_date": "2021-10-09"
+    },
+    {
+        "name": "Bakebake Night!",
+        "genres": [
+            "Supernatural"
+        ],
+        "category": "Music",
+        "release_date": "2019-10-01"
+    },
+    {
+        "name": "Kagome",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2019-11-15"
+    },
+    {
+        "name": "Xiao Hu Dun Da Yingxiong",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "2022-02-01"
+    },
+    {
+        "name": "Full Moon wo Sagashite: Kawaii Kawaii Daibouken",
+        "genres": [
+            "Comedy",
+            "Fantasy",
+            "Supernatural"
+        ],
+        "category": "Special",
+        "release_date": "2002-11-01"
+    },
+    {
+        "name": "Uchuujin Muumuu",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2025-04-01"
+    },
+    {
+        "name": "Obatalian",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "TV Special",
+        "release_date": "1990-06-03"
+    },
+    {
+        "name": "Shuumatsu no Walk\u00fcre II",
+        "genres": [
+            "Action",
+            "Drama",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2023-01-26"
+    },
+    {
+        "name": "Miao Xingren",
+        "genres": [],
+        "category": "TV",
+        "release_date": "Unknown"
+    },
+    {
+        "name": "I''s Pure",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Ecchi"
+        ],
+        "category": "OVA",
+        "release_date": "2005-12-09"
+    },
+    {
+        "name": "VSPO!",
+        "genres": [
+            "Sports"
+        ],
+        "category": null,
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Bokura wa Ikimono Dakara",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2024-08-01"
+    },
+    {
+        "name": "Echoes of Silence",
+        "genres": [
+            "Sci-Fi"
+        ],
+        "category": "Music",
+        "release_date": "2021-12-21"
+    },
+    {
+        "name": "Amagami SS+ Plus",
+        "genres": [
+            "Romance"
+        ],
+        "category": "TV",
+        "release_date": "2012-01-06"
+    },
+    {
+        "name": "Ai Tenshi Densetsu Wedding Peach",
+        "genres": [
+            "Comedy",
+            "Fantasy",
+            "Romance"
+        ],
+        "category": "TV",
+        "release_date": "1995-04-05"
+    },
+    {
+        "name": "Ikenie (Music)",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "Music",
+        "release_date": "2024-08-01"
+    },
+    {
+        "name": "Doraemon Movie 12: Nobita no Dorabian Nights",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "1991-03-09"
+    },
+    {
+        "name": "Omocha Bako Series Dai 3-wa: Ehon 1936-nen",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "1934-04-13"
+    },
+    {
+        "name": "Wu Buxiang",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2009-11-01"
+    },
+    {
+        "name": "Yuusha-chan no Bouken wa Owatteshimatta!",
+        "genres": [
+            "Hentai"
+        ],
+        "category": "OVA",
+        "release_date": "2025-02-28"
+    },
+    {
+        "name": "Shanhai Chuanqi",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2024-03-18"
+    },
+    {
+        "name": "Hadaka no Yume",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2023-02-10"
+    },
+    {
+        "name": "Dore Dore no Uta",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2005-11-16"
+    },
+    {
+        "name": "Zhanshen Lianmeng",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "category": "ONA",
+        "release_date": "2024-08-20"
+    },
+    {
+        "name": "Kankin Kuiki Level X 2nd Season",
+        "genres": [
+            "Horror",
+            "Mystery"
+        ],
+        "category": "TV",
+        "release_date": "2025-02-22"
+    },
+    {
+        "name": "Xinxin",
+        "genres": [],
+        "category": "Special",
+        "release_date": "2020-02-14"
+    },
+    {
+        "name": "Tetsu no Ko Kanahiru",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "2007-08-04"
+    },
+    {
+        "name": "Paradise",
+        "genres": [
+            "Adventure"
+        ],
+        "category": "Movie",
+        "release_date": "2013-01-01"
+    },
+    {
+        "name": "Golden Time",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "category": "TV",
+        "release_date": "2013-10-04"
+    },
+    {
+        "name": "Non-Reflection",
+        "genres": [
+            "Sci-Fi"
+        ],
+        "category": "Music",
+        "release_date": "2024-01-18"
+    },
+    {
+        "name": "Sore Ike! Anpanman: Kyouryuu Nosshii no Daibouken",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "1993-07-17"
+    },
+    {
+        "name": "Hokuto no Ken: Raoh Gaiden Gekitou-hen",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Romance"
+        ],
+        "category": "Movie",
+        "release_date": "2007-04-28"
+    },
+    {
+        "name": "Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "2019-01-12"
+    },
+    {
+        "name": "Working'!!",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "2011-10-01"
+    },
+    {
+        "name": "Rara Maji",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2017-01-27"
+    },
+    {
+        "name": "Shika to Kanta",
+        "genres": [
+            "Adventure"
+        ],
+        "category": "OVA",
+        "release_date": "1992-04-01"
+    },
+    {
+        "name": "Highschool of the Dead: Drifters of the Dead",
+        "genres": [
+            "Comedy",
+            "Supernatural",
+            "Ecchi"
+        ],
+        "category": "OVA",
+        "release_date": "2011-04-26"
+    },
+    {
+        "name": "Kung Fu Long: Yuetuan Tuan",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2016-01-01"
+    },
+    {
+        "name": "Trapp Ikka Monogatari",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "category": "TV",
+        "release_date": "1991-01-13"
+    },
+    {
+        "name": "Kishin Houkou Demonbane (TV) Specials",
+        "genres": [
+            "Sci-Fi",
+            "Supernatural"
+        ],
+        "category": "Special",
+        "release_date": "2006-08-25"
+    },
+    {
+        "name": "Futatsu no Spica",
+        "genres": [
+            "Drama",
+            "Sci-Fi",
+            "Supernatural"
+        ],
+        "category": "TV",
+        "release_date": "2003-11-01"
+    },
+    {
+        "name": "D.I.C.E.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2005-12-06"
+    },
+    {
+        "name": "Ajin ga Osuki nan Desu ne",
+        "genres": [
+            "Hentai"
+        ],
+        "category": "OVA",
+        "release_date": "2025-03-28"
+    },
+    {
+        "name": "Kuaile Tuo Mo Ta: Xiao Zhen Le Fantian",
+        "genres": [
+            "Comedy",
+            "Slice of Life"
+        ],
+        "category": "TV",
+        "release_date": "2012-01-01"
+    },
+    {
+        "name": "Gorilla no Mentama",
+        "genres": [],
+        "category": "Music",
+        "release_date": "1989-12-04"
+    },
+    {
+        "name": "Shizi",
+        "genres": [],
+        "category": "TV",
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Midori no Makibao: Owaranai Ch\u043eusen!!",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "Special",
+        "release_date": "2022-07-27"
+    },
+    {
+        "name": "In the Film",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "ONA",
+        "release_date": "2016-05-07"
+    },
+    {
+        "name": "Anime Tenchou x Touhou Project",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "Special",
+        "release_date": "2010-11-20"
+    },
+    {
+        "name": "Yi Nian Yong Heng Xiao Juchang",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2021-03-03"
+    },
+    {
+        "name": "Kuzuri",
+        "genres": [
+            "Sci-Fi"
+        ],
+        "category": "Music",
+        "release_date": "2024-10-23"
+    },
+    {
+        "name": "Changzheng Xianfeng: Xingguo Zhi Jian",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2021-10-18"
+    },
+    {
+        "name": "Evolution",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2023-09-18"
+    },
+    {
+        "name": "Eyedrops",
+        "genres": [
+            "Sci-Fi"
+        ],
+        "category": "CM",
+        "release_date": "2016-09-26"
+    },
+    {
+        "name": "Mole Zhuang Yuan 3: Mohuan Lieche Da Maoxian",
+        "genres": [],
+        "category": "Movie",
+        "release_date": "2015-02-05"
+    },
+    {
+        "name": "Charlotte",
+        "genres": [
+            "Drama"
+        ],
+        "category": "TV",
+        "release_date": "2015-07-05"
+    },
+    {
+        "name": "Doraemon Movie 07: Nobita to Tetsujin Heidan",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "1986-03-15"
+    },
+    {
+        "name": "Mieruko-chan",
+        "genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "category": "TV",
+        "release_date": "2021-10-03"
+    },
+    {
+        "name": "Yuanshen: Weixing zhi Lu",
+        "genres": [
+            "Drama",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2024-05-24"
+    },
+    {
+        "name": "Hanhua Riji 4th Season",
+        "genres": [
+            "Comedy",
+            "Supernatural"
+        ],
+        "category": "ONA",
+        "release_date": "2024-03-10"
+    },
+    {
+        "name": "Chou Kidougai-ku: Kashiwa-no-Ha",
+        "genres": [
+            "Action"
+        ],
+        "category": "ONA",
+        "release_date": "2015-09-30"
+    },
+    {
+        "name": "Okusama wa Joshikousei",
+        "genres": [
+            "Hentai"
+        ],
+        "category": "OVA",
+        "release_date": "2001-12-21"
+    },
+    {
+        "name": "Kamen Rider Den-O: Imagin Anime",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "category": "OVA",
+        "release_date": "2008-04-25"
+    },
+    {
+        "name": "Gintama on Theater 2D: Baragaki-hen",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "category": "Movie",
+        "release_date": "2023-11-10"
+    },
+    {
+        "name": "Poketoon (2024)",
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "category": "ONA",
+        "release_date": "2024-09-18"
+    },
+    {
+        "name": "Ji Jia Shou Shen",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "category": "TV",
+        "release_date": "2010-01-01"
+    },
+    {
+        "name": "Blade & Soul Specials",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "Special",
+        "release_date": "2014-06-25"
+    },
+    {
+        "name": "Kidou Senshi Gundam: Cucuruz Doan no Shima",
+        "genres": [
+            "Action"
+        ],
+        "category": "Movie",
+        "release_date": "2022-06-03"
+    },
+    {
+        "name": "Qiyi De Menggu Ma",
+        "genres": [],
+        "category": "Movie",
+        "release_date": "1989-01-01"
+    },
+    {
+        "name": "One Piece: Dai Tettei Kaibou! Kouzuki Oden Densetsu!",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "TV Special",
+        "release_date": "2022-06-26"
+    },
+    {
+        "name": "Sousou no Frieren 2nd Season",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Yu Sheng",
+        "genres": [
+            "Drama",
+            "Gourmet"
+        ],
+        "category": "Movie",
+        "release_date": "2019-04-29"
+    },
+    {
+        "name": "Himawari!!",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "category": "TV",
+        "release_date": "2007-01-07"
+    },
+    {
+        "name": "Yowamushi Pedal: Re:Road",
+        "genres": [
+            "Sports"
+        ],
+        "category": "Movie",
+        "release_date": "2015-06-12"
+    },
+    {
+        "name": "Kageki Shoujo!!",
+        "genres": [
+            "Drama"
+        ],
+        "category": "TV",
+        "release_date": "2021-07-04"
+    },
+    {
+        "name": "Sacred Seven: Shirogane no Tsubasa",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "category": "Movie",
+        "release_date": "2012-01-07"
+    },
+    {
+        "name": "Komi-san wa, Comyushou desu.",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "2021-10-07"
+    },
+    {
+        "name": "Danna ga Nani wo Itteiru ka Wakaranai Ken",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "category": "TV",
+        "release_date": "2014-10-03"
+    },
+    {
+        "name": "Lao Hu Xue Yi",
+        "genres": [],
+        "category": "Movie",
+        "release_date": "1982-01-01"
+    },
+    {
+        "name": "Mimi wo Sumaseba",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "category": "Movie",
+        "release_date": "1995-07-15"
+    },
+    {
+        "name": "Neko wa Ikite Iru",
+        "genres": [
+            "Drama"
+        ],
+        "category": "Movie",
+        "release_date": "1975-06-21"
+    },
+    {
+        "name": "Ribbon Musubi no Wakuwaku",
+        "genres": [],
+        "category": "Music",
+        "release_date": "1990-10-01"
+    },
+    {
+        "name": "Hitozuma Cosplay Kissa",
+        "genres": [
+            "Hentai"
+        ],
+        "category": "OVA",
+        "release_date": "2004-03-25"
+    },
+    {
+        "name": "Usuzumizakura: Garo",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Supernatural"
+        ],
+        "category": "Movie",
+        "release_date": "2018-10-06"
+    },
+    {
+        "name": "Time-Patrol Bon: Fujiko F. Fujio Anime Special - SF Adventure",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "category": "TV Special",
+        "release_date": "1989-10-14"
+    },
+    {
+        "name": "Bamboo Blade: Fanfu-Fufe-Fo",
+        "genres": [
+            "Comedy",
+            "Sports"
+        ],
+        "category": "Special",
+        "release_date": "2008-04-23"
+    },
+    {
+        "name": "Osamu to Musashi",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "1994-04-25"
+    },
+    {
+        "name": "Romelia Senki",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "category": null,
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Hong Qiqiu",
+        "genres": [],
+        "category": "Movie",
+        "release_date": "1989-01-01"
+    },
+    {
+        "name": "Fake",
+        "genres": [
+            "Boys Love",
+            "Comedy",
+            "Mystery"
+        ],
+        "category": "OVA",
+        "release_date": "1998-04-21"
+    },
+    {
+        "name": "Imokawa Mukuzo: Tsuri no Maki",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "Movie",
+        "release_date": "1917-09-09"
+    },
+    {
+        "name": "Netsu Netsu Necchuushou",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2024-07-02"
+    },
+    {
+        "name": "New Jersey and Enterprise's Beach Vacation",
+        "genres": [
+            "Slice of Life"
+        ],
+        "category": "ONA",
+        "release_date": "2024-08-12"
+    },
+    {
+        "name": "Salaryman Kintarou",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "category": "TV",
+        "release_date": "2001-02-18"
+    },
+    {
+        "name": "Otsu Charisma! Bounenkai",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2021-12-13"
+    },
+    {
+        "name": "Akachan",
+        "genres": [],
+        "category": "Music",
+        "release_date": "1995-06-02"
+    },
+    {
+        "name": "Sai Er Hao Season 3: Guangming De Jiushu",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2014-05-16"
+    },
+    {
+        "name": "Doku Tenshi no Shippo",
+        "genres": [
+            "Comedy",
+            "Fantasy",
+            "Romance"
+        ],
+        "category": "Special",
+        "release_date": "2002-01-25"
+    },
+    {
+        "name": "Mugyutto! Black Clover",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2019-07-01"
+    },
+    {
+        "name": "Rakudai Majo: Fuuka to Yami no Majo",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "2023-03-31"
+    },
+    {
+        "name": "Jeil Pap",
+        "genres": [],
+        "category": "CM",
+        "release_date": "2024-07-15"
+    },
+    {
+        "name": "Bavi Stock",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "category": "OVA",
+        "release_date": "1985-12-10"
+    },
+    {
+        "name": "Rhythmens",
+        "genres": [
+            "Slice of Life"
+        ],
+        "category": "ONA",
+        "release_date": "2021-05-28"
+    },
+    {
+        "name": "Koisuru Tenshi Angelique: Kagayaki no Ashita",
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Romance"
+        ],
+        "category": "TV",
+        "release_date": "2007-01-06"
+    },
+    {
+        "name": "Haruniwa Ie no 3 Nin-me",
+        "genres": [
+            "Comedy",
+            "Slice of Life",
+            "Supernatural"
+        ],
+        "category": "TV",
+        "release_date": "1998-01-23"
+    },
+    {
+        "name": "Zui Zui Zukkorobashi",
+        "genres": [],
+        "category": "Music",
+        "release_date": "1968-10-03"
+    },
+    {
+        "name": "Anti-Hero Generations",
+        "genres": [
+            "Sci-Fi"
+        ],
+        "category": "ONA",
+        "release_date": "2022-05-02"
+    },
+    {
+        "name": "Ali Diu Dongxi de Wawa",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2012-08-31"
+    },
+    {
+        "name": "Black Jack: Futari no Kuroi Isha - Manner Movie",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "Movie",
+        "release_date": "2005-12-17"
+    },
+    {
+        "name": "Xiamen Zhi Xia",
+        "genres": [
+            "Slice of Life"
+        ],
+        "category": "TV",
+        "release_date": "2019-01-01"
+    },
+    {
+        "name": "Running Boy: Star Soldier no Himitsu",
+        "genres": [
+            "Sci-Fi"
+        ],
+        "category": "Movie",
+        "release_date": "1986-07-20"
+    },
+    {
+        "name": "Xiong Chumo: Dongri Le Fantian",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "2015-07-10"
+    },
+    {
+        "name": "Koutetsu Tenshi Kurumi",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "category": "TV",
+        "release_date": "1999-10-05"
+    },
+    {
+        "name": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Romance"
+        ],
+        "category": "TV",
+        "release_date": "2024-07-10"
+    },
+    {
+        "name": "Yoroiden Samurai Troopers Kikoutei Densetsu",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "OVA",
+        "release_date": "1989-10-08"
+    },
+    {
+        "name": "Asobo Toy-chan",
+        "genres": [],
+        "category": "TV",
+        "release_date": "1994-09-05"
+    },
+    {
+        "name": "Huckleberry no Bouken (Movie)",
+        "genres": [
+            "Adventure",
+            "Drama"
+        ],
+        "category": "Movie",
+        "release_date": "1991-08-16"
+    },
+    {
+        "name": "One Piece 3D2Y: Ace no shi wo Koete! Luffy Nakama Tono Chikai",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "TV Special",
+        "release_date": "2014-08-30"
+    },
+    {
+        "name": "Pokemon: Pikachu no Natsumatsuri",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "Special",
+        "release_date": "2004-08-01"
+    },
+    {
+        "name": "Mamahaha no Tsurego ga Motokano datta Picture Drama",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "category": "ONA",
+        "release_date": "2022-02-14"
+    },
+    {
+        "name": "Niehime to Kemono no Ou",
+        "genres": [
+            "Fantasy",
+            "Romance"
+        ],
+        "category": "TV",
+        "release_date": "2023-04-20"
+    },
+    {
+        "name": "Pokemon Movie 08: Mew to Hadou no Yuusha Lucario",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "2005-07-16"
+    },
+    {
+        "name": "Net-juu no Susume",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "category": "TV",
+        "release_date": "2017-10-10"
+    },
+    {
+        "name": "Li'l Chillun'",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "OVA",
+        "release_date": "1989-01-01"
+    },
+    {
+        "name": "Kakumei no Wakaki Sora",
+        "genres": [
+            "Drama"
+        ],
+        "category": "OVA",
+        "release_date": "2010-03-01"
+    },
+    {
+        "name": "Jing Cui Xian Zun",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2022-01-18"
+    },
+    {
+        "name": "Sakura Taisen: New York",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "category": "OVA",
+        "release_date": "2007-04-04"
+    },
+    {
+        "name": "Ookina Furudokei (1973)",
+        "genres": [],
+        "category": "Music",
+        "release_date": "1973-06-18"
+    },
+    {
+        "name": "Xing Wushen Jue 2nd Season",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2022-06-24"
+    },
+    {
+        "name": "TANK S.W.A.T. 01",
+        "genres": [],
+        "category": "OVA",
+        "release_date": "2006-03-24"
+    },
+    {
+        "name": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO",
+        "genres": [
+            "Drama",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2019-04-02"
+    },
+    {
+        "name": "Shittakaburi Kaitsuburi",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2008-09-20"
+    },
+    {
+        "name": "Mutekiou Tri-Zenon",
+        "genres": [
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2000-10-14"
+    },
+    {
+        "name": "Sore Ike! Anpanman: Poppo-chan no Kirakira Christmas",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "TV Special",
+        "release_date": "2016-12-23"
+    },
+    {
+        "name": "Gakusen Toshi Asterisk 2nd Season",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy",
+            "Romance",
+            "Sci-Fi",
+            "Ecchi"
+        ],
+        "category": "TV",
+        "release_date": "2016-04-02"
+    },
+    {
+        "name": "Yababaina",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "Music",
+        "release_date": "2024-02-25"
+    },
+    {
+        "name": "Shiranai Koto Shiritai no? The Animation",
+        "genres": [
+            "Hentai"
+        ],
+        "category": "OVA",
+        "release_date": "2025-02-28"
+    },
+    {
+        "name": "Joou Heika no Petite Angie",
+        "genres": [
+            "Mystery"
+        ],
+        "category": "TV",
+        "release_date": "1977-12-13"
+    },
+    {
+        "name": "Inazuma Eleven: Chou Jigen Dream Match",
+        "genres": [
+            "Sports"
+        ],
+        "category": "Movie",
+        "release_date": "2014-06-13"
+    },
+    {
+        "name": "Funny Pets",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "2006-01-11"
+    },
+    {
+        "name": "Ryouma! The Prince of Tennis Shinsei Movie: Tennis no Oujisama",
+        "genres": [
+            "Sports"
+        ],
+        "category": "Movie",
+        "release_date": "2021-09-03"
+    },
+    {
+        "name": "Liang Bu Yi 2nd Season Small Theater",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "ONA",
+        "release_date": "2022-10-01"
+    },
+    {
+        "name": "Kono Aozora ni Yakusoku wo: Youkoso Tsugumi Ryou e",
+        "genres": [
+            "Romance"
+        ],
+        "category": "TV",
+        "release_date": "2007-04-04"
+    },
+    {
+        "name": "Mahou Yuugi 3D",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "OVA",
+        "release_date": "2001-12-29"
+    },
+    {
+        "name": "One Piece: Gyojin Tou-hen",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2024-11-03"
+    },
+    {
+        "name": "Karasu no Panya-san/Dorobou Gakkou",
+        "genres": [],
+        "category": "OVA",
+        "release_date": "1998-09-11"
+    },
+    {
+        "name": "Bo & To's",
+        "genres": [
+            "Slice of Life"
+        ],
+        "category": "ONA",
+        "release_date": "2016-01-01"
+    },
+    {
+        "name": "Machibouke (2017)",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2017-10-25"
+    },
+    {
+        "name": "Project Tokyo Dolls: Episode 0",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "category": "PV",
+        "release_date": "2017-06-05"
+    },
+    {
+        "name": "Xiao Zhuoma",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2008-01-01"
+    },
+    {
+        "name": "5-toubun no Hanayome*",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "category": "TV Special",
+        "release_date": "2024-12-24"
+    },
+    {
+        "name": "Practice for Henteko",
+        "genres": [
+            "Avant Garde",
+            "Ecchi"
+        ],
+        "category": "Movie",
+        "release_date": "2009-01-01"
+    },
+    {
+        "name": "Gaki Deka",
+        "genres": [
+            "Comedy",
+            "Ecchi"
+        ],
+        "category": "TV",
+        "release_date": "1989-10-06"
+    },
+    {
+        "name": "Kenda Master Ken (TV)",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "2022-04-01"
+    },
+    {
+        "name": "Aishang Ta de Liyou",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "category": "ONA",
+        "release_date": "2023-04-20"
+    },
+    {
+        "name": "Tenshi no Pants",
+        "genres": [],
+        "category": "Music",
+        "release_date": "1977-06-01"
+    },
+    {
+        "name": "Wo Shi Da Shenxian 3rd Season",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2024-10-28"
+    },
+    {
+        "name": "Jinshan Cheng Cai Qiu Hua Hui Yi Shi",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2022-01-31"
+    },
+    {
+        "name": "Gag Mensou",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "Movie",
+        "release_date": "1981-01-01"
+    },
+    {
+        "name": "Retronix Symphony",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "Music",
+        "release_date": "2011-10-26"
+    },
+    {
+        "name": "Chou Henshin Cosprayers vs. Ankoku Uchuu Shougun the Movie",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "category": "Movie",
+        "release_date": "2004-04-28"
+    },
+    {
+        "name": "Chocotto no Answer",
+        "genres": [
+            "Romance"
+        ],
+        "category": "Music",
+        "release_date": "2021-02-14"
+    },
+    {
+        "name": "Youki ni Utaeba",
+        "genres": [],
+        "category": "Music",
+        "release_date": "1964-12-11"
+    },
+    {
+        "name": "Ikkitousen: Dragon Destiny",
+        "genres": [
+            "Action",
+            "Ecchi"
+        ],
+        "category": "TV",
+        "release_date": "2007-02-26"
+    },
+    {
+        "name": "Chou Dendou Robo Tetsujin 28-gou FX",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "1992-04-05"
+    },
+    {
+        "name": "Dorei Maid Princess",
+        "genres": [
+            "Fantasy",
+            "Hentai"
+        ],
+        "category": "OVA",
+        "release_date": "2007-05-26"
+    },
+    {
+        "name": "Andersen",
+        "genres": [
+            "Romance"
+        ],
+        "category": "Music",
+        "release_date": "2023-09-15"
+    },
+    {
+        "name": "Long Ya Xing",
+        "genres": [],
+        "category": "Movie",
+        "release_date": "1981-01-01"
+    },
+    {
+        "name": "Summer is Over feat. Mai Anna",
+        "genres": [
+            "Avant Garde",
+            "Romance"
+        ],
+        "category": "Music",
+        "release_date": "2021-10-17"
+    },
+    {
+        "name": "Shin Angyo Onshi",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "2004-12-04"
+    },
+    {
+        "name": "Bannou Bunka Neko-Musume DASH!",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Romance",
+            "Sci-Fi",
+            "Ecchi"
+        ],
+        "category": "OVA",
+        "release_date": "1998-09-23"
+    },
+    {
+        "name": "Shin Dokonjou Gaeru: Dokonjou Yumemakura",
+        "genres": [
+            "Comedy",
+            "Slice of Life"
+        ],
+        "category": "Movie",
+        "release_date": "1982-03-20"
+    },
+    {
+        "name": "Keroro Gunsou",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2004-04-03"
+    },
+    {
+        "name": "Boku wa Tomodachi ga Sukunai",
+        "genres": [
+            "Comedy",
+            "Romance",
+            "Ecchi"
+        ],
+        "category": "TV",
+        "release_date": "2011-10-07"
+    },
+    {
+        "name": "Taikong Xiha Zu",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2002-12-04"
+    },
+    {
+        "name": "Salad Land",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2012-02-09"
+    },
+    {
+        "name": "Kaze no Sei",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "Movie",
+        "release_date": "2009-01-01"
+    },
+    {
+        "name": "Yongisanda",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2024-08-27"
+    },
+    {
+        "name": "Shuimu Ertong Chengzhang Juchang",
+        "genres": [],
+        "category": "TV",
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Do S na Seitokaichou-sama ga M Note ni Shihai Saremashita.",
+        "genres": [
+            "Hentai"
+        ],
+        "category": "OVA",
+        "release_date": "2018-01-26"
+    },
+    {
+        "name": "Masamune-kun no Revenge R",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "category": "TV",
+        "release_date": "2023-07-03"
+    },
+    {
+        "name": "World Destruction: Sekai Bokumetsu no Rokunin",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2008-07-08"
+    },
+    {
+        "name": "Saigo no Door wo Shimero!",
+        "genres": [
+            "Boys Love",
+            "Comedy",
+            "Drama",
+            "Erotica"
+        ],
+        "category": "OVA",
+        "release_date": "2007-03-23"
+    },
+    {
+        "name": "Dokonjo Gaeru Yanen",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "ONA",
+        "release_date": "2024-02-22"
+    },
+    {
+        "name": "Rilakkuma",
+        "genres": [
+            "Slice of Life"
+        ],
+        "category": null,
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Stand Up! Blaze Up!",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2020-02-22"
+    },
+    {
+        "name": "Something Great Chizu ni Nai Machi",
+        "genres": [
+            "Slice of Life"
+        ],
+        "category": "Movie",
+        "release_date": "2006-02-04"
+    },
+    {
+        "name": "GG Dou 2nd Season",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2016-01-01"
+    },
+    {
+        "name": "Xfit x One Piece",
+        "genres": [],
+        "category": "CM",
+        "release_date": "2016-02-21"
+    },
+    {
+        "name": "Enomoto The Animation",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "OVA",
+        "release_date": "2022-09-07"
+    },
+    {
+        "name": "Ooyukiumi no Kaina",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2023-01-12"
+    },
+    {
+        "name": "Mad Popcorn World!",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "Music",
+        "release_date": "2024-10-01"
+    },
+    {
+        "name": "Dororonpa!",
+        "genres": [
+            "Comedy",
+            "Supernatural"
+        ],
+        "category": "TV",
+        "release_date": "1991-04-08"
+    },
+    {
+        "name": "Pokemon",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "1997-04-01"
+    },
+    {
+        "name": "Yoru no Okite",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "Movie",
+        "release_date": "1995-01-01"
+    },
+    {
+        "name": "Uchuu Icchokusen",
+        "genres": [
+            "Fantasy",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "category": "Movie",
+        "release_date": "2010-10-05"
+    },
+    {
+        "name": "Ano Natsu de Matteru",
+        "genres": [
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2012-01-10"
+    },
+    {
+        "name": "Kenritsu Umisora Koukou Yakyuubu-in Yamashita Tarou-kun",
+        "genres": [
+            "Sports"
+        ],
+        "category": "OVA",
+        "release_date": "1988-09-23"
+    },
+    {
+        "name": "Cardcaptor Sakura",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "category": "TV",
+        "release_date": "1998-04-07"
+    },
+    {
+        "name": "One Piece Movie 03: Chinjuu-jima no Chopper Oukoku",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "2002-03-02"
+    },
+    {
+        "name": "Rekka no Honoo",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "category": "TV",
+        "release_date": "1997-07-19"
+    },
+    {
+        "name": "Koi no Hana Saita",
+        "genres": [],
+        "category": "Music",
+        "release_date": "1991-02-01"
+    },
+    {
+        "name": "Super Majingga 3",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "category": "Movie",
+        "release_date": "1982-12-18"
+    },
+    {
+        "name": "Kidou Keisatsu Patlabor: On Television",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "1989-10-11"
+    },
+    {
+        "name": "Ming Ji",
+        "genres": [
+            "Romance"
+        ],
+        "category": "ONA",
+        "release_date": "2007-04-23"
+    },
+    {
+        "name": "Ensoku Datta Hi",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "Movie",
+        "release_date": "2023-01-01"
+    },
+    {
+        "name": "Tougen Anki",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2025-07-01"
+    },
+    {
+        "name": "Ringo no Uta",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2003-10-01"
+    },
+    {
+        "name": "Ka Tu",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2024-11-30"
+    },
+    {
+        "name": "Manga Mitokoumon",
+        "genres": [],
+        "category": "TV",
+        "release_date": "1981-09-03"
+    },
+    {
+        "name": "Usagi to Kame no Koutsuu Anzen",
+        "genres": [
+            "Drama",
+            "Fantasy"
+        ],
+        "category": "OVA",
+        "release_date": "2008-01-01"
+    },
+    {
+        "name": "Umi Da! Funade Da! Nikoniko, Pun",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "1990-01-04"
+    },
+    {
+        "name": "Ling Qi 2",
+        "genres": [
+            "Action",
+            "Boys Love",
+            "Comedy",
+            "Supernatural"
+        ],
+        "category": "TV",
+        "release_date": "2018-02-23"
+    },
+    {
+        "name": "Kuro",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2005-12-01"
+    },
+    {
+        "name": "Windy",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2011-05-22"
+    },
+    {
+        "name": "Computer Obaachan",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "category": "Music",
+        "release_date": "1981-12-07"
+    },
+    {
+        "name": "Toaru Kagaku no Accelerator",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2019-07-12"
+    },
+    {
+        "name": "Cardfight!! Vanguard G",
+        "genres": [
+            "Action"
+        ],
+        "category": "TV",
+        "release_date": "2014-10-26"
+    },
+    {
+        "name": "White Fantasy",
+        "genres": [
+            "Fantasy",
+            "Sports"
+        ],
+        "category": "Special",
+        "release_date": "2014-12-05"
+    },
+    {
+        "name": "Ribbon no Kishi",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Mystery",
+            "Romance"
+        ],
+        "category": "TV",
+        "release_date": "1967-04-02"
+    },
+    {
+        "name": "Hitorijime My Hero",
+        "genres": [
+            "Boys Love",
+            "Drama"
+        ],
+        "category": "TV",
+        "release_date": "2017-07-08"
+    },
+    {
+        "name": "Fragile",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2024-08-18"
+    },
+    {
+        "name": "Mitsuketa! Kuwassu Daisousaku Campaign",
+        "genres": [
+            "Fantasy",
+            "Slice of Life"
+        ],
+        "category": "PV",
+        "release_date": "2024-03-21"
+    },
+    {
+        "name": "Harinezumi no Luchika",
+        "genres": [
+            "Fantasy",
+            "Slice of Life"
+        ],
+        "category": "ONA",
+        "release_date": "2024-05-10"
+    },
+    {
+        "name": "Girls & Panzer: Saishuushou Part 4 Specials",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "Special",
+        "release_date": "2024-03-27"
+    },
+    {
+        "name": "Hayabusa: Back to the Earth - Kikan",
+        "genres": [],
+        "category": "Movie",
+        "release_date": "2011-05-14"
+    },
+    {
+        "name": "Fairy Tail: 100-nen Quest - Kanwa - Lucy's Diary",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "TV Special",
+        "release_date": "2024-10-06"
+    },
+    {
+        "name": "Fuuka",
+        "genres": [
+            "Drama",
+            "Romance",
+            "Ecchi"
+        ],
+        "category": "TV",
+        "release_date": "2017-01-06"
+    },
+    {
+        "name": "Love Me: Kaede to Suzu The Animation",
+        "genres": [
+            "Hentai"
+        ],
+        "category": "OVA",
+        "release_date": "2022-03-25"
+    },
+    {
+        "name": "Line Town",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "2013-04-03"
+    },
+    {
+        "name": "Amaenaide yo!!: Yasumanaide yo!!",
+        "genres": [
+            "Comedy",
+            "Romance",
+            "Supernatural",
+            "Ecchi"
+        ],
+        "category": "Special",
+        "release_date": "2005-12-21"
+    },
+    {
+        "name": "Head Spoon",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "Movie",
+        "release_date": "1972-01-01"
+    },
+    {
+        "name": "King of Prism: Shiny Seven Stars",
+        "genres": [
+            "Sports"
+        ],
+        "category": "TV",
+        "release_date": "2019-04-16"
+    },
+    {
+        "name": "Jewelpet Kira\u2606Deco!",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2012-04-07"
+    },
+    {
+        "name": "Killtube",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "2026-01-01"
+    },
+    {
+        "name": "Aresuke",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2008-01-01"
+    },
+    {
+        "name": "Shiroi Unabara",
+        "genres": [
+            "Drama"
+        ],
+        "category": "Movie",
+        "release_date": "2015-01-01"
+    },
+    {
+        "name": "Jiu Tian Xuan Di Jue 3rd Season",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2022-10-31"
+    },
+    {
+        "name": "Yosuga no Sora",
+        "genres": [
+            "Drama",
+            "Romance",
+            "Ecchi"
+        ],
+        "category": "TV",
+        "release_date": "2010-10-04"
+    },
+    {
+        "name": "Nora",
+        "genres": [
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "category": "OVA",
+        "release_date": "1985-01-21"
+    },
+    {
+        "name": "Top wo Nerae 2! Diebuster",
+        "genres": [
+            "Action",
+            "Award Winning",
+            "Comedy",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "category": "OVA",
+        "release_date": "2004-10-03"
+    },
+    {
+        "name": "Shan Yang He Lang",
+        "genres": [],
+        "category": "Movie",
+        "release_date": "1960-01-01"
+    },
+    {
+        "name": "Indie Anibox: Selma Danbaekjil Coffee",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "category": "Movie",
+        "release_date": "2008-06-20"
+    },
+    {
+        "name": "Galaxy Angel",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2001-04-08"
+    },
+    {
+        "name": "Itsuka Tenma no Kuro Usagi: Kokoro Utsuri no Toukoubi - School Attendance Day",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Romance",
+            "Supernatural",
+            "Ecchi"
+        ],
+        "category": "OVA",
+        "release_date": "2011-12-05"
+    },
+    {
+        "name": "Haite Kudasai, Takamine-san",
+        "genres": [
+            "Comedy",
+            "Romance",
+            "Ecchi"
+        ],
+        "category": "TV",
+        "release_date": "2025-04-01"
+    },
+    {
+        "name": "Kanojo, Okarishimasu Petit 3rd Season",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "ONA",
+        "release_date": "2023-09-09"
+    },
+    {
+        "name": "Ansatsu Kyoushitsu",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "2015-01-10"
+    },
+    {
+        "name": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "category": "ONA",
+        "release_date": "2022-09-01"
+    },
+    {
+        "name": "Blend",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "Movie",
+        "release_date": "2009-01-01"
+    },
+    {
+        "name": "Sai Er Hao Season 7: Yuzhou Zhi Yan",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2016-06-03"
+    },
+    {
+        "name": "Halloween Pajama",
+        "genres": [
+            "Supernatural"
+        ],
+        "category": "ONA",
+        "release_date": "2022-10-31"
+    },
+    {
+        "name": "Yanesenondo",
+        "genres": [],
+        "category": "ONA",
+        "release_date": "2009-07-30"
+    },
+    {
+        "name": "Going Dumb",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2021-03-19"
+    },
+    {
+        "name": "Yuukoku no Moriarty Part 2",
+        "genres": [
+            "Mystery",
+            "Suspense"
+        ],
+        "category": "TV",
+        "release_date": "2021-04-04"
+    },
+    {
+        "name": "Etotama: Nyankyaku Banrai",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2021-05-25"
+    },
+    {
+        "name": "Mikadono Sanshimai wa Angai, Choroi.",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "category": "TV",
+        "release_date": "2025-01-01"
+    },
+    {
+        "name": "Buzzer Beater",
+        "genres": [
+            "Sci-Fi",
+            "Sports"
+        ],
+        "category": "TV",
+        "release_date": "2005-02-05"
+    },
+    {
+        "name": "Zigu Yingxiong Chu Shaonian",
+        "genres": [],
+        "category": "TV",
+        "release_date": "1995-01-01"
+    },
+    {
+        "name": "Fate/stay night Movie: Heaven's Feel - I. Presage Flower",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "2017-10-14"
+    },
+    {
+        "name": "Oni no Hanayome wa Taberaretai",
+        "genres": [
+            "Romance",
+            "Supernatural"
+        ],
+        "category": "ONA",
+        "release_date": "2021-12-20"
+    },
+    {
+        "name": "Man Jie Guoxue Xilie: Chengyu Gushi",
+        "genres": [],
+        "category": "TV",
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Sore Ike! Anpanman: Akachanman to Baikin Santa",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "TV Special",
+        "release_date": "2023-12-22"
+    },
+    {
+        "name": "Qiang Ling Jihua",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "category": "ONA",
+        "release_date": "2016-12-20"
+    },
+    {
+        "name": "Kyouryuu Boukenki Jura Tripper",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "1995-04-02"
+    },
+    {
+        "name": "Dirty Pair: Bouryaku no 005-bin",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "category": "OVA",
+        "release_date": "1990-01-25"
+    },
+    {
+        "name": "Liang Zhi Xiao Kongque",
+        "genres": [],
+        "category": "Movie",
+        "release_date": "1978-01-01"
+    },
+    {
+        "name": "Yuigadokuson",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2019-09-05"
+    },
+    {
+        "name": "Shenma Yu Yaodao",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "1996-01-01"
+    },
+    {
+        "name": "Nono Senlin",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2009-01-25"
+    },
+    {
+        "name": "Ikkyuumono-san",
+        "genres": [
+            "Avant Garde",
+            "Comedy"
+        ],
+        "category": "ONA",
+        "release_date": "2024-01-09"
+    },
+    {
+        "name": "SINoALICE: Ichiban Saigo no Monogatari",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "2024-02-23"
+    },
+    {
+        "name": "Tsuma wo Dousoukai ni Ikasetara",
+        "genres": [
+            "Hentai"
+        ],
+        "category": "OVA",
+        "release_date": "2024-06-07"
+    },
+    {
+        "name": "Beuledeu Ibalso 2",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2020-06-06"
+    },
+    {
+        "name": "Shikabane Hime: Puchitto",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "Special",
+        "release_date": "2009-08-05"
+    },
+    {
+        "name": "Jidao Long Shen",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2022-07-02"
+    },
+    {
+        "name": "Rinrin",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2024-01-26"
+    },
+    {
+        "name": "Happiness!: Watarase Jun no Kareinaru Ichinichi",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "OVA",
+        "release_date": "2007-01-25"
+    },
+    {
+        "name": "Shin-chan ga Naita!",
+        "genres": [
+            "Drama"
+        ],
+        "category": "OVA",
+        "release_date": "1989-01-01"
+    },
+    {
+        "name": "Tokyo Underground",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2002-04-02"
+    },
+    {
+        "name": "Majo no Takkyuubin x McDonald's CMs",
+        "genres": [
+            "Gourmet"
+        ],
+        "category": "CM",
+        "release_date": "2024-06-19"
+    },
+    {
+        "name": "Gonglu Q Che Ba",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2010-01-01"
+    },
+    {
+        "name": "Bloody Bunny",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "2012-07-18"
+    },
+    {
+        "name": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama"
+        ],
+        "category": "TV",
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Tu Boshi Yu Xiaojin Dou",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2013-01-01"
+    },
+    {
+        "name": "Humanoid",
+        "genres": [
+            "Supernatural"
+        ],
+        "category": "Music",
+        "release_date": "2018-11-06"
+    },
+    {
+        "name": "Aria the Natural",
+        "genres": [
+            "Fantasy",
+            "Sci-Fi",
+            "Slice of Life"
+        ],
+        "category": "TV",
+        "release_date": "2006-04-03"
+    },
+    {
+        "name": "Tian Tian Quan Baobei: Gongfu Xueyuan",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2012-01-01"
+    },
+    {
+        "name": "Lina Poe Poe",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2008-07-02"
+    },
+    {
+        "name": "Cheng Li Laile Liao Yi Tiao Long",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Sentou Yousei Yukikaze: Experimental Movie",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "category": "Special",
+        "release_date": "2008-01-25"
+    },
+    {
+        "name": "The God of High School PV",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "category": "PV",
+        "release_date": "2016-05-24"
+    },
+    {
+        "name": "Losin' My Way",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "Music",
+        "release_date": "2005-01-01"
+    },
+    {
+        "name": "Dou Long Zhanshi 6",
+        "genres": [
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2020-08-21"
+    },
+    {
+        "name": "Whistle!",
+        "genres": [
+            "Sports"
+        ],
+        "category": "TV",
+        "release_date": "2002-05-06"
+    },
+    {
+        "name": "Cycle Race",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "Movie",
+        "release_date": "2021-01-01"
+    },
+    {
+        "name": "Sekai Meisaku Video Ehon",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "OVA",
+        "release_date": "1988-05-01"
+    },
+    {
+        "name": "Puzzle & Dragons Cross",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2016-07-04"
+    },
+    {
+        "name": "Nira-chan Shuuketsu",
+        "genres": [],
+        "category": "CM",
+        "release_date": "2024-02-22"
+    },
+    {
+        "name": "Sesangui Gijuneul Bultaewola! Buldalgbokkeummyeon",
+        "genres": [],
+        "category": "CM",
+        "release_date": "2021-12-17"
+    },
+    {
+        "name": "Ankoku Cat",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "category": "ONA",
+        "release_date": "2006-12-19"
+    },
+    {
+        "name": "Arifureta Shokugyou de Sekai Saikyou 2nd Season Picture Drama",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2022-01-13"
+    },
+    {
+        "name": "Kexue Guai Boshi: Shenqi de Taiyang Xueyuan",
+        "genres": [],
+        "category": "TV",
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Sputnik da One",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "category": "Music",
+        "release_date": "2011-04-01"
+    },
+    {
+        "name": "Kanojo, Okarishimasu 3rd Season: Kanokari Call",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "category": "Special",
+        "release_date": "2023-11-29"
+    },
+    {
+        "name": "School Rumble: Ichi Gakki Hoshuu",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "category": "OVA",
+        "release_date": "2005-12-22"
+    },
+    {
+        "name": "Q Tao Xiao Ka Xiu",
+        "genres": [],
+        "category": "ONA",
+        "release_date": "2016-08-01"
+    },
+    {
+        "name": "Zhihao Beipan Diqiule",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "category": "ONA",
+        "release_date": "2021-06-29"
+    },
+    {
+        "name": "Youkoso Uchuujin",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "Movie",
+        "release_date": "1966-01-01"
+    },
+    {
+        "name": "Omoide wa Kireide",
+        "genres": [
+            "Drama"
+        ],
+        "category": "Music",
+        "release_date": "2018-06-14"
+    },
+    {
+        "name": "Akai Inei",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "Movie",
+        "release_date": "2021-01-01"
+    },
+    {
+        "name": "Salangui Hachyuping",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "2024-08-07"
+    },
+    {
+        "name": "Shakishaki no Tenkousei",
+        "genres": [],
+        "category": "Music",
+        "release_date": "1980-12-01"
+    },
+    {
+        "name": "Wagamama High Spec",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "2016-04-12"
+    },
+    {
+        "name": "Nige Jouzu no Wakagimi: Makuai (1333-nen - 1334-nen) \"Rekishi\"",
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "category": "TV Special",
+        "release_date": "2024-09-07"
+    },
+    {
+        "name": "Sinbad Yu Meirenyu Gongzhu",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "2017-01-07"
+    },
+    {
+        "name": "Patapata Hikousen no Bouken",
+        "genres": [
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2002-01-05"
+    },
+    {
+        "name": "Kaitouranma The Animation",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "category": "OVA",
+        "release_date": "1999-11-26"
+    },
+    {
+        "name": "Kuroko no Basket: Saikou no Present desu",
+        "genres": [
+            "Sports"
+        ],
+        "category": "Special",
+        "release_date": "2015-12-24"
+    },
+    {
+        "name": "Boku wa Mirai no Soccer Senshu",
+        "genres": [],
+        "category": "Music",
+        "release_date": "1994-02-01"
+    },
+    {
+        "name": "Ready for Love",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2022-07-29"
+    },
+    {
+        "name": "Ulibyeol Ilhowa Eollugso",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "category": "Movie",
+        "release_date": "2014-02-20"
+    },
+    {
+        "name": "Honoo no Alpenrose",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "category": "OVA",
+        "release_date": "1986-02-15"
+    },
+    {
+        "name": "Karakai Jouzu no Takagi-san Movie",
+        "genres": [
+            "Romance"
+        ],
+        "category": "Movie",
+        "release_date": "2022-06-10"
+    },
+    {
+        "name": "Funauta",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "Music",
+        "release_date": "2021-10-05"
+    },
+    {
+        "name": "Lu Bian Xin Shi",
+        "genres": [],
+        "category": "Movie",
+        "release_date": "1964-01-01"
+    },
+    {
+        "name": "Kemono Friends 2",
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "2019-01-15"
+    },
+    {
+        "name": "One Piece Characters Log",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ],
+        "category": "Special",
+        "release_date": "2016-06-20"
+    },
+    {
+        "name": "Lupin III: Lupin Ansatsu Shirei",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Mystery"
+        ],
+        "category": "TV Special",
+        "release_date": "1993-07-23"
+    },
+    {
+        "name": "Hashire! Shiroi Ookami",
+        "genres": [
+            "Award Winning",
+            "Drama"
+        ],
+        "category": "Movie",
+        "release_date": "1990-04-28"
+    },
+    {
+        "name": "Toshokan Sensou",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Romance"
+        ],
+        "category": "TV",
+        "release_date": "2008-04-11"
+    },
+    {
+        "name": "Bikkuriman Kids: Theme Fighter Nyander",
+        "genres": [],
+        "category": "ONA",
+        "release_date": "2008-08-06"
+    },
+    {
+        "name": "Kimi ga Nozomu Eien: Ayu Mayu Gekijou Prologue",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "OVA",
+        "release_date": "2006-08-11"
+    },
+    {
+        "name": "Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2022-04-07"
+    },
+    {
+        "name": "Dandadan 2nd Season",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Supernatural"
+        ],
+        "category": "TV",
+        "release_date": "2025-07-01"
+    },
+    {
+        "name": "Konjiki no Gash Bell!!",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Supernatural"
+        ],
+        "category": "TV",
+        "release_date": "2003-04-06"
+    },
+    {
+        "name": "Boku wa Kyou mo",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2020-02-07"
+    },
+    {
+        "name": "Lupin III: Alcatraz Connection",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "category": "TV Special",
+        "release_date": "2001-08-03"
+    },
+    {
+        "name": "One of Us",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2020-10-19"
+    },
+    {
+        "name": "Ichinen Buri no The Animation",
+        "genres": [
+            "Hentai"
+        ],
+        "category": "OVA",
+        "release_date": "2017-03-03"
+    },
+    {
+        "name": "Metal Skin Panic MADOX-01",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "category": "OVA",
+        "release_date": "1987-12-15"
+    },
+    {
+        "name": "Minna de Bokumetsu Inshu Unten",
+        "genres": [
+            "Drama"
+        ],
+        "category": "CM",
+        "release_date": "2012-12-19"
+    },
+    {
+        "name": "Dokkiri Doctor Special",
+        "genres": [
+            "Comedy",
+            "Ecchi"
+        ],
+        "category": "Special",
+        "release_date": "1999-08-10"
+    },
+    {
+        "name": "Moon Pride",
+        "genres": [
+            "Romance"
+        ],
+        "category": "Music",
+        "release_date": "2014-07-19"
+    },
+    {
+        "name": "Congming Baobao Xue Yingyu",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2010-01-01"
+    },
+    {
+        "name": "Eroriman",
+        "genres": [
+            "Hentai"
+        ],
+        "category": "OVA",
+        "release_date": "2022-02-25"
+    },
+    {
+        "name": "Mutsu Enmei Ryuu Gaiden: Shura no Toki",
+        "genres": [
+            "Action"
+        ],
+        "category": "TV",
+        "release_date": "2004-04-06"
+    },
+    {
+        "name": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2024-10-13"
+    },
+    {
+        "name": "Urusei Yatsura: The Shougaibutsu Suieitaikai",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "category": "Special",
+        "release_date": "2008-07-30"
+    },
+    {
+        "name": "Ashita Sekai ga Owaru toshitemo",
+        "genres": [
+            "Action",
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "category": "Movie",
+        "release_date": "2019-01-25"
+    },
+    {
+        "name": "Hentai Ouji to Warawanai Neko.",
+        "genres": [
+            "Comedy",
+            "Romance",
+            "Supernatural"
+        ],
+        "category": "TV",
+        "release_date": "2013-04-13"
+    },
+    {
+        "name": "Katainaka no Ossan, Kensei ni Naru",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2025-04-01"
+    },
+    {
+        "name": "Selector Loth WIXOSS",
+        "genres": [
+            "Suspense"
+        ],
+        "category": "PV",
+        "release_date": "2024-04-26"
+    },
+    {
+        "name": "Zhezhi Zongdongyuan: Zhi Bao Qibing",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2015-01-01"
+    },
+    {
+        "name": "Hello Carbot Kung Specials: Alkabosgwa Dongmul Chingudeul",
+        "genres": [
+            "Action"
+        ],
+        "category": "Special",
+        "release_date": "2019-02-24"
+    },
+    {
+        "name": "Alice Tantei Kyoku",
+        "genres": [
+            "Fantasy",
+            "Mystery"
+        ],
+        "category": "TV",
+        "release_date": "1995-04-05"
+    },
+    {
+        "name": "Ane Koi: Suki Kirai Daisuki.",
+        "genres": [
+            "Hentai"
+        ],
+        "category": "OVA",
+        "release_date": "2013-02-15"
+    },
+    {
+        "name": "Gnosia",
+        "genres": [
+            "Sci-Fi",
+            "Suspense"
+        ],
+        "category": "TV",
+        "release_date": "2025-01-01"
+    },
+    {
+        "name": "Shaonian Yue Fei Chuanqi",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "2011-09-30"
+    },
+    {
+        "name": "Unico: Mahou no Shima e",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "1983-07-16"
+    },
+    {
+        "name": "Bokura no Motte Iru Mono",
+        "genres": [],
+        "category": "CM",
+        "release_date": "2024-12-26"
+    },
+    {
+        "name": "Yoroshiku Mechadock",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Mystery"
+        ],
+        "category": "TV",
+        "release_date": "1984-09-01"
+    },
+    {
+        "name": "Yangguang Shibing",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2015-12-24"
+    },
+    {
+        "name": "Meitantei Conan Movie 05: Tengoku e no Countdown",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Mystery"
+        ],
+        "category": "Movie",
+        "release_date": "2001-04-21"
+    },
+    {
+        "name": "Wanted, Wasted",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2022-12-16"
+    },
+    {
+        "name": "Mahouka Koukou no Rettousei: Tsuioku-hen",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "category": "TV Special",
+        "release_date": "2021-12-31"
+    },
+    {
+        "name": "Rui no Masaiban",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "PV",
+        "release_date": "2012-02-01"
+    },
+    {
+        "name": "Nobunaga no Shinobi: Ise Kanegasaki-hen",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "2017-04-08"
+    },
+    {
+        "name": "Hal no Fue",
+        "genres": [
+            "Adventure"
+        ],
+        "category": "Movie",
+        "release_date": "2011-10-22"
+    },
+    {
+        "name": "Ben-To",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Gourmet"
+        ],
+        "category": "TV",
+        "release_date": "2011-10-09"
+    },
+    {
+        "name": "Scramble Kousai feat. Hatsune Miku",
+        "genres": [
+            "Romance"
+        ],
+        "category": "Music",
+        "release_date": "2019-03-22"
+    },
+    {
+        "name": "Miniforce",
+        "genres": [
+            "Action"
+        ],
+        "category": "TV",
+        "release_date": "2014-09-03"
+    },
+    {
+        "name": "HKT48 \u00d7 Peeping Life",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "CM",
+        "release_date": "2014-06-20"
+    },
+    {
+        "name": "Ame to Kimi to",
+        "genres": [
+            "Slice of Life"
+        ],
+        "category": "TV",
+        "release_date": "2025-01-01"
+    },
+    {
+        "name": "Renou Xueyuan",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "ONA",
+        "release_date": "2021-07-10"
+    },
+    {
+        "name": "Aikatsu! 10th Story: Mirai e no Starway (2023)",
+        "genres": [],
+        "category": "Movie",
+        "release_date": "2023-01-20"
+    },
+    {
+        "name": "Haitoku no Kyoukai",
+        "genres": [
+            "Hentai"
+        ],
+        "category": "OVA",
+        "release_date": "2021-01-29"
+    },
+    {
+        "name": "Xin Xiyou Lixian Ji",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2024-01-19"
+    },
+    {
+        "name": "Fate/kaleid liner Prisma\u2606Illya 3rei!! Specials",
+        "genres": [
+            "Comedy",
+            "Ecchi"
+        ],
+        "category": "Special",
+        "release_date": "2016-09-30"
+    },
+    {
+        "name": "Kizu darake Seijo yori Houfuku wo Komete",
+        "genres": [
+            "Fantasy",
+            "Romance"
+        ],
+        "category": null,
+        "release_date": "2025-01-01"
+    },
+    {
+        "name": "Sylvanian Families",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "TV Special",
+        "release_date": "2007-04-21"
+    },
+    {
+        "name": "Oppai Gakuen Marching Band-bu!",
+        "genres": [
+            "Hentai"
+        ],
+        "category": "OVA",
+        "release_date": "2014-10-24"
+    },
+    {
+        "name": "Feeling Gradation",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2024-09-10"
+    },
+    {
+        "name": "Akikan!",
+        "genres": [
+            "Comedy",
+            "Fantasy",
+            "Romance",
+            "Ecchi"
+        ],
+        "category": "TV",
+        "release_date": "2009-01-04"
+    },
+    {
+        "name": "Strike the Blood II",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Ecchi"
+        ],
+        "category": "OVA",
+        "release_date": "2016-11-23"
+    },
+    {
+        "name": "Gakkou Sakamichi",
+        "genres": [],
+        "category": "Music",
+        "release_date": "1984-04-09"
+    },
+    {
+        "name": "Gensoumaden Saiyuuki Movie: Requiem - Erabarezaru Mono e no Chinkonka",
+        "genres": [
+            "Adventure",
+            "Supernatural"
+        ],
+        "category": "Movie",
+        "release_date": "2001-08-18"
+    },
+    {
+        "name": "Brave Witches",
+        "genres": [
+            "Action",
+            "Sci-Fi",
+            "Ecchi"
+        ],
+        "category": "TV",
+        "release_date": "2016-10-06"
+    },
+    {
+        "name": "Oda Nobuna no Yabou",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Romance"
+        ],
+        "category": "TV",
+        "release_date": "2012-07-09"
+    },
+    {
+        "name": "Good Morning (2024)",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "Music",
+        "release_date": "2024-10-03"
+    },
+    {
+        "name": "Bai Bian Bu Lu Ke 4th Season",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Zentaiteki ni Sensation",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "Music",
+        "release_date": "2013-12-28"
+    },
+    {
+        "name": "Xing Mao Lixian Ji: Shufa Pian",
+        "genres": [],
+        "category": "TV",
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Bari Bari Densetsu",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "category": "OVA",
+        "release_date": "1986-05-10"
+    },
+    {
+        "name": "Jimu Xiao Zhandui",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2012-01-01"
+    },
+    {
+        "name": "Kanojo mo Kanojo Season 2",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "category": "TV",
+        "release_date": "2023-10-07"
+    },
+    {
+        "name": "Xiao Wukong",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "2018-07-14"
+    },
+    {
+        "name": "Uracon III Opening Animation",
+        "genres": [
+            "Sci-Fi"
+        ],
+        "category": "Special",
+        "release_date": "1984-07-27"
+    },
+    {
+        "name": "Aria the Benedizione",
+        "genres": [
+            "Fantasy",
+            "Sci-Fi",
+            "Slice of Life"
+        ],
+        "category": "Movie",
+        "release_date": "2021-12-03"
+    },
+    {
+        "name": "Otose Thunder",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2022-06-12"
+    },
+    {
+        "name": "Garakuta-doori no Stain: Epilogue",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "OVA",
+        "release_date": "2003-10-11"
+    },
+    {
+        "name": "Kirakira 5th Anniversary Live Anime: Kick Start Generation",
+        "genres": [],
+        "category": "OVA",
+        "release_date": "2013-03-27"
+    },
+    {
+        "name": "Mazome Soap de Aimashou!",
+        "genres": [
+            "Hentai"
+        ],
+        "category": "OVA",
+        "release_date": "2024-11-15"
+    },
+    {
+        "name": "Niji no Kanata e! Shoujo Diana Monogatari",
+        "genres": [],
+        "category": "TV Special",
+        "release_date": "1986-05-01"
+    },
+    {
+        "name": "Ano Hi no Kanojo-tachi",
+        "genres": [
+            "Slice of Life"
+        ],
+        "category": "ONA",
+        "release_date": "2018-03-24"
+    },
+    {
+        "name": "DouDou Yu KuaKe: Shenmi Pengyou",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2018-01-01"
+    },
+    {
+        "name": "Toki no Daichi: Hana no Oukoku no Majo",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "OVA",
+        "release_date": "1998-12-22"
+    },
+    {
+        "name": "JRA x Gudetama",
+        "genres": [],
+        "category": "CM",
+        "release_date": "2018-10-26"
+    },
+    {
+        "name": "Crayon Shin-chan Gaiden: Omocha Wars",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Ecchi"
+        ],
+        "category": "ONA",
+        "release_date": "2016-11-09"
+    },
+    {
+        "name": "Neoki Yashinoki",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2023-10-13"
+    },
+    {
+        "name": "Tsukasa's\u266aKitchen",
+        "genres": [
+            "Gourmet"
+        ],
+        "category": "Music",
+        "release_date": "2022-09-11"
+    },
+    {
+        "name": "Burenai Ai de",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2014-08-29"
+    },
+    {
+        "name": "eX-Driver: Nina & Rei Danger Zone",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "category": "Movie",
+        "release_date": "2002-04-20"
+    },
+    {
+        "name": "Kkoma Bus Tayo 7",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2024-02-28"
+    },
+    {
+        "name": "Sister",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2016-12-02"
+    },
+    {
+        "name": "Major Movie: Yuujou no Winning Shot",
+        "genres": [
+            "Sports"
+        ],
+        "category": "Movie",
+        "release_date": "2008-12-13"
+    },
+    {
+        "name": "Xi Xing Ji: Qiong Qi Didong",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2022-08-19"
+    },
+    {
+        "name": "Betsu ni Anta no Tame ni Ookiku Natta n ja Nai n Dakara ne!!",
+        "genres": [
+            "Hentai"
+        ],
+        "category": "OVA",
+        "release_date": "2011-04-15"
+    },
+    {
+        "name": "MapleStory Special",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "Special",
+        "release_date": "2008-09-26"
+    },
+    {
+        "name": "Joshikousei: Girl's High",
+        "genres": [
+            "Comedy",
+            "Ecchi"
+        ],
+        "category": "TV",
+        "release_date": "2006-04-04"
+    },
+    {
+        "name": "Legend of Regios",
+        "genres": [],
+        "category": "Special",
+        "release_date": "2009-03-27"
+    },
+    {
+        "name": "Taka no Tsume Gaiden \"Himitsu Kyuusha: Uma no Hizume - Grand Prix\"",
+        "genres": [
+            "Comedy",
+            "Sports"
+        ],
+        "category": "TV",
+        "release_date": "2023-11-30"
+    },
+    {
+        "name": "Shin Koihime\u2020Musou OVA Omake",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Ecchi"
+        ],
+        "category": "Special",
+        "release_date": "2010-07-07"
+    },
+    {
+        "name": "Chiisaki Mono-tachi",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2021-06-01"
+    },
+    {
+        "name": "Weiqi Shaonian",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2005-07-28"
+    },
+    {
+        "name": "The\u2606Doraemons: Dokidoki Kikansha Daibakusou!",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "category": "Movie",
+        "release_date": "2000-03-11"
+    },
+    {
+        "name": "Koukyoushihen Eureka Seven",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2005-04-17"
+    },
+    {
+        "name": "Pair",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2011-08-24"
+    },
+    {
+        "name": "Choujuu Kishin Dancougar: Ushinawareta Mono-tachi e no Requiem",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "category": "OVA",
+        "release_date": "1986-04-21"
+    },
+    {
+        "name": "Jantama Pong\u2606 Episode 0",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "Special",
+        "release_date": "2022-04-01"
+    },
+    {
+        "name": "Lily to Kaeru to (Otouto)",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Supernatural"
+        ],
+        "category": "TV Special",
+        "release_date": "2006-08-20"
+    },
+    {
+        "name": "Minna ga Oshiete Kuremashita",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "OVA",
+        "release_date": "2006-04-28"
+    },
+    {
+        "name": "Dasineun Sogjimalja",
+        "genres": [
+            "Drama"
+        ],
+        "category": "Movie",
+        "release_date": "1964-01-01"
+    },
+    {
+        "name": "Wo Jian Qile Yi Di Shuxing",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2023-01-23"
+    },
+    {
+        "name": "Kyoushoku Soukou Guyver II",
+        "genres": [
+            "Action",
+            "Horror",
+            "Sci-Fi"
+        ],
+        "category": "OVA",
+        "release_date": "1991-10-24"
+    },
+    {
+        "name": "Pangsao Hui Niangjia",
+        "genres": [],
+        "category": "Movie",
+        "release_date": "1956-01-01"
+    },
+    {
+        "name": "Yowamushi Chinsengumi",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "Movie",
+        "release_date": "1935-11-20"
+    },
+    {
+        "name": "Turning Girls",
+        "genres": [
+            "Comedy",
+            "Slice of Life"
+        ],
+        "category": "ONA",
+        "release_date": "2013-06-18"
+    },
+    {
+        "name": "Yuugure Nostalgia",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2023-10-18"
+    },
+    {
+        "name": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
+        "genres": [
+            "Fantasy",
+            "Slice of Life"
+        ],
+        "category": "TV",
+        "release_date": "2019-07-04"
+    },
+    {
+        "name": "Ooi! Tonbo 2nd Season",
+        "genres": [
+            "Drama",
+            "Sports"
+        ],
+        "category": "TV",
+        "release_date": "2024-10-05"
+    },
+    {
+        "name": "Chibimiminaga Bandicoot",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2003-01-01"
+    },
+    {
+        "name": "Sono Kinisasete yo: My My Mai",
+        "genres": [
+            "Comedy",
+            "Supernatural",
+            "Ecchi"
+        ],
+        "category": "OVA",
+        "release_date": "1993-12-16"
+    },
+    {
+        "name": "Gallery Fake",
+        "genres": [
+            "Mystery"
+        ],
+        "category": "TV",
+        "release_date": "2005-01-09"
+    },
+    {
+        "name": "Happy Bogeys",
+        "genres": [],
+        "category": "Movie",
+        "release_date": "2000-01-01"
+    },
+    {
+        "name": "Xiao Bai Ge",
+        "genres": [],
+        "category": "Movie",
+        "release_date": "1978-01-01"
+    },
+    {
+        "name": "Dragon Drive",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2002-07-04"
+    },
+    {
+        "name": "Hoshi no Orpheus",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "1979-10-27"
+    },
+    {
+        "name": "Mashiro-iro Symphony: Airi ga Anata no Kanojo ni!?",
+        "genres": [
+            "Romance"
+        ],
+        "category": "Special",
+        "release_date": "2012-01-25"
+    },
+    {
+        "name": "Da Nao Hua Shi",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "Movie",
+        "release_date": "1927-05-01"
+    },
+    {
+        "name": "Baiyun Cang Gou",
+        "genres": [
+            "Drama"
+        ],
+        "category": "Movie",
+        "release_date": "2023-01-01"
+    },
+    {
+        "name": "Xue Wang Zhi Qihuan Sha Zhou",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2024-12-21"
+    },
+    {
+        "name": "Choujikuu Kidan Southern Cross",
+        "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "1984-04-15"
+    },
+    {
+        "name": "Kidou Senshi Gundam: Senkou no Hathaway 2",
+        "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "category": "Movie",
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Kimi no Hikari: Asagao to Kase-san.",
+        "genres": [
+            "Girls Love"
+        ],
+        "category": "OVA",
+        "release_date": "2017-07-25"
+    },
+    {
+        "name": "Baka Mukashibanashi",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "OVA",
+        "release_date": "2011-04-29"
+    },
+    {
+        "name": "Women Xiaohai You Liliang",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2008-12-01"
+    },
+    {
+        "name": "Ganbare! Chrome",
+        "genres": [
+            "Slice of Life"
+        ],
+        "category": "PV",
+        "release_date": "2024-11-28"
+    },
+    {
+        "name": "Qiang Shen Ji: Shenhai Xianluo Pian",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "category": "ONA",
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Ganbare! Nakamura-kun!!",
+        "genres": [
+            "Boys Love"
+        ],
+        "category": "TV",
+        "release_date": "2025-01-01"
+    },
+    {
+        "name": "Kaijuu 8-gou",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2024-04-13"
+    },
+    {
+        "name": "Mob Psycho 100 II",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Supernatural"
+        ],
+        "category": "TV",
+        "release_date": "2019-01-07"
+    },
+    {
+        "name": "Gall Force 3: Stardust War",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "category": "OVA",
+        "release_date": "1988-11-02"
+    },
+    {
+        "name": "Psycho-Pass",
+        "genres": [
+            "Action",
+            "Mystery",
+            "Sci-Fi",
+            "Suspense"
+        ],
+        "category": "TV",
+        "release_date": "2012-10-12"
+    },
+    {
+        "name": "Yubi no Sukima-chan",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "Movie",
+        "release_date": "2009-01-01"
+    },
+    {
+        "name": "Kujira no Kora wa Sajou ni Utau",
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2017-10-08"
+    },
+    {
+        "name": "Tayu Tayu",
+        "genres": [
+            "Hentai"
+        ],
+        "category": "OVA",
+        "release_date": "2013-10-27"
+    },
+    {
+        "name": "Ni Zhenshi Ge Tiancai",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2022-04-23"
+    },
+    {
+        "name": "AOTU Shijie 4",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "category": "ONA",
+        "release_date": "2022-04-29"
+    },
+    {
+        "name": "Attack Zero x Evangelion",
+        "genres": [
+            "Slice of Life"
+        ],
+        "category": "CM",
+        "release_date": "2020-11-02"
+    },
+    {
+        "name": "Seto no Hanayome OVA Specials",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "Special",
+        "release_date": "2008-11-03"
+    },
+    {
+        "name": "Tanken Driland",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2012-07-07"
+    },
+    {
+        "name": "Ikkyuu-san: Ooabare Yancha-hime",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "TV Special",
+        "release_date": "1980-08-25"
+    },
+    {
+        "name": "Shikanoko Nokonoko Koshitantan",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "2024-07-07"
+    },
+    {
+        "name": "Zecchou Rocket",
+        "genres": [
+            "Hentai"
+        ],
+        "category": "OVA",
+        "release_date": "2013-10-18"
+    },
+    {
+        "name": "Sword Art Online Fatal Bullet: The Third Episode",
+        "genres": [],
+        "category": "TV Special",
+        "release_date": "2018-03-20"
+    },
+    {
+        "name": "Hua Jianghu: Gui Yexing",
+        "genres": [
+            "Action"
+        ],
+        "category": "ONA",
+        "release_date": "2020-11-10"
+    },
+    {
+        "name": "Osomatsu-kun: Suika no Hoshi kara Konnichiwa zansu!",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "Movie",
+        "release_date": "1989-03-18"
+    },
+    {
+        "name": "Fire Emblem Heroes: Lonely Puppeteer (Spring Remix)",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2022-04-04"
+    },
+    {
+        "name": "Caramel Honey",
+        "genres": [
+            "Boys Love",
+            "Comedy"
+        ],
+        "category": "ONA",
+        "release_date": "2018-06-08"
+    },
+    {
+        "name": "Kirakira",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2011-08-23"
+    },
+    {
+        "name": "Shenqi Xiongmao",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2019-01-01"
+    },
+    {
+        "name": "Fuxing Ba Jie",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2011-04-01"
+    },
+    {
+        "name": "Wake Up, Girls! Shichinin no Idol",
+        "genres": [
+            "Drama"
+        ],
+        "category": "Movie",
+        "release_date": "2014-01-10"
+    },
+    {
+        "name": "Full Metal Panic! Invisible Victory Intermission",
+        "genres": [
+            "Action"
+        ],
+        "category": "TV Special",
+        "release_date": "2018-05-11"
+    },
+    {
+        "name": "Tesla Note",
+        "genres": [
+            "Action",
+            "Suspense"
+        ],
+        "category": "TV",
+        "release_date": "2021-10-03"
+    },
+    {
+        "name": "No.6",
+        "genres": [
+            "Action",
+            "Drama",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2011-07-08"
+    },
+    {
+        "name": "Jinzou Ningen Kikaider The Animation",
+        "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2000-10-16"
+    },
+    {
+        "name": "San Zhi Lang",
+        "genres": [],
+        "category": "Movie",
+        "release_date": "1980-03-01"
+    },
+    {
+        "name": "Musaigen no Phantom World: Mizutama no Kiseki",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy",
+            "Ecchi"
+        ],
+        "category": "Special",
+        "release_date": "2016-10-05"
+    },
+    {
+        "name": "Paniponi Dash!: Danjite Okonaeba Kishin mo Kore wo Saku",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "Special",
+        "release_date": "2009-04-15"
+    },
+    {
+        "name": "Marine Shukkou!!",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2022-04-27"
+    },
+    {
+        "name": "Xiaodou Pai Pai: Wenzi Wangguo Lixian Ji",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2019-01-01"
+    },
+    {
+        "name": "Hongse Chuanqi",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2011-01-01"
+    },
+    {
+        "name": "Spaceship Agga Ruter",
+        "genres": [
+            "Comedy",
+            "Sci-Fi",
+            "Hentai"
+        ],
+        "category": "OVA",
+        "release_date": "1998-10-25"
+    },
+    {
+        "name": "Hyakushou Kizoku",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "2023-07-07"
+    },
+    {
+        "name": "Michitas to Fumidasu Ippo",
+        "genres": [
+            "Gourmet",
+            "Slice of Life"
+        ],
+        "category": "CM",
+        "release_date": "2024-01-05"
+    },
+    {
+        "name": "Juubee Ninpuuchou",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Horror",
+            "Romance"
+        ],
+        "category": "Movie",
+        "release_date": "1993-06-05"
+    },
+    {
+        "name": "Fantasista Doll",
+        "genres": [
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2013-07-07"
+    },
+    {
+        "name": "Hearts Are Opening Up",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2023-10-18"
+    },
+    {
+        "name": "Wind Breaker Season 2",
+        "genres": [
+            "Action"
+        ],
+        "category": "TV",
+        "release_date": "2025-04-01"
+    },
+    {
+        "name": "Yuan Long 3rd Season",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2022-11-24"
+    },
+    {
+        "name": "Wasshoi Nippon",
+        "genres": [],
+        "category": "Music",
+        "release_date": "1997-04-04"
+    },
+    {
+        "name": "Kuroi Rayquaza Kourin",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "PV",
+        "release_date": "2024-11-18"
+    },
+    {
+        "name": "Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "TV Special",
+        "release_date": "2021-07-02"
+    },
+    {
+        "name": "Shin Kyojin no Hoshi II",
+        "genres": [
+            "Sports"
+        ],
+        "category": "TV",
+        "release_date": "1979-04-14"
+    },
+    {
+        "name": "Saint Seiya: Meiou Hades Juuni Kyuu-hen",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "category": "OVA",
+        "release_date": "2002-11-09"
+    },
+    {
+        "name": "Umi no Jiken Jiko wa 118-ban",
+        "genres": [
+            "Comedy",
+            "Suspense"
+        ],
+        "category": "ONA",
+        "release_date": "2021-07-28"
+    },
+    {
+        "name": "Cats Are Dangerous",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2024-10-09"
+    },
+    {
+        "name": "Heisa Byoutou",
+        "genres": [
+            "Hentai"
+        ],
+        "category": "OVA",
+        "release_date": "2001-07-06"
+    },
+    {
+        "name": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2021-07-07"
+    },
+    {
+        "name": "Dokkaebi Gamtu",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "1979-07-28"
+    },
+    {
+        "name": "Sugar Bunnies Chocolate!",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2008-04-01"
+    },
+    {
+        "name": "Zhu Zhu Xia: Jing Su Xiao Yingxiong",
+        "genres": [
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2019-10-25"
+    },
+    {
+        "name": "Seikaisuru Kado: Beyond Information",
+        "genres": [
+            "Sci-Fi"
+        ],
+        "category": "ONA",
+        "release_date": "2018-05-21"
+    },
+    {
+        "name": "Pokemon Card wo Yattemita",
+        "genres": [],
+        "category": "CM",
+        "release_date": "2024-03-21"
+    },
+    {
+        "name": "Kaishain x Sumida Suizokukan Bikkuri! Kai Matsuri CM",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "CM",
+        "release_date": "2017-03-15"
+    },
+    {
+        "name": "Wangu Zui Qiang Zong",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2024-11-06"
+    },
+    {
+        "name": "Todag Todag Kkomo",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "2015-11-17"
+    },
+    {
+        "name": "Papa no Iukoto wo Kikinasai!: Pokkapoka",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "category": "Special",
+        "release_date": "2012-07-11"
+    },
+    {
+        "name": "Spy x Family Movie: Code: White Manner Movie",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "Movie",
+        "release_date": "2023-07-28"
+    },
+    {
+        "name": "Toki Doki",
+        "genres": [],
+        "category": "TV",
+        "release_date": "1989-01-01"
+    },
+    {
+        "name": "H.A.O.U. (Roosevelt Remix)",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2024-09-05"
+    },
+    {
+        "name": "Majimoji Rurumo",
+        "genres": [
+            "Comedy",
+            "Fantasy",
+            "Ecchi"
+        ],
+        "category": "TV",
+        "release_date": "2014-07-09"
+    },
+    {
+        "name": "Anyuan Xiaozi",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2011-07-09"
+    },
+    {
+        "name": "Zhongwai Mingren Chengzhang Gushi",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2013-01-01"
+    },
+    {
+        "name": "Fairy Tail OVA",
+        "genres": [
+            "Comedy",
+            "Fantasy",
+            "Ecchi"
+        ],
+        "category": "OVA",
+        "release_date": "2011-04-15"
+    },
+    {
+        "name": "Yumemiru Chikara ni",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "Music",
+        "release_date": "1995-01-01"
+    },
+    {
+        "name": "Hello Kitty no Ousama no Mimi wa Roba no Mimi",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "OVA",
+        "release_date": "2001-07-20"
+    },
+    {
+        "name": "Roco Wangguo Fuhuo Chuanshuo",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2014-01-01"
+    },
+    {
+        "name": "Rokudenashi Majutsu Koushi to Akashic Records",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2017-04-04"
+    },
+    {
+        "name": "Juusenki L-Gaim II: Farewell My Lovely + Pentagona Dolls",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "category": "OVA",
+        "release_date": "1987-01-10"
+    },
+    {
+        "name": "Startliner",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2018-07-25"
+    },
+    {
+        "name": "Kagami no Kojou no Mae to Ato",
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Mystery"
+        ],
+        "category": "Special",
+        "release_date": "2023-05-26"
+    },
+    {
+        "name": "Kuma no Puutarou",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "1995-04-19"
+    },
+    {
+        "name": "Akuma-kun (ONA)",
+        "genres": [
+            "Horror",
+            "Supernatural",
+            "Suspense"
+        ],
+        "category": "ONA",
+        "release_date": "2023-11-09"
+    },
+    {
+        "name": "Marvel Future Avengers",
+        "genres": [
+            "Action"
+        ],
+        "category": "TV",
+        "release_date": "2017-07-22"
+    },
+    {
+        "name": "Iinari! Saimin Kanojo",
+        "genres": [
+            "Hentai"
+        ],
+        "category": "OVA",
+        "release_date": "2015-02-10"
+    },
+    {
+        "name": "Ganbare! Memeko-chan",
+        "genres": [
+            "Comedy",
+            "Slice of Life"
+        ],
+        "category": "OVA",
+        "release_date": "2008-08-19"
+    },
+    {
+        "name": "Yuuto-kun ga Iku",
+        "genres": [
+            "Sports"
+        ],
+        "category": "TV",
+        "release_date": "2013-06-14"
+    },
+    {
+        "name": "Yuhuwa Chingudeul 2",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2013-10-21"
+    },
+    {
+        "name": "Skip to Loafer 2nd Season",
+        "genres": [
+            "Drama"
+        ],
+        "category": "TV",
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Mirai no Kuromaku-kei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho",
+        "genres": [
+            "Mystery"
+        ],
+        "category": "TV",
+        "release_date": "2024-07-19"
+    },
+    {
+        "name": "Kuai Kuaile Le Cheng",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2009-09-01"
+    },
+    {
+        "name": "Yami Shibai 3",
+        "genres": [
+            "Avant Garde",
+            "Horror",
+            "Supernatural"
+        ],
+        "category": "TV",
+        "release_date": "2016-01-11"
+    },
+    {
+        "name": "Moyashimon",
+        "genres": [
+            "Comedy",
+            "Gourmet",
+            "Supernatural"
+        ],
+        "category": "TV",
+        "release_date": "2007-10-12"
+    },
+    {
+        "name": "San Zhi Songshu: Songshu Xiao Zhen",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2019-01-13"
+    },
+    {
+        "name": "Genjitsu no Yohane: Sunshine in the Mirror Movie",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "2024-11-29"
+    },
+    {
+        "name": "Hajimari wa Kimi no Sora",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2021-04-07"
+    },
+    {
+        "name": "Star Seed: Kakusei",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2021-09-15"
+    },
+    {
+        "name": "Juunenbun no Watashi e",
+        "genres": [
+            "Drama"
+        ],
+        "category": "ONA",
+        "release_date": "2020-10-25"
+    },
+    {
+        "name": "Yurumates 3D Plus",
+        "genres": [
+            "Comedy",
+            "Slice of Life"
+        ],
+        "category": "TV",
+        "release_date": "2012-07-03"
+    },
+    {
+        "name": "McDull: Fan Bao Qibing",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "category": "Movie",
+        "release_date": "2016-09-15"
+    },
+    {
+        "name": "Huyao Xiao Hongniang: Jing Hua Yuan",
+        "genres": [
+            "Comedy",
+            "Romance",
+            "Supernatural"
+        ],
+        "category": "ONA",
+        "release_date": "2024-08-03"
+    },
+    {
+        "name": "Thermae Romae: Kodai Romajin ga Uchuu e",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "ONA",
+        "release_date": "2012-04-20"
+    },
+    {
+        "name": "Soccer Fever",
+        "genres": [
+            "Sports"
+        ],
+        "category": "TV",
+        "release_date": "1994-04-04"
+    },
+    {
+        "name": "Autobi",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2024-04-24"
+    },
+    {
+        "name": "Space\u2606Dandy 2nd Season",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2014-07-06"
+    },
+    {
+        "name": "Inamori Asuto no Soccer Kyoushitsu",
+        "genres": [
+            "Sports"
+        ],
+        "category": "ONA",
+        "release_date": "2018-08-10"
+    },
+    {
+        "name": "Zoids Fuzors",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2004-10-03"
+    },
+    {
+        "name": "Sayonara End Roll",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2024-12-24"
+    },
+    {
+        "name": "Kemono Jihen",
+        "genres": [
+            "Action",
+            "Mystery",
+            "Supernatural"
+        ],
+        "category": "TV",
+        "release_date": "2021-01-10"
+    },
+    {
+        "name": "Suki demo Kirai na Amanojaku",
+        "genres": [
+            "Adventure",
+            "Supernatural"
+        ],
+        "category": "Movie",
+        "release_date": "2024-05-24"
+    },
+    {
+        "name": "Wormy",
+        "genres": [],
+        "category": "Movie",
+        "release_date": "2014-01-02"
+    },
+    {
+        "name": "Monochrome",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2022-11-18"
+    },
+    {
+        "name": "Yatara Yarashii Fukami-kun",
+        "genres": [
+            "Boys Love",
+            "Erotica"
+        ],
+        "category": "ONA",
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Konjiki no Gash Bell!!: Ougon no Chichi wo Motsu Otoko",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Romance",
+            "Supernatural",
+            "Ecchi"
+        ],
+        "category": "OVA",
+        "release_date": "2005-05-25"
+    },
+    {
+        "name": "Getter Robo Memorial",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "category": "OVA",
+        "release_date": "1999-07-21"
+    },
+    {
+        "name": "Xi Yangyang Yu Hui Tailang: Lan Yangyang Dang Dachu",
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "2013-12-20"
+    },
+    {
+        "name": "Uma Musume: Pretty Derby - 1st Anniversary Special Animation",
+        "genres": [
+            "Comedy",
+            "Sports"
+        ],
+        "category": "Special",
+        "release_date": "2022-02-22"
+    },
+    {
+        "name": "Eun-sil-i",
+        "genres": [
+            "Drama"
+        ],
+        "category": "Movie",
+        "release_date": "2011-11-04"
+    },
+    {
+        "name": "Kaixin Chaoren Lianmeng: Xingji Lianmeng",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2019-02-04"
+    },
+    {
+        "name": "Ikoku Irokoi Romantan",
+        "genres": [
+            "Boys Love",
+            "Comedy",
+            "Erotica"
+        ],
+        "category": "OVA",
+        "release_date": "2007-12-21"
+    },
+    {
+        "name": "Gensoumaden Saiyuuki: Kibou no Zaika",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "OVA",
+        "release_date": "2002-09-19"
+    },
+    {
+        "name": "Tatsu no Ko Tarou",
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Supernatural"
+        ],
+        "category": "Movie",
+        "release_date": "1979-03-17"
+    },
+    {
+        "name": "Kodamasuru",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "Music",
+        "release_date": "2024-01-27"
+    },
+    {
+        "name": "Mahouka Koukou no Rettousei 10-shuunen Kinen PV",
+        "genres": [],
+        "category": "PV",
+        "release_date": "2021-07-09"
+    },
+    {
+        "name": "Haramasete Seiryuu-kun!",
+        "genres": [
+            "Comedy",
+            "Hentai"
+        ],
+        "category": "OVA",
+        "release_date": "2011-06-24"
+    },
+    {
+        "name": "Menghuan Shuyuan 8th Season",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2023-03-27"
+    },
+    {
+        "name": "a_caFe",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "Music",
+        "release_date": "2002-01-01"
+    },
+    {
+        "name": "Zhu Dike: Guguai Dao Da Maoxian II",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2017-08-14"
+    },
+    {
+        "name": "Omoikkiri Kagaku Adventure Sou Nanda!",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2003-10-05"
+    },
+    {
+        "name": "Ranma \u00bd: Kessen Tougenkyou! Hanayome wo Torimodose!",
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "category": "Movie",
+        "release_date": "1992-08-01"
+    },
+    {
+        "name": "Ijoku",
+        "genres": [
+            "Hentai"
+        ],
+        "category": "OVA",
+        "release_date": "2006-07-14"
+    },
+    {
+        "name": "Trip",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "Movie",
+        "release_date": "2005-01-01"
+    },
+    {
+        "name": "POPular UPrising",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "Music",
+        "release_date": "2002-01-01"
+    },
+    {
+        "name": "Super Street Fighter IV",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "category": "OVA",
+        "release_date": "2010-04-28"
+    },
+    {
+        "name": "Bloomy*Cafe",
+        "genres": [],
+        "category": "ONA",
+        "release_date": "2021-09-09"
+    },
+    {
+        "name": "Haikyuu!! Second Season",
+        "genres": [
+            "Sports"
+        ],
+        "category": "TV",
+        "release_date": "2015-10-04"
+    },
+    {
+        "name": "Effendi De Gushi",
+        "genres": [],
+        "category": "Movie",
+        "release_date": "1979-01-01"
+    },
+    {
+        "name": "Because",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "Music",
+        "release_date": "2020-09-01"
+    },
+    {
+        "name": "Wo Zhidao",
+        "genres": [],
+        "category": "Movie",
+        "release_date": "1956-01-01"
+    },
+    {
+        "name": "Nu Wushen de Canzhuo",
+        "genres": [
+            "Comedy",
+            "Gourmet"
+        ],
+        "category": "ONA",
+        "release_date": "2019-06-28"
+    },
+    {
+        "name": "Alpha de Qimiao Shijie",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2009-01-01"
+    },
+    {
+        "name": "Neko no Dayan: Fushigi Gekijou",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2016-10-01"
+    },
+    {
+        "name": "Jarinko Chie",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "category": "Movie",
+        "release_date": "1981-04-11"
+    },
+    {
+        "name": "Brownie",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2021-06-13"
+    },
+    {
+        "name": "Yoshimoto Muchikko Monogatari",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "1998-10-26"
+    },
+    {
+        "name": "Puu-Neko Shougekijou",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "2011-06-29"
+    },
+    {
+        "name": "Mianhua Tang He Yunduo Mama: Meimeng Cheng Zhen",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "Special",
+        "release_date": "2019-02-03"
+    },
+    {
+        "name": "Bawang Long Lei Qi",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2023-08-24"
+    },
+    {
+        "name": "Witch Watch",
+        "genres": [
+            "Comedy",
+            "Supernatural"
+        ],
+        "category": "TV",
+        "release_date": "2025-04-01"
+    },
+    {
+        "name": "Boku no Valentine Day",
+        "genres": [],
+        "category": "Music",
+        "release_date": "1987-02-02"
+    },
+    {
+        "name": "Boku datte, Kirei ni Shitainda",
+        "genres": [],
+        "category": "OVA",
+        "release_date": "1995-04-01"
+    },
+    {
+        "name": "Choco to Watashi",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2014-02-02"
+    },
+    {
+        "name": "Imouto sae Ireba Ii.",
+        "genres": [
+            "Comedy",
+            "Romance",
+            "Ecchi"
+        ],
+        "category": "TV",
+        "release_date": "2017-10-08"
+    },
+    {
+        "name": "Aruiwa Eiga no Yona",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2020-09-07"
+    },
+    {
+        "name": "Mecha-ude (TV)",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2024-10-04"
+    },
+    {
+        "name": "Tesagure! Bukatsumono Encore",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "2014-01-12"
+    },
+    {
+        "name": "Kindaichi Shounen no Jikenbo",
+        "genres": [
+            "Mystery"
+        ],
+        "category": "TV",
+        "release_date": "1997-04-07"
+    },
+    {
+        "name": "Baobao Yue Xuetang: Xiha Maoxian Dao",
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Sanda",
+        "genres": [
+            "Action",
+            "Mystery"
+        ],
+        "category": "TV",
+        "release_date": "2025-10-01"
+    },
+    {
+        "name": "Awaku Kasuka",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2024-10-16"
+    },
+    {
+        "name": "Keep Calm and Carry On",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "PV",
+        "release_date": "2014-10-14"
+    },
+    {
+        "name": "Tana wo Tsukurimashou",
+        "genres": [],
+        "category": "Music",
+        "release_date": "1961-12-01"
+    },
+    {
+        "name": "Shusse Ondo da yo!",
+        "genres": [],
+        "category": "Music",
+        "release_date": "1991-02-01"
+    },
+    {
+        "name": "Hakofugu to Minamata no Umi",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "Special",
+        "release_date": "2024-03-02"
+    },
+    {
+        "name": "Nodame Cantabile: Nodame to Chiaki no Umi Monogatari",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "category": "Special",
+        "release_date": "2007-10-05"
+    },
+    {
+        "name": "Tensei Ringo",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2022-06-03"
+    },
+    {
+        "name": "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2023-07-07"
+    },
+    {
+        "name": "Hanasakeru Seishounen",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "category": "TV",
+        "release_date": "2009-04-05"
+    },
+    {
+        "name": "Xiong Shi Shaonian 2",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "2024-12-14"
+    },
+    {
+        "name": "Hatenaki Sora e",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2024-12-19"
+    },
+    {
+        "name": "Shanmao He Jimi: Quanjia Le",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2011-04-17"
+    },
+    {
+        "name": "Symphonia",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2023-08-16"
+    },
+    {
+        "name": "Naoe-kun wa Yasesasetai.",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2024-07-07"
+    },
+    {
+        "name": "Shitteiru Tegami",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2022-06-23"
+    },
+    {
+        "name": "Aisou ze!",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "Music",
+        "release_date": "2021-04-14"
+    },
+    {
+        "name": "Kaiketsu Zorori: Mahoutsukai no Deshi/Dai Kaizoku no Takara Sagashi",
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "category": "Movie",
+        "release_date": "1993-07-17"
+    },
+    {
+        "name": "Doubutsu Mura no Shouboutai",
+        "genres": [],
+        "category": "Movie",
+        "release_date": "1972-01-01"
+    },
+    {
+        "name": "Kodomo no Keijijougaku",
+        "genres": [
+            "Award Winning",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2007-10-20"
+    },
+    {
+        "name": "Ume Fuwari",
+        "genres": [
+            "Drama"
+        ],
+        "category": "Music",
+        "release_date": "2023-02-16"
+    },
+    {
+        "name": "Kimi no Koe wo Todoketai",
+        "genres": [
+            "Drama"
+        ],
+        "category": "Movie",
+        "release_date": "2017-08-25"
+    },
+    {
+        "name": "Kimi yori mo Kimirashii",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "Music",
+        "release_date": "2024-12-05"
+    },
+    {
+        "name": "Tezuka Osamu no Kyuuyaku Seisho Monogatari: In the Beginning",
+        "genres": [],
+        "category": "TV",
+        "release_date": "1997-04-01"
+    },
+    {
+        "name": "Hungry to Win",
+        "genres": [
+            "Sports"
+        ],
+        "category": "CM",
+        "release_date": "2014-11-08"
+    },
+    {
+        "name": "Bartender: Kami no Glass",
+        "genres": [
+            "Drama",
+            "Gourmet"
+        ],
+        "category": "TV",
+        "release_date": "2024-04-04"
+    },
+    {
+        "name": "Ishi kara",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "Movie",
+        "release_date": "2013-01-01"
+    },
+    {
+        "name": "Lata Dawang Qiyu Ji (Movie)",
+        "genres": [],
+        "category": "Movie",
+        "release_date": "2012-08-17"
+    },
+    {
+        "name": "Overlord: Ple Ple Pleiades 4",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2022-07-05"
+    },
+    {
+        "name": "Chaoji Fei Xia: Kan Zhong Guo",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2020-01-01"
+    },
+    {
+        "name": "Ling Jue Xiao Heshang",
+        "genres": [],
+        "category": "TV",
+        "release_date": "1998-01-01"
+    },
+    {
+        "name": "Himitsukessha Taka no Tsume Gaiden: Mukashi no Yoshida-kun",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "2012-01-22"
+    },
+    {
+        "name": "Namida Time Capsule",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2020-04-02"
+    },
+    {
+        "name": "Shanhe Jian Xin",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2021-02-08"
+    },
+    {
+        "name": "Introduction",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2021-11-30"
+    },
+    {
+        "name": "Himouto! Umaru-chan R",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "2017-10-08"
+    },
+    {
+        "name": "Starmyu",
+        "genres": [
+            "Slice of Life"
+        ],
+        "category": "TV",
+        "release_date": "2015-10-06"
+    },
+    {
+        "name": "Funky Solution",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "Music",
+        "release_date": "2018-03-28"
+    },
+    {
+        "name": "Genesis Climber Mospeada: Love, Live, Alive",
+        "genres": [
+            "Action"
+        ],
+        "category": "OVA",
+        "release_date": "1985-09-01"
+    },
+    {
+        "name": "Shan Buzai Gao",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Koume-chan ga Iku!",
+        "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+        ],
+        "category": "TV",
+        "release_date": "1999-08-01"
+    },
+    {
+        "name": "Kyojin no Hoshi: Dai League Ball",
+        "genres": [
+            "Drama",
+            "Sports"
+        ],
+        "category": "Movie",
+        "release_date": "1970-03-21"
+    },
+    {
+        "name": "Soratobu Pudding Pudding",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2016-06-01"
+    },
+    {
+        "name": "Crayon Shin-chan Movie 19: Arashi wo Yobu Ougon no Spy Daisakusen",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "Movie",
+        "release_date": "2011-04-16"
+    },
+    {
+        "name": "Lao Fu Zi Fan Dou Zhen Tan",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "Movie",
+        "release_date": "2003-12-20"
+    },
+    {
+        "name": "Maison Ikkoku: Prelude - Meguru Haru no Sakura no You ni...",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "category": "Special",
+        "release_date": "1992-06-25"
+    },
+    {
+        "name": "Hua Luo Yi Meng",
+        "genres": [
+            "Boys Love",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2019-12-13"
+    },
+    {
+        "name": "Shoujo Shuumatsu Ryokou",
+        "genres": [
+            "Adventure",
+            "Mystery",
+            "Sci-Fi",
+            "Slice of Life"
+        ],
+        "category": "TV",
+        "release_date": "2017-10-06"
+    },
+    {
+        "name": "Haou Taikei Ryuu Knight: Adeu Legend II",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "OVA",
+        "release_date": "1995-12-18"
+    },
+    {
+        "name": "Nageki no Bourei wa Intai shitai 2nd Season",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Meitantei Conan OVA 12: Excalibur no Kiseki",
+        "genres": [
+            "Comedy",
+            "Mystery",
+            "Sports"
+        ],
+        "category": "OVA",
+        "release_date": "2012-05-24"
+    },
+    {
+        "name": "Gakkatsu! 2nd Season",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "2013-01-16"
+    },
+    {
+        "name": "Yasei no Last Boss ga Arawareta!",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Buddy Go!",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "category": "Special",
+        "release_date": "2016-04-06"
+    },
+    {
+        "name": "Hikari no Akuma",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2020-02-15"
+    },
+    {
+        "name": "Junjou Shoujo Et Cetera Specials",
+        "genres": [
+            "Hentai"
+        ],
+        "category": "Special",
+        "release_date": "2013-08-02"
+    },
+    {
+        "name": "Hello!! Kiniro Mosaic",
+        "genres": [
+            "Slice of Life"
+        ],
+        "category": "TV",
+        "release_date": "2015-04-06"
+    },
+    {
+        "name": "Initial D Second Stage",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "category": "TV",
+        "release_date": "1999-10-15"
+    },
+    {
+        "name": "Saiyuuki Reload: Zeroin",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Supernatural"
+        ],
+        "category": "TV",
+        "release_date": "2022-01-06"
+    },
+    {
+        "name": "Dreams",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "Movie",
+        "release_date": "2011-01-01"
+    },
+    {
+        "name": "Di Yi Xulie",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "category": "ONA",
+        "release_date": "2023-07-19"
+    },
+    {
+        "name": "Kataude",
+        "genres": [
+            "Drama"
+        ],
+        "category": "Movie",
+        "release_date": "2019-06-11"
+    },
+    {
+        "name": "Jankenman",
+        "genres": [
+            "Adventure"
+        ],
+        "category": "TV",
+        "release_date": "1991-04-04"
+    },
+    {
+        "name": "Kaiba Seichoutsuu",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2024-08-29"
+    },
+    {
+        "name": "Capeta",
+        "genres": [
+            "Sports"
+        ],
+        "category": "TV",
+        "release_date": "2005-10-04"
+    },
+    {
+        "name": "Pokemon Movie 09: Pokemon Ranger to Umi no Ouji Manaphy",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "2006-07-15"
+    },
+    {
+        "name": "WIXOSS Diva(A)Live",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2021-01-09"
+    },
+    {
+        "name": "Shenyi Jiu Xiaojie 2nd Season",
+        "genres": [
+            "Fantasy",
+            "Romance"
+        ],
+        "category": "ONA",
+        "release_date": "2024-02-11"
+    },
+    {
+        "name": "A New Dawn",
+        "genres": [
+            "Drama"
+        ],
+        "category": "Movie",
+        "release_date": "2025-01-01"
+    },
+    {
+        "name": "Project Voltage",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2023-09-29"
+    },
+    {
+        "name": "Utsu Musume Sayuri",
+        "genres": [
+            "Avant Garde",
+            "Comedy"
+        ],
+        "category": "Movie",
+        "release_date": "2003-01-01"
+    },
+    {
+        "name": "Mahou Shoujo Madoka\u2605Magica",
+        "genres": [
+            "Award Winning",
+            "Drama",
+            "Suspense"
+        ],
+        "category": "TV",
+        "release_date": "2011-01-07"
+    },
+    {
+        "name": "Shinmai Renkinjutsushi no Tenpo Keiei",
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Slice of Life"
+        ],
+        "category": "TV",
+        "release_date": "2022-10-03"
+    },
+    {
+        "name": "Shin Sakura Taisen the Animation",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2020-04-03"
+    },
+    {
+        "name": "Oshiri Tantei: Cosmic Front",
+        "genres": [
+            "Comedy",
+            "Fantasy",
+            "Mystery"
+        ],
+        "category": "TV Special",
+        "release_date": "2023-03-18"
+    },
+    {
+        "name": "Requiem (ONA)",
+        "genres": [
+            "Avant Garde"
+        ],
+        "category": "ONA",
+        "release_date": "2012-01-17"
+    },
+    {
+        "name": "Fullmetal Alchemist: Reflections",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "category": "Special",
+        "release_date": "2005-03-19"
+    },
+    {
+        "name": "Sphere",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2020-11-04"
+    },
+    {
+        "name": "Yichang Shengwu Jianwenlu Specials",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "ONA",
+        "release_date": "2019-06-28"
+    },
+    {
+        "name": "Princess Principal: Crown Handler Movie 6",
+        "genres": [
+            "Action",
+            "Mystery"
+        ],
+        "category": "Movie",
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Osomatsu-san Shinsaku Short Anime",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "ONA",
+        "release_date": "2024-09-11"
+    },
+    {
+        "name": "Your Rhapsody",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2022-12-31"
+    },
+    {
+        "name": "Binggrae Christmas",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "ONA",
+        "release_date": "2020-12-14"
+    },
+    {
+        "name": "Wo Jiao MT 3rd Season",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "ONA",
+        "release_date": "2010-01-01"
+    },
+    {
+        "name": "Jiu Hua Xiao Heshang",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2011-01-01"
+    },
+    {
+        "name": "Ehagaki",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2013-08-01"
+    },
+    {
+        "name": "Love Hina Christmas Special: Silent Eve",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "category": "TV Special",
+        "release_date": "2000-12-25"
+    },
+    {
+        "name": "Otogizoushi",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2004-07-07"
+    },
+    {
+        "name": "Meitantei Conan Magic File 5: Niigata - Tokyo Omiyage Capriccio",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Mystery"
+        ],
+        "category": "OVA",
+        "release_date": "2011-04-16"
+    },
+    {
+        "name": "Tamayura: Sotsugyou Shashin Part 1 - Kizashi",
+        "genres": [
+            "Slice of Life"
+        ],
+        "category": "Movie",
+        "release_date": "2015-04-04"
+    },
+    {
+        "name": "Dimension W",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "category": "TV",
+        "release_date": "2016-01-10"
+    },
+    {
+        "name": "Oshougatsuda yo! Pokemon Special!",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "Special",
+        "release_date": "1999-01-01"
+    },
+    {
+        "name": "Kujakuou: Sengoku Tensei",
+        "genres": [
+            "Action",
+            "Supernatural"
+        ],
+        "category": "ONA",
+        "release_date": "2014-10-21"
+    },
+    {
+        "name": "Onigiri ni Naritai Cogimyun",
+        "genres": [
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2020-01-31"
+    },
+    {
+        "name": "Takahashi Rumiko Gekijou Ningyo no Mori Specials",
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Horror",
+            "Mystery"
+        ],
+        "category": "Special",
+        "release_date": "2004-05-19"
+    },
+    {
+        "name": "Huoxing Wa: Zhi Gudai Dajia Gushi",
+        "genres": [],
+        "category": "TV",
+        "release_date": "2007-01-01"
+    },
+    {
+        "name": "Aitsura Zenin Dousoukai",
+        "genres": [],
+        "category": "Music",
+        "release_date": "2021-06-18"
+    },
+    {
+        "name": "Tensei shitara Slime Datta Ken 3rd Season: Kanwa - Diablo Nikki",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "category": "TV Special",
+        "release_date": "2024-03-31"
+    },
+    {
+        "name": "Isekai Kenou Seizon-ki",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": null,
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Bakugan Battle Brawlers",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "category": "TV",
+        "release_date": "2007-04-05"
+    },
+    {
+        "name": "Meoteoldosawa Ttomae",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "category": "Movie",
+        "release_date": "1990-12-25"
+    },
+    {
+        "name": "Chun Chun Chengzhang Ji: Fangzhi Ertong Yiwai Pian",
+        "genres": [],
+        "category": "ONA",
+        "release_date": "Unknown"
+    },
+    {
+        "name": "Devidol!",
+        "genres": [
+            "Comedy"
+        ],
+        "category": "TV",
+        "release_date": "2018-10-05"
+    }
+]
