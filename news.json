@@ -7,7 +7,7 @@
     "author": "John Doe",
     "publishDate": "2025-04-08T10:00:00Z",
     "category": "Anime",
-    "isBanner": true,
+    "isBanner": false,
     "tags": ["Anime", "Fun"],
     "relatedNews": ["Example5678", "Example91011"],
     "ThumbArray": ["raw.githubxx", "raw.githubxx"],
