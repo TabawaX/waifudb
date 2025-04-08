@@ -1,6 +1,6 @@
 [
   {
-    "mainThumb": "raw.githubxx",
+    "mainThumb": "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Screenshot_20250407-080507.jpg",
     "newsName": "Some News Name",
     "newsID": "Example1234",
     "newsDesc": "Example desc",
@@ -10,7 +10,7 @@
     "isBanner": false,
     "tags": ["Anime", "Fun"],
     "relatedNews": ["Example5678", "Example91011"],
-    "ThumbArray": ["raw.githubxx", "raw.githubxx"],
+    "ThumbArray": ["https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Screenshot_20250407-080507.jpg", "https://raw.githubusercontent.com/TabawaX/waifudb/refs/heads/master/wdbv2/Screenshot_20250407-080507.jpg"],
     "content": "Hari ini, episode terbaru dari anime One Slash resmi dirilis. Banyak fans mengatakan ini adalah <span style='color:#3498db'>episode terbaik</span> musim ini.  \n\nKamu bisa nonton <a href='https://link-to-watch.com' style='color:#3498db'>di sini</a>.  \n\nJangan lupa juga cek review dari kami di bagian bawah.  \n\n\n<b>Highlight:</b>  \n- Pertarungan intens antara karakter utama dan musuh misterius  \n- Visual efek super keren  \n- Musik latar bikin merinding"
   }
 ]
