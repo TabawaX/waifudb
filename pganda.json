@@ -1,1322 +1,1322 @@
 [
-  {
-    "soal": "Apa nama planet ketujuh dari matahari?",
-    "pilihan": {
-      "a": "Pluto",
-      "b": "Uranus",
-      "c": "Venus",
-      "d": "Mars"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Siapa penemu lampu pijar?",
-    "pilihan": {
-      "a": "Nikola Tesla",
-      "b": "Isaac Newton",
-      "c": "Thomas Edison",
-      "d": "Albert Einstein"
-    },
-    "jawaban_benar": "c"
-  },
-  {
-    "soal": "Ibu kota negara Jepang adalah?",
-    "pilihan": {
-      "a": "Osaka",
-      "b": "Tokyo",
-      "c": "Kyoto",
-      "d": "Nagoya"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Apa unsur kimia dengan simbol 'O'?",
-    "pilihan": {
-      "a": "Osmium",
-      "b": "Oganesson",
-      "c": "Oksigen",
-      "d": "Oksalat"
-    },
-    "jawaban_benar": "c"
-  },
-  {
-    "soal": "Berapa jumlah pulau di Indonesia menurut data resmi?",
-    "pilihan": {
-      "a": "17.000+",
-      "b": "10.000+",
-      "c": "5.000+",
-      "d": "20.000+"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Siapa presiden pertama Indonesia?",
-    "pilihan": {
-      "a": "Soekarno",
-      "b": "Soeharto",
-      "c": "B.J. Habibie",
-      "d": "Megawati"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Apa nama samudra terbesar di dunia?",
-    "pilihan": {
-      "a": "Atlantik",
-      "b": "Hindia",
-      "c": "Arktik",
-      "d": "Pasifik"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Bahasa pemrograman apa yang paling sering digunakan untuk web frontend?",
-    "pilihan": {
-      "a": "Java",
-      "b": "Python",
-      "c": "JavaScript",
-      "d": "C++"
-    },
-    "jawaban_benar": "c"
-  },
-  {
-    "soal": "Apa ibukota dari Australia?",
-    "pilihan": {
-      "a": "Sydney",
-      "b": "Melbourne",
-      "c": "Canberra",
-      "d": "Brisbane"
-    },
-    "jawaban_benar": "c"
-  },
-  {
-    "soal": "Berapa sisi yang dimiliki segi enam?",
-    "pilihan": {
-      "a": "5",
-      "b": "6",
-      "c": "7",
-      "d": "8"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Siapa penulis buku 'Harry Potter'?",
-    "pilihan": {
-      "a": "J.R.R. Tolkien",
-      "b": "George R.R. Martin",
-      "c": "J.K. Rowling",
-      "d": "Suzanne Collins"
-    },
-    "jawaban_benar": "c"
-  },
-  {
-    "soal": "Apa ibukota dari Prancis?",
-    "pilihan": {
-      "a": "Berlin",
-      "b": "Madrid",
-      "c": "Paris",
-      "d": "Rome"
-    },
-    "jawaban_benar": "c"
-  },
-  {
-    "soal": "Siapa yang menciptakan teori relativitas?",
-    "pilihan": {
-      "a": "Isaac Newton",
-      "b": "Albert Einstein",
-      "c": "Niels Bohr",
-      "d": "Galileo Galilei"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Apa yang dimaksud dengan 'DNA'?",
-    "pilihan": {
-      "a": "Deoxyribonucleic Acid",
-      "b": "Deoxyribose Nuclear Acids",
-      "c": "Double Nucleic Acid",
-      "d": "Dominant Nucleic Acid"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Apa elemen paling ringan di alam semesta?",
-    "pilihan": {
-      "a": "Hidrogen",
-      "b": "Helium",
-      "c": "Litium",
-      "d": "Oksigen"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Siapa yang pertama kali mendarat di bulan?",
-    "pilihan": {
-      "a": "Neil Armstrong",
-      "b": "Yuri Gagarin",
-      "c": "Buzz Aldrin",
-      "d": "John Glenn"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Apa ibu kota negara Inggris?",
-    "pilihan": {
-      "a": "Edinburgh",
-      "b": "London",
-      "c": "Cardiff",
-      "d": "Manchester"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Penyakit apa yang disebabkan oleh virus HIV?",
-    "pilihan": {
-      "a": "Flu",
-      "b": "Tuberkulosis",
-      "c": "AIDS",
-      "d": "Hepatitis"
-    },
-    "jawaban_benar": "c"
-  },
-  {
-    "soal": "Apa warna bendera Italia?",
-    "pilihan": {
-      "a": "Merah, putih, biru",
-      "b": "Merah, putih, hijau",
-      "c": "Hitam, putih, merah",
-      "d": "Biru, putih, kuning"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Siapa yang pertama kali menemukan Amerika?",
-    "pilihan": {
-      "a": "Christopher Columbus",
-      "b": "Ferdinand Magellan",
-      "c": "Marco Polo",
-      "d": "Vasco da Gama"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Apa ibu kota dari Kanada?",
-    "pilihan": {
-      "a": "Toronto",
-      "b": "Ottawa",
-      "c": "Vancouver",
-      "d": "Montreal"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Berapa banyak kromosom yang dimiliki manusia?",
-    "pilihan": {
-      "a": "46",
-      "b": "48",
-      "c": "44",
-      "d": "50"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Siapa yang menciptakan teori evolusi?",
-    "pilihan": {
-      "a": "Charles Darwin",
-      "b": "Louis Pasteur",
-      "c": "Gregor Mendel",
-      "d": "Albert Einstein"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Apa yang dimaksud dengan 'html'?",
-    "pilihan": {
-      "a": "Hypertext Markup Language",
-      "b": "Hyperlink Text Manipulation",
-      "c": "Hyper Text Markup Layout",
-      "d": "Hyperloop Technology Language"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Apa jenis gas yang paling banyak di atmosfer Bumi?",
-    "pilihan": {
-      "a": "Oksigen",
-      "b": "Karbon dioksida",
-      "c": "Nitrogen",
-      "d": "Argon"
-    },
-    "jawaban_benar": "c"
-  },
-  {
-    "soal": "Siapa penemu teori gravitasi?",
-    "pilihan": {
-      "a": "Galileo Galilei",
-      "b": "Isaac Newton",
-      "c": "Albert Einstein",
-      "d": "Nikola Tesla"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Apa nama ibu kota dari Mesir?",
-    "pilihan": {
-      "a": "Alexandria",
-      "b": "Cairo",
-      "c": "Luxor",
-      "d": "Giza"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Siapa yang menulis novel '1984'?",
-    "pilihan": {
-      "a": "George Orwell",
-      "b": "J.K. Rowling",
-      "c": "Aldous Huxley",
-      "d": "F. Scott Fitzgerald"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Siapa yang menemukan teori relativitas umum?",
-    "pilihan": {
-      "a": "Isaac Newton",
-      "b": "Albert Einstein",
-      "c": "Max Planck",
-      "d": "Niels Bohr"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Apa yang dimaksud dengan 'HTTP'?",
-    "pilihan": {
-      "a": "Hyper Transfer Text Protocol",
-      "b": "Hypertext Transfer Protocol",
-      "c": "Hyperlink Text Transport",
-      "d": "Hypertext Transport Protocol"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Apa nama tim sepak bola yang memiliki stadion 'Old Trafford'?",
-    "pilihan": {
-      "a": "Arsenal",
-      "b": "Liverpool",
-      "c": "Manchester United",
-      "d": "Chelsea"
-    },
-    "jawaban_benar": "c"
-  },
-  {
-    "soal": "Apa yang dimaksud dengan 'cloud computing'?",
-    "pilihan": {
-      "a": "Pengolahan data dengan server pribadi",
-      "b": "Pengolahan data melalui internet dengan server jarak jauh",
-      "c": "Penyimpanan data di perangkat keras pribadi",
-      "d": "Teknologi pembelajaran berbasis cloud"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Apa yang disebut dengan 'gravity'?",
-    "pilihan": {
-      "a": "Gaya tarik antara dua benda bermassa",
-      "b": "Gaya dorong antara dua benda bermassa",
-      "c": "Gaya tarik yang disebabkan oleh benda yang sangat besar",
-      "d": "Gaya yang menggerakkan benda"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Siapa yang pertama kali menciptakan telepon?",
-    "pilihan": {
-      "a": "Nikola Tesla",
-      "b": "Thomas Edison",
-      "c": "Alexander Graham Bell",
-      "d": "Michael Faraday"
-    },
-    "jawaban_benar": "c"
-  },
-  {
-    "soal": "Sungai apa yang terpanjang di dunia?",
-    "pilihan": {
-      "a": "Sungai Amazon",
-      "b": "Sungai Nil",
-      "c": "Sungai Yangtze",
-      "d": "Sungai Mississippi"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Apa ibu kota dari Kanada?",
-    "pilihan": {
-      "a": "Ottawa",
-      "b": "Toronto",
-      "c": "Vancouver",
-      "d": "Montreal"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Siapa yang dikenal sebagai Bapak Teknologi Informasi?",
-    "pilihan": {
-      "a": "Bill Gates",
-      "b": "Steve Jobs",
-      "c": "Alan Turing",
-      "d": "Mark Zuckerberg"
-    },
-    "jawaban_benar": "c"
-  },
-  {
-    "soal": "Benua manakah yang memiliki jumlah negara terbanyak?",
-    "pilihan": {
-      "a": "Afrika",
-      "b": "Asia",
-      "c": "Eropa",
-      "d": "Amerika"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Apa yang dimaksud dengan 'machine learning'?",
-    "pilihan": {
-      "a": "Pembelajaran komputer untuk memahami bahasa manusia",
-      "b": "Algoritma yang memungkinkan komputer untuk belajar dari data",
-      "c": "Penggunaan mesin untuk melakukan pekerjaan fisik",
-      "d": "Pembelajaran manusia melalui perangkat teknologi"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Apa bahan bakar utama yang digunakan dalam reaktor nuklir?",
-    "pilihan": {
-      "a": "Uranium",
-      "b": "Plutonium",
-      "c": "Thorium",
-      "d": "Karbon"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Apa tujuan dari konversi energi dalam turbin angin?",
-    "pilihan": {
-      "a": "Menghasilkan energi listrik",
-      "b": "Menghasilkan panas",
-      "c": "Meningkatkan tekanan udara",
-      "d": "Menghasilkan energi kimia"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Apa yang dimaksud dengan 'artificial intelligence' (AI)?",
-    "pilihan": {
-      "a": "Komputer yang dibuat untuk menggantikan otak manusia",
-      "b": "Kemampuan mesin untuk berpikir dan belajar seperti manusia",
-      "c": "Komputer yang tidak memerlukan perangkat keras",
-      "d": "Kemampuan manusia untuk menggunakan teknologi"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Siapa karakter utama dalam anime 'Naruto'?",
-    "pilihan": {
-      "a": "Sasuke Uchiha",
-      "b": "Naruto Uzumaki",
-      "c": "Sakura Haruno",
-      "d": "Kakashi Hatake"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Apa nama senjata yang digunakan oleh Ichigo Kurosaki dalam anime 'Bleach'?",
-    "pilihan": {
-      "a": "Zangetsu",
-      "b": "Tensa Zangetsu",
-      "c": "Kirin",
-      "d": "Saber"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Apa nama sekolah tempat karakter utama di anime 'High School DxD' bersekolah?",
-    "pilihan": {
-      "a": "Kuoh Academy",
-      "b": "Blue Sky Academy",
-      "c": "Hoshizora Academy",
-      "d": "Sekai High"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Karakter anime mana yang dikenal dengan sebutan 'Titan Shifter' dalam anime 'Attack on Titan'?",
-    "pilihan": {
-      "a": "Eren Yeager",
-      "b": "Levi Ackerman",
-      "c": "Mikasa Ackerman",
-      "d": "Armin Arlert"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Siapa pembuat manga 'One Piece'?",
-    "pilihan": {
-      "a": "Masashi Kishimoto",
-      "b": "Eiichiro Oda",
-      "c": "Hiro Mashima",
-      "d": "Akira Toriyama"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Siapa karakter utama dalam anime 'Attack on Titan'?",
-    "pilihan": {
-      "a": "Eren Yeager",
-      "b": "Levi Ackerman",
-      "c": "Mikasa Ackerman",
-      "d": "Armin Arlert"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Apa nama pedang utama yang digunakan oleh Kirito dalam anime 'Sword Art Online'?",
-    "pilihan": {
-      "a": "Excalibur",
-      "b": "Elucidator",
-      "c": "Anduril",
-      "d": "Katana"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Dalam anime 'My Hero Academia', siapa yang memiliki kemampuan untuk menjadi All Might?",
-    "pilihan": {
-      "a": "Katsuki Bakugo",
-      "b": "Shoto Todoroki",
-      "c": "Izuku Midoriya",
-      "d": "All For One"
-    },
-    "jawaban_benar": "c"
-  },
-  {
-    "soal": "Apa nama karakter utama dalam anime 'Death Note' yang menggunakan buku catatan kematian?",
-    "pilihan": {
-      "a": "L",
-      "b": "Near",
-      "c": "Light Yagami",
-      "d": "Misa Amane"
-    },
-    "jawaban_benar": "c"
-  },
-  {
-    "soal": "Siapa yang menjadi 'god of destruction' dalam anime 'Dragon Ball'?",
-    "pilihan": {
-      "a": "Beerus",
-      "b": "Frieza",
-      "c": "Majin Buu",
-      "d": "Cell"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Dalam anime 'Demon Slayer', siapa yang menjadi guru utama Tanjiro?",
-    "pilihan": {
-      "a": "Giyu Tomioka",
-      "b": "Kanao Tsuyuri",
-      "c": "Shinobu Kocho",
-      "d": "Sengoku"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Apa nama karakter utama dalam anime 'Tokyo Ghoul' yang menjadi ghoul?",
-    "pilihan": {
-      "a": "Ken Kaneki",
-      "b": "Toka Kirishima",
-      "c": "Rize Kamishiro",
-      "d": "Amon Koutarou"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Siapa yang pertama kali mengucapkan 'I am gonna be king of the pirates' dalam anime 'One Piece'?",
-    "pilihan": {
-      "a": "Monkey D. Luffy",
-      "b": "Roronoa Zoro",
-      "c": "Nami",
-      "d": "Portgas D. Ace"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Siapa yang menjadi Hokage ketujuh dalam 'Naruto'?",
-    "pilihan": {
-      "a": "Naruto Uzumaki",
-      "b": "Sasuke Uchiha",
-      "c": "Kakashi Hatake",
-      "d": "Minato Namikaze"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Apa nama robot yang menjadi teman utama dalam anime 'Astro Boy'?",
-    "pilihan": {
-      "a": "Cyborg 009",
-      "b": "Astro Boy",
-      "c": "Mazinger Z",
-      "d": "Gigantor"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Dalam anime 'Naruto', siapa yang dikenal dengan sebutan 'Sannin Legendaris'?",
-    "pilihan": {
-      "a": "Naruto, Sasuke, Sakura",
-      "b": "Jiraiya, Tsunade, Orochimaru",
-      "c": "Kakashi, Iruka, Gai",
-      "d": "Tobirama, Minato, Hiruzen"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Apa genre utama dari anime 'K-On!'?",
-    "pilihan": {
-      "a": "Action",
-      "b": "Slice of Life",
-      "c": "Horror",
-      "d": "Isekai"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Siapa waifu dari anime 'Re:Zero' yang dikenal dengan rambut biru dan sikap tsundere?",
-    "pilihan": {
-      "a": "Rem",
-      "b": "Ram",
-      "c": "Emilia",
-      "d": "Beatrice"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Apa nama virtual idol dari Jepang yang sangat terkenal sejak 2007?",
-    "pilihan": {
-      "a": "Megurine Luka",
-      "b": "IA",
-      "c": "Hatsune Miku",
-      "d": "Gumi"
-    },
-    "jawaban_benar": "c"
-  },
-  {
-    "soal": "Anime 'Your Name' dibuat oleh sutradara terkenal, siapa dia?",
-    "pilihan": {
-      "a": "Hayao Miyazaki",
-      "b": "Makoto Shinkai",
-      "c": "Satoshi Kon",
-      "d": "Mamoru Hosoda"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Siapa karakter yang memiliki kekuatan 'Geass' dalam anime 'Code Geass'?",
-    "pilihan": {
-      "a": "Suzaku Kururugi",
-      "b": "Kallen Stadtfeld",
-      "c": "Lelouch Lamperouge",
-      "d": "C.C."
-    },
-    "jawaban_benar": "c"
-  },
-  {
-    "soal": "Dalam 'Clannad', siapa karakter utama pria?",
-    "pilihan": {
-      "a": "Youhei Sunohara",
-      "b": "Tomoya Okazaki",
-      "c": "Kotomi Ichinose",
-      "d": "Nagisa Furukawa"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Apa nama pedang milik Guts dari anime 'Berserk'?",
-    "pilihan": {
-      "a": "Dragon Slayer",
-      "b": "Black Blade",
-      "c": "Demon Cutter",
-      "d": "Great Fang"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Siapa yang menjadi 'waifu legendaris' dari anime 'Steins;Gate'?",
-    "pilihan": {
-      "a": "Kurisu Makise",
-      "b": "Mayuri Shiina",
-      "c": "Moeka Kiryu",
-      "d": "Suzuha Amane"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Apa nama klub dalam anime 'Boku wa Tomodachi ga Sukunai'?",
-    "pilihan": {
-      "a": "Klub Sahabat",
-      "b": "Klub Penelitian Ilmu Sosial",
-      "c": "Klub Tidak Punya Teman",
-      "d": "Klub Keinginan Bersosialisasi"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Dalam anime 'Toradora!', siapa heroine utama dengan julukan 'Palmtop Tiger'?",
-    "pilihan": {
-      "a": "Minori Kushieda",
-      "b": "Ami Kawashima",
-      "c": "Sumire Kanou",
-      "d": "Taiga Aisaka"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Apa ciri khas waifu Megumin dari anime 'Konosuba'?",
-    "pilihan": {
-      "a": "Penyihir es",
-      "b": "Tsundere pelayan",
-      "c": "Loli penyihir dengan sihir ledakan",
-      "d": "Petarung dengan kapak besar"
-    },
-    "jawaban_benar": "c"
-  },
-  {
-    "soal": "Dalam anime 'No Game No Life', siapakah nama adik dari Sora?",
-    "pilihan": {
-      "a": "Jibril",
-      "b": "Steph",
-      "c": "Shiro",
-      "d": "Tet"
-    },
-    "jawaban_benar": "c"
-  },
-  {
-    "soal": "Siapa karakter utama perempuan dari anime 'Vivy: Fluorite Eye’s Song'?",
-    "pilihan": {
-      "a": "Vivy",
-      "b": "Matsumoto",
-      "c": "Elizabeth",
-      "d": "Ophelia"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Apa nama anime dengan karakter bernama Zero Two?",
-    "pilihan": {
-      "a": "Kill la Kill",
-      "b": "Darling in the Franxx",
-      "c": "Neon Genesis Evangelion",
-      "d": "Guilty Crown"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Kenapa Naruto gak pernah pakai helm?",
-    "pilihan": {
-      "a": "Karena dia ninja",
-      "b": "Helm-nya dicuri Sasuke",
-      "c": "Dia gak naik motor",
-      "d": "Konoha gak punya dealer"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Siapa waifu terbaik menurut orang yang belum mandi 3 hari?",
-    "pilihan": {
-      "a": "Zero Two",
-      "b": "Rem",
-      "c": "Yang penting moe",
-      "d": "Semua di folder hidden"
-    },
-    "jawaban_benar": "c"
-  },
-  {
-    "soal": "Apa kekuatan utama Goku saat kepepet?",
-    "pilihan": {
-      "a": "Kamehameha",
-      "b": "Plot armor",
-      "c": "Spirit Bomb",
-      "d": "Minta tolong Vegeta"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Kenapa karakter anime gak pernah ganti baju?",
-    "pilihan": {
-      "a": "Punya bajunya cuma itu doang",
-      "b": "Itu seragam sekolah",
-      "c": "Biar gampang digambar ulang",
-      "d": "Laundry mahal di Jepang"
-    },
-    "jawaban_benar": "c"
-  },
-  {
-    "soal": "Anime apa yang wajib ditonton saat patah hati?",
-    "pilihan": {
-      "a": "Your Lie in April",
-      "b": "Boku no Pico",
-      "c": "Shingeki no Kyojin",
-      "d": "Nonton iklan Indomie aja"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Kenapa L dari Death Note duduknya aneh?",
-    "pilihan": {
-      "a": "Biar fokus mikir",
-      "b": "Kursinya keras",
-      "c": "Itu gaya OP",
-      "d": "Dia lupa cara duduk biasa"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Apa senjata terkuat dalam dunia anime?",
-    "pilihan": {
-      "a": "Excalibur",
-      "b": "Sharingan",
-      "c": "Power of Friendship",
-      "d": "Spoiler ending"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Siapa karakter anime yang kemungkinan besar gak punya KTP?",
-    "pilihan": {
-      "a": "Luffy",
-      "b": "Doraemon",
-      "c": "Saitama",
-      "d": "Semua jawaban benar"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Apa reaksi wibu saat waifunya menikah di ending anime?",
-    "pilihan": {
-      "a": "Bahagia",
-      "b": "Mengikhlaskan",
-      "c": "Ngambek 3 hari",
-      "d": "Ganti waifu baru"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Kenapa banyak karakter anime lari sambil bawa roti di mulut?",
-    "pilihan": {
-      "a": "Lambat bangun",
-      "b": "Lari ke isekai",
-      "c": "Itu ritual suci sekolah Jepang",
-      "d": "Laper dan gak sempat sarapan"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Kenapa WiFi suka lemot pas lagi butuh-butuhnya?",
-    "pilihan": {
-      "a": "Karena hukum Murphy",
-      "b": "Karena tahu kita butuh",
-      "c": "Lagi insecure",
-      "d": "Indihome sedang bercanda"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Apa yang biasanya hilang saat kita butuh buru-buru keluar rumah?",
-    "pilihan": {
-      "a": "Kunci",
-      "b": "Dompet",
-      "c": "Akal sehat",
-      "d": "Semua benar"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Kenapa alarm pagi gak pernah kedengaran?",
-    "pilihan": {
-      "a": "Karena udah jadi musik pengantar tidur",
-      "b": "Tertidur sebelum snooze",
-      "c": "Volume-nya dilawan takdir",
-      "d": "Pura-pura gak dengar"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Apa rasanya pas liat notifikasi 'saldo tidak cukup'?",
-    "pilihan": {
-      "a": "Pahit",
-      "b": "Seperti ditinggal pas lagi sayang-sayangnya",
-      "c": "Sakit tapi gak berdarah",
-      "d": "Semua jawaban benar"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Kenapa mie instan lebih enak dari makanan mahal?",
-    "pilihan": {
-      "a": "Karena nostalgia",
-      "b": "Karena MSG adalah cinta",
-      "c": "Karena perihnya akhir bulan",
-      "d": "Karena semuanya benar"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Apa hal pertama yang dilakukan setelah bangun tidur?",
-    "pilihan": {
-      "a": "Scroll HP",
-      "b": "Ngecek jam lalu tidur lagi",
-      "c": "Merenungi hidup",
-      "d": "Semua benar tergantung mood"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Kenapa kita selalu lapar tengah malam?",
-    "pilihan": {
-      "a": "Karena setan mie goreng manggil",
-      "b": "Perut ada timer jam 1 pagi",
-      "c": "Tiba-tiba inget kulkas",
-      "d": "Karena hidup penuh kekosongan"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Kenapa setiap mandi ide brilian muncul?",
-    "pilihan": {
-      "a": "Karena otak ikut bersih",
-      "b": "Karena gak ada distraksi",
-      "c": "Karena shower = portal ide",
-      "d": "Karena gak mungkin ditulis jadi lupa"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Apa yang dilakukan saat kerjaan numpuk?",
-    "pilihan": {
-      "a": "Scroll TikTok dulu biar santai",
-      "b": "Ngopi sambil merenung",
-      "c": "Buka kerjaan, lalu minimize",
-      "d": "Semua dilakukan bersamaan"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Apa tujuan hidup sebenarnya?",
-    "pilihan": {
-      "a": "Menemukan makna",
-      "b": "Bayar tagihan",
-      "c": "Ngumpulin gacha",
-      "d": "Belum tahu, masih buffering"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Apa yang paling sering ditunda sampai deadline lewat?",
-    "pilihan": {
-      "a": "Tugas kuliah",
-      "b": "Kerjaan kantor",
-      "c": "Niat berubah",
-      "d": "Hidup"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Kenapa kita suka nyolokin charger tapi gak nyalain saklar?",
-    "pilihan": {
-      "a": "Tradisi nenek moyang",
-      "b": "Latihan kecewa",
-      "c": "Biar hidup lebih greget",
-      "d": "Karena kita manusia"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Apa yang selalu ada tapi jarang dipakai?",
-    "pilihan": {
-      "a": "Setrika",
-      "b": "Lemari dapur paling atas",
-      "c": "Janji-janji manis",
-      "d": "Password yang kuat"
-    },
-    "jawaban_benar": "c"
-  },
-  {
-    "soal": "Apa efek samping dari nonton 1 episode sebelum tidur?",
-    "pilihan": {
-      "a": "Tiba-tiba tamat season",
-      "b": "Tidur jam 5 pagi",
-      "c": "Besok jadi zombie",
-      "d": "Semua benar"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Kenapa kita suka baca ulang chat yang gak penting?",
-    "pilihan": {
-      "a": "Stalking masa lalu",
-      "b": "Lagi gabut",
-      "c": "Latihan jadi FBI",
-      "d": "Biar inget rasanya pernah bahagia"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Kenapa Indomie lebih cepat dimasak saat lapar?",
-    "pilihan": {
-      "a": "Efek ilusi perut kosong",
-      "b": "Waktu dilipet sama semesta",
-      "c": "Laper mempercepat dimensi",
-      "d": "Karena lo butuh dia, dia dateng"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Apa yang kita buka tiap bangun tidur sebelum cuci muka?",
-    "pilihan": {
-      "a": "Handphone",
-      "b": "Instagram",
-      "c": "Notifikasi mantan",
-      "d": "Semua benar tergantung trauma"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Kenapa kucing bisa tidur 16 jam sehari?",
-    "pilihan": {
-      "a": "Biar ngatain manusia dari mimpi",
-      "b": "Karena gak ada tugas",
-      "c": "Mereka sudah level dewa",
-      "d": "Karena hidup adalah tidur"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Kenapa kita selalu pengen ngemil pas lagi diet?",
-    "pilihan": {
-      "a": "Karena godaan setan gorengan",
-      "b": "Karena tubuh menolak perubahan",
-      "c": "Karena hidup butuh rasa",
-      "d": "Semua benar, diet hanya konsep"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Apa yang terjadi kalau lupa bawa charger pas pergi?",
-    "pilihan": {
-      "a": "Baterai 1% jadi 5 jam",
-      "b": "Mulai hidup realita",
-      "c": "Ngemis ke temen",
-      "d": "Jadi lebih religius"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Kenapa sandal sering ilang di masjid?",
-    "pilihan": {
-      "a": "Naik haji duluan",
-      "b": "Pindah agama",
-      "c": "Dijodohin sama sandal lain",
-      "d": "Udah takdir"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Apa yang lebih cepat dari cahaya?",
-    "pilihan": {
-      "a": "Ngantuk saat belajar",
-      "b": "Nyesel habis belanja",
-      "c": "Jatuh cinta sama yang salah",
-      "d": "Respons temen saat minta traktir"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Apa tanda kamu udah dewasa?",
-    "pilihan": {
-      "a": "Tagihan datang rutin",
-      "b": "Ngomel kalau liat listrik nyala",
-      "c": "Bahagia liat diskon minyak goreng",
-      "d": "Semua di atas benar"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Apa yang bikin was-was padahal gak ngapa-ngapain?",
-    "pilihan": {
-      "a": "Dengar suara motor berhenti depan rumah",
-      "b": "Liat polisi waktu naik motor",
-      "c": "Mata dosen pas kamu ngobrol",
-      "d": "Notifikasi tagihan"
-    },
-    "jawaban_benar": "b"
-  },
-  {
-    "soal": "Kenapa makin malam makin banyak ide?",
-    "pilihan": {
-      "a": "Otak baru hidup jam 12",
-      "b": "Karena gelap itu inspiratif",
-      "c": "Siang buat rebahan, malam buat mikir",
-      "d": "Karena kita keturunan kalong"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Apa alasan klasik gak mandi seharian?",
-    "pilihan": {
-      "a": "Cuaca dingin",
-      "b": "Lagi healing",
-      "c": "Mandi tuh overrated",
-      "d": "Airnya diem aja, gak ngajak ngobrol"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Kenapa tisu selalu habis pas butuh?",
-    "pilihan": {
-      "a": "Karena karma waktu buang-buang",
-      "b": "Tisu punya perasaan",
-      "c": "Itu ujian hidup",
-      "d": "Karena hidup gak adil"
-    },
-    "jawaban_benar": "c"
-  },
-  {
-    "soal": "Apa yang biasanya terjadi setelah ngecas 100%?",
-    "pilihan": {
-      "a": "Dipake terus sampe habis",
-      "b": "Lupa dicabut, panas kaya neraka",
-      "c": "Baterai malah cepet ngedrop",
-      "d": "Semua kejadian nyata"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Kenapa di warung selalu ditanya 'mau yang mana' padahal cuma satu jenis?",
-    "pilihan": {
-      "a": "Biar keliatan rame",
-      "b": "Tradisi leluhur",
-      "c": "Ujian kesabaran",
-      "d": "Biar kamu merasa punya pilihan"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Apa kekuatan utama anak kos akhir bulan?",
-    "pilihan": {
-      "a": "Ngolah mie jadi 5 varian rasa",
-      "b": "Nasi + garam jadi menu andalan",
-      "c": "Ngisi perut pake tidur",
-      "d": "Semua adalah strategi bertahan hidup"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Apa sarapan paling mewah anak kos?",
-    "pilihan": {
-      "a": "Mie telur plus nasi",
-      "b": "Roti sisa semalam",
-      "c": "Air putih dengan harapan",
-      "d": "Tidur lagi biar lupa lapar"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Apa alat masak paling serbaguna di kos?",
-    "pilihan": {
-      "a": "Magic com",
-      "b": "Setrika",
-      "c": "Kipas angin",
-      "d": "Sendok multifungsi"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Kenapa anak kos sering buka kulkas padahal kosong?",
-    "pilihan": {
-      "a": "Lagi ngecek keajaiban",
-      "b": "Penasaran sama angin",
-      "c": "Kebiasaan dari kecil",
-      "d": "Siapa tau ada makanan muncul sendiri"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Apa tandanya anak kos udah akhir bulan?",
-    "pilihan": {
-      "a": "Dompet tinggal receh",
-      "b": "Mie instan jadi menu utama",
-      "c": "Hilang dari tongkrongan",
-      "d": "Semua bener"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Kenapa anak kos suka masak mie pake gayung?",
-    "pilihan": {
-      "a": "Karena panci itu barang mewah",
-      "b": "Satu alat untuk semua",
-      "c": "Gayung rasa nostalgia",
-      "d": "Karena boleh"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Kenapa kamar kos jarang dibersihin?",
-    "pilihan": {
-      "a": "Nyari feel dulu",
-      "b": "Biar estetik messy room",
-      "c": "Debu udah dianggap teman",
-      "d": "Menunggu wangsit"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Apa fungsi ember di kosan?",
-    "pilihan": {
-      "a": "Nampung air",
-      "b": "Tempat nyuci baju",
-      "c": "Naruh mie instan",
-      "d": "Semua benar, sesuai mood"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Apa reaksi anak kos saat pulsa habis tapi butuh paket darurat?",
-    "pilihan": {
-      "a": "Ngelamun liatin HP",
-      "b": "Ngecas HP padahal gak ada sinyal",
-      "c": "Tanya WiFi tetangga",
-      "d": "Ngirim sinyal telepati"
-    },
-    "jawaban_benar": "c"
-  },
-  {
-    "soal": "Apa olahraga rutin anak kos?",
-    "pilihan": {
-      "a": "Lari dari kenyataan",
-      "b": "Angkat galon isi ulang",
-      "c": "Lompat tagihan",
-      "d": "Semua benar tergantung tanggal"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Kenapa anak kos sering ngumpul di warteg?",
-    "pilihan": {
-      "a": "Gratis teh hangat",
-      "b": "Bisa ngutang",
-      "c": "Bisa makan sambil curhat",
-      "d": "Semua alasan sah"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Apa yang pertama dicek pas masuk kelas?",
-    "pilihan": {
-      "a": "Tempat duduk kosong",
-      "b": "Siapa wali kelas hari ini",
-      "c": "Guru udah dateng belum",
-      "d": "Wifi nyambung gak"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Apa arti 'Belajar Online' menurut siswa jaman now?",
-    "pilihan": {
-      "a": "Zoom nyala, kamera mati",
-      "b": "Tugas numpuk, otak mumet",
-      "c": "Tidur tapi status hadir",
-      "d": "Semua benar"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Kenapa tugas dikumpulin mepet deadline?",
-    "pilihan": {
-      "a": "Biar dapet feel belajar",
-      "b": "Karena tradisi turun-temurun",
-      "c": "Inspirasi muncul saat panik",
-      "d": "Tugas = adrenalin"
-    },
-    "jawaban_benar": "c"
-  },
-  {
-    "soal": "Apa yang bikin siswa semangat sekolah?",
-    "pilihan": {
-      "a": "Jam istirahat",
-      "b": "Gosip baru",
-      "c": "Liat gebetan",
-      "d": "Semua benar, kecuali belajar"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Kenapa murid suka duduk di belakang kelas?",
-    "pilihan": {
-      "a": "Biar gak disuruh maju",
-      "b": "Bisa ngobrol bebas",
-      "c": "Zona nyaman ngantuk",
-      "d": "Strategi hidup"
-    },
-    "jawaban_benar": "a"
-  },
-  {
-    "soal": "Apa kegiatan paling favorit saat pelajaran berlangsung?",
-    "pilihan": {
-      "a": "Main HP di bawah meja",
-      "b": "Chat pake kertas",
-      "c": "Liat jam tiap menit",
-      "d": "Liat langit berharap keajaiban"
-    },
-    "jawaban_benar": "c"
-  },
-  {
-    "soal": "Apa fungsi utama grup kelas?",
-    "pilihan": {
-      "a": "Nanya tugas jam 11 malam",
-      "b": "Ngirim stiker gak jelas",
-      "c": "Spam info gak penting",
-      "d": "Tiga-tiganya penting"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Kenapa siswa tiba-tiba aktif pas guru bilang 'nilai tergantung keaktifan'?",
-    "pilihan": {
-      "a": "Tiba-tiba jadi kritikus",
-      "b": "Langsung buka Google",
-      "c": "Mendadak cerdas",
-      "d": "Insting bertahan hidup"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Apa yang terjadi saat guru bilang 'kerja kelompok'?",
-    "pilihan": {
-      "a": "Yang kerja cuma satu",
-      "b": "Yang lain ikut nama doang",
-      "c": "Grup rame pas awal doang",
-      "d": "Semua selalu kejadian"
-    },
-    "jawaban_benar": "d"
-  },
-  {
-    "soal": "Apa respon umum saat ada tugas presentasi?",
-    "pilihan": {
-      "a": "Ngarep jadi yang terakhir",
-      "b": "Cari materi H-1",
-      "c": "Bikin slide 15 menit sebelum tampil",
-      "d": "Semua benar dan udah biasa"
-    },
-    "jawaban_benar": "d"
-  }
+   {
+      "soal":"Apa nama planet ketujuh dari matahari?",
+      "pilihan":{
+         "a":"Pluto",
+         "b":"Uranus",
+         "c":"Venus",
+         "d":"Mars"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Siapa penemu lampu pijar?",
+      "pilihan":{
+         "a":"Nikola Tesla",
+         "b":"Isaac Newton",
+         "c":"Thomas Edison",
+         "d":"Albert Einstein"
+      },
+      "jawaban_benar":"c"
+   },
+   {
+      "soal":"Ibu kota negara Jepang adalah?",
+      "pilihan":{
+         "a":"Osaka",
+         "b":"Tokyo",
+         "c":"Kyoto",
+         "d":"Nagoya"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Apa unsur kimia dengan simbol 'O'?",
+      "pilihan":{
+         "a":"Osmium",
+         "b":"Oganesson",
+         "c":"Oksigen",
+         "d":"Oksalat"
+      },
+      "jawaban_benar":"c"
+   },
+   {
+      "soal":"Berapa jumlah pulau di Indonesia menurut data resmi?",
+      "pilihan":{
+         "a":"17.000+",
+         "b":"10.000+",
+         "c":"5.000+",
+         "d":"20.000+"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Siapa presiden pertama Indonesia?",
+      "pilihan":{
+         "a":"Soekarno",
+         "b":"Soeharto",
+         "c":"B.J. Habibie",
+         "d":"Megawati"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Apa nama samudra terbesar di dunia?",
+      "pilihan":{
+         "a":"Atlantik",
+         "b":"Hindia",
+         "c":"Arktik",
+         "d":"Pasifik"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Bahasa pemrograman apa yang paling sering digunakan untuk web frontend?",
+      "pilihan":{
+         "a":"Java",
+         "b":"Python",
+         "c":"JavaScript",
+         "d":"C++"
+      },
+      "jawaban_benar":"c"
+   },
+   {
+      "soal":"Apa ibukota dari Australia?",
+      "pilihan":{
+         "a":"Sydney",
+         "b":"Melbourne",
+         "c":"Canberra",
+         "d":"Brisbane"
+      },
+      "jawaban_benar":"c"
+   },
+   {
+      "soal":"Berapa sisi yang dimiliki segi enam?",
+      "pilihan":{
+         "a":"5",
+         "b":"6",
+         "c":"7",
+         "d":"8"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Siapa penulis buku 'Harry Potter'?",
+      "pilihan":{
+         "a":"J.R.R. Tolkien",
+         "b":"George R.R. Martin",
+         "c":"J.K. Rowling",
+         "d":"Suzanne Collins"
+      },
+      "jawaban_benar":"c"
+   },
+   {
+      "soal":"Apa ibukota dari Prancis?",
+      "pilihan":{
+         "a":"Berlin",
+         "b":"Madrid",
+         "c":"Paris",
+         "d":"Rome"
+      },
+      "jawaban_benar":"c"
+   },
+   {
+      "soal":"Siapa yang menciptakan teori relativitas?",
+      "pilihan":{
+         "a":"Isaac Newton",
+         "b":"Albert Einstein",
+         "c":"Niels Bohr",
+         "d":"Galileo Galilei"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Apa yang dimaksud dengan 'DNA'?",
+      "pilihan":{
+         "a":"Deoxyribonucleic Acid",
+         "b":"Deoxyribose Nuclear Acids",
+         "c":"Double Nucleic Acid",
+         "d":"Dominant Nucleic Acid"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Apa elemen paling ringan di alam semesta?",
+      "pilihan":{
+         "a":"Hidrogen",
+         "b":"Helium",
+         "c":"Litium",
+         "d":"Oksigen"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Siapa yang pertama kali mendarat di bulan?",
+      "pilihan":{
+         "a":"Neil Armstrong",
+         "b":"Yuri Gagarin",
+         "c":"Buzz Aldrin",
+         "d":"John Glenn"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Apa ibu kota negara Inggris?",
+      "pilihan":{
+         "a":"Edinburgh",
+         "b":"London",
+         "c":"Cardiff",
+         "d":"Manchester"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Penyakit apa yang disebabkan oleh virus HIV?",
+      "pilihan":{
+         "a":"Flu",
+         "b":"Tuberkulosis",
+         "c":"AIDS",
+         "d":"Hepatitis"
+      },
+      "jawaban_benar":"c"
+   },
+   {
+      "soal":"Apa warna bendera Italia?",
+      "pilihan":{
+         "a":"Merah, putih, biru",
+         "b":"Merah, putih, hijau",
+         "c":"Hitam, putih, merah",
+         "d":"Biru, putih, kuning"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Siapa yang pertama kali menemukan Amerika?",
+      "pilihan":{
+         "a":"Christopher Columbus",
+         "b":"Ferdinand Magellan",
+         "c":"Marco Polo",
+         "d":"Vasco da Gama"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Apa ibu kota dari Kanada?",
+      "pilihan":{
+         "a":"Toronto",
+         "b":"Ottawa",
+         "c":"Vancouver",
+         "d":"Montreal"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Berapa banyak kromosom yang dimiliki manusia?",
+      "pilihan":{
+         "a":"46",
+         "b":"48",
+         "c":"44",
+         "d":"50"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Siapa yang menciptakan teori evolusi?",
+      "pilihan":{
+         "a":"Charles Darwin",
+         "b":"Louis Pasteur",
+         "c":"Gregor Mendel",
+         "d":"Albert Einstein"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Apa yang dimaksud dengan 'html'?",
+      "pilihan":{
+         "a":"Hypertext Markup Language",
+         "b":"Hyperlink Text Manipulation",
+         "c":"Hyper Text Markup Layout",
+         "d":"Hyperloop Technology Language"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Apa jenis gas yang paling banyak di atmosfer Bumi?",
+      "pilihan":{
+         "a":"Oksigen",
+         "b":"Karbon dioksida",
+         "c":"Nitrogen",
+         "d":"Argon"
+      },
+      "jawaban_benar":"c"
+   },
+   {
+      "soal":"Siapa penemu teori gravitasi?",
+      "pilihan":{
+         "a":"Galileo Galilei",
+         "b":"Isaac Newton",
+         "c":"Albert Einstein",
+         "d":"Nikola Tesla"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Apa nama ibu kota dari Mesir?",
+      "pilihan":{
+         "a":"Alexandria",
+         "b":"Cairo",
+         "c":"Luxor",
+         "d":"Giza"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Siapa yang menulis novel '1984'?",
+      "pilihan":{
+         "a":"George Orwell",
+         "b":"J.K. Rowling",
+         "c":"Aldous Huxley",
+         "d":"F. Scott Fitzgerald"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Siapa yang menemukan teori relativitas umum?",
+      "pilihan":{
+         "a":"Isaac Newton",
+         "b":"Albert Einstein",
+         "c":"Max Planck",
+         "d":"Niels Bohr"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Apa yang dimaksud dengan 'HTTP'?",
+      "pilihan":{
+         "a":"Hyper Transfer Text Protocol",
+         "b":"Hypertext Transfer Protocol",
+         "c":"Hyperlink Text Transport",
+         "d":"Hypertext Transport Protocol"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Apa nama tim sepak bola yang memiliki stadion 'Old Trafford'?",
+      "pilihan":{
+         "a":"Arsenal",
+         "b":"Liverpool",
+         "c":"Manchester United",
+         "d":"Chelsea"
+      },
+      "jawaban_benar":"c"
+   },
+   {
+      "soal":"Apa yang dimaksud dengan 'cloud computing'?",
+      "pilihan":{
+         "a":"Pengolahan data dengan server pribadi",
+         "b":"Pengolahan data melalui internet dengan server jarak jauh",
+         "c":"Penyimpanan data di perangkat keras pribadi",
+         "d":"Teknologi pembelajaran berbasis cloud"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Apa yang disebut dengan 'gravity'?",
+      "pilihan":{
+         "a":"Gaya tarik antara dua benda bermassa",
+         "b":"Gaya dorong antara dua benda bermassa",
+         "c":"Gaya tarik yang disebabkan oleh benda yang sangat besar",
+         "d":"Gaya yang menggerakkan benda"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Siapa yang pertama kali menciptakan telepon?",
+      "pilihan":{
+         "a":"Nikola Tesla",
+         "b":"Thomas Edison",
+         "c":"Alexander Graham Bell",
+         "d":"Michael Faraday"
+      },
+      "jawaban_benar":"c"
+   },
+   {
+      "soal":"Sungai apa yang terpanjang di dunia?",
+      "pilihan":{
+         "a":"Sungai Amazon",
+         "b":"Sungai Nil",
+         "c":"Sungai Yangtze",
+         "d":"Sungai Mississippi"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Apa ibu kota dari Kanada?",
+      "pilihan":{
+         "a":"Ottawa",
+         "b":"Toronto",
+         "c":"Vancouver",
+         "d":"Montreal"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Siapa yang dikenal sebagai Bapak Teknologi Informasi?",
+      "pilihan":{
+         "a":"Bill Gates",
+         "b":"Steve Jobs",
+         "c":"Alan Turing",
+         "d":"Mark Zuckerberg"
+      },
+      "jawaban_benar":"c"
+   },
+   {
+      "soal":"Benua manakah yang memiliki jumlah negara terbanyak?",
+      "pilihan":{
+         "a":"Afrika",
+         "b":"Asia",
+         "c":"Eropa",
+         "d":"Amerika"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Apa yang dimaksud dengan 'machine learning'?",
+      "pilihan":{
+         "a":"Pembelajaran komputer untuk memahami bahasa manusia",
+         "b":"Algoritma yang memungkinkan komputer untuk belajar dari data",
+         "c":"Penggunaan mesin untuk melakukan pekerjaan fisik",
+         "d":"Pembelajaran manusia melalui perangkat teknologi"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Apa bahan bakar utama yang digunakan dalam reaktor nuklir?",
+      "pilihan":{
+         "a":"Uranium",
+         "b":"Plutonium",
+         "c":"Thorium",
+         "d":"Karbon"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Apa tujuan dari konversi energi dalam turbin angin?",
+      "pilihan":{
+         "a":"Menghasilkan energi listrik",
+         "b":"Menghasilkan panas",
+         "c":"Meningkatkan tekanan udara",
+         "d":"Menghasilkan energi kimia"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Apa yang dimaksud dengan 'artificial intelligence' (AI)?",
+      "pilihan":{
+         "a":"Komputer yang dibuat untuk menggantikan otak manusia",
+         "b":"Kemampuan mesin untuk berpikir dan belajar seperti manusia",
+         "c":"Komputer yang tidak memerlukan perangkat keras",
+         "d":"Kemampuan manusia untuk menggunakan teknologi"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Siapa karakter utama dalam anime 'Naruto'?",
+      "pilihan":{
+         "a":"Sasuke Uchiha",
+         "b":"Naruto Uzumaki",
+         "c":"Sakura Haruno",
+         "d":"Kakashi Hatake"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Apa nama senjata yang digunakan oleh Ichigo Kurosaki dalam anime 'Bleach'?",
+      "pilihan":{
+         "a":"Zangetsu",
+         "b":"Tensa Zangetsu",
+         "c":"Kirin",
+         "d":"Saber"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Apa nama sekolah tempat karakter utama di anime 'High School DxD' bersekolah?",
+      "pilihan":{
+         "a":"Kuoh Academy",
+         "b":"Blue Sky Academy",
+         "c":"Hoshizora Academy",
+         "d":"Sekai High"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Karakter anime mana yang dikenal dengan sebutan 'Titan Shifter' dalam anime 'Attack on Titan'?",
+      "pilihan":{
+         "a":"Eren Yeager",
+         "b":"Levi Ackerman",
+         "c":"Mikasa Ackerman",
+         "d":"Armin Arlert"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Siapa pembuat manga 'One Piece'?",
+      "pilihan":{
+         "a":"Masashi Kishimoto",
+         "b":"Eiichiro Oda",
+         "c":"Hiro Mashima",
+         "d":"Akira Toriyama"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Siapa karakter utama dalam anime 'Attack on Titan'?",
+      "pilihan":{
+         "a":"Eren Yeager",
+         "b":"Levi Ackerman",
+         "c":"Mikasa Ackerman",
+         "d":"Armin Arlert"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Apa nama pedang utama yang digunakan oleh Kirito dalam anime 'Sword Art Online'?",
+      "pilihan":{
+         "a":"Excalibur",
+         "b":"Elucidator",
+         "c":"Anduril",
+         "d":"Katana"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Dalam anime 'My Hero Academia', siapa yang memiliki kemampuan untuk menjadi All Might?",
+      "pilihan":{
+         "a":"Katsuki Bakugo",
+         "b":"Shoto Todoroki",
+         "c":"Izuku Midoriya",
+         "d":"All For One"
+      },
+      "jawaban_benar":"c"
+   },
+   {
+      "soal":"Apa nama karakter utama dalam anime 'Death Note' yang menggunakan buku catatan kematian?",
+      "pilihan":{
+         "a":"L",
+         "b":"Near",
+         "c":"Light Yagami",
+         "d":"Misa Amane"
+      },
+      "jawaban_benar":"c"
+   },
+   {
+      "soal":"Siapa yang menjadi 'god of destruction' dalam anime 'Dragon Ball'?",
+      "pilihan":{
+         "a":"Beerus",
+         "b":"Frieza",
+         "c":"Majin Buu",
+         "d":"Cell"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Dalam anime 'Demon Slayer', siapa yang menjadi guru utama Tanjiro?",
+      "pilihan":{
+         "a":"Giyu Tomioka",
+         "b":"Kanao Tsuyuri",
+         "c":"Shinobu Kocho",
+         "d":"Sengoku"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Apa nama karakter utama dalam anime 'Tokyo Ghoul' yang menjadi ghoul?",
+      "pilihan":{
+         "a":"Ken Kaneki",
+         "b":"Toka Kirishima",
+         "c":"Rize Kamishiro",
+         "d":"Amon Koutarou"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Siapa yang pertama kali mengucapkan 'I am gonna be king of the pirates' dalam anime 'One Piece'?",
+      "pilihan":{
+         "a":"Monkey D. Luffy",
+         "b":"Roronoa Zoro",
+         "c":"Nami",
+         "d":"Portgas D. Ace"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Siapa yang menjadi Hokage ketujuh dalam 'Naruto'?",
+      "pilihan":{
+         "a":"Naruto Uzumaki",
+         "b":"Sasuke Uchiha",
+         "c":"Kakashi Hatake",
+         "d":"Minato Namikaze"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Apa nama robot yang menjadi teman utama dalam anime 'Astro Boy'?",
+      "pilihan":{
+         "a":"Cyborg 009",
+         "b":"Astro Boy",
+         "c":"Mazinger Z",
+         "d":"Gigantor"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Dalam anime 'Naruto', siapa yang dikenal dengan sebutan 'Sannin Legendaris'?",
+      "pilihan":{
+         "a":"Naruto, Sasuke, Sakura",
+         "b":"Jiraiya, Tsunade, Orochimaru",
+         "c":"Kakashi, Iruka, Gai",
+         "d":"Tobirama, Minato, Hiruzen"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Apa genre utama dari anime 'K-On!'?",
+      "pilihan":{
+         "a":"Action",
+         "b":"Slice of Life",
+         "c":"Horror",
+         "d":"Isekai"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Siapa waifu dari anime 'Re:Zero' yang dikenal dengan rambut biru dan sikap tsundere?",
+      "pilihan":{
+         "a":"Rem",
+         "b":"Ram",
+         "c":"Emilia",
+         "d":"Beatrice"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Apa nama virtual idol dari Jepang yang sangat terkenal sejak 2007?",
+      "pilihan":{
+         "a":"Megurine Luka",
+         "b":"IA",
+         "c":"Hatsune Miku",
+         "d":"Gumi"
+      },
+      "jawaban_benar":"c"
+   },
+   {
+      "soal":"Anime 'Your Name' dibuat oleh sutradara terkenal, siapa dia?",
+      "pilihan":{
+         "a":"Hayao Miyazaki",
+         "b":"Makoto Shinkai",
+         "c":"Satoshi Kon",
+         "d":"Mamoru Hosoda"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Siapa karakter yang memiliki kekuatan 'Geass' dalam anime 'Code Geass'?",
+      "pilihan":{
+         "a":"Suzaku Kururugi",
+         "b":"Kallen Stadtfeld",
+         "c":"Lelouch Lamperouge",
+         "d":"C.C."
+      },
+      "jawaban_benar":"c"
+   },
+   {
+      "soal":"Dalam 'Clannad', siapa karakter utama pria?",
+      "pilihan":{
+         "a":"Youhei Sunohara",
+         "b":"Tomoya Okazaki",
+         "c":"Kotomi Ichinose",
+         "d":"Nagisa Furukawa"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Apa nama pedang milik Guts dari anime 'Berserk'?",
+      "pilihan":{
+         "a":"Dragon Slayer",
+         "b":"Black Blade",
+         "c":"Demon Cutter",
+         "d":"Great Fang"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Siapa yang menjadi 'waifu legendaris' dari anime 'Steins;Gate'?",
+      "pilihan":{
+         "a":"Kurisu Makise",
+         "b":"Mayuri Shiina",
+         "c":"Moeka Kiryu",
+         "d":"Suzuha Amane"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Apa nama klub dalam anime 'Boku wa Tomodachi ga Sukunai'?",
+      "pilihan":{
+         "a":"Klub Sahabat",
+         "b":"Klub Penelitian Ilmu Sosial",
+         "c":"Klub Tidak Punya Teman",
+         "d":"Klub Keinginan Bersosialisasi"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Dalam anime 'Toradora!', siapa heroine utama dengan julukan 'Palmtop Tiger'?",
+      "pilihan":{
+         "a":"Minori Kushieda",
+         "b":"Ami Kawashima",
+         "c":"Sumire Kanou",
+         "d":"Taiga Aisaka"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Apa ciri khas waifu Megumin dari anime 'Konosuba'?",
+      "pilihan":{
+         "a":"Penyihir es",
+         "b":"Tsundere pelayan",
+         "c":"Loli penyihir dengan sihir ledakan",
+         "d":"Petarung dengan kapak besar"
+      },
+      "jawaban_benar":"c"
+   },
+   {
+      "soal":"Dalam anime 'No Game No Life', siapakah nama adik dari Sora?",
+      "pilihan":{
+         "a":"Jibril",
+         "b":"Steph",
+         "c":"Shiro",
+         "d":"Tet"
+      },
+      "jawaban_benar":"c"
+   },
+   {
+      "soal":"Siapa karakter utama perempuan dari anime 'Vivy: Fluorite Eye’s Song'?",
+      "pilihan":{
+         "a":"Vivy",
+         "b":"Matsumoto",
+         "c":"Elizabeth",
+         "d":"Ophelia"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Apa nama anime dengan karakter bernama Zero Two?",
+      "pilihan":{
+         "a":"Kill la Kill",
+         "b":"Darling in the Franxx",
+         "c":"Neon Genesis Evangelion",
+         "d":"Guilty Crown"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Kenapa Naruto gak pernah pakai helm?",
+      "pilihan":{
+         "a":"Karena dia ninja",
+         "b":"Helm-nya dicuri Sasuke",
+         "c":"Dia gak naik motor",
+         "d":"Konoha gak punya dealer"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Siapa waifu terbaik menurut orang yang belum mandi 3 hari?",
+      "pilihan":{
+         "a":"Zero Two",
+         "b":"Rem",
+         "c":"Yang penting moe",
+         "d":"Semua di folder hidden"
+      },
+      "jawaban_benar":"c"
+   },
+   {
+      "soal":"Apa kekuatan utama Goku saat kepepet?",
+      "pilihan":{
+         "a":"Kamehameha",
+         "b":"Plot armor",
+         "c":"Spirit Bomb",
+         "d":"Minta tolong Vegeta"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Kenapa karakter anime gak pernah ganti baju?",
+      "pilihan":{
+         "a":"Punya bajunya cuma itu doang",
+         "b":"Itu seragam sekolah",
+         "c":"Biar gampang digambar ulang",
+         "d":"Laundry mahal di Jepang"
+      },
+      "jawaban_benar":"c"
+   },
+   {
+      "soal":"Anime apa yang wajib ditonton saat patah hati?",
+      "pilihan":{
+         "a":"Your Lie in April",
+         "b":"Boku no Pico",
+         "c":"Shingeki no Kyojin",
+         "d":"Nonton iklan Indomie aja"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Kenapa L dari Death Note duduknya aneh?",
+      "pilihan":{
+         "a":"Biar fokus mikir",
+         "b":"Kursinya keras",
+         "c":"Itu gaya OP",
+         "d":"Dia lupa cara duduk biasa"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Apa senjata terkuat dalam dunia anime?",
+      "pilihan":{
+         "a":"Excalibur",
+         "b":"Sharingan",
+         "c":"Power of Friendship",
+         "d":"Spoiler ending"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Siapa karakter anime yang kemungkinan besar gak punya KTP?",
+      "pilihan":{
+         "a":"Luffy",
+         "b":"Doraemon",
+         "c":"Saitama",
+         "d":"Semua jawaban benar"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Apa reaksi wibu saat waifunya menikah di ending anime?",
+      "pilihan":{
+         "a":"Bahagia",
+         "b":"Mengikhlaskan",
+         "c":"Ngambek 3 hari",
+         "d":"Ganti waifu baru"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Kenapa banyak karakter anime lari sambil bawa roti di mulut?",
+      "pilihan":{
+         "a":"Lambat bangun",
+         "b":"Lari ke isekai",
+         "c":"Itu ritual suci sekolah Jepang",
+         "d":"Laper dan gak sempat sarapan"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Kenapa WiFi suka lemot pas lagi butuh-butuhnya?",
+      "pilihan":{
+         "a":"Karena hukum Murphy",
+         "b":"Karena tahu kita butuh",
+         "c":"Lagi insecure",
+         "d":"Indihome sedang bercanda"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Apa yang biasanya hilang saat kita butuh buru-buru keluar rumah?",
+      "pilihan":{
+         "a":"Kunci",
+         "b":"Dompet",
+         "c":"Akal sehat",
+         "d":"Semua benar"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Kenapa alarm pagi gak pernah kedengaran?",
+      "pilihan":{
+         "a":"Karena udah jadi musik pengantar tidur",
+         "b":"Tertidur sebelum snooze",
+         "c":"Volume-nya dilawan takdir",
+         "d":"Pura-pura gak dengar"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Apa rasanya pas liat notifikasi 'saldo tidak cukup'?",
+      "pilihan":{
+         "a":"Pahit",
+         "b":"Seperti ditinggal pas lagi sayang-sayangnya",
+         "c":"Sakit tapi gak berdarah",
+         "d":"Semua jawaban benar"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Kenapa mie instan lebih enak dari makanan mahal?",
+      "pilihan":{
+         "a":"Karena nostalgia",
+         "b":"Karena MSG adalah cinta",
+         "c":"Karena perihnya akhir bulan",
+         "d":"Karena semuanya benar"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Apa hal pertama yang dilakukan setelah bangun tidur?",
+      "pilihan":{
+         "a":"Scroll HP",
+         "b":"Ngecek jam lalu tidur lagi",
+         "c":"Merenungi hidup",
+         "d":"Semua benar tergantung mood"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Kenapa kita selalu lapar tengah malam?",
+      "pilihan":{
+         "a":"Karena setan mie goreng manggil",
+         "b":"Perut ada timer jam 1 pagi",
+         "c":"Tiba-tiba inget kulkas",
+         "d":"Karena hidup penuh kekosongan"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Kenapa setiap mandi ide brilian muncul?",
+      "pilihan":{
+         "a":"Karena otak ikut bersih",
+         "b":"Karena gak ada distraksi",
+         "c":"Karena shower = portal ide",
+         "d":"Karena gak mungkin ditulis jadi lupa"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Apa yang dilakukan saat kerjaan numpuk?",
+      "pilihan":{
+         "a":"Scroll TikTok dulu biar santai",
+         "b":"Ngopi sambil merenung",
+         "c":"Buka kerjaan, lalu minimize",
+         "d":"Semua dilakukan bersamaan"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Apa tujuan hidup sebenarnya?",
+      "pilihan":{
+         "a":"Menemukan makna",
+         "b":"Bayar tagihan",
+         "c":"Ngumpulin gacha",
+         "d":"Belum tahu, masih buffering"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Apa yang paling sering ditunda sampai deadline lewat?",
+      "pilihan":{
+         "a":"Tugas kuliah",
+         "b":"Kerjaan kantor",
+         "c":"Niat berubah",
+         "d":"Hidup"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Kenapa kita suka nyolokin charger tapi gak nyalain saklar?",
+      "pilihan":{
+         "a":"Tradisi nenek moyang",
+         "b":"Latihan kecewa",
+         "c":"Biar hidup lebih greget",
+         "d":"Karena kita manusia"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Apa yang selalu ada tapi jarang dipakai?",
+      "pilihan":{
+         "a":"Setrika",
+         "b":"Lemari dapur paling atas",
+         "c":"Janji-janji manis",
+         "d":"Password yang kuat"
+      },
+      "jawaban_benar":"c"
+   },
+   {
+      "soal":"Apa efek samping dari nonton 1 episode sebelum tidur?",
+      "pilihan":{
+         "a":"Tiba-tiba tamat season",
+         "b":"Tidur jam 5 pagi",
+         "c":"Besok jadi zombie",
+         "d":"Semua benar"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Kenapa kita suka baca ulang chat yang gak penting?",
+      "pilihan":{
+         "a":"Stalking masa lalu",
+         "b":"Lagi gabut",
+         "c":"Latihan jadi FBI",
+         "d":"Biar inget rasanya pernah bahagia"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Kenapa Indomie lebih cepat dimasak saat lapar?",
+      "pilihan":{
+         "a":"Efek ilusi perut kosong",
+         "b":"Waktu dilipet sama semesta",
+         "c":"Laper mempercepat dimensi",
+         "d":"Karena lo butuh dia, dia dateng"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Apa yang kita buka tiap bangun tidur sebelum cuci muka?",
+      "pilihan":{
+         "a":"Handphone",
+         "b":"Instagram",
+         "c":"Notifikasi mantan",
+         "d":"Semua benar tergantung trauma"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Kenapa kucing bisa tidur 16 jam sehari?",
+      "pilihan":{
+         "a":"Biar ngatain manusia dari mimpi",
+         "b":"Karena gak ada tugas",
+         "c":"Mereka sudah level dewa",
+         "d":"Karena hidup adalah tidur"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Kenapa kita selalu pengen ngemil pas lagi diet?",
+      "pilihan":{
+         "a":"Karena godaan setan gorengan",
+         "b":"Karena tubuh menolak perubahan",
+         "c":"Karena hidup butuh rasa",
+         "d":"Semua benar, diet hanya konsep"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Apa yang terjadi kalau lupa bawa charger pas pergi?",
+      "pilihan":{
+         "a":"Baterai 1% jadi 5 jam",
+         "b":"Mulai hidup realita",
+         "c":"Ngemis ke temen",
+         "d":"Jadi lebih religius"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Kenapa sandal sering ilang di masjid?",
+      "pilihan":{
+         "a":"Naik haji duluan",
+         "b":"Pindah agama",
+         "c":"Dijodohin sama sandal lain",
+         "d":"Udah takdir"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Apa yang lebih cepat dari cahaya?",
+      "pilihan":{
+         "a":"Ngantuk saat belajar",
+         "b":"Nyesel habis belanja",
+         "c":"Jatuh cinta sama yang salah",
+         "d":"Respons temen saat minta traktir"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Apa tanda kamu udah dewasa?",
+      "pilihan":{
+         "a":"Tagihan datang rutin",
+         "b":"Ngomel kalau liat listrik nyala",
+         "c":"Bahagia liat diskon minyak goreng",
+         "d":"Semua di atas benar"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Apa yang bikin was-was padahal gak ngapa-ngapain?",
+      "pilihan":{
+         "a":"Dengar suara motor berhenti depan rumah",
+         "b":"Liat polisi waktu naik motor",
+         "c":"Mata dosen pas kamu ngobrol",
+         "d":"Notifikasi tagihan"
+      },
+      "jawaban_benar":"b"
+   },
+   {
+      "soal":"Kenapa makin malam makin banyak ide?",
+      "pilihan":{
+         "a":"Otak baru hidup jam 12",
+         "b":"Karena gelap itu inspiratif",
+         "c":"Siang buat rebahan, malam buat mikir",
+         "d":"Karena kita keturunan kalong"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Apa alasan klasik gak mandi seharian?",
+      "pilihan":{
+         "a":"Cuaca dingin",
+         "b":"Lagi healing",
+         "c":"Mandi tuh overrated",
+         "d":"Airnya diem aja, gak ngajak ngobrol"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Kenapa tisu selalu habis pas butuh?",
+      "pilihan":{
+         "a":"Karena karma waktu buang-buang",
+         "b":"Tisu punya perasaan",
+         "c":"Itu ujian hidup",
+         "d":"Karena hidup gak adil"
+      },
+      "jawaban_benar":"c"
+   },
+   {
+      "soal":"Apa yang biasanya terjadi setelah ngecas 100%?",
+      "pilihan":{
+         "a":"Dipake terus sampe habis",
+         "b":"Lupa dicabut, panas kaya neraka",
+         "c":"Baterai malah cepet ngedrop",
+         "d":"Semua kejadian nyata"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Kenapa di warung selalu ditanya 'mau yang mana' padahal cuma satu jenis?",
+      "pilihan":{
+         "a":"Biar keliatan rame",
+         "b":"Tradisi leluhur",
+         "c":"Ujian kesabaran",
+         "d":"Biar kamu merasa punya pilihan"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Apa kekuatan utama anak kos akhir bulan?",
+      "pilihan":{
+         "a":"Ngolah mie jadi 5 varian rasa",
+         "b":"Nasi + garam jadi menu andalan",
+         "c":"Ngisi perut pake tidur",
+         "d":"Semua adalah strategi bertahan hidup"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Apa sarapan paling mewah anak kos?",
+      "pilihan":{
+         "a":"Mie telur plus nasi",
+         "b":"Roti sisa semalam",
+         "c":"Air putih dengan harapan",
+         "d":"Tidur lagi biar lupa lapar"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Apa alat masak paling serbaguna di kos?",
+      "pilihan":{
+         "a":"Magic com",
+         "b":"Setrika",
+         "c":"Kipas angin",
+         "d":"Sendok multifungsi"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Kenapa anak kos sering buka kulkas padahal kosong?",
+      "pilihan":{
+         "a":"Lagi ngecek keajaiban",
+         "b":"Penasaran sama angin",
+         "c":"Kebiasaan dari kecil",
+         "d":"Siapa tau ada makanan muncul sendiri"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Apa tandanya anak kos udah akhir bulan?",
+      "pilihan":{
+         "a":"Dompet tinggal receh",
+         "b":"Mie instan jadi menu utama",
+         "c":"Hilang dari tongkrongan",
+         "d":"Semua bener"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Kenapa anak kos suka masak mie pake gayung?",
+      "pilihan":{
+         "a":"Karena panci itu barang mewah",
+         "b":"Satu alat untuk semua",
+         "c":"Gayung rasa nostalgia",
+         "d":"Karena boleh"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Kenapa kamar kos jarang dibersihin?",
+      "pilihan":{
+         "a":"Nyari feel dulu",
+         "b":"Biar estetik messy room",
+         "c":"Debu udah dianggap teman",
+         "d":"Menunggu wangsit"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Apa fungsi ember di kosan?",
+      "pilihan":{
+         "a":"Nampung air",
+         "b":"Tempat nyuci baju",
+         "c":"Naruh mie instan",
+         "d":"Semua benar, sesuai mood"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Apa reaksi anak kos saat pulsa habis tapi butuh paket darurat?",
+      "pilihan":{
+         "a":"Ngelamun liatin HP",
+         "b":"Ngecas HP padahal gak ada sinyal",
+         "c":"Tanya WiFi tetangga",
+         "d":"Ngirim sinyal telepati"
+      },
+      "jawaban_benar":"c"
+   },
+   {
+      "soal":"Apa olahraga rutin anak kos?",
+      "pilihan":{
+         "a":"Lari dari kenyataan",
+         "b":"Angkat galon isi ulang",
+         "c":"Lompat tagihan",
+         "d":"Semua benar tergantung tanggal"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Kenapa anak kos sering ngumpul di warteg?",
+      "pilihan":{
+         "a":"Gratis teh hangat",
+         "b":"Bisa ngutang",
+         "c":"Bisa makan sambil curhat",
+         "d":"Semua alasan sah"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Apa yang pertama dicek pas masuk kelas?",
+      "pilihan":{
+         "a":"Tempat duduk kosong",
+         "b":"Siapa wali kelas hari ini",
+         "c":"Guru udah dateng belum",
+         "d":"Wifi nyambung gak"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Apa arti 'Belajar Online' menurut siswa jaman now?",
+      "pilihan":{
+         "a":"Zoom nyala, kamera mati",
+         "b":"Tugas numpuk, otak mumet",
+         "c":"Tidur tapi status hadir",
+         "d":"Semua benar"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Kenapa tugas dikumpulin mepet deadline?",
+      "pilihan":{
+         "a":"Biar dapet feel belajar",
+         "b":"Karena tradisi turun-temurun",
+         "c":"Inspirasi muncul saat panik",
+         "d":"Tugas = adrenalin"
+      },
+      "jawaban_benar":"c"
+   },
+   {
+      "soal":"Apa yang bikin siswa semangat sekolah?",
+      "pilihan":{
+         "a":"Jam istirahat",
+         "b":"Gosip baru",
+         "c":"Liat gebetan",
+         "d":"Semua benar, kecuali belajar"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Kenapa murid suka duduk di belakang kelas?",
+      "pilihan":{
+         "a":"Biar gak disuruh maju",
+         "b":"Bisa ngobrol bebas",
+         "c":"Zona nyaman ngantuk",
+         "d":"Strategi hidup"
+      },
+      "jawaban_benar":"a"
+   },
+   {
+      "soal":"Apa kegiatan paling favorit saat pelajaran berlangsung?",
+      "pilihan":{
+         "a":"Main HP di bawah meja",
+         "b":"Chat pake kertas",
+         "c":"Liat jam tiap menit",
+         "d":"Liat langit berharap keajaiban"
+      },
+      "jawaban_benar":"c"
+   },
+   {
+      "soal":"Apa fungsi utama grup kelas?",
+      "pilihan":{
+         "a":"Nanya tugas jam 11 malam",
+         "b":"Ngirim stiker gak jelas",
+         "c":"Spam info gak penting",
+         "d":"Tiga-tiganya penting"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Kenapa siswa tiba-tiba aktif pas guru bilang 'nilai tergantung keaktifan'?",
+      "pilihan":{
+         "a":"Tiba-tiba jadi kritikus",
+         "b":"Langsung buka Google",
+         "c":"Mendadak cerdas",
+         "d":"Insting bertahan hidup"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Apa yang terjadi saat guru bilang 'kerja kelompok'?",
+      "pilihan":{
+         "a":"Yang kerja cuma satu",
+         "b":"Yang lain ikut nama doang",
+         "c":"Grup rame pas awal doang",
+         "d":"Semua selalu kejadian"
+      },
+      "jawaban_benar":"d"
+   },
+   {
+      "soal":"Apa respon umum saat ada tugas presentasi?",
+      "pilihan":{
+         "a":"Ngarep jadi yang terakhir",
+         "b":"Cari materi H-1",
+         "c":"Bikin slide 15 menit sebelum tampil",
+         "d":"Semua benar dan udah biasa"
+      },
+      "jawaban_benar":"d"
+   }
 ]
