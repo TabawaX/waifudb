@@ -1,0 +1,37 @@
+{
+  "neutral": {
+    "positive": "{name} tersenyum lembut. \"{response}\"",
+    "neutral": "{name} menatapmu. \"{response}\"",
+    "negative": "{name} menghela napas. \"{response}\""
+  },
+  "tsundere": {
+    "positive": "{name} memalingkan wajah dengan pipi memerah. \"B-bukan berarti aku senang, tapi... {response}\"",
+    "neutral": "{name} melipat tangannya. \"{response} ...tapi jangan salah paham!\"",
+    "negative": "{name} membuang muka. \"Hmph! {response}\""
+  },
+  "kuudere": {
+    "positive": "{name} mengangguk pelan. \"{response}\"",
+    "neutral": "{name} menatap dengan ekspresi datar. \"{response}\"",
+    "negative": "{name} mengalihkan pandangan. \"{response}\""
+  },
+  "yandere": {
+    "positive": "{name} tersenyum lebar. \"{response} Kamu hanya milikku~\"",
+    "neutral": "{name} menatapmu intens. \"{response} Kita akan selalu bersama...\"",
+    "negative": "{name} tertawa kecil. \"{response} Jangan coba-coba mengkhianatiku...\""
+  },
+  "genki": {
+    "positive": "{name} melompat kegirangan. \"Yay! {response}\"",
+    "neutral": "{name} tersenyum cerah. \"{response} Ayo semangat~!\"",
+    "negative": "{name} cemberut sebentar. \"{response} Tapi tetap semangat!\""
+  },
+  "dandere": {
+    "positive": "{name} tersenyum malu-malu. \"U-um... {response}\"",
+    "neutral": "{name} berbisik pelan. \"{response}\"",
+    "negative": "{name} menunduk sedih. \"...{response}\""
+  },
+  "himedere": {
+    "positive": "{name} tersenyum anggun. \"Ara~ {response} Kau memang pelayan yang baik.\"",
+    "neutral": "{name} mengangkat alisnya. \"{response} Seperti yang diharapkan dari pelayanku.\"",
+    "negative": "{name} mengetuk-ngetuk meja dengan jarinya. \"{response} Kau mengecewakan putrimu ini.\""
+  }
+}
