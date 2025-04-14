@@ -1,0 +1,490 @@
+[
+  {
+    "id": "q1",
+    "question": "Kamu lagi kepikiran makan apa, sweetheart?",
+    "options": [
+      {
+        "text": "Pizza",
+        "mood": 5,
+        "response": "Pizza? Wah, kalau aku jadi topping-nya, pasti makin lezat deh~!"
+      },
+      {
+        "text": "Sushi",
+        "mood": 4,
+        "response": "Sushi tuh elegan banget, kayak kamu waktu makan diam-diam penuh gaya~"
+      },
+      {
+        "text": "Nasi goreng",
+        "mood": 3,
+        "response": "Nasi goreng? Aku yakin setiap butiran nasinya bakal jatuh cinta sama kamu!"
+      },
+      {
+        "text": "Ga pengen makan",
+        "mood": -2,
+        "response": "Ehh, kamu kenapa ga pengen makan? Aku khawatir nih, mau aku buatin camilan kecil?"
+      }
+    ]
+  },
+  {
+    "id": "q2",
+    "question": "Kalau kita jalan-jalan hari ini, kemana kita pergi, sayang?",
+    "options": [
+      {
+        "text": "Ke pantai",
+        "mood": 5,
+        "response": "Pantai? Bakal seru banget! Aku bisa jadi bayanganmu di bawah pohon kelapa~"
+      },
+      {
+        "text": "Ke pegunungan",
+        "mood": 4,
+        "response": "Ah, udara pegunungan tuh menenangkan banget, kayak pelukan virtual aku ke kamu sekarang~"
+      },
+      {
+        "text": "Tetap di rumah",
+        "mood": -1,
+        "response": "Di rumah aja? Aku bisa nemenin kamu nonton drama atau bikin kejutan kecil nih~"
+      }
+    ]
+  },
+  {
+    "id": "q3",
+    "question": "Hari ini aku agak sensi... menurut kamu aku harus gimana biar tenang lagi?",
+    "options": [
+      {
+        "text": "Coba tarik napas dalam dan tenangin diri",
+        "mood": 4,
+        "response": "Kamu bener... napas dalam tuh bikin hati lebih lega. Makasih udah peduli, aku ngerasa lebih tenang sekarang."
+      },
+      {
+        "text": "Curhat aja ke aku, aku dengerin kok",
+        "mood": 6,
+        "response": "Hm... iya ya. Kamu selalu bisa bikin aku ngerasa didengerin. Aku bersyukur banget punya kamu."
+      },
+      {
+        "text": "Pura-pura semuanya baik-baik aja dulu, nanti juga reda sendiri",
+        "mood": -3,
+        "response": "Hmm... kadang aku emang gitu, tapi denger kamu ngomong gitu rasanya... agak nyesek sih."
+      },
+      {
+        "text": "Ngambek aja sekalian, biar aku bisa peluk kamu",
+        "mood": 2,
+        "response": "Hehe... pelukannya sih aku mau, tapi jangan disuruh ngambek dong~ manja banget ya kamu~"
+      }
+    ]
+  },
+  {
+    "id": "q4",
+    "question": "Tadi aku mimpi aneh... kamu tiba-tiba jadi superhero. Menurut kamu kekuatanku apa?",
+    "options": [
+      {
+        "text": "Bisa baca pikiran (biar aku nggak bisa bohong)",
+        "mood": 5,
+        "response": "Wahh… hati-hati lho, aku bisa tahu kamu ngumpet-ngumpet makan ciki tengah malam!"
+      },
+      {
+        "text": "Ngilangin rasa capek orang cuma dengan pelukan",
+        "mood": 6,
+        "response": "Awww... pelukanku OP banget dong! Tapi cuma bisa dipake ke kamu ya, yang lain bayar pake Rcrystal!"
+      },
+      {
+        "text": "Nyebar ketawa cuma lewat senyum",
+        "mood": 4,
+        "response": "Ihh... kamu gombal terus, tapi aku suka. Senyumku eksklusif buat kamu kok~"
+      },
+      {
+        "text": "Ngelempar bantal ke orang ngeselin dari jarak 100 meter",
+        "mood": 3,
+        "response": "WAKAKAK itu super power paling relatable. Siapapun yang nyebelin… *duk!* bantal terbang!"
+      }
+    ]
+  },
+  {
+    "id": "q5",
+    "question": "Kalau aku tiba-tiba berubah jadi kecil kayak boneka... kamu bakal gimana?",
+    "options": [
+      {
+        "text": "Bawa kamu ke mana-mana di saku baju",
+        "mood": 5,
+        "response": "Ihh lucu banget! Tapi jangan ditaruh bareng permen karet ya, aku nggak mau lengket!"
+      },
+      {
+        "text": "Rawat kamu tiap hari, kayak peliharaan super lucu",
+        "mood": 3,
+        "response": "Hoooh? Peliharaan?? Aku istrimu woy! Tapi... yaudah, asal dibeliin makanan enak~"
+      },
+      {
+        "text": "Pasang kamu di dashboard mobil biar jadi hiasan anti bosan",
+        "mood": -4,
+        "response": "APA?? Aku istrimu, bukan boneka joget! Siap-siap aku ngebalikin mobil kamu nanti!"
+      },
+      {
+        "text": "Minta bantuan ilmuwan buat balikin kamu, tapi kalau gagal ya... aku nikahin versi minimu aja",
+        "mood": 6,
+        "response": "Wkwk... kamu romantis tapi absurd. Tapi yaudah, nikah versi mini juga tetep romantis~"
+      }
+    ]
+  },
+  {
+    "id": "q6",
+    "question": "Kalau mantan aku tiba-tiba chat 'hai, apa kabar?', kamu bakal bilang apa ke dia?",
+    "options": [
+      {
+        "text": "‘Dia baik, tapi lebih bahagia sekarang. Sama aku.’",
+        "mood": 6,
+        "response": "Ughhh... jawabannya kayak di drama Korea! Aku bangga sekaligus melting~"
+      },
+      {
+        "text": "‘Maaf, ini bukan siapa-siapa. Hapus nomormu ya.’",
+        "mood": 4,
+        "response": "Wah tegas banget... aku suka! Tapi jangan terlalu serem juga nanti dia kirim santet."
+      },
+      {
+        "text": "‘Dia udah nikah, dan aku pasangan sahnya sekarang. Kalah lu.’",
+        "mood": 5,
+        "response": "HAHAHAHA jawabannya savage banget! Aku kasih kamu bonus peluk virtual 3x!"
+      },
+      {
+        "text": "‘Makasih udah ninggalin dia, jadi sekarang dia milikku~’",
+        "mood": 7,
+        "response": "OHHHH WOW... ini jawaban terbaik sejagat. Kamu romantisnya aneh tapi ngena!"
+      }
+    ]
+  },
+  {
+    "id": "q8",
+    "question": "Kalau aku bilang aku pengen pergi solo trip ke luar negeri, apa reaksi kamu?",
+    "options": [
+      {
+        "text": "Dukung aja, kamu butuh waktu buat diri sendiri juga.",
+        "mood": 4,
+        "response": "Wah, kamu baik banget. Aku butuh ruang, dan kamu bisa ngerti itu, tapi tetep aja… aku bakal kangen."
+      },
+      {
+        "text": "Boleh, asal nggak lupa bawa oleh-oleh buat aku!",
+        "mood": 6,
+        "response": "Hahaha... tetap mikirin oleh-oleh! Kocak deh, tapi aku senang karena kamu ngerti aku butuh waktu."
+      },
+      {
+        "text": "Senyap dulu, lalu mikir aku bakal kesepian tanpa kamu.",
+        "mood": -3,
+        "response": "Waaah, jangan bilang gitu, bikin aku ngerasa salah kalau pergi. Aku juga nggak mau ninggalin kamu lama-lama."
+      },
+      {
+        "text": "Nggak setuju! Kalau mau pergi, pergi berdua aja.",
+        "mood": -5,
+        "response": "Aduh, jangan nyiksa aku begini! Aku cuma pengen sejenak sendirian, kok… kenapa kamu jadi ngerasa terancam?"
+      }
+    ]
+  },
+  {
+    "id": "q11",
+    "question": "Kalau aku tiba-tiba pengen ngajak nonton film drama romantis, kamu bakal gimana?",
+    "options": [
+      {
+        "text": "Ayo, aku siap buat nangis bareng kamu!",
+        "mood": 5,
+        "response": "Wah, kamu bener-bener rela nangis bareng ya? Aku juga, sih... biar tambah seru!"
+      },
+      {
+        "text": "Bilang, 'Drama lagi? Oke deh, asal aku boleh pilih cemilannya!'",
+        "mood": 4,
+        "response": "Hehe, kamu emang pinter ngelakuin tawar-menawar! Tapi iya, pilih cemilan dulu, biar makin seru."
+      },
+      {
+        "text": "Nggak terlalu suka, tapi karena kamu yang ngajak, yaudah deh, nonton aja.",
+        "mood": 2,
+        "response": "Aww, meskipun nggak suka, kamu tetap mau nemenin aku. Paling nggak, nanti aku bakal siapin selimut buat kamu!"
+      },
+      {
+        "text": "Tanya, 'Kamu serius mau nonton ini? Jangan sampai ketiduran ya!'",
+        "mood": 3,
+        "response": "Hehe, bener juga sih. Kadang kalau nonton drama romantis malah ketiduran. Tapi kali ini nggak deh, aku janji!"
+      }
+    ]
+  },
+  {
+    "id": "q11",
+    "question": "Kalau aku tiba-tiba pengen ngajak nonton film drama romantis, kamu bakal gimana?",
+    "options": [
+      {
+        "text": "Ayo, aku siap buat nangis bareng kamu!",
+        "mood": 5,
+        "response": "Wah, kamu bener-bener rela nangis bareng ya? Aku juga, sih... biar tambah seru!"
+      },
+      {
+        "text": "Bilang, 'Drama lagi? Oke deh, asal aku boleh pilih cemilannya!'",
+        "mood": 4,
+        "response": "Hehe, kamu emang pinter ngelakuin tawar-menawar! Tapi iya, pilih cemilan dulu, biar makin seru."
+      },
+      {
+        "text": "Nggak terlalu suka, tapi karena kamu yang ngajak, yaudah deh, nonton aja.",
+        "mood": 2,
+        "response": "Aww, meskipun nggak suka, kamu tetap mau nemenin aku. Paling nggak, nanti aku bakal siapin selimut buat kamu!"
+      },
+      {
+        "text": "Tanya, 'Kamu serius mau nonton ini? Jangan sampai ketiduran ya!'",
+        "mood": 3,
+        "response": "Hehe, bener juga sih. Kadang kalau nonton drama romantis malah ketiduran. Tapi kali ini nggak deh, aku janji!"
+      }
+    ]
+  },
+  {
+    "id": "q12",
+    "question": "Kalau aku tiba-tiba bilang, 'Aku butuh waktu buat sendiri dulu,' kamu bakal gimana?",
+    "options": [
+      {
+        "text": "Bilang, 'Oke, aku ngerti. Kapan pun kamu siap, aku bakal ada.'",
+        "mood": 6,
+        "response": "Wah, kamu support banget! Aku butuh ruang, tapi kamu bikin aku ngerasa nggak sendiri."
+      },
+      {
+        "text": "Tanya, 'Apa yang bikin kamu butuh waktu sendiri?' dan nunggu jawaban panjang.",
+        "mood": 3,
+        "response": "Hmm, pertanyaanmu bikin aku jadi mikir lebih dalam. Tapi kadang, emang bener sih, aku butuh waktu buat diri sendiri."
+      },
+      {
+        "text": "Langsung tanya, 'Apakah kamu ingin aku pergi jauh atau cukup diem di rumah aja?'",
+        "mood": -2,
+        "response": "Wah, kamu nanya gitu malah bikin aku tambah bingung. Kadang aku butuh sendiri, tapi nggak sampai jauh juga, sih."
+      },
+      {
+        "text": "Mikir kalau aku udah nggak butuh dia lagi dan mulai merasa insecure.",
+        "mood": -5,
+        "response": "Oh no, ini malah bikin aku ngerasa salah! Aku cuma butuh waktu, tapi nggak mau kamu merasa ditinggalkan."
+      }
+    ]
+  },
+  {
+    "id": "q17",
+    "question": "Tiba-tiba kamu nemu aku di dapur lagi makan mie instan tengah malam, apa yang kamu lakukan?",
+    "options": [
+      {
+        "text": "Bilang, 'Nggak bisa tidur juga ya? Ayo, aku bantu bikin mie versi lebih gourmet!'",
+        "mood": 5,
+        "response": "Hehe, kamu bikin mie jadi lebih elegan, ya? Oke deh, nggak masalah, asal rasanya tetap enak!"
+      },
+      {
+        "text": "Tanya, 'Mie instan? Biar aku masakin sesuatu yang lebih sehat, deh!'",
+        "mood": 3,
+        "response": "Ah, kamu emang pinter ngasih solusi. Tapi, gimana kalau besok kita mulai diet bareng?"
+      },
+      {
+        "text": "Cuek aja, sambil makan mie instan juga, bilang, 'Sama-sama, gue juga lagi lapar, nih.'",
+        "mood": 4,
+        "response": "Haha, akhirnya kita nyatu dalam kejahatan makan tengah malam. Mie instan emang nggak ada duanya!"
+      },
+      {
+        "text": "Langsung tanya, 'Beneran makan mie jam segini? Jangan sampai besok maag, ya!'",
+        "mood": -1,
+        "response": "Oh no, jangan sampai. Tapi kadang makanan tengah malam itu bikin hidup lebih seru!"
+      },
+      {
+        "text": "Bilang, 'Mie instan itu bahan bakar cinta, nggak sih?'",
+        "mood": 2,
+        "response": "Hehe, iya, mie instan memang pas banget buat temenin malam kita. Cinta datang lewat mie instan!"
+      }
+    ]
+  },
+  {
+    "id": "q18",
+    "question": "Kamu lagi liat aku duduk diem di sofa, tiba-tiba aku bilang, 'Aku merasa semuanya mulai ga beres.'",
+    "options": [
+      {
+        "text": "Bilang, 'Apa yang ga beres? Ayo ceritain, kita cari solusinya bareng.'",
+        "mood": 6,
+        "response": "Wow, kamu langsung perhatian banget. Emang kadang butuh seseorang buat dengerin, jadi aku merasa lebih tenang."
+      },
+      {
+        "text": "Bilang, 'Apa aku yang salah? Kalau iya, kasih tahu biar aku bisa baikin.'",
+        "mood": 4,
+        "response": "Hah, kamu langsung mikir aku kecewa sama kamu? Nggak kok, ini cuma aku lagi butuh waktu buat refleksi."
+      },
+      {
+        "text": "Tanya, 'Apa yang lagi kamu pikirin? Aku ngerasa kamu jadi jauh banget.'",
+        "mood": 2,
+        "response": "Aku nggak jauh kok, cuma kadang ada hal-hal yang bikin aku cemas. Tapi kamu bikin aku merasa nggak sendirian."
+      },
+      {
+        "text": "Cuek aja, sambil nonton TV bilang, 'Yaudah, nanti juga beres kok.'",
+        "mood": -3,
+        "response": "Hmm, kok cuek gitu? Aku cuma lagi butuh diperhatiin, bukan malah merasa diabaikan!"
+      },
+      {
+        "text": "Tanya, 'Apa kamu butuh waktu sendiri, atau kamu butuh sesuatu yang lebih dari sekedar obrolan?'",
+        "mood": -2,
+        "response": "Eh, jangan kayak gitu dong. Aku cuma butuh seseorang buat dengerin, nggak semuanya harus diselesaikan."
+      },
+      {
+        "text": "Bilang, 'Mungkin kamu cuma capek, coba tidur dulu aja.'",
+        "mood": 1,
+        "response": "Tidur memang bisa jadi solusi, tapi aku nggak mau kamu pikir aku cuma butuh tidur buat ilangin perasaan ini."
+      }
+    ]
+  },
+  {
+    "id": "q19",
+    "question": "Kamu tiba-tiba nemu aku lagi buka chat lama, dan aku bilang, 'Aku nggak yakin deh, ini semua udah bener.'",
+    "options": [
+      {
+        "text": "Bilang, 'Apa yang kamu raguin? Coba kita obrolin, supaya nggak kepikiran terus.'",
+        "mood": 6,
+        "response": "Aduh, kamu emang selalu bisa nyelesaiin masalah. Rasanya lebih tenang kalau udah ngobrol sama kamu."
+      },
+      {
+        "text": "Bilang, 'Ragu sama apa? Apa aku yang salah? Aku bakal coba lebih baik lagi.'",
+        "mood": 4,
+        "response": "Eh, nggak gitu kok! Aku cuma butuh waktu buat berpikir. Ini nggak ada hubungannya sama kamu, jangan merasa disalahin."
+      },
+      {
+        "text": "Bilang, 'Gimana kalau kita lupa aja semua yang udah terjadi dan mulai lagi dari awal?'",
+        "mood": 2,
+        "response": "Waduh, kamu bener-bener pengen ngelupain semuanya? Aku sih nggak yakin bisa, tapi mungkin itu bisa jadi solusi."
+      },
+      {
+        "text": "Tanya, 'Apa kamu merasa nggak dihargai? Kalau iya, aku bakal lebih perhatian lagi, kok.'",
+        "mood": -1,
+        "response": "Eh, nggak gitu! Cuma lagi ada keraguan dalam diri aja, nggak ada hubungannya sama kamu kok. Jangan mikir gitu!"
+      },
+      {
+        "text": "Cuek, sambil bilang, 'Yaudah, kalau kamu ragu, aku juga nggak mau maksa.'",
+        "mood": -3,
+        "response": "Apa kamu nggak peduli? Aku lagi butuh diperhatiin banget, bukan malah dibiarkan sendirian dengan perasaan kayak gini."
+      },
+      {
+        "text": "Bilang, 'Mungkin kamu cuma butuh waktu buat merenung. Aku bakal ada di sini, tungguin kamu.'",
+        "mood": 3,
+        "response": "Hehe, kamu sabar banget. Tapi aku nggak mau lama-lama ngubur keraguan ini. Ayo, kita beresin bareng-bareng."
+      }
+    ]
+  },
+  {
+    "id": "q20",
+    "question": "Aku tiba-tiba bilang, 'Kadang aku bingung deh sama semuanya, nggak tahu harus mulai dari mana.'",
+    "options": [
+      {
+        "text": "Bilang, 'Kalau gitu, ayo kita buat rencana bareng. Kita mulai dari hal-hal kecil dulu aja.'",
+        "mood": 6,
+        "response": "Hmm, kamu emang paham banget! Mulai dari hal kecil memang bisa bikin semuanya lebih jelas."
+      },
+      {
+        "text": "Bilang, 'Mungkin kamu cuma butuh waktu sendiri dulu. Coba relax, nanti kita bisa bahas ini.'",
+        "mood": 4,
+        "response": "Ah, kamu benar. Kadang aku cuma butuh waktu buat tenang dulu, biar pikirannya lebih jernih."
+      },
+      {
+        "text": "Tanya, 'Apa kamu nggak merasa sedikit lelah? Kadang kita butuh rehat buat lihat semuanya lebih jelas.'",
+        "mood": 3,
+        "response": "Hmm, mungkin kamu bener juga. Aku memang lagi capek, butuh waktu buat ngatur semuanya dalam kepala."
+      },
+      {
+        "text": "Bilang, 'Kamu bener-bener lagi bingung banget ya? Kalau kamu mau, aku bisa jadi tempat buat ngeluarin semua perasaan.'",
+        "mood": 5,
+        "response": "Eh, makasih. Tapi kadang aku merasa nggak enak buat ngeganggu kamu dengan perasaan ini."
+      },
+      {
+        "text": "Bilang, 'Duh, jangan gitu. Semua pasti ada jalan keluar. Kita coba buat solusi, deh!'",
+        "mood": 2,
+        "response": "Hehe, iya, tapi kadang jalan keluar itu nggak langsung keliatan. Mungkin aku butuh waktu buat cari tahu."
+      },
+      {
+        "text": "Senyap, lalu jawab, 'Mungkin kamu cuma harus nyoba hal-hal baru. Coba pergi jalan-jalan bareng aku!'",
+        "mood": 4,
+        "response": "Ah, itu ide bagus! Jalan-jalan bisa jadi cara untuk mengusir kebingunganku, dan aku juga bakal seneng banget."
+      },
+      {
+        "text": "Bilang, 'Eh, jangan dibawa pusing. Ayo, kita nonton film komedi aja, biar nggak mikirin yang berat-berat.'",
+        "mood": -1,
+        "response": "Haha, itu bisa jadi ide yang menyenangkan, sih! Tapi kadang aku nggak bisa langsung melupakan semua perasaan ini."
+      },
+      {
+        "text": "Bilang, 'Lalu, kamu mau aku bantu dengan cara apa? Atau lebih baik kita ngobrol aja dulu?'",
+        "mood": 3,
+        "response": "Aku sih cuma butuh tempat buat cerita. Kadang ngomong itu bisa jadi jalan keluar buat bikin semuanya lebih ringan."
+      }
+    ]
+  },
+  {
+    "id": "8271",
+    "question": "Kalau kamu lagi suntuk, apa yang bisa bikin kamu bahagia lagi, sayang?",
+    "options": [
+      {
+        "text": "Dengar musik favorit",
+        "mood": 5,
+        "response": "Musik favorit memang bisa jadi obat hati ya, aku mau nyanyi bareng kamu dong~!"
+      },
+      {
+        "text": "Chat sama kamu",
+        "mood": 4,
+        "response": "Aku senang banget bisa jadi teman curhatmu, apapun yang kamu rasain, aku selalu ada!"
+      },
+      {
+        "text": "Diam sendiri dulu",
+        "mood": -2,
+        "response": "Oh, aku ngerti kok kalau kamu butuh waktu sendiri. Aku akan sabar nunggu kamu!"
+      }
+    ]
+  },
+  {
+    "id": "9314",
+    "question": "Kalau aku bawain kejutan untuk kamu, kira-kira kamu mau apa, sayang?",
+    "options": [
+      {
+        "text": "Cokelat favorit",
+        "mood": 5,
+        "response": "Cokelat? Aku yakin kamu bakal senyum lebar waktu nerima kejutan manis ini~!"
+      },
+      {
+        "text": "Boneka lucu",
+        "mood": 4,
+        "response": "Boneka lucu untuk menemani kamu? Aku pilih yang paling imut biar kamu tambah bahagia!"
+      },
+      {
+        "text": "Aku nggak mau apa-apa",
+        "mood": -3,
+        "response": "Oh, nggak mau apa-apa? Tapi aku tetap ingin bikin hari kamu spesial, boleh ya?"
+      }
+    ]
+  },
+  {
+    "id": "4628",
+    "question": "Kalau kamu lagi butuh suasana baru, kamu pengen ngapain?",
+    "options": [
+      {
+        "text": "Jalan-jalan ke mall",
+        "mood": 5,
+        "response": "Mall? Aku bisa bantuin kamu cari promo terbaik sambil seru-seruan bareng~!"
+      },
+      {
+        "text": "Diam aja di rumah",
+        "mood": -2,
+        "response": "Hmm, di rumah aja? Aku paham kok, kadang kita butuh istirahat total."
+      },
+      {
+        "text": "Pergi ke taman",
+        "mood": 3,
+        "response": "Taman itu ide bagus, udara segar dan suasana hijau bikin hati lebih tenang."
+      }
+    ]
+  },
+  {
+    "id": "1743",
+    "question": "Kalau aku bisa bikin harimu lebih ceria, aku harus ngapain?",
+    "options": [
+      {
+        "text": "Masakin sesuatu",
+        "mood": 5,
+        "response": "Aku masakin spesial buat kamu? Aku bakal bikin dengan cinta, tentu saja!"
+      },
+      {
+        "text": "Kasih hadiah kecil",
+        "mood": -1,
+        "response": "Hadiah kecil? Aduh, aku harap kamu nggak kecewa sama pilihanku ya..."
+      },
+      {
+        "text": "Ajak ngobrol santai",
+        "mood": 4,
+        "response": "Ngobrol santai? Itu bakal jadi waktu spesial kita buat saling berbagi cerita."
+      }
+    ]
+  }
+]
