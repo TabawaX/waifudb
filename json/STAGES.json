@@ -22,8 +22,8 @@
             "reward": 110
           },
           {
-            "condition": "room.players.some(p => db.get_user(p).ctower.inventory.includes('Flashbang'))",
-            "effect": "const userWithFlash = room.players.find(p => db.get_user(p).ctower.inventory.includes('Flashbang')); db.get_user(userWithFlash).ctower.inventory = db.get_user(userWithFlash).ctower.inventory.filter(i => i !== 'Flashbang'); room.players.forEach(p => room.heist.health[p] -= 8); 'Seseorang melempar Flashbang, mengalihkan patroli. Semua kehilangan 8 HP';",
+            "condition": "room.players.some(p => db.get_user(p).user.heistInven.includes('Flashbang'))",
+            "effect": "const userWithFlash = room.players.find(p => db.get_user(p).user.heistInven.includes('Flashbang')); db.get_user(userWithFlash).user.heistInven = db.get_user(userWithFlash).user.heistInven.filter(i => i !== 'Flashbang'); room.players.forEach(p => room.heist.health[p] -= 8); 'Seseorang melempar Flashbang, mengalihkan patroli. Semua kehilangan 8 HP';",
             "reward": 80
           },
           {
@@ -38,12 +38,12 @@
         "description": "Pintu baja besar menghalangi jalan tim.",
         "resolutions": [
           {
-            "condition": "room.players.some(p => room.roles[p] === 'Demolitionist' && db.get_user(p).ctower.inventory.includes('C4'))",
-            "effect": "const demo = room.players.find(p => room.roles[p] === 'Demolitionist' && db.get_user(p).ctower.inventory.includes('C4')); db.get_user(demo).ctower.inventory = db.get_user(demo).ctower.inventory.filter(i => i !== 'C4'); 'Demolitionist meledakkan pintu dengan C4';",
+            "condition": "room.players.some(p => room.roles[p] === 'Demolitionist' && db.get_user(p).user.heistInven.includes('C4'))",
+            "effect": "const demo = room.players.find(p => room.roles[p] === 'Demolitionist' && db.get_user(p).user.heistInven.includes('C4')); db.get_user(demo).user.heistInven = db.get_user(demo).user.heistInven.filter(i => i !== 'C4'); 'Demolitionist meledakkan pintu dengan C4';",
             "reward": 150
           },
           {
-            "condition": "room.players.some(p => room.roles[p] === 'Hacker' && db.get_user(p).ctower.inventory.includes('Laptop'))",
+            "condition": "room.players.some(p => room.roles[p] === 'Hacker' && db.get_user(p).user.heistInven.includes('Laptop'))",
             "effect": "'Hacker membobol panel keamanan dengan Laptop';",
             "reward": 120
           },
@@ -53,8 +53,8 @@
             "reward": 100
           },
           {
-            "condition": "room.players.some(p => db.get_user(p).ctower.inventory.includes('Crowbar'))",
-            "effect": "const userWithCrowbar = room.players.find(p => db.get_user(p).ctower.inventory.includes('Crowbar')); db.get_user(userWithCrowbar).ctower.inventory = db.get_user(userWithCrowbar).ctower.inventory.filter(i => i !== 'Crowbar'); room.players.forEach(p => room.heist.health[p] -= 5); 'Seseorang memaksa pintu dengan Crowbar, tapi tim kelelahan. Semua kehilangan 5 HP';",
+            "condition": "room.players.some(p => db.get_user(p).user.heistInven.includes('Crowbar'))",
+            "effect": "const userWithCrowbar = room.players.find(p => db.get_user(p).user.heistInven.includes('Crowbar')); db.get_user(userWithCrowbar).user.heistInven = db.get_user(userWithCrowbar).user.heistInven.filter(i => i !== 'Crowbar'); room.players.forEach(p => room.heist.health[p] -= 5); 'Seseorang memaksa pintu dengan Crowbar, tapi tim kelelahan. Semua kehilangan 5 HP';",
             "reward": 90
           },
           {
@@ -79,8 +79,8 @@
             "reward": 180
           },
           {
-            "condition": "room.players.some(p => db.get_user(p).ctower.inventory.includes('Flashbang'))",
-            "effect": "const userWithFlash = room.players.find(p => db.get_user(p).ctower.inventory.includes('Flashbang')); db.get_user(userWithFlash).ctower.inventory = db.get_user(userWithFlash).ctower.inventory.filter(i => i !== 'Flashbang'); 'Seseorang melempar Flashbang, penjaga panik dan tim lolos';",
+            "condition": "room.players.some(p => db.get_user(p).user.heistInven.includes('Flashbang'))",
+            "effect": "const userWithFlash = room.players.find(p => db.get_user(p).user.heistInven.includes('Flashbang')); db.get_user(userWithFlash).user.heistInven = db.get_user(userWithFlash).user.heistInven.filter(i => i !== 'Flashbang'); 'Seseorang melempar Flashbang, penjaga panik dan tim lolos';",
             "reward": 100
           },
           {
@@ -105,7 +105,7 @@
             "reward": 110
           },
           {
-            "condition": "room.players.some(p => db.get_user(p).ctower.inventory.includes('Night Vision Goggles'))",
+            "condition": "room.players.some(p => db.get_user(p).user.heistInven.includes('Night Vision Goggles'))",
             "effect": "'Night Vision Goggles membantu tim melihat di kegelapan';",
             "reward": 100
           },
@@ -126,8 +126,8 @@
             "reward": 150
           },
           {
-            "condition": "room.players.some(p => db.get_user(p).ctower.inventory.includes('Medkit'))",
-            "effect": "const userWithMedkit = room.players.find(p => db.get_user(p).ctower.inventory.includes('Medkit')); db.get_user(userWithMedkit).ctower.inventory = db.get_user(userWithMedkit).ctower.inventory.filter(i => i !== 'Medkit'); 'Medkit digunakan untuk menyembuhkan luka';",
+            "condition": "room.players.some(p => db.get_user(p).user.heistInven.includes('Medkit'))",
+            "effect": "const userWithMedkit = room.players.find(p => db.get_user(p).user.heistInven.includes('Medkit')); db.get_user(userWithMedkit).user.heistInven = db.get_user(userWithMedkit).user.heistInven.filter(i => i !== 'Medkit'); 'Medkit digunakan untuk menyembuhkan luka';",
             "reward": 100
           },
           {
@@ -157,8 +157,8 @@
             "reward": 130
           },
           {
-            "condition": "room.players.some(p => db.get_user(p).ctower.inventory.includes('Wire Cutters'))",
-            "effect": "const userWithCutters = room.players.find(p => db.get_user(p).ctower.inventory.includes('Wire Cutters')); db.get_user(userWithCutters).ctower.inventory = db.get_user(userWithCutters).ctower.inventory.filter(i => i !== 'Wire Cutters'); room.heist.atkBonus = (room.heist.atkBonus || 0) + 5; 'Wire Cutters memutus kabel alarm. Bonus +5 ATK akhir';",
+            "condition": "room.players.some(p => db.get_user(p).user.heistInven.includes('Wire Cutters'))",
+            "effect": "const userWithCutters = room.players.find(p => db.get_user(p).user.heistInven.includes('Wire Cutters')); db.get_user(userWithCutters).user.heistInven = db.get_user(userWithCutters).user.heistInven.filter(i => i !== 'Wire Cutters'); room.heist.atkBonus = (room.heist.atkBonus || 0) + 5; 'Wire Cutters memutus kabel alarm. Bonus +5 ATK akhir';",
             "reward": 100
           },
           {
@@ -183,7 +183,7 @@
             "reward": 150
           },
           {
-            "condition": "room.players.some(p => db.get_user(p).ctower.inventory.includes('Thermal Scanner'))",
+            "condition": "room.players.some(p => db.get_user(p).user.heistInven.includes('Thermal Scanner'))",
             "effect": "room.heist.atkBonus = (room.heist.atkBonus || 0) + 8; 'Thermal Scanner membantu navigasi. Bonus +8 ATK akhir';",
             "reward": 120
           },
@@ -209,8 +209,8 @@
             "reward": 150
           },
           {
-            "condition": "room.players.some(p => db.get_user(p).ctower.inventory.includes('Laser Deflector'))",
-            "effect": "const userWithDeflector = room.players.find(p => db.get_user(p).ctower.inventory.includes('Laser Deflector')); db.get_user(userWithDeflector).ctower.inventory = db.get_user(userWithDeflector).ctower.inventory.filter(i => i !== 'Laser Deflector'); 'Laser Deflector menetralkan laser';",
+            "condition": "room.players.some(p => db.get_user(p).user.heistInven.includes('Laser Deflector'))",
+            "effect": "const userWithDeflector = room.players.find(p => db.get_user(p).user.heistInven.includes('Laser Deflector')); db.get_user(userWithDeflector).user.heistInven = db.get_user(userWithDeflector).user.heistInven.filter(i => i !== 'Laser Deflector'); 'Laser Deflector menetralkan laser';",
             "reward": 130
           },
           {
@@ -230,12 +230,12 @@
             "reward": 180
           },
           {
-            "condition": "room.players.some(p => room.roles[p] === 'Hacker' && db.get_user(p).ctower.inventory.includes('Hacking Drone'))",
-            "effect": "const userWithDrone = room.players.find(p => db.get_user(p).ctower.inventory.includes('Hacking Drone')); db.get_user(userWithDrone).ctower.inventory = db.get_user(userWithDrone).ctower.inventory.filter(i => i !== 'Hacking Drone'); 'Hacking Drone membobol brankas';",
+            "condition": "room.players.some(p => room.roles[p] === 'Hacker' && db.get_user(p).user.heistInven.includes('Hacking Drone'))",
+            "effect": "const userWithDrone = room.players.find(p => db.get_user(p).user.heistInven.includes('Hacking Drone')); db.get_user(userWithDrone).user.heistInven = db.get_user(userWithDrone).user.heistInven.filter(i => i !== 'Hacking Drone'); 'Hacking Drone membobol brankas';",
             "reward": 150
           },
           {
-            "condition": "room.players.some(p => db.get_user(p).ctower.inventory.includes('Stethoscope'))",
+            "condition": "room.players.some(p => db.get_user(p).user.heistInven.includes('Stethoscope'))",
             "effect": "const success = Math.random() < 0.8; if (success) { return 'Stethoscope membantu membuka brankas'; } else { room.players.forEach(p => room.heist.health[p] -= 10); return 'Gagal membuka, tim kehilangan 10 HP'; }",
             "reward": 120
           },
@@ -271,7 +271,7 @@
             "reward": 180
           },
           {
-            "condition": "room.players.some(p => db.get_user(p).ctower.inventory.includes('Silenced Pistol'))",
+            "condition": "room.players.some(p => db.get_user(p).user.heistInven.includes('Silenced Pistol'))",
             "effect": "room.heist.atkBonus = (room.heist.atkBonus || 0) + 10; 'Silenced Pistol digunakan untuk menetralkan penjaga secara diam-diam. Bonus +10 ATK akhir';",
             "reward": 150
           },
@@ -297,7 +297,7 @@
             "reward": 180
           },
           {
-            "condition": "room.players.some(p => db.get_user(p).ctower.inventory.includes('Thermal Scanner'))",
+            "condition": "room.players.some(p => db.get_user(p).user.heistInven.includes('Thermal Scanner'))",
             "effect": "'Thermal Scanner mengungkap jebakan, tim menghindarinya';",
             "reward": 150
           },
@@ -323,8 +323,8 @@
             "reward": 200
           },
           {
-            "condition": "room.players.some(p => db.get_user(p).ctower.inventory.includes('RPG'))",
-            "effect": "const userWithRPG = room.players.find(p => db.get_user(p).ctower.inventory.includes('RPG')); db.get_user(userWithRPG).ctower.inventory = db.get_user(userWithRPG).ctower.inventory.filter(i => i !== 'RPG'); room.heist.atkBonus = (room.heist.atkBonus || 0) + 10; 'RPG menghancurkan barikade musuh. Bonus +10 ATK akhir';",
+            "condition": "room.players.some(p => db.get_user(p).user.heistInven.includes('RPG'))",
+            "effect": "const userWithRPG = room.players.find(p => db.get_user(p).user.heistInven.includes('RPG')); db.get_user(userWithRPG).user.heistInven = db.get_user(userWithRPG).user.heistInven.filter(i => i !== 'RPG'); room.heist.atkBonus = (room.heist.atkBonus || 0) + 10; 'RPG menghancurkan barikade musuh. Bonus +10 ATK akhir';",
             "reward": 180
           },
           {
@@ -349,8 +349,8 @@
             "reward": 180
           },
           {
-            "condition": "room.players.some(p => db.get_user(p).ctower.inventory.includes('Adrenaline Shot'))",
-            "effect": "const userWithShot = room.players.find(p => db.get_user(p).ctower.inventory.includes('Adrenaline Shot')); db.get_user(userWithShot).ctower.inventory = db.get_user(userWithShot).ctower.inventory.filter(i => i !== 'Adrenaline Shot'); room.players.forEach(p => room.heist.health[p] += 5); 'Adrenaline Shot meningkatkan stamina, semua pulih 5 HP';",
+            "condition": "room.players.some(p => db.get_user(p).user.heistInven.includes('Adrenaline Shot'))",
+            "effect": "const userWithShot = room.players.find(p => db.get_user(p).user.heistInven.includes('Adrenaline Shot')); db.get_user(userWithShot).user.heistInven = db.get_user(userWithShot).user.heistInven.filter(i => i !== 'Adrenaline Shot'); room.players.forEach(p => room.heist.health[p] += 5); 'Adrenaline Shot meningkatkan stamina, semua pulih 5 HP';",
             "reward": 150
           },
           {
@@ -380,12 +380,12 @@
             "reward": 150
           },
           {
-            "condition": "room.players.some(p => db.get_user(p).ctower.inventory.includes('Smoke Grenade'))",
-            "effect": "const userWithSmoke = room.players.find(p => db.get_user(p).ctower.inventory.includes('Smoke Grenade')); db.get_user(userWithSmoke).ctower.inventory = db.get_user(userWithSmoke).ctower.inventory.filter(i => i !== 'Smoke Grenade'); room.players.forEach(p => room.heist.health[p] -= 15); 'Seseorang melempar Smoke Grenade untuk kabur. Semua kehilangan 15 HP';",
+            "condition": "room.players.some(p => db.get_user(p).user.heistInven.includes('Smoke Grenade'))",
+            "effect": "const userWithSmoke = room.players.find(p => db.get_user(p).user.heistInven.includes('Smoke Grenade')); db.get_user(userWithSmoke).user.heistInven = db.get_user(userWithSmoke).user.heistInven.filter(i => i !== 'Smoke Grenade'); room.players.forEach(p => room.heist.health[p] -= 15); 'Seseorang melempar Smoke Grenade untuk kabur. Semua kehilangan 15 HP';",
             "reward": 100
           },
           {
-            "condition": "room.players.some(p => db.get_user(p).ctower.inventory.includes('Getaway Car'))",
+            "condition": "room.players.some(p => db.get_user(p).user.heistInven.includes('Getaway Car'))",
             "effect": "'Getaway Car mempercepat pelarian tim tanpa jejak';",
             "reward": 180
           },
@@ -411,8 +411,8 @@
             "reward": 170
           },
           {
-            "condition": "room.players.some(p => db.get_user(p).ctower.inventory.includes('Explosives'))",
-            "effect": "const userWithExplosives = room.players.find(p => db.get_user(p).ctower.inventory.includes('Explosives')); db.get_user(userWithExplosives).ctower.inventory = db.get_user(userWithExplosives).ctower.inventory.filter(i => i !== 'Explosives'); 'Explosives meledakkan barikade';",
+            "condition": "room.players.some(p => db.get_user(p).user.heistInven.includes('Explosives'))",
+            "effect": "const userWithExplosives = room.players.find(p => db.get_user(p).user.heistInven.includes('Explosives')); db.get_user(userWithExplosives).user.heistInven = db.get_user(userWithExplosives).user.heistInven.filter(i => i !== 'Explosives'); 'Explosives meledakkan barikade';",
             "reward": 150
           },
           {
@@ -437,7 +437,7 @@
             "reward": 180
           },
           {
-            "condition": "room.players.some(p => db.get_user(p).ctower.inventory.includes('Getaway Car'))",
+            "condition": "room.players.some(p => db.get_user(p).user.heistInven.includes('Getaway Car'))",
             "effect": "'Getaway Car melaju kencang, meninggalkan polisi';",
             "reward": 170
           },
@@ -463,8 +463,8 @@
             "reward": 130
           },
           {
-            "condition": "room.players.some(p => db.get_user(p).ctower.inventory.includes('Wire Cutters'))",
-            "effect": "const userWithCutters = room.players.find(p => db.get_user(p).ctower.inventory.includes('Wire Cutters')); db.get_user(userWithCutters).ctower.inventory = db.get_user(userWithCutters).ctower.inventory.filter(i => i !== 'Wire Cutters'); 'Wire Cutters digunakan untuk perbaikan darurat';",
+            "condition": "room.players.some(p => db.get_user(p).user.heistInven.includes('Wire Cutters'))",
+            "effect": "const userWithCutters = room.players.find(p => db.get_user(p).user.heistInven.includes('Wire Cutters')); db.get_user(userWithCutters).user.heistInven = db.get_user(userWithCutters).user.heistInven.filter(i => i !== 'Wire Cutters'); 'Wire Cutters digunakan untuk perbaikan darurat';",
             "reward": 120
           },
           {
