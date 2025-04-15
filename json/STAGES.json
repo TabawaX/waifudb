@@ -8,12 +8,12 @@
         "resolutions": [
           {
             "condition": "room.players.some(p => room.roles[p] === 'Scout')",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 5); return 'Scout melihat patroli dan tim bersembunyi. Semua kehilangan 5 HP karena stres';",
+            "effect": "room.players.forEach(p => room.heist.health[p] -= 5); 'Scout melihat patroli dan tim bersembunyi. Semua kehilangan 5 HP karena stres';",
             "reward": 100
           },
           {
             "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 15); return 'Tim ketahuan dan harus bertarung. Semua kehilangan 15 HP';",
+            "effect": "room.players.forEach(p => room.heist.health[p] -= 15); 'Tim ketahuan dan harus bertarung. Semua kehilangan 15 HP';",
             "reward": 0
           }
         ]
@@ -24,17 +24,17 @@
         "resolutions": [
           {
             "condition": "room.players.some(p => room.roles[p] === 'Demolitionist' && db.get_user(p).ctower.inventory.includes('C4'))",
-            "effect": "const demo = room.players.find(p => room.roles[p] === 'Demolitionist' && db.get_user(p).ctower.inventory.includes('C4')); db.get_user(demo).ctower.inventory = db.get_user(demo).ctower.inventory.filter(i => i !== 'C4'); return 'Demolitionist meledakkan pintu dengan C4';",
+            "effect": "const demo = room.players.find(p => room.roles[p] === 'Demolitionist' && db.get_user(p).ctower.inventory.includes('C4')); db.get_user(demo).ctower.inventory = db.get_user(demo).ctower.inventory.filter(i => i !== 'C4'); 'Demolitionist meledakkan pintu dengan C4';",
             "reward": 150
           },
           {
             "condition": "room.players.some(p => room.roles[p] === 'Hacker' && db.get_user(p).ctower.inventory.includes('Laptop'))",
-            "effect": "return 'Hacker membobol keamanan pintu dengan Laptop';",
+            "effect": "'Hacker membobol keamanan pintu dengan Laptop';",
             "reward": 120
           },
           {
             "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 10); return 'Tim memaksa pintu terbuka, kehilangan 10 HP masing-masing';",
+            "effect": "room.players.forEach(p => room.heist.health[p] -= 10); 'Tim memaksa pintu terbuka, kehilangan 10 HP masing-masing';",
             "reward": 0
           }
         ]
@@ -45,12 +45,12 @@
         "resolutions": [
           {
             "condition": "room.players.some(p => room.roles[p] === 'Negotiator')",
-            "effect": "return 'Negotiator berbicara dengan penjaga dan berhasil meyakinkannya untuk membiarkan tim lewat';",
+            "effect": "'Negotiator berbicara dengan penjaga dan berhasil meyakinkannya untuk membiarkan tim lewat';",
             "reward": 200
           },
           {
             "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 10); return 'Tim gagal bernegosiasi dan harus bertarung. Semua kehilangan 10 HP';",
+            "effect": "room.players.forEach(p => room.heist.health[p] -= 10); 'Tim gagal bernegosiasi dan harus bertarung. Semua kehilangan 10 HP';",
             "reward": 0
           }
         ]
@@ -66,12 +66,12 @@
         "resolutions": [
           {
             "condition": "room.players.some(p => room.roles[p] === 'Hacker')",
-            "effect": "room.heist.atkBonus = (room.heist.atkBonus || 0) + 10; return 'Hacker menonaktifkan alarm. Bonus +10 ATK akhir';",
+            "effect": "room.heist.atkBonus = (room.heist.atkBonus || 0) + 10; 'Hacker menonaktifkan alarm. Bonus +10 ATK akhir';",
             "reward": 150
           },
           {
             "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 10); return 'Alarm berbunyi, keamanan meningkat. Semua kehilangan 10 HP';",
+            "effect": "room.players.forEach(p => room.heist.health[p] -= 10); 'Alarm berbunyi, keamanan meningkat. Semua kehilangan 10 HP';",
             "reward": 0
           }
         ]
@@ -82,12 +82,12 @@
         "resolutions": [
           {
             "condition": "room.players.some(p => room.roles[p] === 'Mastermind')",
-            "effect": "room.heist.atkBonus = (room.heist.atkBonus || 0) + 15; return 'Mastermind merencanakan rute yang efisien. Bonus +15 ATK akhir';",
+            "effect": "room.heist.atkBonus = (room.heist.atkBonus || 0) + 15; 'Mastermind merencanakan rute yang efisien. Bonus +15 ATK akhir';",
             "reward": 180
           },
           {
             "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 5); return 'Tim tersesat sebentar, kehilangan 5 HP masing-masing';",
+            "effect": "room.players.forEach(p => room.heist.health[p] -= 5); 'Tim tersesat sebentar, kehilangan 5 HP masing-masing';",
             "reward": 0
           }
         ]
@@ -103,12 +103,12 @@
         "resolutions": [
           {
             "condition": "room.players.some(p => room.roles[p] === 'Negotiator')",
-            "effect": "return 'Negotiator bernegosiasi dengan penjaga, tim lolos tanpa masalah';",
+            "effect": "'Negotiator bernegosiasi dengan penjaga, tim lolos tanpa masalah';",
             "reward": 250
           },
           {
             "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 15); return 'Tim bertarung dengan penjaga. Semua kehilangan 15 HP';",
+            "effect": "room.players.forEach(p => room.heist.health[p] -= 15); 'Tim bertarung dengan penjaga. Semua kehilangan 15 HP';",
             "reward": 0
           }
         ]
@@ -119,12 +119,12 @@
         "resolutions": [
           {
             "condition": "room.players.some(p => room.roles[p] === 'Scout')",
-            "effect": "return 'Scout mendeteksi dan menonaktifkan jebakan';",
+            "effect": "'Scout mendeteksi dan menonaktifkan jebakan';",
             "reward": 200
           },
           {
             "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 20); return 'Tim terkena jebakan, semua kehilangan 20 HP';",
+            "effect": "room.players.forEach(p => room.heist.health[p] -= 20); 'Tim terkena jebakan, semua kehilangan 20 HP';",
             "reward": 0
           }
         ]
@@ -140,17 +140,17 @@
         "resolutions": [
           {
             "condition": "room.players.some(p => room.roles[p] === 'Scout')",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 10); return 'Scout memandu tim lewat pintu rahasia. Semua kehilangan 10 HP';",
+            "effect": "room.players.forEach(p => room.heist.health[p] -= 10); 'Scout memandu tim lewat pintu rahasia. Semua kehilangan 10 HP';",
             "reward": 150
           },
           {
             "condition": "room.players.some(p => db.get_user(p).ctower.inventory.includes('Smoke'))",
-            "effect": "const userWithSmoke = room.players.find(p => db.get_user(p).ctower.inventory.includes('Smoke')); db.get_user(userWithSmoke).ctower.inventory = db.get_user(userWithSmoke).ctower.inventory.filter(i => i !== 'Smoke'); room.players.forEach(p => room.heist.health[p] -= 15); return 'Seseorang melempar Smoke Grenade untuk kabur. Semua kehilangan 15 HP';",
+            "effect": "const userWithSmoke = room.players.find(p => db.get_user(p).ctower.inventory.includes('Smoke')); db.get_user(userWithSmoke).ctower.inventory = db.get_user(userWithSmoke).ctower.inventory.filter(i => i !== 'Smoke'); room.players.forEach(p => room.heist.health[p] -= 15); 'Seseorang melempar Smoke Grenade untuk kabur. Semua kehilangan 15 HP';",
             "reward": 100
           },
           {
             "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 20); return 'Tim kewalahan oleh SWAT. Semua kehilangan 20 HP';",
+            "effect": "room.players.forEach(p => room.heist.health[p] -= 20); 'Tim kewalahan oleh SWAT. Semua kehilangan 20 HP';",
             "reward": 0
           }
         ]
