@@ -1,138 +1,77 @@
 [
   {
-    "name": "Infiltration",
+    "name": "Heist: Assault by SWAT and Defense Units",
     "events": [
       {
-        "name": "Security Patrol",
-        "description": "Patroli keamanan mendekat dengan senter menyala!",
+        "name": "SWAT Response",
+        "description": "Saat alarm berbunyi, unit SWAT tiba dengan disiplin dan kekuatan penuh. Formasi pasukan ini segera mengepung lokasi heist, memaksa tim untuk bereaksi cepat dalam menghadapi ancaman tinggi dari barisan pertahanan elit.",
         "resolutions": [
           {
-            "condition": "room.players.some(p => room.roles[p] === 'Scout')",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 5); 'Scout melihat patroli dan memandu tim bersembunyi. Semua kehilangan 5 HP karena stres';",
-            "reward": 100
-          },
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Infiltrator')",
-            "effect": "'Infiltrator memimpin tim melewati bayangan, lolos tanpa jejak';",
-            "reward": 120
-          },
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Decoy')",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 3); 'Decoy mengalihkan perhatian patroli dengan trik cerdas. Semua kehilangan 3 HP karena ketegangan';",
-            "reward": 110
-          },
-          {
-            "condition": "room.players.some(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Flashbang'))",
-            "effect": "const userWithFlash = room.players.find(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Flashbang')); db.get_user(userWithFlash).heistinven=db.get_user(userWithFlash).heistinven.filter(i=>i.name!=='Flashbang'); room.players.forEach(p => room.heist.health[p] -= 8); 'Seseorang melempar Flashbang, mengalihkan patroli. Semua kehilangan 8 HP';",
-            "reward": 80
-          },
-          {
-            "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 15); 'Tim ketahuan dan harus bertarung. Semua kehilangan 15 HP';",
-            "reward": 0
-          }
-        ]
-      },
-      {
-        "name": "Locked Door",
-        "description": "Pintu baja besar menghalangi jalan tim.",
-        "resolutions": [
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Demolitionist' && (db.get_user(p).heistinven||[]).some(i => i.name==='C4'))",
-            "effect": "const demo = room.players.find(p => room.roles[p] === 'Demolitionist' && (db.get_user(p).heistinven||[]).some(i => i.name==='C4')); db.get_user(demo).heistinven=db.get_user(demo).heistinven.filter(i=>i.name!=='C4'); 'Demolitionist meledakkan pintu dengan C4';",
+            "condition": "room.players.some(p => room.roles[p] === 'Negotiator') && room.players.some(p => (db.get_user(p).heistinven || []).some(i => i.name === 'Smoke Grenade'))",
+            "effect": "const userWithSmoke = room.players.find(p => (db.get_user(p).heistinven || []).some(i => i.name === 'Smoke Grenade'));\ndb.get_user(userWithSmoke).heistinven = db.get_user(userWithSmoke).heistinven.filter(i => i.name !== 'Smoke Grenade');\nroom.players.forEach(p => { room.heist.health[p] -= 30; room.heist.atk[p] = (room.heist.atk[p] || 100) - 10; });\n'Negotiator berhasil mengoordinasikan Smoke Grenade untuk menciptakan penutup asap, menunda agresi SWAT meskipun tim tetap menerima kerusakan moderat.'",
             "reward": 150
           },
           {
-            "condition": "room.players.some(p => room.roles[p] === 'Hacker' && (db.get_user(p).heistinven||[]).some(i => i.name==='Laptop'))",
-            "effect": "'Hacker membobol panel keamanan dengan Laptop';",
-            "reward": 120
-          },
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Enforcer')",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 5); 'Enforcer memaksa pintu dengan kekuatan fisik. Semua kehilangan 5 HP karena usaha';",
+            "condition": "room.players.some(p => room.roles[p] === 'Scout')",
+            "effect": "room.players.forEach(p => { room.heist.health[p] -= 40; room.heist.atk[p] = (room.heist.atk[p] || 100) - 15; });\n'Scout mendeteksi formasi dan pergerakan SWAT, sehingga tim sempat beradaptasi, namun serangan cepat tetap mengakibatkan kerusakan yang cukup besar.'",
             "reward": 100
           },
           {
-            "condition": "room.players.some(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Crowbar'))",
-            "effect": "const userWithCrowbar = room.players.find(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Crowbar')); db.get_user(userWithCrowbar).heistinven=db.get_user(userWithCrowbar).heistinven.filter(i=>i.name!=='Crowbar'); room.players.forEach(p => room.heist.health[p] -= 5); 'Seseorang memaksa pintu dengan Crowbar, tapi tim kelelahan. Semua kehilangan 5 HP';",
-            "reward": 90
-          },
-          {
             "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 10); 'Tim memaksa pintu terbuka dengan alat seadanya, kehilangan 10 HP masing-masing';",
+            "effect": "room.players.forEach(p => { room.heist.health[p] -= 60; room.heist.atk[p] = (room.heist.atk[p] || 100) - 20; });\n'Tanpa adanya pengelolaan situasi khusus, SWAT menyerang dengan penuh kekuatan, mengakibatkan penurunan kesehatan dan kemampuan bertarung yang signifikan.'",
             "reward": 0
           }
         ]
       },
       {
-        "name": "Negotiation Opportunity",
-        "description": "Penjaga tampak ragu dan bisa dibujuk.",
+        "name": "Barricade Defense",
+        "description": "Gedung sasaran dilengkapi dengan sistem penghalang dan penjagaan ketat. Tim harus menerobos barricade yang dijaga oleh unit pertahanan profesional, di mana setiap kesalahan akan langsung berdampak besar pada keselamatan.",
         "resolutions": [
           {
-            "condition": "room.players.some(p => room.roles[p] === 'Negotiator')",
-            "effect": "'Negotiator berbicara dengan penjaga, meyakinkannya untuk membiarkan tim lewat';",
-            "reward": 200
-          },
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Decoy')",
-            "effect": "'Decoy memalsukan situasi darurat, penjaga pergi memeriksa';",
+            "condition": "room.players.some(p => room.roles[p] === 'Infiltrator') && room.players.some(p => (db.get_user(p).heistinven || []).some(i => i.name === 'Crowbar'))",
+            "effect": "const userWithCrowbar = room.players.find(p => (db.get_user(p).heistinven || []).some(i => i.name === 'Crowbar'));\ndb.get_user(userWithCrowbar).heistinven = db.get_user(userWithCrowbar).heistinven.filter(i => i.name !== 'Crowbar');\nroom.players.forEach(p => { room.heist.health[p] -= 25; room.heist.atk[p] = (room.heist.atk[p] || 100) - 5; });\n'Infiltrator dengan cepat menabrak struktur barricade menggunakan Crowbar, membuka jalan meski tim tetap menanggung kerusakan minimal akibat benturan pertahanan.'",
             "reward": 180
           },
           {
-            "condition": "room.players.some(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Flashbang'))",
-            "effect": "const userWithFlash = room.players.find(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Flashbang')); db.get_user(userWithFlash).heistinven=db.get_user(userWithFlash).heistinven.filter(i=>i.name!=='Flashbang'); 'Seseorang melempar Flashbang, penjaga panik dan tim lolos';",
-            "reward": 100
-          },
-          {
             "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 10); 'Tim gagal bernegosiasi dan harus bertarung. Semua kehilangan 10 HP';",
+            "effect": "room.players.forEach(p => { room.heist.health[p] -= 50; room.heist.atk[p] = (room.heist.atk[p] || 100) - 15; });\n'Jika tidak ada persiapan khusus, unit pertahanan menjaganya ketat, sehingga upaya penerobosan menghasilkan kerusakan yang jauh lebih tinggi.'",
             "reward": 0
           }
         ]
       },
       {
-        "name": "Dark Corridor",
-        "description": "Koridor gelap menyulitkan navigasi tim.",
+        "name": "Biometric Lockdown",
+        "description": "Gudang tempat barang berharga disimpan dilengkapi sistem biometric canggih. Begitu heist dimulai, sensor mengaktifkan protokol lockdown dan mengirimkan dukungan drone, menambah lapisan pertahanan otomatis.",
         "resolutions": [
           {
-            "condition": "room.players.some(p => room.roles[p] === 'Infiltrator')",
-            "effect": "'Infiltrator memandu tim dengan insting tajam, lolos tanpa masalah';",
-            "reward": 130
-          },
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Scout')",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 3); 'Scout menemukan jalur aman, tapi lambat. Semua kehilangan 3 HP';",
-            "reward": 110
-          },
-          {
-            "condition": "room.players.some(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Night Vision Goggles'))",
-            "effect": "'Night Vision Goggles membantu tim melihat di kegelapan';",
-            "reward": 100
+            "condition": "room.players.some(p => room.roles[p] === 'Hacker') && room.players.some(p => (db.get_user(p).heistinven || []).some(i => i.name === 'Laptop'))",
+            "effect": "const userWithLaptop = room.players.find(p => (db.get_user(p).heistinven || []).some(i => i.name === 'Laptop'));\ndb.get_user(userWithLaptop).heistinven = db.get_user(userWithLaptop).heistinven.filter(i => i.name !== 'Laptop');\nroom.players.forEach(p => { room.heist.health[p] -= 35; room.heist.atk[p] = (room.heist.atk[p] || 100) - 10; });\n'Hacker berhasil meretas sistem biometric dengan Laptop, menunda lockdown dan mengurangi dampak kerusakan, meskipun tidak sepenuhnya menghindari serangan sistem.'",
+            "reward": 170
           },
           {
             "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 12); 'Tim tersandung di kegelapan, kehilangan 12 HP masing-masing';",
+            "effect": "room.players.forEach(p => { room.heist.health[p] -= 55; room.heist.atk[p] = (room.heist.atk[p] || 100) - 20; });\n'Tanpa upaya peretasan, sistem biometric mengunci seluruh area dengan cepat, mengakibatkan dampak yang jauh lebih parah bagi setiap anggota tim.'",
             "reward": 0
           }
         ]
       },
       {
-        "name": "Medical Emergency",
-        "description": "Seorang anggota tim terluka ringan saat menyelinap.",
+        "name": "Final Escape: Pursuit by Defense Units",
+        "description": "Setelah penjarahan, tim harus segera melarikan diri karena unit pertahanan dan SWAT kini mengepung area. Setiap detik penundaan dapat berujung pada penangkapan atau tembakan yang mengenai target, sehingga strategi pelarian sangat menentukan.",
         "resolutions": [
           {
-            "condition": "room.players.some(p => room.roles[p] === 'Medic')",
-            "effect": "room.players.forEach(p => room.heist.health[p] += 5); 'Medic merawat luka, semua pulih 5 HP';",
+            "condition": "room.players.some(p => room.roles[p] === 'Driver') && room.players.some(p => (db.get_user(p).heistinven || []).some(i => i.name === 'Getaway Car'))",
+            "effect": "const userWithCar = room.players.find(p => (db.get_user(p).heistinven || []).some(i => i.name === 'Getaway Car'));\ndb.get_user(userWithCar).heistinven = db.get_user(userWithCar).heistinven.filter(i => i.name !== 'Getaway Car');\nroom.players.forEach(p => { room.heist.health[p] -= 30; room.heist.atk[p] = (room.heist.atk[p] || 100) - 5; });\n'Dengan keahlian Driver menggunakan Getaway Car, tim mampu membuka jalur pelarian meskipun masih menerima tekanan dari pengejaran unit pertahanan.'",
+            "reward": 200
+          },
+          {
+            "condition": "room.players.some(p => room.roles[p] === 'Negotiator')",
+            "effect": "room.players.forEach(p => { room.heist.health[p] -= 45; room.heist.atk[p] = (room.heist.atk[p] || 100) - 10; });\n'Negotiator berusaha menegosiasikan waktu dengan pihak pertahanan, sehingga tekanan pengejaran berkurang meskipun tim tetap mengalami kerusakan yang tidak kalah signifikan.'",
             "reward": 150
           },
           {
-            "condition": "room.players.some(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Medkit'))",
-            "effect": "const userWithMedkit = room.players.find(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Medkit')); db.get_user(userWithMedkit).heistinven=db.get_user(userWithMedkit).heistinven.filter(i=>i.name!=='Medkit'); 'Medkit digunakan untuk menyembuhkan luka';",
-            "reward": 100
-          },
-          {
             "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 10); 'Luka dibiarkan, tim kehilangan 10 HP masing-masing';",
+            "effect": "room.players.forEach(p => { room.heist.health[p] -= 55; room.heist.atk[p] = (room.heist.atk[p] || 100) - 15; });\n'Dalam kondisi tanpa dukungan khusus, pengejaran unit pertahanan berlangsung agresif, mengakibatkan pengurangan kesehatan dan kemampuan serang tim secara besar-besaran.'",
             "reward": 0
           }
         ]
@@ -140,222 +79,57 @@
     ]
   },
   {
-    "name": "Reaching Target",
+    "name": "Elite Brutal Counterattack",
     "events": [
       {
-        "name": "Alarm System",
-        "description": "Sistem alarm canggih melindungi target.",
+        "name": "Armored Convoy Ambush",
+        "description": "Sebuah konvoi lapis baja muncul dengan kekuatan mematikan, menghadirkan serangan berat yang menembus pertahanan tim dengan kekuatan tank dan artileri.",
         "resolutions": [
           {
-            "condition": "room.players.some(p => room.roles[p] === 'Hacker')",
-            "effect": "room.heist.atkBonus = (room.heist.atkBonus || 0) + 10; 'Hacker menonaktifkan alarm. Bonus +10 ATK akhir';",
-            "reward": 150
-          },
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Engineer')",
-            "effect": "room.heist.atkBonus = (room.heist.atkBonus || 0) + 8; 'Engineer memodifikasi alarm untuk keuntungan tim. Bonus +8 ATK akhir';",
-            "reward": 130
-          },
-          {
-            "condition": "room.players.some(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Wire Cutters'))",
-            "effect": "const userWithCutters = room.players.find(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Wire Cutters')); db.get_user(userWithCutters).heistinven=db.get_user(userWithCutters).heistinven.filter(i=>i.name!=='Wire Cutters'); room.heist.atkBonus = (room.heist.atkBonus || 0) + 5; 'Wire Cutters memutus kabel alarm. Bonus +5 ATK akhir';",
-            "reward": 100
-          },
-          {
-            "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 10); 'Alarm berbunyi, keamanan meningkat. Semua kehilangan 10 HP';",
-            "reward": 0
-          }
-        ]
-      },
-      {
-        "name": "Complex Layout",
-        "description": "Tata letak bangunan sangat membingungkan.",
-        "resolutions": [
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Mastermind')",
-            "effect": "room.heist.atkBonus = (room.heist.atkBonus || 0) + 15; 'Mastermind merencanakan rute yang efisien. Bonus +15 ATK akhir';",
-            "reward": 180
-          },
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Scout')",
-            "effect": "room.heist.atkBonus = (room.heist.atkBonus || 0) + 10; 'Scout menemukan jalur pintas. Bonus +10 ATK akhir';",
-            "reward": 150
-          },
-          {
-            "condition": "room.players.some(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Thermal Scanner'))",
-            "effect": "room.heist.atkBonus = (room.heist.atkBonus || 0) + 8; 'Thermal Scanner membantu navigasi. Bonus +8 ATK akhir';",
-            "reward": 120
-          },
-          {
-            "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 5); 'Tim tersesat sebentar, kehilangan 5 HP masing-masing';",
-            "reward": 0
-          }
-        ]
-      },
-      {
-        "name": "Laser Grid",
-        "description": "Jaringan laser menghalangi akses ke target.",
-        "resolutions": [
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Infiltrator')",
-            "effect": "'Infiltrator meliuk melewati laser dengan gesit';",
-            "reward": 200
-          },
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Engineer')",
-            "effect": "room.heist.atkBonus = (room.heist.atkBonus || 0) + 5; 'Engineer menonaktifkan laser sementara. Bonus +5 ATK akhir';",
-            "reward": 150
-          },
-          {
-            "condition": "room.players.some(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Laser Deflector'))",
-            "effect": "const userWithDeflector = room.players.find(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Laser Deflector')); db.get_user(userWithDeflector).heistinven=db.get_user(userWithDeflector).heistinven.filter(i=>i.name!=='Laser Deflector'); 'Laser Deflector menetralkan laser';",
-            "reward": 130
-          },
-          {
-            "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 15); 'Tim terdeteksi laser, kehilangan 15 HP masing-masing';",
-            "reward": 0
-          }
-        ]
-      },
-      {
-        "name": "Vault Mechanism",
-        "description": "Brankas dilindungi mekanisme rumit.",
-        "resolutions": [
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Engineer')",
-            "effect": "'Engineer membongkar mekanisme dengan presisi';",
-            "reward": 180
-          },
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Hacker' && (db.get_user(p).heistinven||[]).some(i => i.name==='Hacking Drone'))",
-            "effect": "const userWithDrone = room.players.find(p => room.roles[p] === 'Hacker' && (db.get_user(p).heistinven||[]).some(i => i.name==='Hacking Drone')); db.get_user(userWithDrone).heistinven=db.get_user(userWithDrone).heistinven.filter(i=>i.name!=='Hacking Drone'); 'Hacking Drone membobol brankas';",
-            "reward": 150
-          },
-          {
-            "condition": "room.players.some(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Stethoscope'))",
-            "effect": "const success = Math.random() < 0.8; const userWithStethoscope = room.players.find(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Stethoscope')); if (success) { db.get_user(userWithStethoscope).heistinven=db.get_user(userWithStethoscope).heistinven.filter(i=>i.name!=='Stethoscope'); 'Stethoscope membantu membuka brankas'; } else { room.players.forEach(p => room.heist.health[p] -= 10); 'Gagal membuka, tim kehilangan 10 HP'; }",
-            "reward": 120
-          },
-          {
-            "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 12); 'Tim gagal membuka brankas, memicu alarm kecil. Semua kehilangan 12 HP';",
-            "reward": 0
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Executing Heist",
-    "events": [
-      {
-        "name": "Guard Confrontation",
-        "description": "Sekelompok penjaga bersenjata menghadang!",
-        "resolutions": [
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Sniper')",
-            "effect": "room.heist.atkBonus = (room.heist.atkBonus || 0) + 20; 'Sniper menetralkan penjaga dari jarak jauh. Bonus +20 ATK akhir';",
-            "reward": 250
-          },
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Negotiator')",
-            "effect": "'Negotiator menenangkan situasi, tim lolos tanpa pertarungan';",
-            "reward": 200
-          },
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Enforcer')",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 5); 'Enforcer memimpin pertarungan, mengurangi kerusakan. Semua kehilangan 5 HP';",
-            "reward": 180
-          },
-          {
-            "condition": "room.players.some(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Silenced Pistol'))",
-            "effect": "const userWithPistol = room.players.find(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Silenced Pistol')); db.get_user(userWithPistol).heistinven=db.get_user(userWithPistol).heistinven.filter(i=>i.name!=='Silenced Pistol'); room.heist.atkBonus = (room.heist.atkBonus || 0) + 10; 'Silenced Pistol digunakan untuk menetralkan penjaga secara diam-diam. Bonus +10 ATK akhir';",
-            "reward": 150
-          },
-          {
-            "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 15); 'Tim bertarung sengit, kehilangan 15 HP masing-masing';",
-            "reward": 0
-          }
-        ]
-      },
-      {
-        "name": "Trap Detection",
-        "description": "Area ini dipenuhi jebakan tersembunyi.",
-        "resolutions": [
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Scout')",
-            "effect": "'Scout mendeteksi dan menonaktifkan jebakan dengan cermat';",
-            "reward": 200
-          },
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Engineer')",
-            "effect": "'Engineer menonaktifkan jebakan dengan alat khusus';",
-            "reward": 180
-          },
-          {
-            "condition": "room.players.some(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Thermal Scanner'))",
-            "effect": "'Thermal Scanner mengungkap jebakan, tim menghindarinya';",
-            "reward": 150
-          },
-          {
-            "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 20); 'Tim terkena jebakan, kehilangan 20 HP masing-masing';",
-            "reward": 0
-          }
-        ]
-      },
-      {
-        "name": "Heavy Resistance",
-        "description": "Pasukan keamanan elit menghadang tim.",
-        "resolutions": [
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Sniper')",
-            "effect": "room.heist.atkBonus = (room.heist.atkBonus || 0) + 15; 'Sniper mengambil posisi, melemahkan musuh. Bonus +15 ATK akhir';",
+            "condition": "room.players.some(p => room.roles[p] === 'Driver') && room.players.some(p => (db.get_user(p).heistinven || []).some(i => i.name === 'Getaway Car'))",
+            "effect": "const userWithCar = room.players.find(p => (db.get_user(p).heistinven || []).some(i => i.name === 'Getaway Car'));\ndb.get_user(userWithCar).heistinven = db.get_user(userWithCar).heistinven.filter(i => i.name !== 'Getaway Car');\nroom.players.forEach(p => { room.heist.health[p] -= 50; room.heist.atk[p] = (room.heist.atk[p] || 100) - 20; });\n'Driver menggunakan Getaway Car untuk meretas jalur, sehingga dampak serangan konvoi menjadi lebih ringan.'",
             "reward": 220
           },
           {
-            "condition": "room.players.some(p => room.roles[p] === 'Enforcer')",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 8); 'Enforcer menahan serangan, mengurangi kerusakan. Semua kehilangan 8 HP';",
-            "reward": 200
-          },
-          {
-            "condition": "room.players.some(p => (db.get_user(p).heistinven||[]).some(i => i.name==='RPG'))",
-            "effect": "const userWithRPG = room.players.find(p => (db.get_user(p).heistinven||[]).some(i => i.name==='RPG')); db.get_user(userWithRPG).heistinven=db.get_user(userWithRPG).heistinven.filter(i=>i.name!=='RPG'); room.heist.atkBonus = (room.heist.atkBonus || 0) + 10; 'RPG menghancurkan barikade musuh. Bonus +10 ATK akhir';",
-            "reward": 180
-          },
-          {
             "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 25); 'Tim kewalahan, kehilangan 25 HP masing-masing';",
+            "effect": "room.players.forEach(p => { room.heist.health[p] -= 80; room.heist.atk[p] = (room.heist.atk[p] || 100) - 35; });\n'Konvoi lapis baja menggempur tanpa ampun, mengakibatkan kerusakan besar pada seluruh tim.'",
             "reward": 0
           }
         ]
       },
       {
-        "name": "Critical Injury",
-        "description": "Pertarungan sengit menyebabkan luka serius pada tim.",
+        "name": "Helicopter Overwatch Strike",
+        "description": "Helikopter militer melakukan serangan udara dengan presisi mematikan, menyapu area heist dengan tembakan beruntun dan artileri dari udara.",
         "resolutions": [
           {
-            "condition": "room.players.some(p => room.roles[p] === 'Medic')",
-            "effect": "room.players.forEach(p => room.heist.health[p] += 10); 'Medic menangani luka, semua pulih 10 HP';",
-            "reward": 200
-          },
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Enforcer')",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 5); 'Enforcer melindungi tim, mengurangi kerusakan. Semua kehilangan 5 HP';",
+            "condition": "room.players.some(p => room.roles[p] === 'Medic') && room.players.some(p => (db.get_user(p).heistinven || []).some(i => i.name === 'Medkit'))",
+            "effect": "const userWithMedkit = room.players.find(p => (db.get_user(p).heistinven || []).some(i => i.name === 'Medkit'));\ndb.get_user(userWithMedkit).heistinven = db.get_user(userWithMedkit).heistinven.filter(i => i.name !== 'Medkit');\nroom.players.forEach(p => { room.heist.health[p] -= 40; room.heist.atk[p] = (room.heist.atk[p] || 100) - 15; });\n'Medic dengan sigap menggunakan Medkit untuk memberikan perlindungan darurat, mengurangi dampak serangan helikopter menjadi lebih terkontrol.'",
             "reward": 180
           },
           {
-            "condition": "room.players.some(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Adrenaline Shot'))",
-            "effect": "const userWithShot = room.players.find(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Adrenaline Shot')); db.get_user(userWithShot).heistinven=db.get_user(userWithShot).heistinven.filter(i=>i.name!=='Adrenaline Shot'); room.players.forEach(p => room.heist.health[p] += 5); 'Adrenaline Shot meningkatkan stamina, semua pulih 5 HP';",
-            "reward": 150
+            "condition": "true",
+            "effect": "room.players.forEach(p => { room.heist.health[p] -= 70; room.heist.atk[p] = (room.heist.atk[p] || 100) - 30; });\n'Tidak adanya respon darurat membuat serangan helikopter menimpa seluruh tim secara brutal.'",
+            "reward": 0
+          }
+        ]
+      },
+      {
+        "name": "Bomb Disposal Siege",
+        "description": "Unit pengeboman elit mengepung lokasi dengan kombinasi robot dan taktik peledak, menciptakan medan perang yang kacau dan sulit diatasi.",
+        "resolutions": [
+          {
+            "condition": "room.players.some(p => room.roles[p] === 'Engineer') && room.players.some(p => (db.get_user(p).heistinven || []).some(i => i.name === 'Jamming Device'))",
+            "effect": "const userWithJamming = room.players.find(p => (db.get_user(p).heistinven || []).some(i => i.name === 'Jamming Device'));\ndb.get_user(userWithJamming).heistinven = db.get_user(userWithJamming).heistinven.filter(i => i.name !== 'Jamming Device');\nroom.players.forEach(p => { room.heist.health[p] -= 45; room.heist.atk[p] = (room.heist.atk[p] || 100) - 15; });\n'Engineer mengaktifkan Jamming Device untuk mengacaukan komunikasi musuh, sehingga kerusakan menjadi lebih terkontrol.'",
+            "reward": 200
+          },
+          {
+            "condition": "room.players.some(p => room.roles[p] === 'Engineer') && room.players.some(p => (db.get_user(p).heistinven || []).some(i => i.name === 'Laser Deflector'))",
+            "effect": "const userWithLaser = room.players.find(p => (db.get_user(p).heistinven || []).some(i => i.name === 'Laser Deflector'));\ndb.get_user(userWithLaser).heistinven = db.get_user(userWithLaser).heistinven.filter(i => i.name !== 'Laser Deflector');\nroom.players.forEach(p => { room.heist.health[p] -= 50; room.heist.atk[p] = (room.heist.atk[p] || 100) - 20; });\n'Engineer menggunakan Laser Deflector untuk mengalihkan sebagian serangan musuh, mengurangi sedikit kerusakan.'",
+            "reward": 170
           },
           {
             "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 15); 'Tanpa perawatan, tim kehilangan 15 HP masing-masing';",
+            "effect": "room.players.forEach(p => { room.heist.health[p] -= 75; room.heist.atk[p] = (room.heist.atk[p] || 100) - 35; });\n'Pengepungan oleh unit Bomb Disposal mengakibatkan serangan gabungan yang menghancurkan, membuat tim mengalami kerusakan parah.'",
             "reward": 0
           }
         ]
@@ -363,144 +137,52 @@
     ]
   },
   {
-    "name": "Escape",
+    "name": "Teror Elite: Invasi Kegelapan",
     "events": [
       {
-        "name": "SWAT Arrival",
-        "description": "Tim SWAT mengepung lokasi!",
+        "name": "Phantom Reaper Squad",
+        "description": "Dalam keheningan malam, muncul segerombolan unit Phantom Reaper yang menyerang tanpa peringatan. Gerakan mereka secepat bayangan, menerkam dari kegelapan, sehingga setiap detik menjadi mencekam dan menakutkan.",
         "resolutions": [
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Driver')",
-            "effect": "'Driver mengemudikan tim keluar dari kepungan dengan kecepatan tinggi';",
-            "reward": 200
-          },
           {
             "condition": "room.players.some(p => room.roles[p] === 'Scout')",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 10); 'Scout memandu tim lewat pintu rahasia. Semua kehilangan 10 HP';",
-            "reward": 150
-          },
-          {
-            "condition": "room.players.some(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Smoke Grenade'))",
-            "effect": "const userWithSmoke = room.players.find(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Smoke Grenade')); db.get_user(userWithSmoke).heistinven=db.get_user(userWithSmoke).heistinven.filter(i=>i.name!=='Smoke Grenade'); room.players.forEach(p => room.heist.health[p] -= 15); 'Seseorang melempar Smoke Grenade untuk kabur. Semua kehilangan 15 HP';",
-            "reward": 100
-          },
-          {
-            "condition": "room.players.some(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Getaway Car'))",
-            "effect": "const userWithCar = room.players.find(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Getaway Car')); db.get_user(userWithCar).heistinven=db.get_user(userWithCar).heistinven.filter(i=>i.name!=='Getaway Car'); 'Getaway Car mempercepat pelarian tim tanpa jejak';",
-            "reward": 180
+            "effect": "room.players.forEach(p => { room.heist.health[p] -= 70; room.heist.atk[p] = (room.heist.atk[p] || 100) - 30; }); 'Kepekaan seorang Scout memungkinkan tim mendeteksi bayangan sejak dini, sehingga mengurangi dampak serangan meski tetap menorehkan luka signifikan.'",
+            "reward": 220
           },
           {
             "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 20); 'Tim kewalahan oleh SWAT. Semua kehilangan 20 HP';",
+            "effect": "room.players.forEach(p => { room.heist.health[p] -= 90; room.heist.atk[p] = (room.heist.atk[p] || 100) - 40; }); 'Tanpa peringatan, serangan mendadak Phantom Reaper mengguncang seluruh tim dengan kerusakan yang parah.'",
             "reward": 0
           }
         ]
       },
       {
-        "name": "Roadblock",
-        "description": "Polisi memasang barikade besar di jalur pelarian.",
+        "name": "Dreadnought Overrun",
+        "description": "Menghantui medan pertempuran, Dreadnought adalah mesin perang raksasa dengan persenjataan lengkap yang menindas segala pertahanan. Kehadirannya menghadirkan tekanan luar biasa dan ketakutan mutlak.",
         "resolutions": [
           {
-            "condition": "room.players.some(p => room.roles[p] === 'Demolitionist')",
-            "effect": "'Demolitionist menghancurkan barikade dengan ledakan terkontrol';",
-            "reward": 180
-          },
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Driver')",
-            "effect": "'Driver melaju melewati barikade dengan manuver berani';",
-            "reward": 170
-          },
-          {
-            "condition": "room.players.some(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Explosives'))",
-            "effect": "const userWithExplosives = room.players.find(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Explosives')); db.get_user(userWithExplosives).heistinven=db.get_user(userWithExplosives).heistinven.filter(i=>i.name!=='Explosives'); 'Explosives meledakkan barikade';",
-            "reward": 150
+            "condition": "room.players.some(p => room.roles[p] === 'Mastermind')",
+            "effect": "room.players.forEach(p => { room.heist.health[p] -= 65; room.heist.atk[p] = (room.heist.atk[p] || 100) - 25; }); 'Dengan kepiawaian seorang Mastermind, strategi evakuasi darurat tersusun rapi, mengurangi dampak brutal Dreadnought.'",
+            "reward": 230
           },
           {
             "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 15); 'Tim mencari jalur lain, kehilangan 15 HP masing-masing';",
+            "effect": "room.players.forEach(p => { room.heist.health[p] -= 95; room.heist.atk[p] = (room.heist.atk[p] || 100) - 45; }); 'Tanpa strategi khusus, serangan Dreadnought menghancurkan pertahanan tim, meninggalkan luka dan kerusakan yang menghantui.'",
             "reward": 0
           }
         ]
       },
       {
-        "name": "Pursuit",
-        "description": "Mobil polisi mengejar tim di jalan raya.",
+        "name": "Hellfire Suppression Strike",
+        "description": "Langit menjadi medan pertarungan saat drone armed Hellfire turun dengan intensitas mematikan. Tembakan laser dan roket pembakar menerjang, menyapu area dengan kecepatan dan kekejaman yang luar biasa.",
         "resolutions": [
           {
-            "condition": "room.players.some(p => room.roles[p] === 'Driver')",
-            "effect": "'Driver melakukan manuver cerdas, menghilangkan polisi';",
-            "reward": 200
-          },
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Infiltrator')",
-            "effect": "'Infiltrator menemukan rute samping untuk menghindari kejaran';",
-            "reward": 180
-          },
-          {
-            "condition": "room.players.some(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Getaway Car'))",
-            "effect": "const userWithCar = room.players.find(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Getaway Car')); db.get_user(userWithCar).heistinven=db.get_user(userWithCar).heistinven.filter(i=>i.name!=='Getaway Car'); 'Getaway Car melaju kencang, meninggalkan polisi';",
-            "reward": 170
+            "condition": "room.players.some(p => room.roles[p] === 'Hacker') && room.players.some(p => (db.get_user(p).heistinven || []).some(i => i.name === 'Laptop'))",
+            "effect": "const userWithLaptop = room.players.find(p => (db.get_user(p).heistinven || []).some(i => i.name === 'Laptop'));\ndb.get_user(userWithLaptop).heistinven = db.get_user(userWithLaptop).heistinven.filter(i => i.name !== 'Laptop');\nroom.players.forEach(p => { room.heist.health[p] -= 55; room.heist.atk[p] = (room.heist.atk[p] || 100) - 20; });\n'Hacker dengan Laptop berhasil mengintervensi sistem kontrol drone, mengurangi intensitas tembakan dan dampak serangan secara signifikan.'",
+            "reward": 210
           },
           {
             "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 18); 'Kejaran sengit, tim kehilangan 18 HP masing-masing';",
-            "reward": 0
-          }
-        ]
-      },
-      {
-        "name": "Mechanical Failure",
-        "description": "Kendaraan tim tiba-tiba bermasalah saat kabur.",
-        "resolutions": [
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Engineer')",
-            "effect": "'Engineer memperbaiki kendaraan dengan cepat';",
-            "reward": 150
-          },
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Driver')",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 5); 'Driver memaksa kendaraan tetap berjalan. Semua kehilangan 5 HP karena tekanan';",
-            "reward": 130
-          },
-          {
-            "condition": "room.players.some(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Wire Cutters'))",
-            "effect": "const userWithCutters = room.players.find(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Wire Cutters')); db.get_user(userWithCutters).heistinven=db.get_user(userWithCutters).heistinven.filter(i=>i.name!=='Wire Cutters'); 'Wire Cutters digunakan untuk perbaikan darurat';",
-            "reward": 120
-          },
-          {
-            "condition": "true",
-            "effect": "room.players.forEach(p => room.heist.health[p] -= 12); 'Tim terpaksa berjalan, kehilangan 12 HP masing-masing';",
-            "reward": 0
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Sabotage Encounter",
-    "events": [
-      {
-        "name": "EMP Pulse Attack",
-        "description": "Gelombang EMP kuat menyerang, mengacaukannya senjata dan peralatan tim!",
-        "resolutions": [
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Hacker')",
-            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 10); }); 'Hacker meminimalkan efek EMP, tetapi senjata tim melemah. ATK setiap pemain berkurang 10';",
-            "reward": 60
-          },
-          {
-            "condition": "room.players.some(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Jamming Device'))",
-            "effect": "const userWithJammer = room.players.find(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Jamming Device')); db.get_user(userWithJammer).heistinven=db.get_user(userWithJammer).heistinven.filter(i=>i.name!=='Jamming Device'); room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 5); }); 'Jamming Device menyerap EMP, tetapi hancur. ATK setiap pemain berkurang 5';",
-            "reward": 80
-          },
-          {
-            "condition": "room.players.some(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Laptop' || i.name==='Hacking Drone'))",
-            "effect": "const userWithTech = room.players.find(p => (db.get_user(p).heistinven||[]).some(i => i.name==='Laptop' || i.name==='Hacking Drone')); const itemToDestroy = (db.get_user(userWithTech).heistinven||[]).find(i => i.name==='Laptop' || i.name==='Hacking Drone').name; db.get_user(userWithTech).heistinven=db.get_user(userWithTech).heistinven.filter(i=>i.name!==itemToDestroy); room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 15); }); 'EMP menghancurkan perangkat teknologi, melemahkan koordinasi tim. ATK setiap pemain berkurang 15';",
-            "reward": 40
-          },
-          {
-            "condition": "true",
-            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 20); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 10); }); 'EMP menghantam keras, merusak senjata dan stamina tim. ATK setiap pemain berkurang 20, semua kehilangan 10 HP';",
+            "effect": "room.players.forEach(p => { room.heist.health[p] -= 80; room.heist.atk[p] = (room.heist.atk[p] || 100) - 35; });\n'Tanpa intervensi yang tepat, serangan Hellfire memporak-porandakan seluruh pertahanan, menurunkan HP dan ATK secara drastis.'",
             "reward": 0
           }
         ]
