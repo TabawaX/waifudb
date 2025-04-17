@@ -161,7 +161,7 @@
           },
           {
             "condition": "room.players.some(p => (db.get_user(p).heistInven || []).some(i => i.name === 'Blast Suit'))",
-            "effect": "const userWithSuit = room.players.find(p => (db.get_user(p).heistInven || []).some(i => i.name === 'Blast Suit')); db.get_user(userWithSuit).heistInven = (db.get_user(userWithSuit).heistInven || []).filter(i => i.name !== 'Blast Suit'); room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 55); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 60); }); 'Blast Suit melindungi, tapi rusak  'Blast Suit melindungi, tapi rusak: ATK berkurang 55, HP berkurang 60';",
+            "effect": "const userWithSuit = room.players.find(p => (db.get_user(p).heistInven || []).some(i => i.name === 'Blast Suit')); db.get_user(userWithSuit).heistInven = (db.get_user(userWithSuit).heistInven || []).filter(i => i.name !== 'Blast Suit'); room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 55); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 60); }); 'Blast Suit melindungi, tapi rusak: ATK berkurang 55, HP berkurang 60';",
             "reward": 160
           },
           {
