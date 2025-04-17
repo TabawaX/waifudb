@@ -4,293 +4,170 @@
     "description": "Operasi perampokan di Shanhaichu yang penuh risiko dan tantangan luar biasa. Sistem pertahanan canggih menjamin setiap strategi mitigasi yang dicoba tim akan menimbulkan kerugian besar, dengan pengurangan nilai ATK dan HP masing-masing di atas 50.",
     "events": [
       {
-        "name": "Respons Cepat Scout",
-        "description": "Scout dengan insting tajam menemukan celah minor dalam pertahanan, namun dampak sistem yang kuat tetap menghantam tim secara signifikan.",
-        "resolutions": [
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Scout')",
-            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 55); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 60); }); 'Scout berhasil mengantisipasi sebagian jebakan, namun kerugian besar terjadi: ATK -55, HP -60';",
-            "reward": 150
-          }
-        ]
-      },
-      {
-        "name": "Overload Sistem oleh Engineer",
-        "description": "Engineer mencoba memanipulasi sistem pertahanan Shanhaichu untuk meminimalkan dampak, namun usaha tersebut malah memicu gangguan yang lebih merusak.",
+        "name": "Serangan Drone Penjaga",
+        "description": "Drone penjaga Shanhaichu dengan senjata plasma canggih mendeteksi tim dan melancarkan serangan mendadak. Ledakan plasma menghantam peralatan dan tubuh anggota tim, mengurangi kekuatan serangan dan ketahanan fisik secara drastis.",
         "resolutions": [
           {
             "condition": "room.players.some(p => room.roles[p] === 'Engineer')",
-            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 60); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 65); }); 'Engineer mengintervensi sistem, tetapi gangguan balik mengorbankan tim: ATK -60, HP -65';",
+            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 60); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 65); }); 'Engineer mengacaukan sistem drone, tetapi plasma tetap merusak: ATK berkurang 60, HP berkurang 65';",
             "reward": 140
-          }
-        ]
-      },
-      {
-        "name": "Serangan Siber oleh Hacker",
-        "description": "Hacker menyusup ke jaringan pertahanan, mengacaukan sistem dengan serangan siber yang menghancurkan pertahanan tim secara drastis.",
-        "resolutions": [
+          },
           {
-            "condition": "room.players.some(p => room.roles[p] === 'Hacker')",
-            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 70); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 75); }); 'Hacker mengacaukan sistem, namun dampak baliknya menghancurkan: ATK -70, HP -75';",
-            "reward": 155
-          }
-        ]
-      },
-      {
-        "name": "Pengorbanan Perangkat Teknologi",
-        "description": "Salah satu anggota tim mengorbankan perangkat berteknologi tinggi seperti Laptop atau Hacking Drone untuk menyerang sistem, namun kehilangan alat tersebut berdampak fatal bagi kekuatan tim.",
-        "resolutions": [
-          {
-            "condition": "room.players.some(p => (db.get_user(p).heistinven || []).some(i => i.name === 'Laptop' || i.name === 'Hacking Drone'))",
-            "effect": "const userWithTech = room.players.find(p => (db.get_user(p).heistinven || []).some(i => i.name === 'Laptop' || i.name === 'Hacking Drone')); const techItem = (db.get_user(userWithTech).heistinven || []).find(i => i.name === 'Laptop' || i.name === 'Hacking Drone').name; db.get_user(userWithTech).heistinven = (db.get_user(userWithTech).heistinven || []).filter(i => i.name !== techItem); room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 65); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 70); }); 'Perangkat ' + techItem + ' dikorbankan untuk menyerang sistem, namun dampaknya sangat fatal: ATK -65, HP -70';",
+            "condition": "room.players.some(p => (db.get_user(p).heistInven || []).some(i => i.name === 'EMP Grenade'))",
+            "effect": "const userWithEMP = room.players.find(p => (db.get_user(p).heistInven || []).some(i => i.name === 'EMP Grenade')); db.get_user(userWithEMP).heistInven = (db.get_user(userWithEMP).heistInven || []).filter(i => i.name !== 'EMP Grenade'); room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 55); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 60); }); 'EMP Grenade melumpuhkan drone, tapi ledakan EMP merusak peralatan: ATK berkurang 55, HP berkurang 60';",
             "reward": 150
-          }
-        ]
-      },
-      {
-        "name": "Rencana Cerdik Mastermind",
-        "description": "Mastermind menyusun strategi kompleks untuk mengecoh pertahanan musuh, namun setiap langkah membawa risiko kerugian besar.",
-        "resolutions": [
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Mastermind')",
-            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 75); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 80); }); 'Strategi Mastermind mengurangi dampak serangan, namun tidak cukup untuk menghindari kerugian besar: ATK -75, HP -80';",
-            "reward": 160
-          }
-        ]
-      },
-      {
-        "name": "Ledakan Menghancurkan oleh Demolitionist",
-        "description": "Demolitionist memicu ledakan dahsyat untuk membuka jalan, tetapi getarannya menghancurkan pertahanan internal tim.",
-        "resolutions": [
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Demolitionist')",
-            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 80); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 85); }); 'Ledakan yang dipicu oleh Demolitionist menciptakan celah, namun menghancurkan semangat perlawanan: ATK -80, HP -85';",
-            "reward": 165
-          }
-        ]
-      },
-      {
-        "name": "Pertolongan Terbatas oleh Medic",
-        "description": "Medic berusaha menahan laju kerusakan dengan upaya penyelamatan, namun kondisi misi yang ekstrem membuat pertolongan hanya bersifat minimal.",
-        "resolutions": [
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Medic')",
-            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 60); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 70); }); 'Medic mencoba meredam kerusakan, namun keterbatasan situasi membuat dampaknya tidak cukup: ATK -60, HP -70';",
-            "reward": 155
-          }
-        ]
-      },
-      {
-        "name": "Kegagalan Mutlak",
-        "description": "Tanpa adanya strategi mitigasi yang efektif, sistem pertahanan Shanhaichu melumpuhkan tim secara brutal tanpa ampun.",
-        "resolutions": [
+          },
           {
             "condition": "true",
-            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 90); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 95); }); 'Tanpa intervensi yang tepat, tim dihantam secara brutal oleh sistem: ATK -90, HP -95';",
+            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 80); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 85); }); 'Tanpa perlindungan, drone menghancurkan tim: ATK berkurang 80, HP berkurang 85';",
             "reward": 0
           }
         ]
-      }
-    ]
-  },
-  {
-    "name": "Serangan Mendadak dari Gang Shanhaichu",
-    "description": "Tiba-tiba, sekelompok gang Shanhaichu menyerang tanpa peringatan! Setiap serangan memberikan kerusakan signifikan (minimal di atas 50 HP) dan kehadiran peran khusus pada tim dapat mempengaruhi dampak serangan.",
-    "events": [
-      {
-        "name": "Hujan Peluru",
-        "description": "Para penyerang melepaskan hujan peluru secara acak. Jika ada Enforcer, mereka dapat menahan sebagian serangan.",
-        "resolutions": [
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Enforcer')",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 55); }); 'Enforcer berhasil menahan sebagian hujan peluru: HP berkurang 55';",
-            "reward": 100
-          },
-          {
-            "condition": "room.players.length > 0",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 65); }); 'Hujan peluru menghantam dengan kekuatan penuh: HP berkurang 65';",
-            "reward": 110
-          }
-        ]
       },
       {
-        "name": "Serangan dari Balik Bayang",
-        "description": "Penyerang muncul tiba-tiba dari kegelapan. Kehadiran Scout memungkinkan tim waspada dan mengurangi dampak serangan.",
-        "resolutions": [
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Scout')",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 60); }); 'Scout mendeteksi serangan dan mengurangi dampaknya: HP berkurang 60';",
-            "reward": 110
-          },
-          {
-            "condition": "room.players.length > 0",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 70); }); 'Serangan dari balik bayang menghantam tanpa peringatan: HP berkurang 70';",
-            "reward": 100
-          }
-        ]
-      },
-      {
-        "name": "Ledakan Api",
-        "description": "Granat api meledak di area. Kehadiran Engineer atau Demolitionist dapat membantu mengantisipasi ledakan tersebut.",
-        "resolutions": [
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Engineer')",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 75); }); 'Engineer mengatur posisi untuk mengurangi dampak ledakan: HP berkurang 75';",
-            "reward": 120
-          },
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Demolitionist')",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 75); }); 'Demolitionist mengantisipasi ledakan: HP berkurang 75';",
-            "reward": 120
-          },
-          {
-            "condition": "room.players.length > 0",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 85); }); 'Ledakan api merusak pertahanan: HP berkurang 85';",
-            "reward": 130
-          }
-        ]
-      },
-      {
-        "name": "Serangan Chopper",
-        "description": "Helikopter tempur menyerang dengan senjata berat. Kehadiran Driver dapat membantu tim mengantisipasi serangan udara tersebut.",
-        "resolutions": [
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Driver')",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 80); }); 'Driver mengantisipasi serangan chopper: HP berkurang 80';",
-            "reward": 130
-          },
-          {
-            "condition": "room.players.length > 0",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 90); }); 'Serangan chopper menghantam seluruh tim: HP berkurang 90';",
-            "reward": 150
-          }
-        ]
-      },
-      {
-        "name": "Serangan Cyber",
-        "description": "Unit siber menyerang sistem pertahanan. Kehadiran Hacker memungkinkan tim mengurangi dampak serangan digital tersebut.",
+        "name": "Jebakan Laser Mematikan",
+        "description": "Jebakan laser Shanhaichu aktif, memancarkan sinar mematikan yang memotong peralatan dan melukai anggota tim. Kekuatan serangan dan kesehatan tim terancam jika tidak ada cara untuk menonaktifkan atau melindungi diri.",
         "resolutions": [
           {
             "condition": "room.players.some(p => room.roles[p] === 'Hacker')",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 65); }); 'Hacker menangkis serangan siber: HP berkurang 65';",
-            "reward": 125
+            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 65); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 70); }); 'Hacker meretas kontrol laser, tapi serangan balik merusak: ATK berkurang 65, HP berkurang 70';",
+            "reward": 145
           },
           {
-            "condition": "room.players.length > 0",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 75); }); 'Serangan cyber mengganggu sistem: HP berkurang 75';",
-            "reward": 135
-          }
-        ]
-      },
-      {
-        "name": "Serangan Menduduki",
-        "description": "Musuh mengepung dan menduduki posisi. Kehadiran Negotiator memungkinkan tim menunda agresi musuh.",
-        "resolutions": [
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Negotiator')",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 90); }); 'Negotiator berhasil menunda serangan: HP berkurang 90';",
-            "reward": 140
-          },
-          {
-            "condition": "room.players.length > 0",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 100); }); 'Serangan menduduki berlangsung brutal: HP berkurang 100';",
-            "reward": 150
-          }
-        ]
-      },
-      {
-        "name": "Serangan Mengadu Daya",
-        "description": "Musuh melancarkan serangan gabungan. Kehadiran Mastermind memungkinkan penyusunan strategi meski serangan tetap kuat.",
-        "resolutions": [
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Mastermind')",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 100); }); 'Mastermind menyusun strategi, namun serangan tetap mengenai: HP berkurang 100';",
-            "reward": 150
-          },
-          {
-            "condition": "room.players.length > 0",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 110); }); 'Serangan gabungan menggerogoti pertahanan: HP berkurang 110';",
+            "condition": "room.players.some(p => (db.get_user(p).heistInven || []).some(i => i.name === 'Reflective Shield'))",
+            "effect": "const userWithShield = room.players.find(p => (db.get_user(p).heistInven || []).some(i => i.name === 'Reflective Shield')); db.get_user(userWithShield).heistInven = (db.get_user(userWithShield).heistInven || []).filter(i => i.name !== 'Reflective Shield'); room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 50); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 55); }); 'Reflective Shield memantulkan laser, tapi rusak: ATK berkurang 50, HP berkurang 55';",
             "reward": 160
+          },
+          {
+            "condition": "true",
+            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 90); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 95); }); 'Laser menghantam tim tanpa ampun: ATK berkurang 90, HP berkurang 95';",
+            "reward": 0
           }
         ]
       },
       {
-        "name": "Hujan Gas Beracun",
-        "description": "Gas beracun dilemparkan ke area. Kehadiran Medic dapat membantu mengurangi racun tersebut, meskipun kerusakan tetap signifikan.",
+        "name": "Gas Beracun di Ruang Tertutup",
+        "description": "Gas beracun dilepaskan ke ruangan, merusak peralatan tempur dan melemahkan fisik anggota tim. Tanpa penanganan cepat, kekuatan dan ketahanan tim akan hancur.",
         "resolutions": [
           {
             "condition": "room.players.some(p => room.roles[p] === 'Medic')",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 85); }); 'Medic berupaya mengurangi racun, namun kerusakan terjadi: HP berkurang 85';",
-            "reward": 135
-          },
-          {
-            "condition": "room.players.length > 0",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 95); }); 'Gas beracun menyelimuti area: HP berkurang 95';",
-            "reward": 145
-          }
-        ]
-      },
-      {
-        "name": "Kegelapan Menyelubungi",
-        "description": "Area tiba-tiba diliputi kegelapan, memberi celah bagi musuh untuk menyerang. Seorang Infiltrator dapat mengenali celah tersebut.",
-        "resolutions": [
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Infiltrator')",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 75); }); 'Infiltrator mengantisipasi kegelapan: HP berkurang 75';",
-            "reward": 120
-          },
-          {
-            "condition": "room.players.length > 0",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 85); }); 'Kegelapan melanda dan merusak pertahanan: HP berkurang 85';",
-            "reward": 130
-          }
-        ]
-      },
-      {
-        "name": "Serangan Penembak Jitu",
-        "description": "Penembak jitu musuh menargetkan celah pertahanan. Kehadiran Sniper memungkinkan tim memprediksi serangan dan mengurangi kerusakan.",
-        "resolutions": [
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Sniper')",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 80); }); 'Sniper memperkirakan serangan dan mengurangi dampak: HP berkurang 80';",
-            "reward": 140
-          },
-          {
-            "condition": "room.players.length > 0",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 90); }); 'Serangan penembak jitu menghantam dengan keras: HP berkurang 90';",
-            "reward": 150
-          }
-        ]
-      },
-      {
-        "name": "Serangan Heavy",
-        "description": "Unit berat musuh menyerang dengan kekuatan penuh. Jika ada pemain dengan peran Heavy, mereka mungkin bisa menanggung sebagian dampak serangan.",
-        "resolutions": [
-          {
-            "condition": "room.players.some(p => room.roles[p] === 'Heavy')",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 95); }); 'Heavy menghadapi serangan dengan ketangguhan: HP berkurang 95';",
+            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 55); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 60); }); 'Medic memberikan penawar, tapi gas tetap merusak: ATK berkurang 55, HP berkurang 60';",
             "reward": 150
           },
           {
-            "condition": "room.players.length > 0",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 105); }); 'Serangan berat menghantam seluruh tim: HP berkurang 105';",
-            "reward": 160
+            "condition": "room.players.some(p => (db.get_user(p).heistInven || []).some(i => i.name === 'Gas Mask'))",
+            "effect": "const userWithMask = room.players.find(p => (db.get_user(p).heistInven || []).some(i => i.name === 'Gas Mask')); db.get_user(userWithMask).heistInven = (db.get_user(userWithMask).heistInven || []).filter(i => i.name !== 'Gas Mask'); room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 50); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 55); }); 'Gas Mask melindungi, tapi peralatan rusak: ATK berkurang 50, HP berkurang 55';",
+            "reward": 155
+          },
+          {
+            "condition": "true",
+            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 85); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 90); }); 'Gas beracun menghancurkan tim: ATK berkurang 85, HP berkurang 90';",
+            "reward": 0
           }
         ]
       },
       {
-        "name": "Serangan Penghalau",
-        "description": "Musuh menggunakan teknik penghalau untuk menggoyahkan pertahanan. Kehadiran Engineer memungkinkan penyusunan ulang posisi untuk mengurangi dampak serangan.",
+        "name": "Ledakan EMP yang Merusak",
+        "description": "Ledakan EMP dari Shanhaichu melumpuhkan peralatan elektronik tim, merusak senjata dan melemahkan daya tahan anggota tim. Tanpa perlindungan, kemampuan tempur tim akan runtuh.",
         "resolutions": [
           {
             "condition": "room.players.some(p => room.roles[p] === 'Engineer')",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 70); }); 'Engineer menyusun ulang pertahanan: HP berkurang 70';",
-            "reward": 130
+            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 70); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 75); }); 'Engineer melindungi sebagian peralatan, tapi EMP tetap merusak: ATK berkurang 70, HP berkurang 75';",
+            "reward": 145
           },
           {
-            "condition": "room.players.length > 0",
-            "effect": "room.players.forEach(p => { room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 80); }); 'Serangan penghalau mengguncang formasi: HP berkurang 80';",
+            "condition": "room.players.some(p => (db.get_user(p).heistInven || []).some(i => i.name === 'Faraday Cage'))",
+            "effect": "const userWithCage = room.players.find(p => (db.get_user(p).heistInven || []).some(i => i.name === 'Faraday Cage')); db.get_user(userWithCage).heistInven = (db.get_user(userWithCage).heistInven || []).filter(i => i.name !== 'Faraday Cage'); room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 55); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 60); }); 'Faraday Cage menahan EMP, tapi beberapa sistem rusak: ATK berkurang 55, HP berkurang 60';",
+            "reward": 160
+          },
+          {
+            "condition": "true",
+            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 95); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 100); }); 'EMP menghancurkan semua peralatan: ATK berkurang 95, HP berkurang 100';",
+            "reward": 0
+          }
+        ]
+      },
+      {
+        "name": "Kegagalan Sistem Ventilasi",
+        "description": "Ventilasi Shanhaichu mati, meningkatkan suhu ruangan hingga ekstrem. Panas merusak peralatan dan melemahkan stamina tim, mengurangi kekuatan dan ketahanan secara signifikan.",
+        "resolutions": [
+          {
+            "condition": "room.players.some(p => room.roles[p] === 'Engineer')",
+            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 55); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 60); }); 'Engineer memperbaiki ventilasi, tapi panas tetap merusak: ATK berkurang 55, HP berkurang 60';",
             "reward": 140
+          },
+          {
+            "condition": "room.players.some(p => (db.get_user(p).heistInven || []).some(i => i.name === 'Cooling Suit'))",
+            "effect": "const userWithSuit = room.players.find(p => (db.get_user(p).heistInven || []).some(i => i.name === 'Cooling Suit')); db.get_user(userWithSuit).heistInven = (db.get_user(userWithSuit).heistInven || []).filter(i => i.name !== 'Cooling Suit'); room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 50); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 55); }); 'Cooling Suit melindungi, tapi rusak: ATK berkurang 50, HP berkurang 55';",
+            "reward": 150
+          },
+          {
+            "condition": "true",
+            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 80); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 85); }); 'Panas ekstrem menghancurkan tim: ATK berkurang 80, HP berkurang 85';",
+            "reward": 0
+          }
+        ]
+      },
+      {
+        "name": "Serangan Malware pada Peralatan",
+        "description": "Malware dari Shanhaichu menginfeksi peralatan tim, merusak senjata elektronik dan melemahkan ketahanan fisik akibat kebingungan. Tanpa perlindungan, kemampuan tempur tim akan lumpuh.",
+        "resolutions": [
+          {
+            "condition": "room.players.some(p => room.roles[p] === 'Hacker')",
+            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 60); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 65); }); 'Hacker membersihkan malware, tapi kerusakan tetap ada: ATK berkurang 60, HP berkurang 65';",
+            "reward": 145
+          },
+          {
+            "condition": "room.players.some(p => (db.get_user(p).heistInven || []).some(i => i.name === 'Antivirus Device'))",
+            "effect": "const userWithDevice = room.players.find(p => (db.get_user(p).heistInven || []).some(i => i.name === 'Antivirus Device')); db.get_user(userWithDevice).heistInven = (db.get_user(userWithDevice).heistInven || []).filter(i => i.name !== 'Antivirus Device'); room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 55); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 60); }); 'Antivirus Device menghentikan malware, tapi rusak: ATK berkurang 55, HP berkurang 60';",
+            "reward": 155
+          },
+          {
+            "condition": "true",
+            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 90); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 95); }); 'Malware menghancurkan semua peralatan: ATK berkurang 90, HP berkurang 95';",
+            "reward": 0
+          }
+        ]
+      },
+      {
+        "name": "Serangan Siber pada Komunikasi",
+        "description": "Serangan siber mengganggu komunikasi tim, merusak koordinasi dan melemahkan kemampuan tempur serta ketahanan akibat kebingungan.",
+        "resolutions": [
+          {
+            "condition": "room.players.some(p => room.roles[p] === 'Hacker')",
+            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 60); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 65); }); 'Hacker memulihkan komunikasi, tapi gangguan tersisa: ATK berkurang 60, HP berkurang 65';",
+            "reward": 145
+          },
+          {
+            "condition": "room.players.some(p => (db.get_user(p).heistInven || []).some(i => i.name === 'Secure Comms Device'))",
+            "effect": "const userWithDevice = room.players.find(p => (db.get_user(p).heistInven || []).some(i => i.name === 'Secure Comms Device')); db.get_user(userWithDevice).heistInven = (db.get_user(userWithDevice).heistInven || []).filter(i => i.name !== 'Secure Comms Device'); room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 55); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 60); }); 'Secure Comms Device menjaga komunikasi, tapi rusak: ATK berkurang 55, HP berkurang 60';",
+            "reward": 155
+          },
+          {
+            "condition": "true",
+            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 85); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 90); }); 'Komunikasi hancur, tim kacau: ATK berkurang 85, HP berkurang 90';",
+            "reward": 0
+          }
+        ]
+      },
+      {
+        "name": "Ledakan Granat Plasma",
+        "description": "Granat plasma meledak di dekat tim, merusak senjata dan menyebabkan luka bakar parah yang mengurangi kekuatan serta ketahanan fisik secara drastis.",
+        "resolutions": [
+          {
+            "condition": "room.players.some(p => room.roles[p] === 'Demolitionist')",
+            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 65); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 70); }); 'Demolitionist menetralkan granat, tapi ledakan tetap merusak: ATK berkurang 65, HP berkurang 70';",
+            "reward": 150
+          },
+          {
+            "condition": "room.players.some(p => (db.get_user(p).heistInven || []).some(i => i.name === 'Blast Suit'))",
+            "effect": "const userWithSuit = room.players.find(p => (db.get_user(p).heistInven || []).some(i => i.name === 'Blast Suit')); db.get_user(userWithSuit).heistInven = (db.get_user(userWithSuit).heistInven || []).filter(i => i.name !== 'Blast Suit'); room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 55); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 60); }); 'Blast Suit melindungi, tapi rusak  'Blast Suit melindungi, tapi rusak: ATK berkurang 55, HP berkurang 60';",
+            "reward": 160
+          },
+          {
+            "condition": "true",
+            "effect": "room.players.forEach(p => { room.heist.attack[p] = Math.max(0, (room.heist.attack[p] || 0) - 90); room.heist.health[p] = Math.max(0, (room.heist.health[p] || 0) - 95); }); 'Ledakan plasma menghancurkan tim: ATK berkurang 90, HP berkurang 95';",
+            "reward": 0
           }
         ]
       }
