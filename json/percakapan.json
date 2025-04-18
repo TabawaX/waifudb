@@ -486,5 +486,291 @@
         "response": "Ngobrol santai? Itu bakal jadi waktu spesial kita buat saling berbagi cerita."
       }
     ]
+  },
+  {
+    "id": "q30",
+    "question": "Kalau aku tiba-tiba bilang aku nggak yakin kita cocok lagi, kamu bakal ngapain?",
+    "options": [
+      {
+        "text": "Duduk bareng aku, kita obrolin apa yang bikin kamu ragu.",
+        "mood": 6,
+        "response": "Wah, kamu bener-bener perhatian. Aku cuma lagi bingung, makasih udah mau dengerin."
+      },
+      {
+        "text": "Nanya, 'Apa aku yang salah? Aku bakal berubah kalau kamu mau.'",
+        "mood": 4,
+        "response": "Eh, bukan kamu kok. Aku cuma lagi overthinking, makasih udah peduli."
+      },
+      {
+        "text": "Diam aja, soalnya aku takut bikin situasi makin runyam.",
+        "mood": -2,
+        "response": "Aduh, jangan diam gitu. Aku butuh ngobrol, biar nggak kepikiran sendiri."
+      },
+      {
+        "text": "Bilang, 'Kalau gitu, mungkin kita emang harus pisah.'",
+        "mood": -5,
+        "response": "Apa?! Aku cuma lagi ragu, bukan mau putus. Jangan buru-buru gitu dong!"
+      }
+    ]
+  },
+  {
+    "id": "q31",
+    "question": "Bayangin kita lagi berantem hebat, aku ninggalin rumah semaleman, kamu ngapain?",
+    "options": [
+      {
+        "text": "Aku nyari kamu, telepon sana-sini, pokoknya harus ketemu.",
+        "mood": 6,
+        "response": "Aku tahu kamu bakal panik. Maaf ya, aku cuma butuh cooling down."
+      },
+      {
+        "text": "Aku tunggu di rumah, sambil mikir apa yang salah dari kita.",
+        "mood": 4,
+        "response": "Makasih udah sabar nunggu. Aku juga lagi mikir, besok kita ngobrol ya."
+      },
+      {
+        "text": "Aku marah, ngerasa kamu egois banget kabur gitu.",
+        "mood": -3,
+        "response": "Aku nggak egois, aku cuma butuh ruang. Maaf kalau bikin kamu kesal."
+      },
+      {
+        "text": "Aku cuek, toh kamu pasti balik sendiri.",
+        "mood": -4,
+        "response": "Kok gitu? Aku kan pengen kamu peduli, bukan malah ngerasa ditinggalin."
+      }
+    ]
+  },
+  {
+    "id": "q32",
+    "question": "Kalau aku bilang aku pengen punya anak sekarang, tapi kamu belum siap, apa yang kamu bilang?",
+    "options": [
+      {
+        "text": "Ayo kita rencanain bareng, biar aku juga siap pelan-pelan.",
+        "mood": 6,
+        "response": "Aku seneng banget kamu mau kompromi. Kita pasti bisa atur ini bareng."
+      },
+      {
+        "text": "Aku minta waktu dulu, tapi aku janji kita bakal bahas ini serius.",
+        "mood": 4,
+        "response": "Oke, aku ngerti. Asal kita tetep obrolin, aku sabar kok."
+      },
+      {
+        "text": "Aku bilang aku nggak yakin mau anak selamanya.",
+        "mood": -5,
+        "response": "Serius? Aku kira kita punya mimpi sama. Kita harus ngobrol panjang nih."
+      },
+      {
+        "text": "Aku bingung, aku nggak tahu harus jawab apa.",
+        "mood": -1,
+        "response": "Aku juga bingung, tapi aku harap kamu bisa kasih aku kepastian."
+      }
+    ]
+  },
+  {
+    "id": "q33",
+    "question": "Tiba-tiba aku bilang aku lagi stres berat sama kerjaan, kamu bakal bantu gimana?",
+    "options": [
+      {
+        "text": "Aku dengerin curhatmu, sambil bikin teh hangat buat kamu.",
+        "mood": 6,
+        "response": "Aduh, kamu manis banget. Curhat sama kamu tuh udah bikin lega."
+      },
+      {
+        "text": "Aku kasih saran, mungkin kamu bisa ambil cuti sehari.",
+        "mood": 4,
+        "response": "Ide bagus, aku bakal pikirin. Makasih udah mikirin aku."
+      },
+      {
+        "text": "Aku bilang, 'Sabar ya, nanti juga beres sendiri.'",
+        "mood": -2,
+        "response": "Hmm, aku sih pengen lebih dari cuma disuruh sabar. Aku butuh support."
+      },
+      {
+        "text": "Aku nggak ngomong apa-apa, soalnya aku nggak ngerti kerjaanmu.",
+        "mood": -3,
+        "response": "Aku nggak minta kamu ngerti, cuma pengen kamu ada buat aku."
+      }
+    ]
+  },
+  {
+    "id": "q34",
+    "question": "Kalau kita dikasih kesempatan pindah ke luar negeri bareng, kamu pilih mana?",
+    "options": [
+      {
+        "text": "Aku bilang ayo, ini petualangan baru buat kita!",
+        "mood": 6,
+        "response": "Wah, semangatmu nular! Aku excited banget bayangin kita mulai baru."
+      },
+      {
+        "text": "Aku pikir dulu, soalnya aku khawatir ninggalin keluarga.",
+        "mood": 3,
+        "response": "Aku ngerti, keluarga penting. Kita bisa pikirin bareng solusinya."
+      },
+      {
+        "text": "Aku nggak mau, aku lebih nyaman di sini.",
+        "mood": -4,
+        "response": "Oh, aku kira kita bisa coba sesuatu yang baru. Kita ngobrol lagi ya?"
+      },
+      {
+        "text": "Aku bingung, aku takut nggak bisa adaptasi di sana.",
+        "mood": -1,
+        "response": "Tenang, kita bisa belajar bareng. Aku bakal nemenin kamu."
+      }
+    ]
+  },
+  {
+    "id": "q35",
+    "question": "Bayangin aku ketahuan bohong soal sesuatu yang penting, kamu bakal gimana?",
+    "options": [
+      {
+        "text": "Aku minta penjelasan, tapi aku tetep mau dengerin alasanmu.",
+        "mood": 5,
+        "response": "Makasih udah kasih kesempatan. Aku janji bakal jujur ke depannya."
+      },
+      {
+        "text": "Aku kecewa, tapi aku coba maafin kalau kamu janji nggak ulangin.",
+        "mood": 3,
+        "response": "Aku ngerasa bersalah banget. Makasih udah mau maafin aku."
+      },
+      {
+        "text": "Aku marah, aku ngerasa kepercayaanku hancur.",
+        "mood": -4,
+        "response": "Aku tahu aku salah, tapi aku harap kamu bisa kasih aku kesempatan."
+      },
+      {
+        "text": "Aku diem, soalnya aku nggak tahu harus percaya apa lagi.",
+        "mood": -5,
+        "response": "Jangan gitu, aku takut kehilangan kamu. Ayo kita baikin ini bareng."
+      }
+    ]
+  },
+  {
+    "id": "q36",
+    "question": "Kalau aku tiba-tiba bilang aku pengen nikah tahun ini, kamu bakal bilang apa?",
+    "options": [
+      {
+        "text": "Ayo, kita mulai rencanain dari sekarang!",
+        "mood": 6,
+        "response": "Serius?! Aku nggak nyangka kamu segitu antusias. Aku bahagia banget!"
+      },
+      {
+        "text": "Aku seneng, tapi kita perlu ngobrol soal duit dulu.",
+        "mood": 4,
+        "response": "Realistis banget, tapi oke, ayo kita atur bareng-bareng."
+      },
+      {
+        "text": "Aku kaget, aku pikir kita masih butuh waktu.",
+        "mood": -1,
+        "response": "Oh, aku kira kita udah sepaham. Kita ngobrol lagi ya soal ini."
+      },
+      {
+        "text": "Aku nggak yakin, nikah tuh komitmen besar.",
+        "mood": -4,
+        "response": "Aku ngerti, tapi aku sedih denger gitu. Apa kita nggak punya tujuan sama?"
+      }
+    ]
+  },
+  {
+    "id": "q37",
+    "question": "Kamu nemu aku lagi ngelamun, pas ditanya aku bilang, 'Aku takut kita nggak bahagia nanti,' kamu jawab apa?",
+    "options": [
+      {
+        "text": "Aku bilang, 'Kita bakal bahagia, asal kita bareng-bareng hadapin semua.'",
+        "mood": 6,
+        "response": "Kamu bikin aku yakin lagi. Makasih udah ngasih harapan."
+      },
+      {
+        "text": "Aku tanya, 'Kenapa kamu takut? Ceritain, biar aku bantu.'",
+        "mood": 5,
+        "response": "Aku suka kamu peduli gitu. Aku cuma overthinking, makasih udah denger."
+      },
+      {
+        "text": "Aku bilang, 'Jangan mikir gitu, nikmatin aja hari ini.'",
+        "mood": -2,
+        "response": "Aku tahu, tapi kadang aku butuh ngobrol, bukan cuma disuruh santai."
+      },
+      {
+        "text": "Aku bingung, aku nggak tahu kenapa kamu mikir gitu.",
+        "mood": -3,
+        "response": "Aku cuma butuh kamu ngerti, meski aku sendiri juga nggak jelas."
+      }
+    ]
+  },
+  {
+    "id": "q38",
+    "question": "Kalau aku tiba-tiba bilang aku pengen kita punya rumah sendiri, kamu bakal bilang apa?",
+    "options": [
+      {
+        "text": "Aku bilang, 'Ayo kita mulai nabung dari sekarang!'",
+        "mood": 6,
+        "response": "Wah, kamu bikin aku semangat! Kita wujudin mimpi ini bareng ya."
+      },
+      {
+        "text": "Aku setuju, tapi kita perlu rencana matang dulu.",
+        "mood": 4,
+        "response": "Oke, aku suka kamu mikir realistis. Ayo kita bikin rencana."
+      },
+      {
+        "text": "Aku nggak yakin kita mampu sekarang, mungkin nanti.",
+        "mood": -2,
+        "response": "Aku ngerti, tapi aku pengen kita punya tujuan bareng. Kita coba dulu?"
+      },
+      {
+        "text": "Aku nggak suka mikir jauh, nikmatin aja dulu hidup.",
+        "mood": -4,
+        "response": "Aku kira kita bisa mimpi besar bareng. Aku sedih denger gitu."
+      }
+    ]
+  },
+  {
+    "id": "q39",
+    "question": "Bayangin kita lagi di pesta, aku ngobrol sama orang lain dan lupa ngajak kamu, kamu ngapain?",
+    "options": [
+      {
+        "text": "Aku ikut ngobrol, biar kamu nggak lupa aku ada.",
+        "mood": 5,
+        "response": "Haha, makasih udah nyanyi. Maaf ya, aku keasyikan tadi."
+      },
+      {
+        "text": "Aku nunggu aja, nggak apa-apa, kamu kan lagi seneng.",
+        "mood": 3,
+        "response": "Aduh, aku ngerasa bersalah. Lain kali aku ajak kamu, ya."
+      },
+      {
+        "text": "Aku kesel, aku pulang duluan aja.",
+        "mood": -4,
+        "response": "Duh, maaf banget, aku nggak bermaksud. Ayo kita baikan."
+      },
+      {
+        "text": "Aku bilang, 'Lain kali ajak aku dong, aku kan pasanganmu.'",
+        "mood": -1,
+        "response": "Bener juga, aku salah. Makasih udah ngingetin, aku janji lebih perhatian."
+      }
+    ]
+  },
+  {
+    "id": "q40",
+    "question": "Kalau aku bilang aku pengen kita coba sesuatu yang gila, kayak traveling keliling dunia, kamu bilang apa?",
+    "options": [
+      {
+        "text": "Aku bilang, 'Gila, ayo! Kita rencanain dari sekarang!'",
+        "mood": 6,
+        "response": "Wah, kamu bener-bener pasangan petualang! Aku excited banget!"
+      },
+      {
+        "text": "Aku suka idenya, tapi kita perlu pikirin duit dulu.",
+        "mood": 4,
+        "response": "Realistis banget, tapi oke, ayo kita hitung-hitung dulu."
+      },
+      {
+        "text": "Aku bilang, 'Itu sih mimpi, susah banget dilupain.'",
+        "mood": -3,
+        "response": "Aku kira kita bisa bermimpi besar. Kita coba cari cara, yuk?"
+      },
+      {
+        "text": "Aku takut, aku nggak suka hal-hal yang nggak pasti.",
+        "mood": -4,
+        "response": "Aku ngerti, tapi aku pengen kita coba sesuatu yang baru. Kita ngobrol lagi?"
+      }
+    ]
   }
 ]
