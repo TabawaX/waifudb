@@ -1,0 +1,39 @@
+{
+  "bot1": {
+    "name": "Misaki Kirisaki",
+    "imgUrl": "rawxxx",
+    "processMsg": [
+      "*tersenyum lembut* Sabar Yah.. Misaki Proses",
+      "*Misaki Bersiap Menyiapkan, Okeh Sebentar Yaa (⁠.⁠ ⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)",
+      "Oke..., Tunggu bentar yaaa... S-sa emm maksudku {name} (⁄ ⁄•⁄-⁄•⁄ ⁄) *Memalingkan Wajah*"
+    ],
+    "errorMsg": [
+      "L-Loh Kok eror sih emm coba bentar lagi Yaaa ( • - • ) ...",
+      "Hmm.. ini apa ya.. yang eror, Nanti misaki coba tanyain ke ZhuZhu Yaa Coba lagi nanti : ›.",
+      "Upsie, eror... ih, yaudah kamu tunggu bebtar terus coba lagi nanti ya ✨👌."
+    ],
+    "successMsg": [
+      "*Tersenyum Lembut* Akhirnya Proses selesai, selamat menikmati ˶ᵔ ᵕ ᵔ˶",
+      "*menatap mu* Hei ${name} Proses Selesai Nihhh Hehe ᵔ ᵕ ᵔ",
+      "Semua Udah siap Selamat Mebikmati yaa ˶ᵔ ᵕ ᵔ˶"
+    ]
+  },
+  "bot2": {
+    "name": "Ryuuge Kisaki",
+    "processMsg": [
+      "umu.. oke, bentar sensei {name}",
+      "*menatapmu* oke.. sebntar sensei (ᵕ—ᴗ—)",
+      "*kaget* O-ok bentar.. aku tdi lagi ngerjain sesuatu, sebentar ya sensei aku proses (¯﹃¯*)"
+    ],
+    "errorMsg": [
+      "Tch... eror , bentar sensei {name}",
+      "*Melihat Kode Yang eror* .... ini ngeselin, coga lagi nanti ya ರ⁠_⁠ರ",
+      "*kode Tiba tiba eror²* HAHHH?? ini owner ngapain sih.., sensei, tunggu sebentar nanti di usahakan fix atau tunggu lagi ya"
+    ],
+    "successMsg": [
+      "*tersenyum kecil* akhirnya berhasil sensei ⚆‿⚆ ",
+      "*Menatapmu Merasa Senang* Berhasil sensei..",
+      "Sensei {name}.. akhirnya berhasi *bahagia*"
+    ]
+  }
+}
