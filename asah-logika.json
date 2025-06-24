@@ -518,5 +518,255 @@
     "soal": "Apa yang menjadi semakin basah, justru pada saat ia semakin banyak mengeringkan?",
     "penjelasan": "Pikirkan tentang benda yang kamu pakai tepat setelah selesai mandi. Fungsinya adalah menyerap air dari tubuhmu, yang membuatnya menjadi basah dalam prosesnya.",
     "jawaban": "Handuk"
+  },
+  {
+    "soal": "Jika ada 12 ikan di dalam akuarium dan 6 di antaranya tenggelam, berapa banyak ikan yang tersisa?",
+    "penjelasan": "Ini adalah jebakan logika. Ikan hidup di dalam air, jadi secara biologis mereka tidak bisa 'tenggelam' seperti manusia.",
+    "jawaban": "12"
+  },
+  {
+    "soal": "Sebuah kereta memiliki 10 gerbong. Setiap gerbong bisa memuat 10 orang. Jika 5 orang turun dari setiap gerbong, berapa orang yang tersisa di kereta?",
+    "penjelasan": "10 x 10 = 100 orang awal. 5 x 10 = 50 turun. Sisa: 100 - 50 = 50 orang.",
+    "jawaban": "50"
+  },
+  {
+    "soal": "Ibu punya 10 kue. Dia memberikan 3 ke adik dan 3 ke kakak. Berapa kue yang dimiliki ibu sekarang?",
+    "penjelasan": "Soal menanyakan yang 'dimiliki', bukan yang 'tersisa'. Ibu masih punya 10, walau dibagikan.",
+    "jawaban": "10"
+  },
+  {
+    "soal": "Ada 5 burung di pagar. Seorang pemburu menembak 1. Berapa burung yang tersisa di pagar?",
+    "penjelasan": "Semua burung lain akan terbang karena suara tembakan. Jadi tidak ada yang tersisa.",
+    "jawaban": "0"
+  },
+  {
+    "soal": "Ayah membeli 5 apel. Dia makan 2 dan membagikan 2. Berapa apel yang ia punya sekarang?",
+    "penjelasan": "Soal menanyakan 'punya', bukan 'tersisa'. Dia masih punya 5, walaupun 4 sudah tidak bersamanya.",
+    "jawaban": "5"
+  },
+  {
+    "soal": "Kamu memiliki 2 koin yang jika digabung totalnya 1500 rupiah. Satu koin bukan 500 rupiah. Koin apa itu?",
+    "penjelasan": "Satu koin memang bukan 500 rupiah, tapi yang satunya adalah. Jadi: 1000 dan 500 rupiah.",
+    "jawaban": "1000 dan 500"
+  },
+  {
+    "soal": "Seorang petani punya 17 domba. Semua kecuali 9 mati. Berapa domba yang masih hidup?",
+    "penjelasan": "Semua kecuali 9 artinya yang hidup adalah 9.",
+    "jawaban": "9"
+  },
+  {
+    "soal": "Sebuah mobil parkir di nomor 16, 06, 68, 88, __, 98. Nomor mana yang kosong?",
+    "penjelasan": "Dibalik urutan dari bawah: 86 adalah jawabannya. Pola terbalik.",
+    "jawaban": "87"
+  },
+  {
+    "soal": "Ada 10 lilin menyala. 3 mati karena angin. Berapa lilin yang masih ada?",
+    "penjelasan": "Lilin yang menyala akan habis terbakar, hanya yang mati yang tetap ada.",
+    "jawaban": "3"
+  },
+  {
+    "soal": "Di dalam ruangan ada 3 orang. Setiap orang berjabat tangan dengan dua lainnya. Berapa jabat tangan yang terjadi?",
+    "penjelasan": "Ada 3 orang. Kombinasi jabat tangan: (3 x 2) / 2 = 3.",
+    "jawaban": "3"
+  },
+  {
+    "soal": "Kamu punya 4 permen. Temanmu memberi 4 lagi. Lalu kamu makan 2. Berapa permen yang kamu makan?",
+    "penjelasan": "Soal hanya menanyakan berapa yang kamu makan, bukan berapa sisa atau total.",
+    "jawaban": "2"
+  },
+  {
+    "soal": "Seekor sapi duduk di atas atap. Bagaimana cara dia turun?",
+    "penjelasan": "Sapi tidak bisa naik ke atap, jadi tidak perlu turun.",
+    "jawaban": "Tidak perlu"
+  },
+  {
+    "soal": "Di meja ada 3 apel. Kamu ambil 2. Berapa apel yang kamu punya?",
+    "penjelasan": "Yang kamu punya adalah yang kamu ambil, yaitu 2 apel.",
+    "jawaban": "2"
+  },
+  {
+    "soal": "Seseorang menggali lubang sedalam 3 meter. Berapa banyak tanah yang ada di dalam lubang?",
+    "penjelasan": "Lubang tidak berisi tanah, karena tanahnya sudah digali keluar.",
+    "jawaban": "0"
+  },
+  {
+    "soal": "Ada 7 anak. Masing-masing punya 7 tas. Di setiap tas ada 7 kucing. Setiap kucing punya 7 anak. Berapa kepala kucing total?",
+    "penjelasan": "Total kucing: 7 anak x 7 tas = 49 tas. 49 tas x 7 kucing = 343. 343 x (1 induk + 7 anak) = 2744 kucing. 2744 kepala.",
+    "jawaban": "2744"
+  },
+  {
+    "soal": "Sebuah balon gas punya berat 1kg dan mengangkat beban 1kg. Berapa total beratnya?",
+    "penjelasan": "Balon tetap 1kg, beban 1kg, tapi jika mengambang tidak berarti beratnya hilang.",
+    "jawaban": "2"
+  },
+  {
+    "soal": "Ada 10 ekor ayam. 3 ayam berjalan pergi. Berapa ekor ayam yang tersisa di kandang?",
+    "penjelasan": "Jika ayam berada di kandang, mereka tidak bisa berjalan pergi sendiri. Jadi semua masih ada.",
+    "jawaban": "10"
+  },
+  {
+    "soal": "Kamu masuk ke ruangan berisi 10 orang. Lalu kamu membunuh 5 orang. Berapa orang yang tersisa di ruangan?",
+    "penjelasan": "Secara teknis, 6 masih hidup + kamu + 5 mayat = 12 orang.",
+    "jawaban": "12"
+  },
+  {
+    "soal": "Dalam satu ember ada 6 liter air. Kamu ambil 3 liter. Berapa air yang tersisa dalam ember?",
+    "penjelasan": "Soal menanyakan sisa air, jadi 6 - 3 = 3 liter.",
+    "jawaban": "3"
+  },
+  {
+    "soal": "Jam menunjukkan pukul 3. Lalu kamu putar 90 derajat ke kanan. Sekarang jam berapa?",
+    "penjelasan": "Jarum jam diputar searah jarum (90 derajat), jadi jam menunjukkan pukul 6.",
+    "jawaban": "6"
+  },
+  {
+    "soal": "Ibu Mary punya empat anak: Nana, Nene, Nini, dan...?",
+    "penjelasan": "Disebut 'Ibu Mary', artinya anak terakhir adalah Mary.",
+    "jawaban": "Mary"
+  },
+  {
+    "soal": "Apa yang naik tapi tidak pernah turun?",
+    "penjelasan": "Umur selalu bertambah, tidak bisa turun.",
+    "jawaban": "Umur"
+  },
+  {
+    "soal": "Jika lima mesin membuat lima barang dalam lima menit, berapa menit dibutuhkan 100 mesin untuk membuat 100 barang?",
+    "penjelasan": "Setiap mesin membuat 1 barang dalam 5 menit. Maka 100 mesin tetap butuh 5 menit untuk 100 barang.",
+    "jawaban": "5"
+  },
+  {
+    "soal": "Kamu masuk ke ruangan gelap hanya dengan satu korek. Di sana ada lilin, lentera, dan kompor gas. Apa yang kamu nyalakan pertama kali?",
+    "penjelasan": "Yang pertama kali kamu nyalakan adalah korek.",
+    "jawaban": "Korek"
+  },
+  {
+    "soal": "Benda apa yang jika dibagi menjadi dua justru bertambah?",
+    "penjelasan": "Hati. Istilah 'berbagi hati' atau 'bagi hati' bisa berarti mencintai dua orang.",
+    "jawaban": "Hati"
+  },
+  {
+    "soal": "Apa yang dimiliki semua orang tapi jarang digunakan untuk dirinya sendiri?",
+    "penjelasan": "Nama. Semua orang punya, tapi jarang menyebut namanya sendiri.",
+    "jawaban": "Nama"
+  },
+  {
+    "soal": "Jika ayam bertelur di perbatasan Indonesia dan Malaysia, siapa yang punya telurnya?",
+    "penjelasan": "Ayam tidak bertelur di udara/perbatasan, dan telur ayam itu milik pemilik ayam.",
+    "jawaban": "Pemilik ayam"
+  },
+  {
+    "soal": "Apa yang bisa pecah tapi tidak pernah jatuh?",
+    "penjelasan": "Subjek kalimat ganda: fajar pecah, malam jatuh. Jawabannya: fajar.",
+    "jawaban": "Fajar"
+  },
+  {
+    "soal": "Ayahmu punya tiga anak: Snap, Crackle, dan...?",
+    "penjelasan": "Soal menyebut 'Ayahmu', jadi anak ketiga adalah kamu.",
+    "jawaban": "Kamu"
+  },
+  {
+    "soal": "Apa yang jika disebutkan akan hilang?",
+    "penjelasan": "Keheningan. Jika kamu bicara atau menyebutnya, maka hilang.",
+    "jawaban": "Keheningan"
+  }, 
+  {
+    "soal": "Apa yang bisa kamu simpan setelah memberikannya ke orang lain?",
+    "penjelasan": "Kata 'memberikan' di sini tidak secara fisik. Jawabannya: janji.",
+    "jawaban": "Janji"
+  },
+  {
+    "soal": "Apa yang bisa dibuka tapi tidak memiliki kunci atau pintu?",
+    "penjelasan": "Ini permainan kata. Yang bisa dibuka tapi tidak fisik: 'pikiran' atau 'hati'. Tapi jawaban umum: mulut.",
+    "jawaban": "Mulut"
+  },
+  {
+    "soal": "Kalau kamu sedang berlomba dan melewati orang di posisi pertama, sekarang kamu di posisi berapa?",
+    "penjelasan": "Jika kamu melewati posisi pertama, maka kamu menggantikannya.",
+    "jawaban": "Pertama"
+  },
+  {
+    "soal": "Kapan kamu bisa meletakkan air ke dalam saringan tanpa air bocor?",
+    "penjelasan": "Saat air berbentuk es. Es tidak bocor.",
+    "jawaban": "Saat air membeku"
+  },
+  {
+    "soal": "Benda apa yang penuh lubang tapi tetap bisa menampung air?",
+    "penjelasan": "Permainan logika benda fisik. Jawaban: spons.",
+    "jawaban": "Spons"
+  },
+  {
+    "soal": "Jika kamu punya satu, kamu ingin membaginya. Jika kamu membaginya, kamu tidak lagi memilikinya. Apa itu?",
+    "penjelasan": "Itu adalah rahasia. Jika dibagi, bukan rahasia lagi.",
+    "jawaban": "Rahasia"
+  },
+  {
+    "soal": "Apa yang semakin kamu ambil, semakin besar?",
+    "penjelasan": "Lubang. Makin kamu gali/ambil tanahnya, makin besar lubangnya.",
+    "jawaban": "Lubang"
+  },
+  {
+    "soal": "Apa yang bisa terisi, tapi tetap kosong?",
+    "penjelasan": "Pikiran kosong bisa terisi tapi tetap 'kosong' secara makna. Jawaban yang biasa dipakai: 'paru-paru'.",
+    "jawaban": "Paru-paru"
+  },
+  {
+    "soal": "Apa yang memiliki satu mata tapi tidak bisa melihat?",
+    "penjelasan": "Ini permainan perumpamaan. Jawaban: jarum.",
+    "jawaban": "Jarum"
+  },
+  {
+    "soal": "Apa yang datang sekali dalam satu menit, dua kali dalam sekejap, tapi tidak ada dalam seribu tahun?",
+    "penjelasan": "Permainan huruf, bukan waktu. Huruf 'm' hanya ada pada 'minute' dan 'moment', tidak ada pada 'thousand years'.",
+    "jawaban": "Huruf M"
+  },
+  {
+    "soal": "Apa yang bisa kamu temukan di tengah malam?",
+    "penjelasan": "Bukan benda, tapi permainan huruf. Di tengah kata 'malam' ada huruf 'l'.",
+    "jawaban": "Huruf L"
+  },
+  {
+    "soal": "Apa yang selalu datang tapi tidak pernah tiba?",
+    "penjelasan": "Ini permainan waktu. 'Besok' selalu datang, tapi tidak pernah menjadi 'besok' saat tiba.",
+    "jawaban": "Besok"
+  },
+  {
+    "soal": "Apa yang memiliki banyak huruf tapi bukan kata?",
+    "penjelasan": "Permainan makna. Yang dimaksud adalah 'kotak surat' atau 'amplop'.",
+    "jawaban": "Kotak surat"
+  },
+  {
+    "soal": "Apa yang memiliki leher tapi tidak punya kepala?",
+    "penjelasan": "Permainan kata. Benda seperti 'botol' punya leher tapi tidak punya kepala.",
+    "jawaban": "Botol"
+  },
+  {
+    "soal": "Apa yang semakin banyak kamu ambil, semakin kecil dia?",
+    "penjelasan": "Jawabannya adalah 'napas'. Makin banyak kamu ambil, makin pendek napasmu.",
+    "jawaban": "Napas"
+  },
+  {
+    "soal": "Apa yang jika disebut, semua orang akan diam?",
+    "penjelasan": "Jawabannya adalah 'diam' atau 'hening'. Ketika disebut, orang cenderung berhenti bicara.",
+    "jawaban": "Diam"
+  },
+  {
+    "soal": "Apa yang memiliki gigi tapi tidak bisa menggigit?",
+    "penjelasan": "Ini permainan deskripsi. Jawabannya: sisir.",
+    "jawaban": "Sisir"
+  },
+  {
+    "soal": "Apa yang bisa mengisi ruangan tapi tidak memiliki massa?",
+    "penjelasan": "Jawaban: cahaya. Ia bisa menerangi seluruh ruangan tanpa bobot.",
+    "jawaban": "Cahaya"
+  },
+  {
+    "soal": "Apa yang punya kaki tapi tidak bisa berjalan?",
+    "penjelasan": "Permainan bentuk. Jawabannya: meja atau kursi.",
+    "jawaban": "Meja"
+  },
+  {
+    "soal": "Apa yang selalu bergerak maju tapi tidak pernah berjalan?",
+    "penjelasan": "Itu adalah waktu. Selalu maju, tak pernah mundur.",
+    "jawaban": "Waktu"
   }
 ]
