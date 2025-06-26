@@ -5,6 +5,306 @@
     "jawaban": "Ani"
   },
   {
+    "soal": "Semua anjing adalah mamalia. Semua mamalia bernapas dengan paru-paru. Apakah anjing bernapas dengan paru-paru?",
+    "penjelasan": "Karena anjing adalah mamalia, dan semua mamalia bernapas dengan paru-paru, maka anjing juga bernapas dengan paru-paru.",
+    "jawaban": "Ya"
+  },
+  {
+    "soal": "Semua planet mengelilingi matahari. Bumi adalah planet. Apakah Bumi mengelilingi matahari?",
+    "penjelasan": "Jika semua planet mengelilingi matahari dan Bumi adalah salah satunya, maka Bumi juga mengelilingi matahari.",
+    "jawaban": "Ya"
+  },
+  {
+    "soal": "Tidak semua kendaraan memiliki roda dua. Sepeda memiliki roda dua. Apakah sepeda adalah kendaraan?",
+    "penjelasan": "Premis tidak menyebut semua kendaraan punya roda dua, hanya sebagian. Tapi sepeda memang kendaraan. Jadi jawabannya ya berdasarkan fakta, bukan logika dari premis.",
+    "jawaban": "Ya"
+  },
+  {
+    "soal": "Semua siswa membawa buku. Beberapa siswa membawa pensil. Apakah semua siswa membawa pensil?",
+    "penjelasan": "Karena hanya beberapa siswa yang membawa pensil, maka tidak semua siswa membawanya.",
+    "jawaban": "Tidak"
+  },
+  {
+    "soal": "Semua makhluk hidup membutuhkan air. Tanaman adalah makhluk hidup. Apakah tanaman membutuhkan air?",
+    "penjelasan": "Karena tanaman termasuk makhluk hidup dan semua makhluk hidup membutuhkan air, maka tanaman juga membutuhkan air.",
+    "jawaban": "Ya"
+  },
+  {
+    "soal": "Semua komputer membutuhkan listrik. Laptop adalah komputer. Apakah laptop membutuhkan listrik?",
+    "penjelasan": "Laptop termasuk dalam kategori komputer, maka secara logis ia juga membutuhkan listrik, meskipun melalui baterai.",
+    "jawaban": "Ya"
+  },
+  {
+    "soal": "Semua burung bertelur. Elang adalah burung. Apakah elang bertelur?",
+    "penjelasan": "Jika semua burung bertelur dan elang termasuk burung, maka elang juga bertelur.",
+    "jawaban": "Ya"
+  },
+  {
+    "soal": "Semua manusia punya jantung. Beberapa makhluk hidup bukan manusia. Apakah semua makhluk hidup punya jantung?",
+    "penjelasan": "Pernyataan hanya menyebut manusia yang pasti punya jantung. Tidak semua makhluk hidup termasuk manusia, jadi tidak bisa disimpulkan semua punya jantung.",
+    "jawaban": "Tidak pasti"
+  },
+  {
+    "soal": "Tidak ada serigala yang jinak. Hewan peliharaan ini adalah serigala. Apakah hewan ini jinak?",
+    "penjelasan": "Jika tidak ada serigala yang jinak, dan hewan ini adalah serigala, maka secara logis hewan ini tidak jinak.",
+    "jawaban": "Tidak"
+  },
+  {
+    "soal": "Semua angka genap habis dibagi dua. Enam adalah angka genap. Apakah enam habis dibagi dua?",
+    "penjelasan": "Enam termasuk angka genap, dan semua angka genap bisa dibagi dua. Maka enam habis dibagi dua.",
+    "jawaban": "Ya"
+  },
+  {
+    "soal": "Semua manusia pasti mati. Budi adalah manusia. Apakah Budi akan mati?",
+    "penjelasan": "Jika semua manusia pasti mati, dan Budi termasuk manusia, maka secara logis Budi akan mati.",
+    "jawaban": "Ya"
+  },
+  {
+    "soal": "Semua bunga memiliki kelopak. Mawar adalah bunga. Apakah mawar memiliki kelopak?",
+    "penjelasan": "Karena semua bunga memiliki kelopak, dan mawar adalah salah satu jenis bunga, maka mawar juga memiliki kelopak.",
+    "jawaban": "Ya"
+  },
+  {
+    "soal": "Tidak ada ikan yang bisa hidup di darat. Lele adalah ikan. Apakah lele bisa hidup di darat?",
+    "penjelasan": "Lele termasuk kategori ikan, dan ikan tidak bisa hidup di darat. Maka lele pun tidak bisa hidup di darat.",
+    "jawaban": "Tidak"
+  },
+  {
+    "soal": "Semua burung bisa terbang. Penguin adalah burung. Apakah penguin bisa terbang?",
+    "penjelasan": "Walaupun secara umum burung bisa terbang, penguin adalah pengecualian. Maka jawaban logis berdasarkan fakta adalah tidak.",
+    "jawaban": "Tidak"
+  },
+  {
+    "soal": "Semua siswa harus belajar. Rina adalah siswa. Apakah Rina harus belajar?",
+    "penjelasan": "Jika semua siswa harus belajar dan Rina adalah siswa, maka dia termasuk yang harus belajar.",
+    "jawaban": "Ya"
+  },
+  {
+    "soal": "Beberapa hewan berkaki empat. Kucing adalah hewan. Apakah kucing berkaki empat?",
+    "penjelasan": "Premis menyebut *beberapa* hewan berkaki empat, dan tidak menyatakan semua. Namun karena kucing secara fakta berkaki empat, jawabannya adalah ya.",
+    "jawaban": "Ya"
+  },
+  {
+    "soal": "Semua logam bisa menghantarkan listrik. Aluminium adalah logam. Apakah aluminium bisa menghantarkan listrik?",
+    "penjelasan": "Jika semua logam bisa menghantarkan listrik dan aluminium termasuk logam, maka logis bahwa aluminium bisa menghantarkan listrik.",
+    "jawaban": "Ya"
+  },
+  {
+    "soal": "Tidak semua orang suka kopi. Amir adalah orang. Apakah Amir suka kopi?",
+    "penjelasan": "Pernyataan tidak semua orang suka kopi tidak bisa digunakan untuk menyimpulkan apakah Amir suka atau tidak. Maka jawabannya tidak pasti.",
+    "jawaban": "Tidak pasti"
+  },
+  {
+    "soal": "Semua programmer suka logika. Dinda tidak suka logika. Apakah Dinda seorang programmer?",
+    "penjelasan": "Jika semua programmer suka logika, dan Dinda tidak suka logika, maka dia tidak termasuk dalam kelompok programmer.",
+    "jawaban": "Tidak"
+  },
+  {
+    "soal": "Semua buah mengandung vitamin. Jeruk adalah buah. Apakah jeruk mengandung vitamin?",
+    "penjelasan": "Karena jeruk adalah buah, dan semua buah mengandung vitamin, maka jeruk pun mengandung vitamin.",
+    "jawaban": "Ya"
+  },
+  {
+    "soal": "Aku dianggap sebagai utusan Tuhan. Aku membawa ajaran, mukjizat, dan harapan. Namaku sering disebut dalam kitab-kitab suci. Siapakah aku?",
+    "penjelasan": "Aku hadir dalam banyak agama sebagai pembimbing umat. Dalam Kristen aku dikenal sebagai Yesus, dalam Islam sebagai Isa, dan banyak nabi lainnya dalam berbagai ajaran.",
+    "jawaban": "Nabi atau Rasul"
+  },
+  {
+    "soal": "Aku adalah simbol penderitaan dan pengorbanan. Aku terbuat dari kayu, tapi menjadi lambang keselamatan bagi umat tertentu. Siapakah aku?",
+    "penjelasan": "Aku adalah lambang utama dalam agama Kristen, mengingatkan pada penyaliban Yesus Kristus untuk menebus dosa umat manusia.",
+    "jawaban": "Salib"
+  },
+  {
+    "soal": "Aku adalah ajaran yang berasal dari India kuno. Aku mengajarkan tentang karma, reinkarnasi, dan moksha. Siapakah aku?",
+    "penjelasan": "Aku adalah sistem kepercayaan dan filosofi kehidupan yang beragam, dengan kitab-kitab seperti Veda dan tokoh utama seperti Brahma, Wisnu, dan Siwa.",
+    "jawaban": "Hindu"
+  },
+  {
+    "soal": "Aku datang bukan membawa Tuhan, tapi membawa jalan menuju pencerahan. Aku mengajarkan delapan jalan dan empat kebenaran mulia. Siapakah aku?",
+    "penjelasan": "Aku adalah ajaran yang berasal dari Pangeran Siddhartha Gautama, yang mencari pembebasan dari penderitaan dunia.",
+    "jawaban": "Buddha atau Buddhisme"
+  },
+  {
+    "soal": "Aku bukan makhluk, tapi dicari oleh semua manusia. Aku adalah keadaan tanpa penderitaan, tanpa kelahiran ulang. Siapakah aku?",
+    "penjelasan": "Aku adalah tujuan akhir dalam Buddhisme. Aku dicapai melalui pencerahan dan melepas keterikatan duniawi.",
+    "jawaban": "Nirwana"
+  },
+  {
+    "soal": "Aku adalah tempat ibadah. Di dalamku ada altar, kadang lilin, kadang patung. Aku bisa sunyi atau penuh nyanyian. Siapakah aku?",
+    "penjelasan": "Aku digunakan umat Kristen untuk beribadah. Aku disebut gereja dan menjadi pusat kehidupan rohani mereka.",
+    "jawaban": "Gereja"
+  },
+  {
+    "soal": "Aku adalah kitab suci. Namaku berarti 'perjanjian'. Aku berisi kisah penciptaan, nabi, dan ajaran kasih. Siapakah aku?",
+    "penjelasan": "Aku adalah kitab umat Kristen yang terbagi dua: Perjanjian Lama dan Perjanjian Baru, berisi firman Tuhan dan kehidupan Yesus.",
+    "jawaban": "Alkitab"
+  },
+  {
+    "soal": "Aku adalah bunyi yang suci. Aku sering diucapkan dalam meditasi dan doa. Aku berasal dari tradisi Hindu dan Buddha. Siapakah aku?",
+    "penjelasan": "Aku dipercaya sebagai suara awal alam semesta. Aku bukan sekadar suara, tapi getaran spiritual yang mendalam.",
+    "jawaban": "Om"
+  },
+  {
+    "soal": "Aku diyakini sebagai kekuatan balasan dari setiap perbuatan. Jika kau berbuat baik, kau akan menuai kebaikan. Siapakah aku?",
+    "penjelasan": "Aku adalah konsep universal dalam Hindu dan Buddha. Aku mengajarkan bahwa segala sesuatu memiliki akibat.",
+    "jawaban": "Karma"
+  },
+  {
+    "soal": "Aku adalah upacara sakral. Aku menandai kelahiran baru dalam iman. Aku menggunakan air dan dilakukan oleh pemuka agama. Siapakah aku?",
+    "penjelasan": "Aku adalah simbol pembersihan dosa dan masuknya seseorang dalam komunitas Kristen, disebut baptisan.",
+    "jawaban": "Baptis"
+  },
+  {
+    "soal": "Aku tidak terlihat, tapi dipercaya oleh banyak orang. Aku dipercaya sebagai penghubung manusia dengan Tuhan. Aku menguatkan hati dan menuntun hidup. Siapakah aku?",
+    "penjelasan": "Aku adalah keyakinan yang mendalam dalam agama. Aku tidak bisa dilihat, tapi menjadi dasar kehidupan spiritual.",
+    "jawaban": "Iman"
+  },
+  {
+    "soal": "Aku dilakukan dengan lisan dan hati. Aku bisa berupa pujian, permohonan, atau pengakuan. Aku adalah komunikasi dengan Yang Maha Kuasa. Siapakah aku?",
+    "penjelasan": "Aku adalah bentuk ibadah yang menjadi inti dari hubungan antara manusia dan Tuhan. Aku dilakukan secara pribadi maupun bersama.",
+    "jawaban": "Doa"
+  },
+  {
+    "soal": "Aku datang lima kali sehari. Aku dilakukan dengan gerakan dan bacaan. Aku adalah tiang dalam kehidupan seorang muslim. Siapakah aku?",
+    "penjelasan": "Aku adalah salah satu rukun Islam yang wajib dilaksanakan oleh umat Islam sebagai bentuk penghambaan kepada Allah.",
+    "jawaban": "Salat"
+  },
+  {
+    "soal": "Aku adalah kitab yang dibaca oleh jutaan orang. Aku dianggap sebagai wahyu. Aku diturunkan secara bertahap. Siapakah aku?",
+    "penjelasan": "Aku adalah kitab suci umat Islam. Aku diturunkan kepada Nabi Muhammad SAW melalui Malaikat Jibril.",
+    "jawaban": "Al-Qur'an"
+  },
+  {
+    "soal": "Aku adalah bulan yang sangat ditunggu. Aku penuh pahala dan ampunan. Orang-orang menahan lapar dan hawa nafsu saat aku datang. Siapakah aku?",
+    "penjelasan": "Aku adalah bulan dalam kalender Hijriyah di mana umat Islam berpuasa selama sebulan penuh sebagai ibadah dan pengendalian diri.",
+    "jawaban": "Ramadan"
+  },
+  {
+    "soal": "Aku adalah jalan hidup yang menyeluruh. Aku mencakup ibadah, akhlak, dan hukum. Aku adalah ajaran yang dibawa Nabi Muhammad. Siapakah aku?",
+    "penjelasan": "Aku bukan hanya agama, tapi sistem kehidupan yang mencakup seluruh aspek dunia dan akhirat bagi umat Islam.",
+    "jawaban": "Islam"
+  },
+  {
+    "soal": "Aku adalah manusia pilihan. Aku diutus membawa kebenaran. Namaku disebut dalam berbagai kitab suci. Siapakah aku?",
+    "penjelasan": "Aku adalah orang yang dipilih oleh Tuhan untuk menyampaikan wahyu dan membimbing umat manusia.",
+    "jawaban": "Nabi"
+  },
+  {
+    "soal": "Aku adalah tempat kembali setelah kehidupan di dunia. Aku bisa menjadi surga atau neraka. Setiap manusia akan sampai kepadaku. Siapakah aku?",
+    "penjelasan": "Aku adalah bagian dari keyakinan dalam berbagai agama tentang kehidupan setelah mati dan balasan amal manusia.",
+    "jawaban": "Akhirat"
+  },
+  {
+    "soal": "Aku adalah hukum halal dan haram. Aku membimbingmu memilih yang benar dan menjauhi yang dilarang. Aku menjadi dasar dalam berbuat. Siapakah aku?",
+    "penjelasan": "Aku adalah pedoman hukum dalam agama Islam yang bersumber dari Al-Qur’an dan hadits, mengatur seluruh aspek kehidupan.",
+    "jawaban": "Syariat"
+  },
+  {
+    "soal": "Aku dilakukan dengan ikhlas. Aku bisa dalam bentuk uang, makanan, atau jasa. Aku diberikan kepada yang membutuhkan. Siapakah aku?",
+    "penjelasan": "Aku adalah salah satu bentuk kepedulian sosial dalam agama, dan juga kewajiban bagi orang yang mampu untuk membantu sesama.",
+    "jawaban": "Sedekah"
+  },
+  {
+    "soal": "Aku adalah tempat bertemunya penjual dan pembeli. Aku bisa nyata atau maya. Aku ada di mana pun transaksi terjadi. Siapakah aku?",
+    "penjelasan": "Aku adalah tempat terbentuknya harga melalui interaksi antara permintaan dan penawaran, bisa berupa pasar fisik atau digital.",
+    "jawaban": "Pasar"
+  },
+  {
+    "soal": "Aku dikenakan oleh negara. Aku membuat barang impor lebih mahal. Aku digunakan untuk melindungi produk dalam negeri. Siapakah aku?",
+    "penjelasan": "Aku adalah pungutan yang dikenakan terhadap barang dari luar negeri. Aku merupakan bagian dari kebijakan proteksi perdagangan.",
+    "jawaban": "Bea masuk"
+  },
+  {
+    "soal": "Aku bisa digunakan untuk membeli, tapi tidak bisa disentuh. Aku tersimpan dalam sistem dan berpindah dalam sekejap. Siapakah aku?",
+    "penjelasan": "Aku adalah bentuk uang digital yang digunakan dalam transaksi elektronik. Aku bisa berupa saldo rekening atau dompet digital.",
+    "jawaban": "Uang elektronik"
+  },
+  {
+    "soal": "Aku datang tiap bulan, tapi tidak tetap bagi semua orang. Aku adalah hasil dari kerja dan keringatmu. Siapakah aku?",
+    "penjelasan": "Aku adalah kompensasi finansial yang diterima sebagai imbalan atas pekerjaan yang dilakukan, bisa berbentuk gaji atau upah.",
+    "jawaban": "Penghasilan"
+  },
+  {
+    "soal": "Aku muncul saat pengeluaran lebih besar dari pemasukan. Jika dibiarkan, aku bisa menghancurkan keuanganmu. Siapakah aku?",
+    "penjelasan": "Aku adalah kondisi keuangan yang tidak seimbang. Aku bisa muncul dalam rumah tangga, bisnis, maupun negara.",
+    "jawaban": "Defisit"
+  },
+  {
+    "soal": "Aku dibuat untuk membatasi agar pengeluaran tidak berlebihan. Aku berisi daftar rencana dan angka. Siapakah aku?",
+    "penjelasan": "Aku adalah rencana keuangan yang mencatat pemasukan dan pengeluaran. Aku membantu dalam mengatur uang secara disiplin.",
+    "jawaban": "Anggaran"
+  },
+  {
+    "soal": "Aku adalah tempat menyimpan harta. Aku memberikan bunga jika kau menabung. Aku juga bisa memberi pinjaman. Siapakah aku?",
+    "penjelasan": "Aku adalah lembaga keuangan yang melayani transaksi keuangan, tabungan, kredit, dan pembayaran.",
+    "jawaban": "Bank"
+  },
+  {
+    "soal": "Aku bertugas mengatur dan menjaga kestabilan uang di suatu negara. Aku juga mencetak uang. Siapakah aku?",
+    "penjelasan": "Aku adalah institusi pusat dalam sistem moneter suatu negara. Aku mengatur suku bunga, inflasi, dan cadangan devisa.",
+    "jawaban": "Bank sentral"
+  },
+  {
+    "soal": "Aku digunakan untuk mendapat untung. Aku bisa dibeli, dijual, atau disimpan. Tapi risikoku juga tinggi. Siapakah aku?",
+    "penjelasan": "Aku adalah bentuk penanaman modal, seperti saham atau properti. Aku digunakan untuk menghasilkan pendapatan atau keuntungan.",
+    "jawaban": "Investasi"
+  },
+  {
+    "soal": "Aku adalah nilai tambahan yang dikenakan saat kamu belanja. Aku dibayarkan ke negara. Siapakah aku?",
+    "penjelasan": "Aku adalah pajak tidak langsung yang ditambahkan pada harga jual barang dan jasa. Konsumen yang membayarku.",
+    "jawaban": "PPN (Pajak Pertambahan Nilai)"
+  },
+  {
+    "soal": "Aku tidak bisa dilihat, tapi aku menentukan harga. Aku muncul ketika barang langka tapi banyak yang ingin. Siapakah aku?",
+    "penjelasan": "Aku adalah kekuatan yang menyebabkan harga naik ketika permintaan tinggi tapi pasokan rendah. Aku adalah salah satu prinsip dasar ekonomi.",
+    "jawaban": "Permintaan"
+  },
+  {
+    "soal": "Aku adalah angka yang selalu dibenci pembeli tapi dicintai penjual. Aku bisa naik dan turun tergantung pasar. Siapakah aku?",
+    "penjelasan": "Aku adalah nilai tukar suatu barang atau jasa. Aku bisa berubah karena faktor pasar, pajak, atau biaya produksi.",
+    "jawaban": "Harga"
+  },
+  {
+    "soal": "Aku tak punya bentuk fisik, tapi semua orang memburuku. Aku bisa disimpan, diinvestasikan, atau dibelanjakan. Siapakah aku?",
+    "penjelasan": "Aku adalah alat tukar yang diterima secara umum dalam transaksi. Aku bisa hadir sebagai uang tunai, digital, atau aset.",
+    "jawaban": "Uang"
+  },
+  {
+    "soal": "Aku membuat orang harus memilih, karena sumber daya terbatas. Aku memaksa manusia untuk memutuskan mana yang lebih penting. Siapakah aku?",
+    "penjelasan": "Aku adalah inti dari ilmu ekonomi. Karena keterbatasan sumber daya dan kebutuhan manusia yang tak terbatas, aku selalu ada.",
+    "jawaban": "Kelangkaan"
+  },
+  {
+    "soal": "Aku tumbuh ketika uang diputar. Aku bisa menaikkan pendapatan dan lapangan kerja. Negara sangat menyukaiku. Siapakah aku?",
+    "penjelasan": "Aku adalah proses di mana barang dan jasa diproduksi dan dijual, menciptakan nilai tambah dalam suatu negara.",
+    "jawaban": "Pertumbuhan ekonomi"
+  },
+  {
+    "soal": "Aku bisa tinggi atau rendah, tapi selalu dirasakan. Aku terjadi saat harga-harga naik secara umum. Siapakah aku?",
+    "penjelasan": "Aku mengurangi daya beli uang dan menjadi perhatian utama dalam kebijakan moneter. Aku bisa disebabkan oleh permintaan yang berlebihan atau biaya produksi yang naik.",
+    "jawaban": "Inflasi"
+  },
+  {
+    "soal": "Aku hadir di saat sulit. Aku membuat daya beli menurun dan toko sepi. Aku menandakan ekonomi sedang lesu. Siapakah aku?",
+    "penjelasan": "Aku terjadi ketika perekonomian menyusut dalam jangka waktu tertentu. Pengangguran naik dan produksi menurun.",
+    "jawaban": "Resesi"
+  },
+  {
+    "soal": "Aku bisa menjadi teman atau musuh. Jika kau ambil terlalu banyak, aku bisa menyakitimu. Tapi tanpaku, bisnis sulit tumbuh. Siapakah aku?",
+    "penjelasan": "Aku adalah dana yang dipinjam dengan harapan dibayar kembali. Aku bisa membantu ekspansi usaha atau membuat utang membengkak.",
+    "jawaban": "Kredit"
+  },
+  {
+    "soal": "Aku digunakan untuk mengatur arus uang di suatu negara. Aku bisa menaikkan suku bunga, menambah uang beredar, atau menahan inflasi. Siapakah aku?",
+    "penjelasan": "Aku adalah kebijakan yang diambil oleh bank sentral untuk menjaga stabilitas nilai mata uang dan pertumbuhan ekonomi.",
+    "jawaban": "Kebijakan moneter"
+  },
+  {
+    "soal": "Aku bukan benda, tapi aku menentukan kesejahteraan. Aku dihitung per kapita dan sering dipakai membandingkan negara. Siapakah aku?",
+    "penjelasan": "Aku menunjukkan nilai total barang dan jasa yang dihasilkan dalam suatu negara. Aku sering dipakai untuk mengukur kekayaan ekonomi nasional.",
+    "jawaban": "PDB (Produk Domestik Bruto)"
+  },
+  {
     "soal": "Jika kamu sedang balapan dan kamu menyalip orang di posisi kedua, kamu sekarang ada di posisi berapa?",
     "penjelasan": "Dengan menyalip orang di posisi kedua, kamu mengambil alih tempatnya. Orang yang tadinya di posisi kedua kini berada di belakangmu.",
     "jawaban": "Posisi kedua"
