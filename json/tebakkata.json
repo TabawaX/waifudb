@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "pertanyaan": "Aku suka makan ___ setiap pagi.",
+    "jawaban": "nasi",
+    "kategori": "makanan",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Berwarna putih, biasa dikukus",
+    "penjelasan": "Nasi adalah makanan pokok di sebagian besar wilayah Asia."
+  },
+  {
+    "id": 2,
+    "pertanyaan": "Langit berwarna ___ saat senja.",
+    "jawaban": "oranye",
+    "kategori": "alam",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Warna campuran merah dan kuning",
+    "penjelasan": "Warna oranye muncul saat matahari hampir terbenam karena pembiasan cahaya."
+  },
+  {
+    "id": 3,
+    "pertanyaan": "Dia membeli ___ di pasar.",
+    "jawaban": "buah",
+    "kategori": "makanan",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Manis dan berasal dari tanaman",
+    "penjelasan": "Buah banyak dijual di pasar sebagai sumber vitamin."
+  },
+  {
+    "id": 4,
+    "pertanyaan": "Ibu sedang memasak ___ di dapur.",
+    "jawaban": "sayur",
+    "kategori": "makanan",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Berasal dari daun atau batang tanaman",
+    "penjelasan": "Sayur mengandung serat dan vitamin penting untuk tubuh."
+  },
+  {
+    "id": 5,
+    "pertanyaan": "Burung itu terbang di atas ___.",
+    "jawaban": "langit",
+    "kategori": "alam",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Tempat awan berada",
+    "penjelasan": "Langit adalah bagian atmosfer yang terlihat dari permukaan bumi."
+  },
+  {
+    "id": 6,
+    "pertanyaan": "Dia menulis dengan menggunakan ___.",
+    "jawaban": "pulpen",
+    "kategori": "alat",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Mengandung tinta dan biasa dipakai sekolah",
+    "penjelasan": "Pulpen digunakan untuk menulis di kertas secara permanen."
+  },
+  {
+    "id": 7,
+    "pertanyaan": "Tanaman perlu ___ untuk tumbuh.",
+    "jawaban": "air",
+    "kategori": "alam",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Zat cair yang sangat penting bagi kehidupan",
+    "penjelasan": "Air dibutuhkan oleh tanaman untuk fotosintesis dan pertumbuhan."
+  },
+  {
+    "id": 8,
+    "pertanyaan": "Aku memakai ___ saat hujan.",
+    "jawaban": "payung",
+    "kategori": "alat",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Benda untuk melindungi dari hujan",
+    "penjelasan": "Payung digunakan agar tubuh tidak basah saat hujan turun."
+  },
+  {
+    "id": 9,
+    "pertanyaan": "Setiap malam, aku tidur di atas ___.",
+    "jawaban": "kasur",
+    "kategori": "rumah",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Tempat empuk untuk tidur",
+    "penjelasan": "Kasur memberikan kenyamanan saat beristirahat."
+  },
+  {
+    "id": 10,
+    "pertanyaan": "Ayah pergi ke ___ untuk bekerja.",
+    "jawaban": "kantor",
+    "kategori": "aktivitas",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Tempat kerja orang dewasa",
+    "penjelasan": "Kantor adalah tempat seseorang melakukan pekerjaan administratif atau profesional."
+  },
+  {
+    "id": 11,
+    "pertanyaan": "Anak-anak bermain ___ di taman.",
+    "jawaban": "bola",
+    "kategori": "aktivitas",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Bulat dan sering ditendang",
+    "penjelasan": "Bola sering digunakan dalam permainan seperti sepak bola dan basket."
+  },
+  {
+    "id": 12,
+    "pertanyaan": "Aku membaca buku di dalam ___.",
+    "jawaban": "perpustakaan",
+    "kategori": "tempat",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Tempat penuh rak buku",
+    "penjelasan": "Perpustakaan menyediakan banyak koleksi buku untuk dibaca dan dipinjam."
+  },
+  {
+    "id": 13,
+    "pertanyaan": "Ikan berenang di dalam ___.",
+    "jawaban": "air",
+    "kategori": "alam",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Zat cair tempat hidup ikan",
+    "penjelasan": "Air sangat penting bagi kehidupan makhluk air seperti ikan."
+  },
+  {
+    "id": 14,
+    "pertanyaan": "Aku menonton film di ___.",
+    "jawaban": "bioskop",
+    "kategori": "tempat",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Tempat dengan layar besar dan kursi penonton",
+    "penjelasan": "Bioskop adalah tempat menonton film di layar lebar."
+  },
+  {
+    "id": 15,
+    "pertanyaan": "Sapi menghasilkan ___ setiap hari.",
+    "jawaban": "susu",
+    "kategori": "makanan",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Cairan putih dari hewan ternak",
+    "penjelasan": "Susu berasal dari sapi dan mengandung kalsium untuk tulang."
+  },
+  {
+    "id": 16,
+    "pertanyaan": "Kita bisa melihat bintang di waktu ___.",
+    "jawaban": "malam",
+    "kategori": "waktu",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Kebalikan dari siang",
+    "penjelasan": "Langit malam lebih gelap dan bintang terlihat jelas."
+  },
+  {
+    "id": 17,
+    "pertanyaan": "Ayam bertelur di dalam ___.",
+    "jawaban": "kandang",
+    "kategori": "tempat",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Tempat tinggal ayam",
+    "penjelasan": "Kandang melindungi ayam dan tempatnya bertelur."
+  },
+  {
+    "id": 18,
+    "pertanyaan": "Aku mencuci tangan dengan menggunakan ___.",
+    "jawaban": "sabun",
+    "kategori": "alat",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Buihnya membersihkan kotoran",
+    "penjelasan": "Sabun digunakan untuk membunuh kuman dan membersihkan tangan."
+  },
+  {
+    "id": 19,
+    "pertanyaan": "Pohon itu tumbuh sangat ___",
+    "jawaban": "tinggi",
+    "kategori": "alam",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Berlawanan dengan pendek",
+    "penjelasan": "Pohon tinggi biasanya sudah berumur tua dan kuat."
+  },
+  {
+    "id": 20,
+    "pertanyaan": "Bayi itu sedang ___ karena lapar.",
+    "jawaban": "menangis",
+    "kategori": "aktivitas",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Suara keras dari bayi",
+    "penjelasan": "Menangis adalah cara bayi berkomunikasi ketika lapar atau tidak nyaman."
+  },
+  {
+    "id": 21,
+    "pertanyaan": "Naruto bercita-cita menjadi ___ desa.",
+    "jawaban": "hokage",
+    "kategori": "anime",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Pemimpin tertinggi di Konoha",
+    "penjelasan": "Hokage adalah gelar tertinggi yang melambangkan kekuatan dan tanggung jawab di desa Konoha."
+  },
+  {
+    "id": 22,
+    "pertanyaan": "Luffy adalah kapten kelompok bajak laut ___.",
+    "jawaban": "topi jerami",
+    "kategori": "anime",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Nama kru bajak laut dalam One Piece",
+    "penjelasan": "Kelompok Topi Jerami dipimpin oleh Monkey D. Luffy dan mencari harta karun legendaris."
+  },
+  {
+    "id": 23,
+    "pertanyaan": "Shinigami dalam anime Bleach disebut juga ___.",
+    "jawaban": "dewa kematian",
+    "kategori": "anime",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Makhluk yang menuntun roh ke alam baka",
+    "penjelasan": "Dalam Bleach, Shinigami adalah sosok yang menjaga keseimbangan antara dunia manusia dan roh."
+  },
+  {
+    "id": 24,
+    "pertanyaan": "Anak-anak terjebak dalam game virtual bernama ___.",
+    "jawaban": "sword art online",
+    "kategori": "anime",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Dunia MMORPG yang mematikan",
+    "penjelasan": "Sword Art Online adalah anime tentang pemain yang tidak bisa keluar dari game tanpa menyelesaikannya."
+  },
+  {
+    "id": 25,
+    "pertanyaan": "Goku berasal dari planet ___.",
+    "jawaban": "vegeta",
+    "kategori": "anime",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Planet bangsa Saiyan",
+    "penjelasan": "Planet Vegeta adalah tempat asal para Saiyan, termasuk Goku dan Vegeta."
+  },
+  {
+    "id": 26,
+    "pertanyaan": "Attack on Titan dikenal juga dengan judul ___.",
+    "jawaban": "shingeki no kyojin",
+    "kategori": "anime",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Judul Jepang dari anime Titan",
+    "penjelasan": "Shingeki no Kyojin adalah nama asli Attack on Titan dalam bahasa Jepang."
+  },
+  {
+    "id": 27,
+    "pertanyaan": "Pikachu adalah jenis pokemon bertipe ___.",
+    "jawaban": "listrik",
+    "kategori": "anime",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Tipe serangan dengan petir",
+    "penjelasan": "Pikachu menggunakan serangan listrik seperti Thunderbolt dan Volt Tackle."
+  },
+  {
+    "id": 28,
+    "pertanyaan": "Anya Forger bisa membaca ___.",
+    "jawaban": "pikiran",
+    "kategori": "anime",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Kemampuan untuk mengetahui isi kepala orang",
+    "penjelasan": "Anya Forger dari Spy x Family memiliki kemampuan ESP membaca pikiran."
+  },
+  {
+    "id": 29,
+    "pertanyaan": "Light Yagami memiliki buku bernama ___.",
+    "jawaban": "death note",
+    "kategori": "anime",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Buku pembunuh dari Shinigami",
+    "penjelasan": "Death Note memungkinkan penggunanya membunuh siapa pun hanya dengan menulis namanya."
+  },
+  {
+    "id": 30,
+    "pertanyaan": "Tanjiro memburu iblis sebagai pembasmi ___.",
+    "jawaban": "oni",
+    "kategori": "anime",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Nama lain dari iblis dalam budaya Jepang",
+    "penjelasan": "Dalam Kimetsu no Yaiba, Tanjiro menjadi pemburu Oni untuk menyelamatkan adiknya."
+  },
+  {
+    "id": 31,
+    "pertanyaan": "Rem dan Ram bekerja sebagai ___ di rumah Roswaal.",
+    "jawaban": "pelayan",
+    "kategori": "anime",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Pekerjaan khas dengan seragam hitam putih",
+    "penjelasan": "Rem dan Ram dari anime Re:Zero bekerja sebagai pelayan pribadi di rumah Roswaal."
+  },
+  {
+    "id": 32,
+    "pertanyaan": "Saitama dijuluki pahlawan berkepala ___.",
+    "jawaban": "botak",
+    "kategori": "anime",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Tidak punya rambut",
+    "penjelasan": "Saitama dari One Punch Man terkenal sebagai pahlawan botak yang bisa mengalahkan musuh sekali pukul."
+  },
+  {
+    "id": 33,
+    "pertanyaan": "Nezuko adalah adik dari ___.",
+    "jawaban": "tanjiro",
+    "kategori": "anime",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Pemburu iblis utama dalam cerita",
+    "penjelasan": "Nezuko berubah menjadi iblis dan dilindungi oleh kakaknya, Tanjiro Kamado."
+  },
+  {
+    "id": 34,
+    "pertanyaan": "Shoto Todoroki mengendalikan api dan ___.",
+    "jawaban": "es",
+    "kategori": "anime",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Sifat berlawanan dengan panas",
+    "penjelasan": "Todoroki dari My Hero Academia bisa mengendalikan dua elemen, yaitu api dan es."
+  },
+  {
+    "id": 35,
+    "pertanyaan": "Dalam Tokyo Ghoul, Kaneki berubah menjadi setengah ___.",
+    "jawaban": "ghoul",
+    "kategori": "anime",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Makhluk pemakan manusia",
+    "penjelasan": "Setelah insiden transplantasi organ, Kaneki menjadi manusia setengah ghoul."
+  },
+  {
+    "id": 36,
+    "pertanyaan": "Nobita selalu ditemani oleh robot kucing bernama ___.",
+    "jawaban": "doraemon",
+    "kategori": "anime",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Biru, dari abad 22",
+    "penjelasan": "Doraemon dikirim dari masa depan untuk membantu kehidupan Nobita agar lebih baik."
+  },
+  {
+    "id": 37,
+    "pertanyaan": "Edward Elric dijuluki sebagai alkemis ___.",
+    "jawaban": "baja",
+    "kategori": "anime",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Logam kuat, bukan besi",
+    "penjelasan": "Dalam Fullmetal Alchemist, Edward dikenal sebagai 'Fullmetal Alchemist' karena tangan dan kakinya dari logam."
+  },
+  {
+    "id": 38,
+    "pertanyaan": "Zero Two memiliki tanduk seperti ___.",
+    "jawaban": "iblis",
+    "kategori": "anime",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Makhluk bertanduk dari legenda",
+    "penjelasan": "Zero Two dari Darling in the Franxx dikenal dengan tanduk kecil yang membuatnya mirip iblis."
+  },
+  {
+    "id": 39,
+    "pertanyaan": "Shinobu Kocho dikenal dengan gaya bertarung menggunakan racun dan ___.",
+    "jawaban": "serangga",
+    "kategori": "anime",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Makhluk kecil bersayap",
+    "penjelasan": "Shinobu dari Kimetsu no Yaiba adalah pembasmi iblis dari pasukan Serangga."
+  },
+  {
+    "id": 40,
+    "pertanyaan": "Itachi Uchiha memiliki mata spesial bernama ___.",
+    "jawaban": "mangekyou sharingan",
+    "kategori": "anime",
+    "tingkat_kesulitan": "sulit",
+    "hint": "Evolusi dari Sharingan",
+    "penjelasan": "Mangekyou Sharingan memberikan Itachi kemampuan spesial seperti Tsukuyomi dan Amaterasu."
+  },
+  {
+    "id": 41,
+    "pertanyaan": "Makanan Jepang yang dibuat dari nasi dan ikan mentah disebut ___.",
+    "jawaban": "sushi",
+    "kategori": "jejepangan",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Biasanya dibungkus nori dan dimakan dengan wasabi",
+    "penjelasan": "Sushi adalah makanan khas Jepang yang terdiri dari nasi cuka dan lauk seperti ikan mentah."
+  },
+  {
+    "id": 42,
+    "pertanyaan": "Pakaian tradisional Jepang untuk wanita disebut ___.",
+    "jawaban": "kimono",
+    "kategori": "jejepangan",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Dipakai saat upacara dan festival",
+    "penjelasan": "Kimono adalah pakaian tradisional yang dikenakan pada acara-acara khusus di Jepang."
+  },
+  {
+    "id": 43,
+    "pertanyaan": "Upacara minum teh di Jepang dikenal dengan istilah ___.",
+    "jawaban": "chanoyu",
+    "kategori": "jejepangan",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Seni tradisional menyajikan teh",
+    "penjelasan": "Chanoyu adalah upacara minum teh yang berakar dari filosofi Zen."
+  },
+  {
+    "id": 44,
+    "pertanyaan": "Alat musik tradisional Jepang yang memiliki tiga senar adalah ___.",
+    "jawaban": "shamisen",
+    "kategori": "jejepangan",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Dibunyikan dengan alat petik besar",
+    "penjelasan": "Shamisen adalah alat musik petik tradisional yang biasa dimainkan dalam pertunjukan kabuki dan rakyat."
+  },
+  {
+    "id": 45,
+    "pertanyaan": "Bunga yang identik dengan musim semi di Jepang adalah ___.",
+    "jawaban": "sakura",
+    "kategori": "jejepangan",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Berwarna pink dan mekar sebentar",
+    "penjelasan": "Sakura adalah bunga nasional Jepang yang melambangkan keindahan yang singkat."
+  },
+  {
+    "id": 46,
+    "pertanyaan": "Kuil besar dan kuno di Jepang disebut ___.",
+    "jawaban": "jinja",
+    "kategori": "jejepangan",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Tempat pemujaan Shinto",
+    "penjelasan": "Jinja adalah kuil Shinto yang digunakan untuk menyembah kami (roh suci)."
+  },
+  {
+    "id": 47,
+    "pertanyaan": "Kendaraan cepat yang populer di Jepang adalah kereta ___.",
+    "jawaban": "shinkansen",
+    "kategori": "jejepangan",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Kereta peluru",
+    "penjelasan": "Shinkansen adalah kereta cepat Jepang yang menghubungkan kota-kota besar dengan kecepatan tinggi."
+  },
+  {
+    "id": 48,
+    "pertanyaan": "Topeng tradisional Jepang yang dipakai dalam teater disebut ___.",
+    "jawaban": "nō",
+    "kategori": "jejepangan",
+    "tingkat_kesulitan": "sulit",
+    "hint": "Dipakai dalam drama klasik, ekspresinya tenang",
+    "penjelasan": "Topeng Nō digunakan dalam seni pertunjukan Nōgaku, teater klasik Jepang yang sangat simbolik."
+  },
+  {
+    "id": 49,
+    "pertanyaan": "Festival lentera yang terkenal di Jepang disebut ___.",
+    "jawaban": "obon",
+    "kategori": "jejepangan",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Didedikasikan untuk arwah leluhur",
+    "penjelasan": "Obon adalah festival musim panas untuk menghormati roh leluhur dengan lentera dan tarian Bon Odori."
+  },
+  {
+    "id": 50,
+    "pertanyaan": "Mie Jepang yang disajikan dengan kuah panas disebut ___.",
+    "jawaban": "ramen",
+    "kategori": "jejepangan",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Punya banyak varian seperti miso, shoyu, tonkotsu",
+    "penjelasan": "Ramen adalah mie gandum Jepang yang disajikan dalam kuah kaldu gurih."
+  },
+  {
+    "id": 61,
+    "pertanyaan": "Makanan Jepang yang digoreng dengan tepung dan biasanya berupa udang disebut ___.",
+    "jawaban": "tempura",
+    "kategori": "makanan jepang",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Renyah, sering disajikan dengan saus tentsuyu",
+    "penjelasan": "Tempura adalah makanan gorengan khas Jepang yang biasanya dibuat dari udang atau sayur."
+  },
+  {
+    "id": 62,
+    "pertanyaan": "Makanan Jepang berupa bola nasi berisi lauk di dalamnya disebut ___.",
+    "jawaban": "onigiri",
+    "kategori": "makanan jepang",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Sering dibungkus nori dan dibawa untuk bekal",
+    "penjelasan": "Onigiri adalah nasi kepal dengan isian seperti salmon, umeboshi, atau tuna mayo."
+  },
+  {
+    "id": 63,
+    "pertanyaan": "Mie tebal khas Jepang yang biasa disajikan panas atau dingin disebut ___.",
+    "jawaban": "udon",
+    "kategori": "makanan jepang",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Mienya besar dan putih",
+    "penjelasan": "Udon adalah jenis mie Jepang yang kenyal dan biasanya disajikan dengan kuah ringan."
+  },
+  {
+    "id": 64,
+    "pertanyaan": "Camilan gurita berbentuk bulat dari Osaka disebut ___.",
+    "jawaban": "takoyaki",
+    "kategori": "makanan jepang",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Berisi potongan gurita, disiram saus manis",
+    "penjelasan": "Takoyaki adalah bola adonan tepung berisi gurita yang dipanggang di cetakan khusus."
+  },
+  {
+    "id": 65,
+    "pertanyaan": "Sate ala Jepang yang menggunakan ayam disebut ___.",
+    "jawaban": "yakitori",
+    "kategori": "makanan jepang",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Disajikan di tusuk sate, biasanya di izakaya",
+    "penjelasan": "Yakitori adalah potongan ayam yang dipanggang di atas bara dan disajikan dengan saus tare atau garam."
+  },
+  {
+    "id": 66,
+    "pertanyaan": "Makanan penutup manis berisi pasta kacang merah disebut ___.",
+    "jawaban": "mochi",
+    "kategori": "makanan jepang",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Kenyal, terbuat dari tepung beras ketan",
+    "penjelasan": "Mochi adalah kue tradisional Jepang yang sering disajikan saat tahun baru."
+  },
+  {
+    "id": 67,
+    "pertanyaan": "Nasi Jepang dengan berbagai lauk di atasnya dalam kotak disebut ___.",
+    "jawaban": "bento",
+    "kategori": "makanan jepang",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Bekal makan siang dalam kotak",
+    "penjelasan": "Bento adalah kotak makan berisi nasi, lauk, sayur, dan kadang buah atau makanan penutup."
+  },
+  {
+    "id": 68,
+    "pertanyaan": "Kue ikan berisi pasta kacang merah yang bentuknya seperti ikan disebut ___.",
+    "jawaban": "taiyaki",
+    "kategori": "makanan jepang",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Mirip pancake, berbentuk ikan",
+    "penjelasan": "Taiyaki adalah kue isi manis yang populer di festival Jepang."
+  },
+  {
+    "id": 69,
+    "pertanyaan": "Sup Jepang berisi rumput laut dan tahu disebut ___.",
+    "jawaban": "miso",
+    "kategori": "makanan jepang",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Kaldu dari fermentasi kedelai",
+    "penjelasan": "Sup miso adalah sup tradisional Jepang berbahan dasar fermentasi kedelai, sangat umum disajikan saat makan."
+  },
+  {
+    "id": 70,
+    "pertanyaan": "Makanan fermentasi Jepang dari kedelai yang terkenal dengan bau khas adalah ___.",
+    "jawaban": "natto",
+    "kategori": "makanan jepang",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Lengket, bau menyengat, banyak orang Jepang suka",
+    "penjelasan": "Natto adalah kedelai fermentasi yang sering dimakan saat sarapan, dipercaya menyehatkan."
+  },
+  {
+    "id": 71,
+    "pertanyaan": "Mario selalu berusaha menyelamatkan Putri ___.",
+    "jawaban": "peach",
+    "kategori": "game jepang",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Putri kerajaan jamur",
+    "penjelasan": "Princess Peach adalah karakter yang sering diculik oleh Bowser dalam seri Super Mario."
+  },
+  {
+    "id": 72,
+    "pertanyaan": "Karakter utama dalam seri game The Legend of Zelda bernama ___.",
+    "jawaban": "link",
+    "kategori": "game jepang",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Pahlawan berpakaian hijau",
+    "penjelasan": "Link adalah protagonis utama yang bertualang untuk menyelamatkan Putri Zelda."
+  },
+  {
+    "id": 73,
+    "pertanyaan": "Game RPG legendaris dari Square Enix berjudul Final ___.",
+    "jawaban": "fantasy",
+    "kategori": "game jepang",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Berisi kisah fantasi dan pertarungan epik",
+    "penjelasan": "Final Fantasy adalah salah satu RPG paling berpengaruh di dunia, dengan banyak seri dan karakter ikonik."
+  },
+  {
+    "id": 74,
+    "pertanyaan": "Karakter dari Street Fighter yang terkenal dengan jurus Hadouken adalah ___.",
+    "jawaban": "ryu",
+    "kategori": "game jepang",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Pakai ikat kepala merah",
+    "penjelasan": "Ryu adalah petarung utama dalam game Street Fighter dan dikenal luas karena serangan Hadouken-nya."
+  },
+  {
+    "id": 75,
+    "pertanyaan": "Seri game yang menampilkan pertarungan antara monster digital disebut ___.",
+    "jawaban": "digimon",
+    "kategori": "game jepang",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Nama pendek dari Digital Monster",
+    "penjelasan": "Digimon adalah franchise game dan anime yang menampilkan makhluk digital yang bisa berevolusi."
+  },
+  {
+    "id": 76,
+    "pertanyaan": "Makhluk listrik yang ikonik dalam seri Pokemon bernama ___.",
+    "jawaban": "pikachu",
+    "kategori": "game jepang",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Warna kuning, ekor petir",
+    "penjelasan": "Pikachu adalah maskot utama dari franchise Pokémon, terkenal di seluruh dunia."
+  },
+  {
+    "id": 77,
+    "pertanyaan": "Game horor dari Jepang yang menggunakan kamera sebagai senjata disebut ___.",
+    "jawaban": "fatal frame",
+    "kategori": "game jepang",
+    "tingkat_kesulitan": "sulit",
+    "hint": "Juga dikenal dengan nama Project Zero",
+    "penjelasan": "Fatal Frame adalah game horor di mana pemain mengusir hantu dengan memotret mereka menggunakan Camera Obscura."
+  },
+  {
+    "id": 78,
+    "pertanyaan": "Tokoh utama dari game stealth Metal Gear bernama ___.",
+    "jawaban": "snake",
+    "kategori": "game jepang",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Nama kode binatang, ahli siluman",
+    "penjelasan": "Snake adalah agen rahasia dalam seri Metal Gear, ciptaan Hideo Kojima."
+  },
+  {
+    "id": 79,
+    "pertanyaan": "Seri game Jepang yang terkenal dengan pertarungan antar makhluk raksasa disebut ___.",
+    "jawaban": "monster hunter",
+    "kategori": "game jepang",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Berburu monster, memakai armor dan senjata besar",
+    "penjelasan": "Monster Hunter adalah game aksi RPG di mana pemain berburu monster untuk mendapatkan material."
+  },
+  {
+    "id": 80,
+    "pertanyaan": "Game simulasi kehidupan yang dibuat oleh Nintendo adalah ___.",
+    "jawaban": "animal crossing",
+    "kategori": "game jepang",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Tinggal di desa bersama hewan-hewan antropomorfik",
+    "penjelasan": "Animal Crossing memungkinkan pemain menjalani kehidupan santai, bercocok tanam, dan bersosialisasi."
+  },
+  {
+    "id": 81,
+    "pertanyaan": "Cewek Jepang yang memakai seragam sekolah disebut ___.",
+    "jawaban": "seifuku",
+    "kategori": "cewek jepang",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Bahasa Jepang untuk seragam",
+    "penjelasan": "Seifuku adalah pakaian khas siswi Jepang, sering muncul di anime dan budaya pop."
+  },
+  {
+    "id": 82,
+    "pertanyaan": "Cewek yang sangat memuja cowok secara obsesif disebut ___.",
+    "jawaban": "yandere",
+    "kategori": "cewek jepang",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Manis di luar, berbahaya di dalam",
+    "penjelasan": "Yandere adalah arketipe karakter cewek yang tampak lembut tapi posesif dan berbahaya terhadap orang yang dicintainya."
+  },
+  {
+    "id": 83,
+    "pertanyaan": "Cewek lugu dan pemalu dalam anime biasa disebut ___.",
+    "jawaban": "dandere",
+    "kategori": "cewek jepang",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Pendiam tapi manis saat dekat",
+    "penjelasan": "Dandere menggambarkan karakter cewek yang pendiam tapi akan terbuka pada orang yang ia percaya."
+  },
+  {
+    "id": 84,
+    "pertanyaan": "Gaya cewek Jepang dengan pakaian berenda ala boneka disebut ___.",
+    "jawaban": "lolita",
+    "kategori": "cewek jepang",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Bukan genre buku, tapi fashion Jepang",
+    "penjelasan": "Lolita fashion adalah gaya busana feminin dengan dress besar, renda, dan aksesori klasik."
+  },
+  {
+    "id": 85,
+    "pertanyaan": "Cewek Jepang yang kuat, mandiri, dan kadang galak disebut ___.",
+    "jawaban": "tsundere",
+    "kategori": "cewek jepang",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Suka bilang 'bukan karena aku suka kamu!'",
+    "penjelasan": "Tsundere adalah tipe karakter yang tampak kasar tapi sebenarnya peduli."
+  },
+  {
+    "id": 86,
+    "pertanyaan": "Cewek dengan rambut dikuncir dua tinggi biasa disebut ___.",
+    "jawaban": "twin tail",
+    "kategori": "cewek jepang",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Gaya rambut favorit karakter tsundere",
+    "penjelasan": "Twin tail atau kuncir dua adalah gaya populer di kalangan karakter anime cewek."
+  },
+  {
+    "id": 87,
+    "pertanyaan": "Penyanyi virtual cewek Jepang paling populer adalah ___.",
+    "jawaban": "hatsune miku",
+    "kategori": "cewek jepang",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Berambut hijau panjang, suara sintetis",
+    "penjelasan": "Hatsune Miku adalah Vocaloid yang tampil sebagai idol virtual dengan suara dari software."
+  },
+  {
+    "id": 88,
+    "pertanyaan": "Cewek Jepang yang bekerja melayani tamu di kafe khusus disebut ___.",
+    "jawaban": "maid",
+    "kategori": "cewek jepang",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Seragam hitam putih, sering bilang 'goshujinsama'",
+    "penjelasan": "Maid adalah pelayan perempuan di maid café yang ramah dan bertingkah imut di depan pelanggan."
+  },
+  {
+    "id": 89,
+    "pertanyaan": "Geisha muda dalam masa pelatihan disebut ___.",
+    "jawaban": "maiko",
+    "kategori": "cewek jepang",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Murid dari geisha",
+    "penjelasan": "Maiko adalah gadis muda yang belajar menjadi geisha, dengan dandanan dan kimono mencolok."
+  },
+  {
+    "id": 90,
+    "pertanyaan": "Cewek yang sangat tertarik pada cowok tampan dalam anime disebut ___.",
+    "jawaban": "fujoshi",
+    "kategori": "cewek jepang",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Penggemar BL",
+    "penjelasan": "Fujoshi adalah istilah untuk cewek yang gemar membaca atau menonton konten boy's love (yaoi)."
+  },
+  {
+    "id": 91,
+    "pertanyaan": "Kalau makan nggak pakai ___ rasanya kurang mantap.",
+    "jawaban": "sambal",
+    "kategori": "indonesia kocak",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Pedes dikit bikin lahap",
+    "penjelasan": "Bagi banyak orang Indonesia, sambal itu wajib! Bahkan nasi goreng pun pakai sambal."
+  },
+  {
+    "id": 92,
+    "pertanyaan": "Pas hujan deras, tetangga malah nyalain lagu ___.",
+    "jawaban": "koplo",
+    "kategori": "indonesia kocak",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Musik jedag-jedug khas Jawa",
+    "penjelasan": "Musim hujan jadi panggung konser koplo dadakan di kampung, volume full!"
+  },
+  {
+    "id": 93,
+    "pertanyaan": "Abis nyapu halaman, eh angin datang bawa ___.",
+    "jawaban": "daun",
+    "kategori": "indonesia kocak",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Musuh utama ibu-ibu nyapu",
+    "penjelasan": "Kondisi klasik: baru aja bersih, langsung kotor lagi gara-gara daun."
+  },
+  {
+    "id": 94,
+    "pertanyaan": "Kalau ke warung cuma bawa seribu, beli permen sama ___.",
+    "jawaban": "micin",
+    "kategori": "indonesia kocak",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Bumbu favorit bocil",
+    "penjelasan": "Dulu seribu bisa dapet banyak: dua permen, satu micin, kadang dapet plastik buat main."
+  },
+  {
+    "id": 95,
+    "pertanyaan": "Pas mau ujian malah tiba-tiba pengen ___.",
+    "jawaban": "tidur",
+    "kategori": "indonesia kocak",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Rasa ngantuk muncul pas penting",
+    "penjelasan": "Entah kenapa tiap kali pegang buku, kelopak mata langsung berat."
+  },
+  {
+    "id": 96,
+    "pertanyaan": "Jajanan anak SD yang bisa ditiup dan meletus: ___.",
+    "jawaban": "permen roket",
+    "kategori": "indonesia kocak",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Permen dibungkus plastik, ditiup sampai meletus",
+    "penjelasan": "Permen roket itu bukan cuma makanan, tapi juga hiburan masa kecil."
+  },
+  {
+    "id": 97,
+    "pertanyaan": "Kalo gas elpiji habis, ibu-ibu langsung bilang: ___!",
+    "jawaban": "manggil tukang",
+    "kategori": "indonesia kocak",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Solusi utama saat dapur darurat",
+    "penjelasan": "Kalau gas habis, nggak ada kompromi: langsung teriak cari tukang gas keliling."
+  },
+  {
+    "id": 98,
+    "pertanyaan": "Di jalan raya, yang suka lawan arah biasanya naik ___.",
+    "jawaban": "motor",
+    "kategori": "indonesia kocak",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Kendaraan sejuta umat",
+    "penjelasan": "Nggak tau malu, yang penting cepat! Tapi tetap bahaya, jangan ditiru!"
+  },
+  {
+    "id": 99,
+    "pertanyaan": "Mainan anak kampung yang cuma pakai karet gelang: ___.",
+    "jawaban": "ketapel",
+    "kategori": "indonesia kocak",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Senjata bocil buat nembak mangga",
+    "penjelasan": "Ketapel dari kayu dan karet jadi senjata wajib buat bocil kampung berburu mangga tetangga."
+  },
+  {
+    "id": 100,
+    "pertanyaan": "Kalau lagi hujan deras, sinyal TV berubah jadi ___.",
+    "jawaban": "semut",
+    "kategori": "indonesia kocak",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Bukan binatang beneran, tapi di layar",
+    "penjelasan": "Orang Indonesia nyebut 'semutan' buat layar TV yang rusak atau sinyal hilang."
+  },
+  {
+    "id": 101,
+    "pertanyaan": "Hantu perempuan berambut panjang dan berbaju putih disebut ___.",
+    "jawaban": "kuntilanak",
+    "kategori": "horor lokal",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Suka tertawa, sering dikaitkan dengan suara bayi",
+    "penjelasan": "Kuntilanak adalah hantu wanita yang sering digambarkan berambut panjang dan tertawa seram."
+  },
+  {
+    "id": 102,
+    "pertanyaan": "Hantu berbungkus kain kafan disebut ___.",
+    "jawaban": "pocong",
+    "kategori": "horor lokal",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Melompat-lompat di pemakaman",
+    "penjelasan": "Pocong dipercaya sebagai arwah yang belum dilepaskan ikatan kafannya."
+  },
+  {
+    "id": 103,
+    "pertanyaan": "Suara tangisan bayi tengah malam sering dikaitkan dengan ___.",
+    "jawaban": "kuntilanak",
+    "kategori": "horor lokal",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Kadang disusul tawa perempuan",
+    "penjelasan": "Menurut cerita rakyat, kuntilanak bisa meniru suara bayi untuk menipu manusia."
+  },
+  {
+    "id": 104,
+    "pertanyaan": "Penunggu pohon besar atau beringin sering disebut ___.",
+    "jawaban": "genderuwo",
+    "kategori": "horor lokal",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Berbadan besar, berbulu hitam",
+    "penjelasan": "Genderuwo adalah makhluk gaib menyerupai manusia berbulu yang sering dikaitkan dengan pohon angker."
+  },
+  {
+    "id": 105,
+    "pertanyaan": "Tempat angker yang paling sering disebut orang: ___.",
+    "jawaban": "kuburan",
+    "kategori": "horor lokal",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Tempat peristirahatan terakhir",
+    "penjelasan": "Makam atau kuburan sering dianggap tempat berkumpulnya makhluk halus."
+  },
+  {
+    "id": 106,
+    "pertanyaan": "Jika mendengar suara gamelan malam hari, dipercaya itu dari ___.",
+    "jawaban": "keraton gaib",
+    "kategori": "horor lokal",
+    "tingkat_kesulitan": "sedang",
+    "hint": "Istana tak kasat mata",
+    "penjelasan": "Dalam kepercayaan Jawa, suara gamelan gaib berasal dari keraton makhluk halus."
+  },
+  {
+    "id": 107,
+    "pertanyaan": "Hantu tanpa kepala yang suka muncul di malam hari disebut ___.",
+    "jawaban": "leak",
+    "kategori": "horor lokal",
+    "tingkat_kesulitan": "sulit",
+    "hint": "Mitos Bali, kepala bisa terbang",
+    "penjelasan": "Leak adalah makhluk dalam mitologi Bali, bisa melepas kepala dan terbang mencari darah."
+  },
+  {
+    "id": 108,
+    "pertanyaan": "Mitos mengatakan jangan menyapu rumah di malam hari karena bisa buang ___.",
+    "jawaban": "rezeki",
+    "kategori": "horor lokal",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Kata orang tua, jangan disapu malam-malam!",
+    "penjelasan": "Menyapu malam hari dianggap sebagai tindakan yang membuang keberuntungan."
+  },
+  {
+    "id": 109,
+    "pertanyaan": "Kalau lewat pohon besar, disarankan untuk bilang ___.",
+    "jawaban": "permisi",
+    "kategori": "horor lokal",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Etika kalau lewat tempat angker",
+    "penjelasan": "Orang tua sering mengajarkan untuk bilang ‘permisi’ saat lewat tempat yang dikeramatkan."
+  },
+  {
+    "id": 110,
+    "pertanyaan": "Hantu berwujud anak kecil nakal dalam cerita lokal disebut ___.",
+    "jawaban": "tuyul",
+    "kategori": "horor lokal",
+    "tingkat_kesulitan": "mudah",
+    "hint": "Sering dikaitkan dengan pencurian uang",
+    "penjelasan": "Tuyul adalah makhluk kecil yang dipercaya bisa mencuri uang untuk majikannya."
+  }
+]
