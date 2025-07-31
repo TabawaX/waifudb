@@ -1,0 +1,737 @@
+[
+  {
+    "id": 1,
+    "kategori": "buah",
+    "jawaban": "pisang",
+    "huruf_acak": "naspig",
+    "petunjuk": "Buah berwarna kuning, biasanya dimakan monyet"
+  },
+  {
+    "id": 2,
+    "kategori": "hewan",
+    "jawaban": "jerapah",
+    "huruf_acak": "rahajep",
+    "petunjuk": "Hewan berkaki empat, leher sangat panjang"
+  },
+  {
+    "id": 3,
+    "kategori": "negara",
+    "jawaban": "jepang",
+    "huruf_acak": "pgajne",
+    "petunjuk": "Negara Asia Timur, terkenal dengan anime"
+  },
+  {
+    "id": 4,
+    "kategori": "benda",
+    "jawaban": "meja",
+    "huruf_acak": "ejam",
+    "petunjuk": "Benda berkaki 4, untuk menaruh barang"
+  },
+  {
+    "id": 5,
+    "kategori": "profesi",
+    "jawaban": "dokter",
+    "huruf_acak": "tkedro",
+    "petunjuk": "Menyembuhkan orang sakit"
+  },
+  {
+    "id": 6,
+    "kategori": "alat",
+    "jawaban": "mikroskop",
+    "huruf_acak": "oskmrpico",
+    "petunjuk": "Digunakan untuk melihat benda sangat kecil"
+  },
+  {
+    "id": 7,
+    "kategori": "negara",
+    "jawaban": "kazakhstan",
+    "huruf_acak": "akhazsntak",
+    "petunjuk": "Negara di Asia Tengah, berakhiran -stan"
+  },
+  {
+    "id": 8,
+    "kategori": "profesi",
+    "jawaban": "arsitek",
+    "huruf_acak": "atskire",
+    "petunjuk": "Mendesain bangunan dan tata ruang"
+  },
+  {
+    "id": 9,
+    "kategori": "hewan",
+    "jawaban": "kangguru",
+    "huruf_acak": "gurakugn",
+    "petunjuk": "Hewan berkantung dari Australia"
+  },
+  {
+    "id": 10,
+    "kategori": "transportasi",
+    "jawaban": "helikopter",
+    "huruf_acak": "ltekhioper",
+    "petunjuk": "Kendaraan udara dengan baling-baling di atas"
+  },
+  {
+    "id": 11,
+    "kategori": "teknologi",
+    "jawaban": "komputer",
+    "huruf_acak": "upktomre",
+    "petunjuk": "Digunakan untuk mengakses internet dan menjalankan program"
+  },
+  {
+    "id": 12,
+    "kategori": "benda",
+    "jawaban": "kalkulator",
+    "huruf_acak": "lkatrulako",
+    "petunjuk": "Alat untuk menghitung"
+  },
+  {
+    "id": 13,
+    "kategori": "tumbuhan",
+    "jawaban": "bunga matahari",
+    "huruf_acak": "hangrmabautai",
+    "petunjuk": "Menghadap ke arah sinar, besar dan kuning"
+  },
+  {
+    "id": 14,
+    "kategori": "alam",
+    "jawaban": "gunung berapi",
+    "huruf_acak": "ngupiarbnegu",
+    "petunjuk": "Mengeluarkan lava dan asap dari perut bumi"
+  },
+  {
+    "id": 15,
+    "kategori": "organ tubuh",
+    "jawaban": "paru-paru",
+    "huruf_acak": "urpapuar",
+    "petunjuk": "Organ utama untuk bernapas"
+  },
+  {
+    "id": 16,
+    "kategori": "hukum",
+    "jawaban": "tersangka",
+    "huruf_acak": "agnasrtek",
+    "petunjuk": "Orang yang diduga melakukan tindak pidana"
+  },
+  {
+    "id": 17,
+    "kategori": "hukum",
+    "jawaban": "pengadilan",
+    "huruf_acak": "gdanpenila",
+    "petunjuk": "Tempat memeriksa dan memutus perkara hukum"
+  },
+  {
+    "id": 18,
+    "kategori": "hukum",
+    "jawaban": "kejaksaan",
+    "huruf_acak": "ksaejajan",
+    "petunjuk": "Lembaga penuntut umum dalam proses hukum"
+  },
+  {
+    "id": 19,
+    "kategori": "hukum",
+    "jawaban": "hukuman",
+    "huruf_acak": "khmanuu",
+    "petunjuk": "Akibat yang diberikan kepada pelanggar hukum"
+  },
+  {
+    "id": 20,
+    "kategori": "hukum",
+    "jawaban": "perdata",
+    "huruf_acak": "adatrep",
+    "petunjuk": "Jenis hukum yang mengatur hubungan antar individu"
+  },
+  {
+    "id": 21,
+    "kategori": "hukum",
+    "jawaban": "pidana",
+    "huruf_acak": "dapain",
+    "petunjuk": "Jenis hukum yang berkaitan dengan kejahatan"
+  },
+  {
+    "id": 22,
+    "kategori": "hukum",
+    "jawaban": "advokat",
+    "huruf_acak": "tkadavo",
+    "petunjuk": "Pemberi jasa hukum, sering disebut pengacara"
+  },
+  {
+    "id": 23,
+    "kategori": "hukum",
+    "jawaban": "konstitusi",
+    "huruf_acak": "tisuskion",
+    "petunjuk": "Undang-undang dasar suatu negara"
+  },
+  {
+    "id": 24,
+    "kategori": "hukum",
+    "jawaban": "tersumpah",
+    "huruf_acak": "rptsehuma",
+    "petunjuk": "Status yang harus dimiliki notaris, advokat, dsb sebelum berpraktik"
+  },
+  {
+    "id": 25,
+    "kategori": "hukum",
+    "jawaban": "pengacara",
+    "huruf_acak": "angapcrea",
+    "petunjuk": "Profesi yang membela klien di pengadilan"
+  },
+  {
+    "id": 26,
+    "kategori": "matematika",
+    "jawaban": "persamaan",
+    "huruf_acak": "nsameerap",
+    "petunjuk": "Pernyataan matematika yang menunjukkan dua hal bernilai sama"
+  },
+  {
+    "id": 27,
+    "kategori": "matematika",
+    "jawaban": "trigonometri",
+    "huruf_acak": "irgnmottoei",
+    "petunjuk": "Cabang matematika yang mempelajari sudut dan segitiga"
+  },
+  {
+    "id": 28,
+    "kategori": "matematika",
+    "jawaban": "deret",
+    "huruf_acak": "reedt",
+    "petunjuk": "Penjumlahan dari barisan bilangan"
+  },
+  {
+    "id": 29,
+    "kategori": "matematika",
+    "jawaban": "variabel",
+    "huruf_acak": "revlabia",
+    "petunjuk": "Simbol yang digunakan untuk mewakili nilai yang berubah"
+  },
+  {
+    "id": 30,
+    "kategori": "matematika",
+    "jawaban": "logaritma",
+    "huruf_acak": "galtomira",
+    "petunjuk": "Invers dari operasi eksponen"
+  },
+  {
+    "id": 31,
+    "kategori": "matematika",
+    "jawaban": "integral",
+    "huruf_acak": "lrgintea",
+    "petunjuk": "Operasi matematika untuk mencari luas di bawah kurva"
+  },
+  {
+    "id": 32,
+    "kategori": "matematika",
+    "jawaban": "pecahan",
+    "huruf_acak": "canhepa",
+    "petunjuk": "Bilangan yang menyatakan bagian dari keseluruhan"
+  },
+  {
+    "id": 33,
+    "kategori": "matematika",
+    "jawaban": "lingkaran",
+    "huruf_acak": "nkalairgn",
+    "petunjuk": "Bangun datar yang tidak memiliki sudut dan memiliki jari-jari"
+  },
+  {
+    "id": 34,
+    "kategori": "matematika",
+    "jawaban": "faktorial",
+    "huruf_acak": "ofltkaria",
+    "petunjuk": "Hasil perkalian bilangan bulat positif secara menurun"
+  },
+  {
+    "id": 35,
+    "kategori": "matematika",
+    "jawaban": "peluang",
+    "huruf_acak": "glanuep",
+    "petunjuk": "Kemungkinan terjadinya suatu kejadian"
+  },
+  {
+    "id": 36,
+    "kategori": "kuliner",
+    "jawaban": "rendang",
+    "huruf_acak": "gdenarn",
+    "petunjuk": "Masakan daging khas Minang, dimasak lama hingga kering"
+  },
+  {
+    "id": 37,
+    "kategori": "kuliner",
+    "jawaban": "sate ayam",
+    "huruf_acak": "yaseamta",
+    "petunjuk": "Daging tusuk dibakar, disajikan dengan bumbu kacang"
+  },
+  {
+    "id": 38,
+    "kategori": "kuliner",
+    "jawaban": "gudeg",
+    "huruf_acak": "gduge",
+    "petunjuk": "Masakan manis khas Yogyakarta dari nangka muda"
+  },
+  {
+    "id": 39,
+    "kategori": "kuliner",
+    "jawaban": "pempek",
+    "huruf_acak": "kmpeep",
+    "petunjuk": "Makanan khas Palembang dari ikan dan sagu"
+  },
+  {
+    "id": 40,
+    "kategori": "kuliner",
+    "jawaban": "teh tarik",
+    "huruf_acak": "etkthira",
+    "petunjuk": "Minuman manis Malaysia, disajikan berbusa"
+  },
+  {
+    "id": 41,
+    "kategori": "kuliner",
+    "jawaban": "nasi goreng",
+    "huruf_acak": "genoirsasn",
+    "petunjuk": "Menu khas Indonesia, sering dijadikan sarapan"
+  },
+  {
+    "id": 42,
+    "kategori": "kuliner",
+    "jawaban": "bakso",
+    "huruf_acak": "sobka",
+    "petunjuk": "Bulat-bulat daging dalam kuah, sangat populer"
+  },
+  {
+    "id": 43,
+    "kategori": "kuliner",
+    "jawaban": "bumbu",
+    "huruf_acak": "ubmbu",
+    "petunjuk": "Campuran rempah yang membuat masakan jadi lezat"
+  },
+  {
+    "id": 44,
+    "kategori": "kuliner",
+    "jawaban": "tumis",
+    "huruf_acak": "smtui",
+    "petunjuk": "Teknik masak dengan sedikit minyak, cepat"
+  },
+  {
+    "id": 45,
+    "kategori": "kuliner",
+    "jawaban": "serundeng",
+    "huruf_acak": "rednuesgn",
+    "petunjuk": "Kelapa parut kering berbumbu, pendamping nasi"
+  },
+  {
+    "id": 46,
+    "kategori": "kesehatan",
+    "jawaban": "vaksin",
+    "huruf_acak": "knvsai",
+    "petunjuk": "Zat yang diberikan untuk membentuk kekebalan tubuh"
+  },
+  {
+    "id": 47,
+    "kategori": "kesehatan",
+    "jawaban": "influenza",
+    "huruf_acak": "fnanlieuz",
+    "petunjuk": "Penyakit menular yang disebabkan virus, mirip flu"
+  },
+  {
+    "id": 48,
+    "kategori": "kesehatan",
+    "jawaban": "diagnosis",
+    "huruf_acak": "giosnidas",
+    "petunjuk": "Penentuan jenis penyakit berdasarkan gejala"
+  },
+  {
+    "id": 49,
+    "kategori": "kesehatan",
+    "jawaban": "anemia",
+    "huruf_acak": "mienaa",
+    "petunjuk": "Kondisi kekurangan sel darah merah"
+  },
+  {
+    "id": 50,
+    "kategori": "kesehatan",
+    "jawaban": "gizi buruk",
+    "huruf_acak": "klzgiuubr",
+    "petunjuk": "Kondisi kurang nutrisi berat, biasanya pada anak"
+  },
+  {
+    "id": 51,
+    "kategori": "kesehatan",
+    "jawaban": "dehidrasi",
+    "huruf_acak": "dhidsera",
+    "petunjuk": "Kekurangan cairan tubuh"
+  },
+  {
+    "id": 52,
+    "kategori": "kesehatan",
+    "jawaban": "nutrisi",
+    "huruf_acak": "stuinri",
+    "petunjuk": "Zat yang dibutuhkan tubuh untuk tumbuh dan sehat"
+  },
+  {
+    "id": 53,
+    "kategori": "kesehatan",
+    "jawaban": "imunisasi",
+    "huruf_acak": "siasinumzi",
+    "petunjuk": "Proses pemberian kekebalan tubuh terhadap penyakit"
+  },
+  {
+    "id": 54,
+    "kategori": "kesehatan",
+    "jawaban": "paru-paru",
+    "huruf_acak": "upauuprar",
+    "petunjuk": "Organ utama untuk bernapas"
+  },
+  {
+    "id": 55,
+    "kategori": "kesehatan",
+    "jawaban": "tensi",
+    "huruf_acak": "tsine",
+    "petunjuk": "Ukuran tekanan darah, sering dicek oleh perawat"
+  },
+  {
+    "id": 56,
+    "kategori": "komputer",
+    "jawaban": "prosesor",
+    "huruf_acak": "sreopsor",
+    "petunjuk": "Otak dari komputer yang menjalankan instruksi"
+  },
+  {
+    "id": 57,
+    "kategori": "komputer",
+    "jawaban": "memori",
+    "huruf_acak": "irmeom",
+    "petunjuk": "Tempat penyimpanan data sementara"
+  },
+  {
+    "id": 58,
+    "kategori": "komputer",
+    "jawaban": "keyboard",
+    "huruf_acak": "yrekboad",
+    "petunjuk": "Alat input untuk mengetik"
+  },
+  {
+    "id": 59,
+    "kategori": "komputer",
+    "jawaban": "internet",
+    "huruf_acak": "tnetrein",
+    "petunjuk": "Jaringan global yang menghubungkan komputer"
+  },
+  {
+    "id": 60,
+    "kategori": "komputer",
+    "jawaban": "firewall",
+    "huruf_acak": "wfrellai",
+    "petunjuk": "Sistem keamanan jaringan yang menyaring lalu lintas data"
+  },
+  {
+    "id": 61,
+    "kategori": "komputer",
+    "jawaban": "antivirus",
+    "huruf_acak": "anvristui",
+    "petunjuk": "Program pelindung dari malware atau virus"
+  },
+  {
+    "id": 62,
+    "kategori": "komputer",
+    "jawaban": "javascript",
+    "huruf_acak": "vsajrctapi",
+    "petunjuk": "Bahasa pemrograman untuk website interaktif"
+  },
+  {
+    "id": 63,
+    "kategori": "komputer",
+    "jawaban": "database",
+    "huruf_acak": "aetbdsae",
+    "petunjuk": "Tempat menyimpan dan mengelola data terstruktur"
+  },
+  {
+    "id": 64,
+    "kategori": "komputer",
+    "jawaban": "debugging",
+    "huruf_acak": "nbdguegig",
+    "petunjuk": "Proses mencari dan memperbaiki bug pada kode"
+  },
+  {
+    "id": 65,
+    "kategori": "komputer",
+    "jawaban": "monitor",
+    "huruf_acak": "roontim",
+    "petunjuk": "Layar tempat menampilkan tampilan komputer"
+  },
+  {
+    "id": 66,
+    "kategori": "fakta dunia",
+    "jawaban": "sahara",
+    "huruf_acak": "rhaasa",
+    "petunjuk": "Gurun terluas di dunia, berada di Afrika"
+  },
+  {
+    "id": 67,
+    "kategori": "fakta dunia",
+    "jawaban": "everest",
+    "huruf_acak": "reevets",
+    "petunjuk": "Gunung tertinggi di dunia"
+  },
+  {
+    "id": 68,
+    "kategori": "fakta dunia",
+    "jawaban": "amazon",
+    "huruf_acak": "mazoan",
+    "petunjuk": "Hutan hujan tropis terbesar di dunia"
+  },
+  {
+    "id": 69,
+    "kategori": "fakta dunia",
+    "jawaban": "atlantik",
+    "huruf_acak": "tkianlat",
+    "petunjuk": "Salah satu samudra utama di dunia"
+  },
+  {
+    "id": 70,
+    "kategori": "fakta dunia",
+    "jawaban": "piramida",
+    "huruf_acak": "adimirap",
+    "petunjuk": "Bangunan kuno Mesir tempat makam firaun"
+  },
+  {
+    "id": 71,
+    "kategori": "fakta dunia",
+    "jawaban": "aurora",
+    "huruf_acak": "uroaor",
+    "petunjuk": "Cahaya alami di langit kutub, akibat interaksi medan magnet"
+  },
+  {
+    "id": 72,
+    "kategori": "fakta dunia",
+    "jawaban": "venus",
+    "huruf_acak": "evsnu",
+    "petunjuk": "Planet terpanas di tata surya"
+  },
+  {
+    "id": 73,
+    "kategori": "fakta dunia",
+    "jawaban": "beruang kutub",
+    "huruf_acak": "ugbebkurtrau",
+    "petunjuk": "Hewan besar berbulu putih yang hidup di Kutub Utara"
+  },
+  {
+    "id": 74,
+    "kategori": "fakta dunia",
+    "jawaban": "air terjun",
+    "huruf_acak": "nriturjea",
+    "petunjuk": "Aliran air deras yang jatuh dari tempat tinggi"
+  },
+  {
+    "id": 75,
+    "kategori": "fakta dunia",
+    "jawaban": "benua",
+    "huruf_acak": "unbae",
+    "petunjuk": "Daratan sangat luas, misalnya Asia dan Afrika"
+  },
+  {
+    "id": 76,
+    "kategori": "olahraga",
+    "jawaban": "sepak bola",
+    "huruf_acak": "alkobsepa",
+    "petunjuk": "Olahraga paling populer di dunia, dimainkan dengan kaki"
+  },
+  {
+    "id": 77,
+    "kategori": "olahraga",
+    "jawaban": "badminton",
+    "huruf_acak": "dmibnaton",
+    "petunjuk": "Olahraga raket dengan shuttlecock"
+  },
+  {
+    "id": 78,
+    "kategori": "olahraga",
+    "jawaban": "voli",
+    "huruf_acak": "ovil",
+    "petunjuk": "Permainan bola di atas net, dimainkan dengan tangan"
+  },
+  {
+    "id": 79,
+    "kategori": "olahraga",
+    "jawaban": "marathon",
+    "huruf_acak": "naothram",
+    "petunjuk": "Lomba lari jarak jauh"
+  },
+  {
+    "id": 80,
+    "kategori": "olahraga",
+    "jawaban": "basket",
+    "huruf_acak": "ketbas",
+    "petunjuk": "Permainan bola dengan memasukkan ke dalam ring"
+  },
+  {
+    "id": 81,
+    "kategori": "olahraga",
+    "jawaban": "tinju",
+    "huruf_acak": "ntuji",
+    "petunjuk": "Olahraga pertarungan tangan dengan sarung tangan"
+  },
+  {
+    "id": 82,
+    "kategori": "olahraga",
+    "jawaban": "renang",
+    "huruf_acak": "genarn",
+    "petunjuk": "Olahraga air yang dilakukan dengan menggerakkan tubuh"
+  },
+  {
+    "id": 83,
+    "kategori": "olahraga",
+    "jawaban": "panjat tebing",
+    "huruf_acak": "jengapttabin",
+    "petunjuk": "Olahraga memanjat permukaan vertikal"
+  },
+  {
+    "id": 84,
+    "kategori": "olahraga",
+    "jawaban": "senam",
+    "huruf_acak": "nasem",
+    "petunjuk": "Olahraga ringan untuk melenturkan tubuh"
+  },
+  {
+    "id": 85,
+    "kategori": "olahraga",
+    "jawaban": "angkat besi",
+    "huruf_acak": "kigsbanieta",
+    "petunjuk": "Cabang olahraga kekuatan dengan mengangkat barbel"
+  },
+  {
+    "id": 86,
+    "kategori": "jepang",
+    "jawaban": "kimono",
+    "huruf_acak": "mokino",
+    "petunjuk": "Pakaian tradisional Jepang"
+  },
+  {
+    "id": 87,
+    "kategori": "jepang",
+    "jawaban": "samurai",
+    "huruf_acak": "ruismaa",
+    "petunjuk": "Prajurit elit Jepang zaman dahulu"
+  },
+  {
+    "id": 88,
+    "kategori": "jepang",
+    "jawaban": "sakura",
+    "huruf_acak": "ruskaa",
+    "petunjuk": "Bunga ikonik Jepang yang mekar di musim semi"
+  },
+  {
+    "id": 89,
+    "kategori": "jepang",
+    "jawaban": "tokyo",
+    "huruf_acak": "kytoo",
+    "petunjuk": "Ibu kota Jepang"
+  },
+  {
+    "id": 90,
+    "kategori": "jepang",
+    "jawaban": "ninja",
+    "huruf_acak": "nijnа",
+    "petunjuk": "Ahli strategi dan pengintai pada zaman feodal Jepang"
+  },
+  {
+    "id": 91,
+    "kategori": "jepang",
+    "jawaban": "ramen",
+    "huruf_acak": "menar",
+    "petunjuk": "Mi kuah populer asal Jepang"
+  },
+  {
+    "id": 92,
+    "kategori": "jepang",
+    "jawaban": "shinkansen",
+    "huruf_acak": "nknssaehin",
+    "petunjuk": "Kereta peluru super cepat khas Jepang"
+  },
+  {
+    "id": 93,
+    "kategori": "jepang",
+    "jawaban": "anime",
+    "huruf_acak": "anmei",
+    "petunjuk": "Animasi khas Jepang yang mendunia"
+  },
+  {
+    "id": 94,
+    "kategori": "jepang",
+    "jawaban": "harakiri",
+    "huruf_acak": "irrahaki",
+    "petunjuk": "Tradisi bunuh diri samurai untuk menjaga kehormatan"
+  },
+  {
+    "id": 95,
+    "kategori": "jepang",
+    "jawaban": "katana",
+    "huruf_acak": "aantak",
+    "petunjuk": "Pedang tradisional samurai"
+  },
+  {
+    "id": 96,
+    "kategori": "pekerjaan",
+    "jawaban": "dokter",
+    "huruf_acak": "okdter",
+    "petunjuk": "Orang yang bertugas menyembuhkan orang sakit"
+  },
+  {
+    "id": 97,
+    "kategori": "pekerjaan",
+    "jawaban": "guru",
+    "huruf_acak": "ugru",
+    "petunjuk": "Orang yang mengajar di sekolah"
+  },
+  {
+    "id": 98,
+    "kategori": "pekerjaan",
+    "jawaban": "arsitek",
+    "huruf_acak": "tekasir",
+    "petunjuk": "Merancang bangunan dan tata ruang"
+  },
+  {
+    "id": 99,
+    "kategori": "pekerjaan",
+    "jawaban": "pilot",
+    "huruf_acak": "lotpi",
+    "petunjuk": "Mengemudikan pesawat terbang"
+  },
+  {
+    "id": 100,
+    "kategori": "pekerjaan",
+    "jawaban": "pengacara",
+    "huruf_acak": "cnpeagraa",
+    "petunjuk": "Membela klien dalam proses hukum"
+  },
+  {
+    "id": 101,
+    "kategori": "pekerjaan",
+    "jawaban": "perawat",
+    "huruf_acak": "watreap",
+    "petunjuk": "Membantu merawat pasien di rumah sakit"
+  },
+  {
+    "id": 102,
+    "kategori": "pekerjaan",
+    "jawaban": "mekanik",
+    "huruf_acak": "ikmnaek",
+    "petunjuk": "Ahli memperbaiki mesin dan kendaraan"
+  },
+  {
+    "id": 103,
+    "kategori": "pekerjaan",
+    "jawaban": "barista",
+    "huruf_acak": "tsibaar",
+    "petunjuk": "Membuat dan menyajikan kopi di kafe"
+  },
+  {
+    "id": 104,
+    "kategori": "pekerjaan",
+    "jawaban": "wartawan",
+    "huruf_acak": "ntawrwaa",
+    "petunjuk": "Meliput berita dan menulis laporan"
+  },
+  {
+    "id": 105,
+    "kategori": "pekerjaan",
+    "jawaban": "desainer",
+    "huruf_acak": "esrendai",
+    "petunjuk": "Pekerja kreatif dalam bidang visual atau produk"
+  }
+]
